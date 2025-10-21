@@ -1,9 +1,9 @@
-# Version: 202510212127
+# Version: 202510212227
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21051
-# Last modified: 2025-10-21T21:27:23+0000
+# Entries: 21053
+# Last modified: 2025-10-21T22:27:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15132,6 +15132,7 @@ local-zone: "runporn.com." always_null
 local-zone: "runthegauntlet.org." always_null
 local-zone: "ruperttube.net." always_null
 local-zone: "rupertxtube.com." always_null
+local-zone: "ruporno.cloud." always_null
 local-zone: "rupornohub.ru." always_null
 local-zone: "rus-massage.com." always_null
 local-zone: "rus-ozvuchka.ru." always_null
@@ -19093,6 +19094,7 @@ local-zone: "webpark.cz." always_null
 local-zone: "webpornhub.com." always_null
 local-zone: "webpshow.com." always_null
 local-zone: "webpussi.com." always_null
+local-zone: "webself.net." always_null
 local-zone: "webseriessex.com." always_null
 local-zone: "websexfilms.com." always_null
 local-zone: "websexx.com." always_null
