@@ -1,9 +1,9 @@
-# Version: 202510212227
+# Version: 202510212327
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21053
-# Last modified: 2025-10-21T22:27:03+0000
+# Entries: 21056
+# Last modified: 2025-10-21T23:27:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -321,6 +321,7 @@ local=/4wank.com/
 local=/5-a-7.com/
 local=/502porn.com/
 local=/505xxx.net/
+local=/50megs.com/
 local=/50plusmilfs.com/
 local=/51-cg.com/
 local=/51porn1.com/
@@ -5623,6 +5624,7 @@ local=/filtradas.com/
 local=/fim-sex.com/
 local=/fimitere.com.tr/
 local=/fimsex.blog/
+local=/finance.blog/
 local=/find-singles-online.com/
 local=/find-your-slut.com/
 local=/findadeath.com/
@@ -11251,6 +11253,7 @@ local=/musclegirlflix.com/
 local=/musclegrowth.net/
 local=/musculoduro.net/
 local=/mushusei4.top/
+local=/music.blog/
 local=/mustvideos.com/
 local=/musyuuseiland.com/
 local=/mutterfickt.com/

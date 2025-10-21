@@ -1,9 +1,9 @@
-# Version: 202510212227
+# Version: 202510212327
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21053
-# Last modified: 2025-10-21T22:27:04+0000
+# Entries: 21056
+# Last modified: 2025-10-21T23:27:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -322,6 +322,7 @@ local-zone: "4wank.com." always_null
 local-zone: "5-a-7.com." always_null
 local-zone: "502porn.com." always_null
 local-zone: "505xxx.net." always_null
+local-zone: "50megs.com." always_null
 local-zone: "50plusmilfs.com." always_null
 local-zone: "51-cg.com." always_null
 local-zone: "51porn1.com." always_null
@@ -5624,6 +5625,7 @@ local-zone: "filtradas.com." always_null
 local-zone: "fim-sex.com." always_null
 local-zone: "fimitere.com.tr." always_null
 local-zone: "fimsex.blog." always_null
+local-zone: "finance.blog." always_null
 local-zone: "find-singles-online.com." always_null
 local-zone: "find-your-slut.com." always_null
 local-zone: "findadeath.com." always_null
@@ -11252,6 +11254,7 @@ local-zone: "musclegirlflix.com." always_null
 local-zone: "musclegrowth.net." always_null
 local-zone: "musculoduro.net." always_null
 local-zone: "mushusei4.top." always_null
+local-zone: "music.blog." always_null
 local-zone: "mustvideos.com." always_null
 local-zone: "musyuuseiland.com." always_null
 local-zone: "mutterfickt.com." always_null
