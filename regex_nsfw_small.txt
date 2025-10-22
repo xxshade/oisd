@@ -1,9 +1,9 @@
-# Version: 202510220523
+# Version: 202510220823
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 21065
-# Last modified: 2025-10-22T05:23:54+0000
+# Entries: 21067
+# Last modified: 2025-10-22T08:23:57+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -6787,6 +6787,7 @@
 /^(.*\.)?gobdsmporn\.com$/
 /^(.*\.)?gobokep\.com$/
 /^(.*\.)?god\-doujin\.com$/
+/^(.*\.)?godaddysites\.com$/
 /^(.*\.)?goddess247\.com$/
 /^(.*\.)?godesiporn\.com$/
 /^(.*\.)?godesisex\.com$/
@@ -17035,6 +17036,7 @@
 /^(.*\.)?sx77\.org$/
 /^(.*\.)?sxescorts\.com$/
 /^(.*\.)?sxfree\.top$/
+/^(.*\.)?sxnarod\.com$/
 /^(.*\.)?sxshentai\.com$/
 /^(.*\.)?sxvideostube\.com$/
 /^(.*\.)?sxx\.com$/
