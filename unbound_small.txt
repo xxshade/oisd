@@ -1,9 +1,9 @@
-# Version: 202510221121
+# Version: 202510221222
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47081
-# Last modified: 2025-10-22T11:21:21+0000
+# Entries: 47061
+# Last modified: 2025-10-22T12:22:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -20,7 +20,6 @@ local-zone: "000tristanprod.free.fr." always_null
 local-zone: "0014b04291.com." always_null
 local-zone: "0019x.com." always_null
 local-zone: "00404850.xyz." always_null
-local-zone: "00609c257b.com." always_null
 local-zone: "00author.com." always_null
 local-zone: "00cae06d30.720df8c8c9.com." always_null
 local-zone: "00e2120672.com." always_null
@@ -2056,7 +2055,6 @@ local-zone: "aafcwvjpryevi.online." always_null
 local-zone: "aafdcq.com." always_null
 local-zone: "aag.yahooapis.jp." always_null
 local-zone: "aagmmrktriz.vip." always_null
-local-zone: "aahingalette.com." always_null
 local-zone: "aahpvdkakpska.online." always_null
 local-zone: "aajhkzdwbmloi.today." always_null
 local-zone: "aalures.com." always_null
@@ -2297,7 +2295,6 @@ local-zone: "abz.com." always_null
 local-zone: "abzaligtwd.com." always_null
 local-zone: "abzkyjaqlooja.top." always_null
 local-zone: "abzkyjaqloozw.top." always_null
-local-zone: "abzkyjleoaewm.top." always_null
 local-zone: "abzkyjleooqja.top." always_null
 local-zone: "ac.4wank.com." always_null
 local-zone: "ac.art456.com." always_null
@@ -8745,7 +8742,6 @@ local-zone: "boerumpeiakmf.space." always_null
 local-zone: "bof8804jn.com." always_null
 local-zone: "boffinsoft.com." always_null
 local-zone: "boffoadsfeeds.com." always_null
-local-zone: "boget.xyz." always_null
 local-zone: "bogixompuy.com." always_null
 local-zone: "bogoloaner.click." always_null
 local-zone: "bogrodius.com." always_null
@@ -9352,7 +9348,6 @@ local-zone: "busherdebates.com." always_null
 local-zone: "bushersfrugged.shop." always_null
 local-zone: "bushesassortmentwearisome.com." always_null
 local-zone: "bushibousy.click." always_null
-local-zone: "bushilyfligger.rest." always_null
 local-zone: "bushpigaquilia.rest." always_null
 local-zone: "bushpoutquest.com." always_null
 local-zone: "bushsurprising.com." always_null
@@ -9558,7 +9553,6 @@ local-zone: "c48eb877a9.com." always_null
 local-zone: "c4cef5b39d.com." always_null
 local-zone: "c4dffe58e4.f253cfd8db.com." always_null
 local-zone: "c4ef1d1343.com." always_null
-local-zone: "c4ef95025c.com." always_null
 local-zone: "c4ff1123f0.com." always_null
 local-zone: "c4n.allporncomics.co." always_null
 local-zone: "c4n.anonimayzer.site." always_null
@@ -11159,7 +11153,6 @@ local-zone: "cloudtraff.com." always_null
 local-zone: "cloudvideosa.com." always_null
 local-zone: "cloudypotsincluded.com." always_null
 local-zone: "cloudyreach.pro." always_null
-local-zone: "cloureddunlin.help." always_null
 local-zone: "cloutlavenderwaitress.com." always_null
 local-zone: "clovhmweksy.buzz." always_null
 local-zone: "clownfish.onvard.de." always_null
@@ -11497,7 +11490,6 @@ local-zone: "comfortablepossibilitycarlos.com." always_null
 local-zone: "comfortclick.co.uk." always_null
 local-zone: "comfortregionalmystery.com." always_null
 local-zone: "comic.fc2ppvv.info." always_null
-local-zone: "comicaldiarch.help." always_null
 local-zone: "comicshouse.shop." always_null
 local-zone: "comihon.com." always_null
 local-zone: "comilar-efferiff.icu." always_null
@@ -12019,7 +12011,6 @@ local-zone: "covettunica.com." always_null
 local-zone: "covivado.club." always_null
 local-zone: "cowardsagrias.com." always_null
 local-zone: "cowkmallow.cyou." always_null
-local-zone: "cowrietorpors.rest." always_null
 local-zone: "coxiesthubble.com." always_null
 local-zone: "coyote.gnx.cloud." always_null
 local-zone: "coyote.nickgurney.com." always_null
@@ -15756,7 +15747,6 @@ local-zone: "dufixen.com." always_null
 local-zone: "dufterferny.digital." always_null
 local-zone: "dugksbcmvvxdf.site." always_null
 local-zone: "dugrhmdlsdcop.website." always_null
-local-zone: "dugsjemble.rest." always_null
 local-zone: "duh0b8nl8uhfn.cloudfront.net." always_null
 local-zone: "duhboga.ru." always_null
 local-zone: "duhxgrfaziemg.site." always_null
@@ -16789,7 +16779,6 @@ local-zone: "entterto.com." always_null
 local-zone: "entwithoughtsu.com." always_null
 local-zone: "enueduringhere.info." always_null
 local-zone: "envious-attention.com." always_null
-local-zone: "enviousindependent.pro." always_null
 local-zone: "enviousinevitable.com." always_null
 local-zone: "enviousthread.com." always_null
 local-zone: "environmental3x.fun." always_null
@@ -20410,7 +20399,6 @@ local-zone: "guan.elfenkueche.at." always_null
 local-zone: "guan.lathamcommunications.com." always_null
 local-zone: "guanaco.redpixelthemes.com." always_null
 local-zone: "guanaco.shelter.stream." always_null
-local-zone: "guanaentasia.help." always_null
 local-zone: "guanasilique.click." always_null
 local-zone: "guanayfeudary.cyou." always_null
 local-zone: "guang.sdsgwy.com." always_null
@@ -20751,7 +20739,6 @@ local-zone: "hasidagamian.click." always_null
 local-zone: "haslocktyphia.com." always_null
 local-zone: "hasselcleft.click." always_null
 local-zone: "hastateankara.top." always_null
-local-zone: "hastedbeatas.cfd." always_null
 local-zone: "hasteinternaladulatory.com." always_null
 local-zone: "hastenassume.com." always_null
 local-zone: "hasteninto.com." always_null
@@ -25022,7 +25009,6 @@ local-zone: "lijjk.space." always_null
 local-zone: "lijqfqpdavjhs.store." always_null
 local-zone: "likable-negotiation.pro." always_null
 local-zone: "likeads.com." always_null
-local-zone: "likelyassociation.pro." always_null
 local-zone: "likelyguy.com." always_null
 local-zone: "likevertising.com." always_null
 local-zone: "likinginconvenientpolitically.com." always_null
@@ -33336,7 +33322,6 @@ local-zone: "qymkbmjssadw.top." always_null
 local-zone: "qyromjlyvzwoj.top." always_null
 local-zone: "qyusgj.xyz." always_null
 local-zone: "qywbslk.top." always_null
-local-zone: "qywjvlazeewkr.top." always_null
 local-zone: "qz-hjgrdqih.fun." always_null
 local-zone: "qz496amxfh87mst.com." always_null
 local-zone: "qzfcqddxkdliy.top." always_null
@@ -33601,7 +33586,6 @@ local-zone: "rbtget.com." always_null
 local-zone: "rbthosgtpzkae.website." always_null
 local-zone: "rbthre.work." always_null
 local-zone: "rbvgaetqsk.love." always_null
-local-zone: "rbweljjbvvamv.top." always_null
 local-zone: "rbycczculjquv.site." always_null
 local-zone: "rbzqarqzoveqy.top." always_null
 local-zone: "rbzqarqzovvov.top." always_null
@@ -36963,7 +36947,6 @@ local-zone: "slippersprimeexaltation.com." always_null
 local-zone: "slippery-computer.com." always_null
 local-zone: "slippery-sort.pro." always_null
 local-zone: "slipperymirror.pro." always_null
-local-zone: "slipperypatience.pro." always_null
 local-zone: "slit.lewd.rip." always_null
 local-zone: "slivmux.com." always_null
 local-zone: "sllqlohjenqyg.site." always_null
@@ -40389,7 +40372,6 @@ local-zone: "tombsspinner.com." always_null
 local-zone: "tomdsfpeyrsoo.vip." always_null
 local-zone: "tomejkwjlqyoz.site." always_null
 local-zone: "tomekas.com." always_null
-local-zone: "tominnorit.shop." always_null
 local-zone: "tomladvert.com." always_null
 local-zone: "tomlldahehun.org." always_null
 local-zone: "tommyholysnapped.com." always_null
@@ -44557,7 +44539,6 @@ local-zone: "wjebboljovkwr.top." always_null
 local-zone: "wjebbolwebaaz.top." always_null
 local-zone: "wjegjhewfhtlq.online." always_null
 local-zone: "wjiebpblheplc.site." always_null
-local-zone: "wjljwqbzjlkqv.top." always_null
 local-zone: "wjmepiytpjiki.website." always_null
 local-zone: "wjmghujaluysu.online." always_null
 local-zone: "wjqpyvulryxtg.site." always_null
@@ -46730,7 +46711,6 @@ local-zone: "zeusadx.com." always_null
 local-zone: "zeusclicks.com." always_null
 local-zone: "zewkj.com." always_null
 local-zone: "zeydoo.com." always_null
-local-zone: "zezyjywaaqeao.top." always_null
 local-zone: "zezyjywaaqzke.top." always_null
 local-zone: "zfcbuhkbpmbwy.space." always_null
 local-zone: "zfctrack.net." always_null
