@@ -1,9 +1,9 @@
-# Version: 202510220125
+# Version: 202510220224
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
 # Entries: 21063
-# Last modified: 2025-10-22T01:25:45+0000
+# Last modified: 2025-10-22T02:24:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1571,7 +1571,6 @@ server=/av1024.me/
 server=/av19.live/
 server=/av19a.com/
 server=/av28.com/
-server=/av4us.cc/
 server=/av4us.sbs/
 server=/av69.tv/
 server=/av911.tv/
@@ -15432,6 +15431,7 @@ server=/seniorfuckbook.com/
 server=/senioriflirtti.com/
 server=/seniorsexpartner.com/
 server=/seniorsizzle.com/
+server=/senkys.com/
 server=/sensationalcash.com/
 server=/sensationalvideo.com/
 server=/sensitivecontent.info/

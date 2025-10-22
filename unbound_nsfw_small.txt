@@ -1,9 +1,9 @@
-# Version: 202510220125
+# Version: 202510220224
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
 # Entries: 21063
-# Last modified: 2025-10-22T01:25:45+0000
+# Last modified: 2025-10-22T02:24:36+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1572,7 +1572,6 @@ local-zone: "av1024.me." always_null
 local-zone: "av19.live." always_null
 local-zone: "av19a.com." always_null
 local-zone: "av28.com." always_null
-local-zone: "av4us.cc." always_null
 local-zone: "av4us.sbs." always_null
 local-zone: "av69.tv." always_null
 local-zone: "av911.tv." always_null
@@ -15433,6 +15432,7 @@ local-zone: "seniorfuckbook.com." always_null
 local-zone: "senioriflirtti.com." always_null
 local-zone: "seniorsexpartner.com." always_null
 local-zone: "seniorsizzle.com." always_null
+local-zone: "senkys.com." always_null
 local-zone: "sensationalcash.com." always_null
 local-zone: "sensationalvideo.com." always_null
 local-zone: "sensitivecontent.info." always_null
