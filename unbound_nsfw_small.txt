@@ -1,9 +1,9 @@
-# Version: 202510220924
+# Version: 202510221025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21068
-# Last modified: 2025-10-22T09:24:59+0000
+# Entries: 21069
+# Last modified: 2025-10-22T10:25:08+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5532,6 +5532,7 @@ local-zone: "fhaccess.com." always_null
 local-zone: "fhchannel.com." always_null
 local-zone: "fherotic.net." always_null
 local-zone: "fhgte.com." always_null
+local-zone: "fhm.nl." always_null
 local-zone: "ficbook.net." always_null
 local-zone: "fick-inserate.com." always_null
 local-zone: "fickanzeiger.com." always_null
