@@ -1,9 +1,9 @@
-# Version: 202510212327
+# Version: 202510220125
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21056
-# Last modified: 2025-10-21T23:27:02+0000
+# Entries: 21063
+# Last modified: 2025-10-22T01:25:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1572,6 +1572,7 @@ local-zone: "av1024.me." always_null
 local-zone: "av19.live." always_null
 local-zone: "av19a.com." always_null
 local-zone: "av28.com." always_null
+local-zone: "av4us.cc." always_null
 local-zone: "av4us.sbs." always_null
 local-zone: "av69.tv." always_null
 local-zone: "av911.tv." always_null
@@ -10603,6 +10604,7 @@ local-zone: "max.porn." always_null
 local-zone: "maxboobs.com." always_null
 local-zone: "maxegatos.net." always_null
 local-zone: "maxfelicitasvideo.com." always_null
+local-zone: "maximum-status.com." always_null
 local-zone: "maximusmg.com." always_null
 local-zone: "maxjav.com." always_null
 local-zone: "maxlesbian.com." always_null
@@ -11548,6 +11550,7 @@ local-zone: "nakedhornyteens.com." always_null
 local-zone: "nakedhotpics.com." always_null
 local-zone: "nakedmatureladies.com." always_null
 local-zone: "nakedmaturephotos.com." always_null
+local-zone: "nakedmaturepics.com." always_null
 local-zone: "nakedmilfs.cc." always_null
 local-zone: "nakedneighbour.com." always_null
 local-zone: "nakednews.com." always_null
@@ -11786,6 +11789,7 @@ local-zone: "niceoppai.net." always_null
 local-zone: "niceporn.me." always_null
 local-zone: "niceporn.tv." always_null
 local-zone: "niceporn.xxx." always_null
+local-zone: "nicepornphotos.com." always_null
 local-zone: "nicepussypics.com." always_null
 local-zone: "nicesss.com." always_null
 local-zone: "niceteengay.com." always_null
@@ -12597,6 +12601,7 @@ local-zone: "peepshowtoys.com." always_null
 local-zone: "pegasproductions.com." always_null
 local-zone: "pejnya.info." always_null
 local-zone: "pejuhin.link." always_null
+local-zone: "pekori.to." always_null
 local-zone: "peladas69.xxx." always_null
 local-zone: "peliculaseroticasonline.net." always_null
 local-zone: "peliculaseroticass.com." always_null
@@ -20472,6 +20477,7 @@ local-zone: "xxxkino.xyz." always_null
 local-zone: "xxxkoche.net." always_null
 local-zone: "xxxl-dev.at." always_null
 local-zone: "xxxl.tube." always_null
+local-zone: "xxxlbs.com." always_null
 local-zone: "xxxlib.mobi." always_null
 local-zone: "xxxlib.ru." always_null
 local-zone: "xxxlibz.com." always_null
@@ -21045,6 +21051,7 @@ local-zone: "zrelki.link." always_null
 local-zone: "zrelki.online." always_null
 local-zone: "zreloeporno.top." always_null
 local-zone: "zsexmovies.com." always_null
+local-zone: "zsexs.ru." always_null
 local-zone: "ztube.org." always_null
 local-zone: "zuccheroporno.com." always_null
 local-zone: "zukho.com." always_null

@@ -1,9 +1,9 @@
-# Version: 202510212327
+# Version: 202510220125
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21056
-# Last modified: 2025-10-21T23:27:02+0000
+# Entries: 21063
+# Last modified: 2025-10-22T01:25:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1571,6 +1571,7 @@ server=/av1024.me/
 server=/av19.live/
 server=/av19a.com/
 server=/av28.com/
+server=/av4us.cc/
 server=/av4us.sbs/
 server=/av69.tv/
 server=/av911.tv/
@@ -10602,6 +10603,7 @@ server=/max.porn/
 server=/maxboobs.com/
 server=/maxegatos.net/
 server=/maxfelicitasvideo.com/
+server=/maximum-status.com/
 server=/maximusmg.com/
 server=/maxjav.com/
 server=/maxlesbian.com/
@@ -11547,6 +11549,7 @@ server=/nakedhornyteens.com/
 server=/nakedhotpics.com/
 server=/nakedmatureladies.com/
 server=/nakedmaturephotos.com/
+server=/nakedmaturepics.com/
 server=/nakedmilfs.cc/
 server=/nakedneighbour.com/
 server=/nakednews.com/
@@ -11785,6 +11788,7 @@ server=/niceoppai.net/
 server=/niceporn.me/
 server=/niceporn.tv/
 server=/niceporn.xxx/
+server=/nicepornphotos.com/
 server=/nicepussypics.com/
 server=/nicesss.com/
 server=/niceteengay.com/
@@ -12596,6 +12600,7 @@ server=/peepshowtoys.com/
 server=/pegasproductions.com/
 server=/pejnya.info/
 server=/pejuhin.link/
+server=/pekori.to/
 server=/peladas69.xxx/
 server=/peliculaseroticasonline.net/
 server=/peliculaseroticass.com/
@@ -20471,6 +20476,7 @@ server=/xxxkino.xyz/
 server=/xxxkoche.net/
 server=/xxxl-dev.at/
 server=/xxxl.tube/
+server=/xxxlbs.com/
 server=/xxxlib.mobi/
 server=/xxxlib.ru/
 server=/xxxlibz.com/
@@ -21044,6 +21050,7 @@ server=/zrelki.link/
 server=/zrelki.online/
 server=/zreloeporno.top/
 server=/zsexmovies.com/
+server=/zsexs.ru/
 server=/ztube.org/
 server=/zuccheroporno.com/
 server=/zukho.com/
