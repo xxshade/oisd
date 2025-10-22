@@ -1,9 +1,9 @@
-# Version: 202510220423
+# Version: 202510220523
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21064
-# Last modified: 2025-10-22T04:23:41+0000
+# Entries: 21065
+# Last modified: 2025-10-22T05:23:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -16728,6 +16728,7 @@ local-zone: "spizoo.com." always_null
 local-zone: "spnati.net." always_null
 local-zone: "spoiledvirgins.com." always_null
 local-zone: "spornox.page." always_null
+local-zone: "sport.blog." always_null
 local-zone: "sportbud.org." always_null
 local-zone: "spotbbs.com." always_null
 local-zone: "spotx.fr." always_null
