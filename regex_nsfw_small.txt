@@ -1,9 +1,9 @@
-# Version: 202510220823
+# Version: 202510220924
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 21067
-# Last modified: 2025-10-22T08:23:57+0000
+# Entries: 21068
+# Last modified: 2025-10-22T09:24:59+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3376,6 +3376,7 @@
 /^(.*\.)?cherrypimps\.com$/
 /^(.*\.)?cheshskoe\.net$/
 /^(.*\.)?chez\-alice\.fr$/
+/^(.*\.)?chez\.com$/
 /^(.*\.)?chezcathy\.com$/
 /^(.*\.)?chicafruta\.com$/
 /^(.*\.)?chicasdemiregion\.com$/
