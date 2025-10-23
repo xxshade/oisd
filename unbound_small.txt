@@ -1,9 +1,9 @@
-# Version: 202510230019
+# Version: 202510230119
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47186
-# Last modified: 2025-10-23T00:19:50+0000
+# Entries: 47185
+# Last modified: 2025-10-23T01:19:52+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10299,7 +10299,6 @@ local-zone: "ceerrvzdgucqs.online." always_null
 local-zone: "ceetkmpxpippwds.com." always_null
 local-zone: "cef7cb85aa.com." always_null
 local-zone: "cefazaaycjdqi.store." always_null
-local-zone: "ceget.xyz." always_null
 local-zone: "cegifompifteefa.net." always_null
 local-zone: "cehbmaknzpyic.store." always_null
 local-zone: "cejaswati.com." always_null
