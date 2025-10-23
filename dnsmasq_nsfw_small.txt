@@ -1,9 +1,9 @@
-# Version: 202510222324
+# Version: 202510231826
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21121
-# Last modified: 2025-10-22T23:24:55+0000
+# Entries: 21120
+# Last modified: 2025-10-23T18:26:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10339,7 +10339,6 @@ server=/mangadass.com/
 server=/mangadistrict.com/
 server=/mangadna.com/
 server=/mangadoujin.com/
-server=/mangafire.to/
 server=/mangaforest.me/
 server=/mangaforfree.com/
 server=/mangaforfree.net/
