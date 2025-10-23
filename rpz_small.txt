@@ -1,16 +1,16 @@
-; Version: 202510222321
+; Version: 202510230019
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94348
-; Last modified: 2025-10-22T23:21:28+0000
+; Entries: 94372
+; Last modified: 2025-10-23T00:19:49+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761174721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761178322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16826,6 +16826,8 @@ bilsoaphaik.net CNAME .
 *.bilsoaphaik.net CNAME .
 bilsyndication.com CNAME .
 *.bilsyndication.com CNAME .
+bimouecctgacs.store CNAME .
+*.bimouecctgacs.store CNAME .
 bin-layer.ru CNAME .
 *.bin-layer.ru CNAME .
 bin-tds.site CNAME .
@@ -19976,6 +19978,8 @@ cauvousy.net CNAME .
 *.cauvousy.net CNAME .
 cauyuksehink.info CNAME .
 *.cauyuksehink.info CNAME .
+caveatswea.help CNAME .
+*.caveatswea.help CNAME .
 cavernous-standard.pro CNAME .
 *.cavernous-standard.pro CNAME .
 cavewrap.care CNAME .
@@ -20586,6 +20590,8 @@ cef7cb85aa.com CNAME .
 *.cef7cb85aa.com CNAME .
 cefazaaycjdqi.store CNAME .
 *.cefazaaycjdqi.store CNAME .
+ceget.xyz CNAME .
+*.ceget.xyz CNAME .
 cegifompifteefa.net CNAME .
 *.cegifompifteefa.net CNAME .
 cehbmaknzpyic.store CNAME .
@@ -41862,6 +41868,8 @@ heauty-viesected.com CNAME .
 *.heauty-viesected.com CNAME .
 heavenfull.com CNAME .
 *.heavenfull.com CNAME .
+heavenlycare.pro CNAME .
+*.heavenlycare.pro CNAME .
 heavenlywhile.com CNAME .
 *.heavenlywhile.com CNAME .
 heavy-management.com CNAME .
@@ -42534,6 +42542,8 @@ hkrpg-log-upload-os.hoyoverse.com CNAME .
 *.hkrpg-log-upload-os.hoyoverse.com CNAME .
 hkrpg-log-upload.mihoyo.com CNAME .
 *.hkrpg-log-upload.mihoyo.com CNAME .
+hkrxmmyfysvyf.site CNAME .
+*.hkrxmmyfysvyf.site CNAME .
 hktracker.hankookilbo.com CNAME .
 *.hktracker.hankookilbo.com CNAME .
 hkwrwuqlcpelq.site CNAME .
@@ -44050,6 +44060,8 @@ ieogwnrsgnfsz.online CNAME .
 *.ieogwnrsgnfsz.online CNAME .
 iequiguknwrsk.store CNAME .
 *.iequiguknwrsk.store CNAME .
+ierbfrwnznnkk.website CNAME .
+*.ierbfrwnznnkk.website CNAME .
 iesjbtyxtoraq.site CNAME .
 *.iesjbtyxtoraq.site CNAME .
 ietuhbbfgeo.com CNAME .
@@ -46164,6 +46176,8 @@ jaavnacsdw.com CNAME .
 *.jaavnacsdw.com CNAME .
 jab88.com CNAME .
 *.jab88.com CNAME .
+jacanasruddish.shop CNAME .
+*.jacanasruddish.shop CNAME .
 jacanastruller.cyou CNAME .
 *.jacanastruller.cyou CNAME .
 jacilla-static.reviveservers.com CNAME .
@@ -48948,6 +48962,8 @@ ky595images.com CNAME .
 *.ky595images.com CNAME .
 kyccmn.com CNAME .
 *.kyccmn.com CNAME .
+kycdinimrb.com CNAME .
+*.kycdinimrb.com CNAME .
 kychq.cn CNAME .
 *.kychq.cn CNAME .
 kyfgxnkkiozwf.site CNAME .
@@ -68974,6 +68990,8 @@ rmb-trf.net CNAME .
 *.rmb-trf.net CNAME .
 rmbalnswelwcp.online CNAME .
 *.rmbalnswelwcp.online CNAME .
+rmbkmpsvnjwsc.website CNAME .
+*.rmbkmpsvnjwsc.website CNAME .
 rmbsfh.icu CNAME .
 *.rmbsfh.icu CNAME .
 rmcxyfqbm.com CNAME .
@@ -69010,6 +69028,8 @@ rmmtdixdfwnfd.online CNAME .
 *.rmmtdixdfwnfd.online CNAME .
 rmonitor.qq.com CNAME .
 *.rmonitor.qq.com CNAME .
+rmorbhodgdflkp.com CNAME .
+*.rmorbhodgdflkp.com CNAME .
 rmpvsnsyr.com CNAME .
 *.rmpvsnsyr.com CNAME .
 rmpywaamvfwfa.store CNAME .
@@ -85084,6 +85104,8 @@ up.admoxi.com CNAME .
 *.up.admoxi.com CNAME .
 upacrlrjucyx.net CNAME .
 *.upacrlrjucyx.net CNAME .
+upajstaevojkf.website CNAME .
+*.upajstaevojkf.website CNAME .
 upalytics.com CNAME .
 *.upalytics.com CNAME .
 uparceuson.com CNAME .
@@ -90458,6 +90480,8 @@ xekrbwex7d.com CNAME .
 *.xekrbwex7d.com CNAME .
 xel-xel-fie.com CNAME .
 *.xel-xel-fie.com CNAME .
+xelhwfsgqffov.website CNAME .
+*.xelhwfsgqffov.website CNAME .
 xelllwrite.com CNAME .
 *.xelllwrite.com CNAME .
 xemwmuayozxti.space CNAME .
