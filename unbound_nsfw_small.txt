@@ -1,9 +1,9 @@
-# Version: 202510240322
+# Version: 202510240622
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21086
-# Last modified: 2025-10-24T03:22:54+0000
+# Entries: 21088
+# Last modified: 2025-10-24T06:22:50+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9761,6 +9761,7 @@ local-zone: "laufhaus-valentin.at." always_null
 local-zone: "laufhaus-zeltweg.at." always_null
 local-zone: "lavideodujourjetm.net." always_null
 local-zone: "lavkasex.ru." always_null
+local-zone: "law.blog." always_null
 local-zone: "lazytubeporn.com." always_null
 local-zone: "lbanez.net." always_null
 local-zone: "lbgasm.com." always_null
@@ -11191,6 +11192,7 @@ local-zone: "mpgcafe.com." always_null
 local-zone: "mplstudios.com." always_null
 local-zone: "mporn.pro." always_null
 local-zone: "mr3.pw." always_null
+local-zone: "mrbobd.com." always_null
 local-zone: "mrdeepfakes.com." always_null
 local-zone: "mrdeepfakes.xyz." always_null
 local-zone: "mrds66.com." always_null

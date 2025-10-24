@@ -1,16 +1,16 @@
-; Version: 202510240322
+; Version: 202510240622
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42172
-; Last modified: 2025-10-24T03:22:54+0000
+; Entries: 42176
+; Last modified: 2025-10-24T06:22:50+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761275521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761286322 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -19514,6 +19514,8 @@ lavideodujourjetm.net CNAME .
 *.lavideodujourjetm.net CNAME .
 lavkasex.ru CNAME .
 *.lavkasex.ru CNAME .
+law.blog CNAME .
+*.law.blog CNAME .
 lazytubeporn.com CNAME .
 *.lazytubeporn.com CNAME .
 lbanez.net CNAME .
@@ -22374,6 +22376,8 @@ mporn.pro CNAME .
 *.mporn.pro CNAME .
 mr3.pw CNAME .
 *.mr3.pw CNAME .
+mrbobd.com CNAME .
+*.mrbobd.com CNAME .
 mrdeepfakes.com CNAME .
 *.mrdeepfakes.com CNAME .
 mrdeepfakes.xyz CNAME .
