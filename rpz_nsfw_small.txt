@@ -1,16 +1,16 @@
-; Version: 202510240124
+; Version: 202510240322
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 42168
-; Last modified: 2025-10-24T01:24:05+0000
+; Entries: 42172
+; Last modified: 2025-10-24T03:22:54+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761268321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761275521 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -9142,6 +9142,8 @@ eastrader.net CNAME .
 *.eastrader.net CNAME .
 easy-rencontres.com CNAME .
 *.easy-rencontres.com CNAME .
+easyflirt.com CNAME .
+*.easyflirt.com CNAME .
 easygaychat.com CNAME .
 *.easygaychat.com CNAME .
 easyporn.xxx CNAME .
@@ -10792,6 +10794,8 @@ farmbestialityporn.com CNAME .
 *.farmbestialityporn.com CNAME .
 farmersonly.com CNAME .
 *.farmersonly.com CNAME .
+fashion.blog CNAME .
+*.fashion.blog CNAME .
 fast-sex.top CNAME .
 *.fast-sex.top CNAME .
 fastsearchresults.com CNAME .

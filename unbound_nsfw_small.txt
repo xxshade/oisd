@@ -1,9 +1,9 @@
-# Version: 202510240124
+# Version: 202510240322
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21084
-# Last modified: 2025-10-24T01:24:05+0000
+# Entries: 21086
+# Last modified: 2025-10-24T03:22:54+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4575,6 +4575,7 @@ local-zone: "eastboys.com." always_null
 local-zone: "eastguys.net." always_null
 local-zone: "eastrader.net." always_null
 local-zone: "easy-rencontres.com." always_null
+local-zone: "easyflirt.com." always_null
 local-zone: "easygaychat.com." always_null
 local-zone: "easyporn.xxx." always_null
 local-zone: "easyrencontre.com." always_null
@@ -5400,6 +5401,7 @@ local-zone: "fapzenda.com." always_null
 local-zone: "fapzoo.fun." always_null
 local-zone: "farmbestialityporn.com." always_null
 local-zone: "farmersonly.com." always_null
+local-zone: "fashion.blog." always_null
 local-zone: "fast-sex.top." always_null
 local-zone: "fastsearchresults.com." always_null
 local-zone: "fatalmodel.com." always_null
