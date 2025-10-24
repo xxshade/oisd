@@ -1,9 +1,9 @@
-# Version: 202510240622
+# Version: 202510240923
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21088
-# Last modified: 2025-10-24T06:22:50+0000
+# Entries: 21089
+# Last modified: 2025-10-24T09:23:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15977,6 +15977,7 @@ local=/sexru.cc/
 local=/sexrura.pl/
 local=/sexsagar.com/
 local=/sexsaoy.com/
+local=/sexsati.net/
 local=/sexscenemovies.net/
 local=/sexsee.tv/
 local=/sexselector.com/
