@@ -1,9 +1,9 @@
-# Version: 202510241023
+# Version: 202510241524
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21090
-# Last modified: 2025-10-24T10:23:44+0000
+# Entries: 21091
+# Last modified: 2025-10-24T15:24:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17169,6 +17169,7 @@ server=/tantralux.com/
 server=/tanyadesai.in/
 server=/taotu.org/
 server=/tapky.info/
+server=/tappytoon.com/
 server=/taptolove.com/
 server=/tapuz.co.il/
 server=/tarego.com/
