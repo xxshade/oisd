@@ -1,9 +1,9 @@
-# Version: 202510240024
+# Version: 202510240124
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 21081
-# Last modified: 2025-10-24T00:24:45+0000
+# Entries: 21084
+# Last modified: 2025-10-24T01:24:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3583,6 +3583,7 @@
 /^(.*\.)?cocogals\.com$/
 /^(.*\.)?cocomic\.co$/
 /^(.*\.)?cocomilfs\.com$/
+/^(.*\.)?code\.blog$/
 /^(.*\.)?codedruns\.com$/
 /^(.*\.)?codella\.biz$/
 /^(.*\.)?coedcherry\.com$/
@@ -6799,6 +6800,7 @@
 /^(.*\.)?gobdsmporn\.com$/
 /^(.*\.)?gobokep\.com$/
 /^(.*\.)?god\-doujin\.com$/
+/^(.*\.)?godaddysites\.com$/
 /^(.*\.)?goddess247\.com$/
 /^(.*\.)?godesiporn\.com$/
 /^(.*\.)?godesisex\.com$/
@@ -15026,6 +15028,7 @@
 /^(.*\.)?rokuhentai\.com$/
 /^(.*\.)?role\-me\.ru$/
 /^(.*\.)?rolemantic\.com$/
+/^(.*\.)?roleplayer\.me$/
 /^(.*\.)?roliki\.cc$/
 /^(.*\.)?roliki\.tv$/
 /^(.*\.)?rollosfaciles\.com$/

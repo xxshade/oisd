@@ -1,9 +1,9 @@
-# Version: 202510240024
+# Version: 202510240124
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21081
-# Last modified: 2025-10-24T00:24:45+0000
+# Entries: 21084
+# Last modified: 2025-10-24T01:24:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3583,6 +3583,7 @@ server=/cockyboys.com/
 server=/cocogals.com/
 server=/cocomic.co/
 server=/cocomilfs.com/
+server=/code.blog/
 server=/codedruns.com/
 server=/codella.biz/
 server=/coedcherry.com/
@@ -6799,6 +6800,7 @@ server=/go4sex.eu/
 server=/gobdsmporn.com/
 server=/gobokep.com/
 server=/god-doujin.com/
+server=/godaddysites.com/
 server=/goddess247.com/
 server=/godesiporn.com/
 server=/godesisex.com/
@@ -15026,6 +15028,7 @@ server=/roemerforum.com/
 server=/rokuhentai.com/
 server=/role-me.ru/
 server=/rolemantic.com/
+server=/roleplayer.me/
 server=/roliki.cc/
 server=/roliki.tv/
 server=/rollosfaciles.com/
