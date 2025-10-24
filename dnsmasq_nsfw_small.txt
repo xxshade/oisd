@@ -1,9 +1,9 @@
-# Version: 202510232323
+# Version: 202510240024
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21080
-# Last modified: 2025-10-23T23:23:40+0000
+# Entries: 21081
+# Last modified: 2025-10-24T00:24:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -11157,6 +11157,7 @@ server=/mouthporn.net/
 server=/mov18plus.com/
 server=/moveyourhand.com/
 server=/movie-adult-porn.com/
+server=/movie.blog/
 server=/movie2345.com/
 server=/moviefap.com/
 server=/moviegq.com/
