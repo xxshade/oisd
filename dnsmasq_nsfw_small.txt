@@ -1,9 +1,9 @@
-# Version: 202510241824
+# Version: 202510242123
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21093
-# Last modified: 2025-10-24T18:24:52+0000
+# Entries: 21094
+# Last modified: 2025-10-24T21:23:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -918,6 +918,7 @@ server=/alxbgo.com/
 server=/alxxnxxxsex.store/
 server=/alxxnxxxsex.tattoo/
 server=/alxxnxxxxsex.cam/
+server=/alxxnxxxxsex.digital/
 server=/alypics.com/
 server=/alyzoo.org/
 server=/amabitch.com/
