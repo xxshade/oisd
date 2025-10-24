@@ -1,9 +1,9 @@
-# Version: 202510240120
+# Version: 202510240220
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 47351
-# Last modified: 2025-10-24T01:20:24+0000
+# Entries: 47348
+# Last modified: 2025-10-24T02:20:00+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -10400,7 +10400,6 @@ local=/cf-native.karte.io/
 local=/cf-pixelfront-analytics.widencdn.net/
 local=/cf.adxcel.com/
 local=/cf.overblog.com/
-local=/cf6fae15c3.com/
 local=/cf852ff956.eef857d1fa.com/
 local=/cf9e554a8a.4353740d36.com/
 local=/cfa-js.cafe24.com/
@@ -14862,7 +14861,6 @@ local=/digamyaggress.click/
 local=/digestivebackwards.com/
 local=/digestivepresenceclimb.com/
 local=/digestsolicitorpolar.com/
-local=/diget.xyz/
 local=/digi.vinut.com.vn/
 local=/digiads.tv/
 local=/digital-ads.s3.amazonaws.com/
@@ -16106,7 +16104,6 @@ local=/e8853962d1.com/
 local=/e8d7.icu/
 local=/e9093193fa.8111f7e70e.com/
 local=/e91ab5975e.623efad9ac.com/
-local=/e92c130c8b.com/
 local=/e993.wlky.com/
 local=/e9a5ed7d7a.com/
 local=/ea.auchantelecom.fr/
