@@ -1,9 +1,9 @@
-# Version: 202510241524
+# Version: 202510241724
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21091
-# Last modified: 2025-10-24T15:24:18+0000
+# Entries: 21092
+# Last modified: 2025-10-24T17:24:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12641,6 +12641,7 @@ local-zone: "pennynetwork.com." always_null
 local-zone: "pensamentodeprazer.com." always_null
 local-zone: "penthouse.com." always_null
 local-zone: "penthousegold.com." always_null
+local-zone: "penthousetv.video." always_null
 local-zone: "peopleenespanol.com." always_null
 local-zone: "pepeporn.com." always_null
 local-zone: "pephop.ai." always_null
