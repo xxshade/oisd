@@ -1,16 +1,16 @@
-; Version: 202510250719
+; Version: 202510250819
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94990
-; Last modified: 2025-10-25T07:19:57+0000
+; Entries: 94970
+; Last modified: 2025-10-25T08:19:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761376321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761379921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2306,8 +2306,6 @@ $TTL 30
 *.5xd3jfwl9e8v.com CNAME .
 5y9nfpes.52pk.com CNAME .
 *.5y9nfpes.52pk.com CNAME .
-5z2oy.icu CNAME .
-*.5z2oy.icu CNAME .
 6-partner.com CNAME .
 *.6-partner.com CNAME .
 6.www.cheetahhowevertowardsfrom.com CNAME .
@@ -2962,8 +2960,6 @@ $TTL 30
 *.8330bccb63.com CNAME .
 83409127.xyz CNAME .
 *.83409127.xyz CNAME .
-83761158.xyz CNAME .
-*.83761158.xyz CNAME .
 838ccf095c.02f9838600.com CNAME .
 *.838ccf095c.02f9838600.com CNAME .
 839944c715.com CNAME .
@@ -18936,8 +18932,6 @@ bxlulr.icu CNAME .
 *.bxlulr.icu CNAME .
 bxrtwyavhyb.online CNAME .
 *.bxrtwyavhyb.online CNAME .
-bxvgcvdmxftxq.online CNAME .
-*.bxvgcvdmxftxq.online CNAME .
 bxwzcnwycuvbc.world CNAME .
 *.bxwzcnwycuvbc.world CNAME .
 bxynquktjxiqi.website CNAME .
@@ -30260,8 +30254,6 @@ djvby0s5wa7p7.cloudfront.net CNAME .
 *.djvby0s5wa7p7.cloudfront.net CNAME .
 djwf0dl2q9i99.cloudfront.net CNAME .
 *.djwf0dl2q9i99.cloudfront.net CNAME .
-djxvcxcynqbn.com CNAME .
-*.djxvcxcynqbn.com CNAME .
 djz9es32qen64.cloudfront.net CNAME .
 *.djz9es32qen64.cloudfront.net CNAME .
 dk45agakx3yfl.cloudfront.net CNAME .
@@ -43098,8 +43090,6 @@ horncreature.com CNAME .
 *.horncreature.com CNAME .
 hornet.amandaheal.com.au CNAME .
 *.hornet.amandaheal.com.au CNAME .
-hornet.energizer.co.za CNAME .
-*.hornet.energizer.co.za CNAME .
 hornet.jeffgable.com CNAME .
 *.hornet.jeffgable.com CNAME .
 hornet.newburycompanies.com CNAME .
@@ -48124,8 +48114,6 @@ kdapucwnebjeu.site CNAME .
 *.kdapucwnebjeu.site CNAME .
 kde.qq.com CNAME .
 *.kde.qq.com CNAME .
-kdfmjymimtyfj.store CNAME .
-*.kdfmjymimtyfj.store CNAME .
 kdisbgxtxiyru.online CNAME .
 *.kdisbgxtxiyru.online CNAME .
 kdlktswsqhpd.com CNAME .
@@ -49466,8 +49454,6 @@ laivue.com CNAME .
 *.laivue.com CNAME .
 lajeshuru.pro CNAME .
 *.lajeshuru.pro CNAME .
-lajjmqeshj.com CNAME .
-*.lajjmqeshj.com CNAME .
 lake.joongang.co.kr CNAME .
 *.lake.joongang.co.kr CNAME .
 lake.studydrive.net CNAME .
@@ -66692,8 +66678,6 @@ qmpkrtpeynvmk.store CNAME .
 *.qmpkrtpeynvmk.store CNAME .
 qmrelvevwlwlw.top CNAME .
 *.qmrelvevwlwlw.top CNAME .
-qmvnncombsqpk.com CNAME .
-*.qmvnncombsqpk.com CNAME .
 qmwonwowmytqf.store CNAME .
 *.qmwonwowmytqf.store CNAME .
 qmyzawzrqryjj.top CNAME .
@@ -71060,8 +71044,6 @@ rustyexquisite.com CNAME .
 *.rustyexquisite.com CNAME .
 ruuaqkw.com CNAME .
 *.ruuaqkw.com CNAME .
-ruuvwltihnbxu.space CNAME .
-*.ruuvwltihnbxu.space CNAME .
 ruvgbv.icu CNAME .
 *.ruvgbv.icu CNAME .
 ruvowe4xeo.com CNAME .
@@ -72992,8 +72974,6 @@ serosaharlem.com CNAME .
 *.serosaharlem.com CNAME .
 serpentinelow.com CNAME .
 *.serpentinelow.com CNAME .
-sersabion.com CNAME .
-*.sersabion.com CNAME .
 sersh.com CNAME .
 *.sersh.com CNAME .
 sertivepremier.cfd CNAME .
