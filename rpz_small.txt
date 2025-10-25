@@ -1,16 +1,16 @@
-; Version: 202510251220
+; Version: 202510251320
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94884
-; Last modified: 2025-10-25T12:20:18+0000
+; Entries: 94866
+; Last modified: 2025-10-25T13:20:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761394321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761397921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14302,8 +14302,6 @@ availableshove.com CNAME .
 *.availableshove.com CNAME .
 avajwlwlwkyam.top CNAME .
 *.avajwlwlwkyam.top CNAME .
-avajwlwqbkqvm.top CNAME .
-*.avajwlwqbkqvm.top CNAME .
 avalancheofnews.com CNAME .
 *.avalancheofnews.com CNAME .
 avalanchetremorunfilled.com CNAME .
@@ -17868,8 +17866,6 @@ bovid.neural.love CNAME .
 *.bovid.neural.love CNAME .
 bovinetimingunsaddle.com CNAME .
 *.bovinetimingunsaddle.com CNAME .
-bovzxxlsynels.website CNAME .
-*.bovzxxlsynels.website CNAME .
 bowcoolstop.live CNAME .
 *.bowcoolstop.live CNAME .
 bowed-tackle.com CNAME .
@@ -20908,8 +20904,6 @@ chainstayornerypsstgeez.com CNAME .
 *.chainstayornerypsstgeez.com CNAME .
 chaintopdom.nl CNAME .
 *.chaintopdom.nl CNAME .
-chaipoaveb.net CNAME .
-*.chaipoaveb.net CNAME .
 chaipoodrort.com CNAME .
 *.chaipoodrort.com CNAME .
 chaipungie.xyz CNAME .
@@ -28678,8 +28672,6 @@ dcmbaescepqsq.space CNAME .
 *.dcmbaescepqsq.space CNAME .
 dcmdquudzpmkc.store CNAME .
 *.dcmdquudzpmkc.store CNAME .
-dcmrnstqdbgvn.website CNAME .
-*.dcmrnstqdbgvn.website CNAME .
 dco.coupang.com CNAME .
 *.dco.coupang.com CNAME .
 dcsakxvzsdiaz.space CNAME .
@@ -41146,8 +41138,6 @@ gunlortnzuzax.space CNAME .
 *.gunlortnzuzax.space CNAME .
 gunsterpokey.shop CNAME .
 *.gunsterpokey.shop CNAME .
-gunuetpndclcc.store CNAME .
-*.gunuetpndclcc.store CNAME .
 gunzblazingpromo.com CNAME .
 *.gunzblazingpromo.com CNAME .
 gupbokzqszbvn.store CNAME .
@@ -49226,8 +49216,6 @@ kzt2afc1rp52.com CNAME .
 *.kzt2afc1rp52.com CNAME .
 kzwdhgakfrxcv.website CNAME .
 *.kzwdhgakfrxcv.website CNAME .
-kzymdbeygaukr.online CNAME .
-*.kzymdbeygaukr.online CNAME .
 l-iw.de CNAME .
 *.l-iw.de CNAME .
 l.cdn-fileserver.com CNAME .
@@ -49886,8 +49874,6 @@ leech.fuchsegg.at CNAME .
 *.leech.fuchsegg.at CNAME .
 leech.stargate-project.de CNAME .
 *.leech.stargate-project.de CNAME .
-leechgrateattest.com CNAME .
-*.leechgrateattest.com CNAME .
 leechiza.net CNAME .
 *.leechiza.net CNAME .
 leechpremium.link CNAME .
@@ -52266,8 +52252,6 @@ lsoextraorfekin.com CNAME .
 *.lsoextraorfekin.com CNAME .
 lsoyvhsesurdq.store CNAME .
 *.lsoyvhsesurdq.store CNAME .
-lspewotc.com CNAME .
-*.lspewotc.com CNAME .
 lsqyahmytfwhn.store CNAME .
 *.lsqyahmytfwhn.store CNAME .
 lssocybaoqyeu.online CNAME .
@@ -94114,8 +94098,6 @@ zeelooshashey.net CNAME .
 *.zeelooshashey.net CNAME .
 zeepartners.com CNAME .
 *.zeepartners.com CNAME .
-zeeshith.net CNAME .
-*.zeeshith.net CNAME .
 zeguklgrjilli.space CNAME .
 *.zeguklgrjilli.space CNAME .
 zejyoelgljenc.site CNAME .
