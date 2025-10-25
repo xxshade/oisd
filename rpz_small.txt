@@ -1,16 +1,16 @@
-; Version: 202510250919
+; Version: 202510251019
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94946
-; Last modified: 2025-10-25T09:19:37+0000
+; Entries: 94926
+; Last modified: 2025-10-25T10:19:38+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761383522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761387121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32842,8 +32842,6 @@ eepjhvlyzlred.icu CNAME .
 *.eepjhvlyzlred.icu CNAME .
 eeptoabs.com CNAME .
 *.eeptoabs.com CNAME .
-eertaipsadruw.com CNAME .
-*.eertaipsadruw.com CNAME .
 eertoamogn.net CNAME .
 *.eertoamogn.net CNAME .
 eessoong.com CNAME .
@@ -38408,8 +38406,6 @@ gahroundwhat.com CNAME .
 *.gahroundwhat.com CNAME .
 gahyuck.com CNAME .
 *.gahyuck.com CNAME .
-gaiaylksbmpxvun.com CNAME .
-*.gaiaylksbmpxvun.com CNAME .
 gaietyunhappy.com CNAME .
 *.gaietyunhappy.com CNAME .
 gaimoupy.net CNAME .
@@ -41262,8 +41258,6 @@ gw.wifey.com CNAME .
 *.gw.wifey.com CNAME .
 gwallet.com CNAME .
 *.gwallet.com CNAME .
-gwanmuopwaw.com CNAME .
-*.gwanmuopwaw.com CNAME .
 gwbone-cpw.today CNAME .
 *.gwbone-cpw.today CNAME .
 gwdhbowgiiuww.site CNAME .
@@ -60738,8 +60732,6 @@ outbidplacardshowman.com CNAME .
 *.outbidplacardshowman.com CNAME .
 outbrainimg.com CNAME .
 *.outbrainimg.com CNAME .
-outbursttones.com CNAME .
-*.outbursttones.com CNAME .
 outclaydola.com CNAME .
 *.outclaydola.com CNAME .
 outcomefriendlysurname.com CNAME .
@@ -70796,8 +70788,6 @@ rtmark.net CNAME .
 *.rtmark.net CNAME .
 rtmfpocimwjsf.online CNAME .
 *.rtmfpocimwjsf.online CNAME .
-rtmvxpsxocoeq.online CNAME .
-*.rtmvxpsxocoeq.online CNAME .
 rtnews.pro CNAME .
 *.rtnews.pro CNAME .
 rtnl.bxcl.de CNAME .
@@ -75022,8 +75012,6 @@ solaningermen.click CNAME .
 *.solaningermen.click CNAME .
 solapoka.com CNAME .
 *.solapoka.com CNAME .
-solarad.net CNAME .
-*.solarad.net CNAME .
 solarcyclonesky.com CNAME .
 *.solarcyclonesky.com CNAME .
 solarmosa.com CNAME .
@@ -80762,8 +80750,6 @@ ti-files.org CNAME .
 *.ti-files.org CNAME .
 ti.tradetracker.net CNAME .
 *.ti.tradetracker.net CNAME .
-ti4la.icu CNAME .
-*.ti4la.icu CNAME .
 tiangzwrvnify.website CNAME .
 *.tiangzwrvnify.website CNAME .
 tianji.flowgpt.com CNAME .
@@ -84334,8 +84320,6 @@ tyburnpenalty.com CNAME .
 *.tyburnpenalty.com CNAME .
 tychitejatni.click CNAME .
 *.tychitejatni.click CNAME .
-tyeibwiua.com CNAME .
-*.tyeibwiua.com CNAME .
 tyfqjbuk.one CNAME .
 *.tyfqjbuk.one CNAME .
 tyfuufdp-xbd.top CNAME .
@@ -88996,8 +88980,6 @@ wejqzsufiutaa.site CNAME .
 *.wejqzsufiutaa.site CNAME .
 wel-wel-fie.com CNAME .
 *.wel-wel-fie.com CNAME .
-welbljlrzmoek.top CNAME .
-*.welbljlrzmoek.top CNAME .
 welcome-weather.pro CNAME .
 *.welcome-weather.pro CNAME .
 welcomeneat.pro CNAME .
@@ -92620,8 +92602,6 @@ xtvzanfdrfjrz.site CNAME .
 *.xtvzanfdrfjrz.site CNAME .
 xtxjyxtvcwuam.site CNAME .
 *.xtxjyxtvcwuam.site CNAME .
-xtydrmtywznhs.website CNAME .
-*.xtydrmtywznhs.website CNAME .
 xu2.com CNAME .
 *.xu2.com CNAME .
 xuakn.icu CNAME .
