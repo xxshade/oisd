@@ -1,16 +1,16 @@
-; Version: 202510250220
+; Version: 202510250519
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95046
-; Last modified: 2025-10-25T02:20:11+0000
+; Entries: 95038
+; Last modified: 2025-10-25T05:19:44+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761358321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761369122 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32906,8 +32906,6 @@ efanyorgagetni.info CNAME .
 *.efanyorgagetni.info CNAME .
 efef322148.com CNAME .
 *.efef322148.com CNAME .
-efemsvcdjuov.com CNAME .
-*.efemsvcdjuov.com CNAME .
 efeyaukqwlyticafr.com CNAME .
 *.efeyaukqwlyticafr.com CNAME .
 effacedefend.com CNAME .
@@ -39656,8 +39654,6 @@ glersooy.net CNAME .
 *.glersooy.net CNAME .
 glerteeb.com CNAME .
 *.glerteeb.com CNAME .
-glieybgvyqxmy.store CNAME .
-*.glieybgvyqxmy.store CNAME .
 gligoubsed.com CNAME .
 *.gligoubsed.com CNAME .
 glimpaid.net CNAME .
@@ -81154,8 +81150,6 @@ tjtsctymepnds.space CNAME .
 *.tjtsctymepnds.space CNAME .
 tjv250730ads.com CNAME .
 *.tjv250730ads.com CNAME .
-tjvkomxmyvaqj.store CNAME .
-*.tjvkomxmyvaqj.store CNAME .
 tjvpnh.icu CNAME .
 *.tjvpnh.icu CNAME .
 tjwsg.com CNAME .
@@ -90818,8 +90812,6 @@ wylmzwkywlwyj.top CNAME .
 *.wylmzwkywlwyj.top CNAME .
 wymdgrewpljln.online CNAME .
 *.wymdgrewpljln.online CNAME .
-wymuxgvyjwmraqn.net CNAME .
-*.wymuxgvyjwmraqn.net CNAME .
 wynvalur.com CNAME .
 *.wynvalur.com CNAME .
 wyqikvlslnuuf.space CNAME .
