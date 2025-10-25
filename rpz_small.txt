@@ -1,16 +1,16 @@
-; Version: 202510252021
+; Version: 202510252120
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94946
-; Last modified: 2025-10-25T20:21:21+0000
+; Entries: 94914
+; Last modified: 2025-10-25T21:20:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761423122 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761426721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14750,8 +14750,6 @@ azumydmuetbbp.site CNAME .
 *.azumydmuetbbp.site CNAME .
 azurestealth.com CNAME .
 *.azurestealth.com CNAME .
-azwxkuwu.com CNAME .
-*.azwxkuwu.com CNAME .
 azygotesonless.com CNAME .
 *.azygotesonless.com CNAME .
 azygouspolian.qpon CNAME .
@@ -15322,8 +15320,6 @@ banner.titan-dsl.de CNAME .
 *.banner.titan-dsl.de CNAME .
 banner.trangvangvietnam.com CNAME .
 *.banner.trangvangvietnam.com CNAME .
-banner.uto.vn CNAME .
-*.banner.uto.vn CNAME .
 banner.volynnews.com CNAME .
 *.banner.volynnews.com CNAME .
 banner.webmersion.com CNAME .
@@ -31414,8 +31410,6 @@ dsg.interia.pl CNAME .
 *.dsg.interia.pl CNAME .
 dsghhbqey6ytg.cloudfront.net CNAME .
 *.dsghhbqey6ytg.cloudfront.net CNAME .
-dsgszujtdzlea.online CNAME .
-*.dsgszujtdzlea.online CNAME .
 dsh1ct2zrfakt.cloudfront.net CNAME .
 *.dsh1ct2zrfakt.cloudfront.net CNAME .
 dsh7ky7308k4b.cloudfront.net CNAME .
@@ -33872,8 +33866,6 @@ eqbkokxmxmyyg.space CNAME .
 *.eqbkokxmxmyyg.space CNAME .
 eqceidtikngos.space CNAME .
 *.eqceidtikngos.space CNAME .
-eqcpkbdweyvff.online CNAME .
-*.eqcpkbdweyvff.online CNAME .
 eqddkngvrgvkw.site CNAME .
 *.eqddkngvrgvkw.site CNAME .
 eqfqekkgkwpya.online CNAME .
@@ -37116,8 +37108,6 @@ flyerseafood.com CNAME .
 *.flyerseafood.com CNAME .
 flygame.io CNAME .
 *.flygame.io CNAME .
-flygo.ru CNAME .
-*.flygo.ru CNAME .
 flyingadvert.com CNAME .
 *.flyingadvert.com CNAME .
 flyingfish.whoisrepresented.org CNAME .
@@ -42002,8 +41992,6 @@ hdvcode.com CNAME .
 *.hdvcode.com CNAME .
 hdvmyo.com CNAME .
 *.hdvmyo.com CNAME .
-hdxyj.icu CNAME .
-*.hdxyj.icu CNAME .
 hdywrwnvf-h.one CNAME .
 *.hdywrwnvf-h.one CNAME .
 hdzvojwvtwqxa.space CNAME .
@@ -47874,8 +47862,6 @@ jzxouwszeyhrq.online CNAME .
 *.jzxouwszeyhrq.online CNAME .
 jzzcyytskiojk.life CNAME .
 *.jzzcyytskiojk.life CNAME .
-jzzvsmdbsjyju.website CNAME .
-*.jzzvsmdbsjyju.website CNAME .
 k-oggwkhhxt.love CNAME .
 *.k-oggwkhhxt.love CNAME .
 k.iinfo.cz CNAME .
@@ -48034,8 +48020,6 @@ kayzen.io CNAME .
 *.kayzen.io CNAME .
 kbao7755.de CNAME .
 *.kbao7755.de CNAME .
-kbex72oiu2ycl1c3.cfd CNAME .
-*.kbex72oiu2ycl1c3.cfd CNAME .
 kbfizeskyyfkt.store CNAME .
 *.kbfizeskyyfkt.store CNAME .
 kbhgnyiogmrcl.store CNAME .
@@ -52830,8 +52814,6 @@ m700.bigrapidsnews.com CNAME .
 *.m700.bigrapidsnews.com CNAME .
 m78vxjm35d.com CNAME .
 *.m78vxjm35d.com CNAME .
-m7be4f5243x1p849x387xw7hcmwl.cfd CNAME .
-*.m7be4f5243x1p849x387xw7hcmwl.cfd CNAME .
 m7xssfiit.com CNAME .
 *.m7xssfiit.com CNAME .
 m81jmqmn.ru CNAME .
@@ -56342,8 +56324,6 @@ mvuzjyfunvkzw.store CNAME .
 *.mvuzjyfunvkzw.store CNAME .
 mvvlsvwtgoxlj.space CNAME .
 *.mvvlsvwtgoxlj.space CNAME .
-mvwdkjadutmcv.site CNAME .
-*.mvwdkjadutmcv.site CNAME .
 mvxrsxfzhccyb.space CNAME .
 *.mvxrsxfzhccyb.space CNAME .
 mw19c3mi5a.com CNAME .
@@ -58400,8 +58380,6 @@ nrgdsbuviocit.store CNAME .
 *.nrgdsbuviocit.store CNAME .
 nrged.com CNAME .
 *.nrged.com CNAME .
-nrihauhzmmxha.store CNAME .
-*.nrihauhzmmxha.store CNAME .
 nrnma.com CNAME .
 *.nrnma.com CNAME .
 nrqihuzvyunel.website CNAME .
@@ -59164,8 +59142,6 @@ oconner.biz CNAME .
 *.oconner.biz CNAME .
 oconner.link CNAME .
 *.oconner.link CNAME .
-ocpolgam.com CNAME .
-*.ocpolgam.com CNAME .
 ocry.com CNAME .
 *.ocry.com CNAME .
 octaplagaius.shop CNAME .
@@ -74064,8 +74040,6 @@ siodgs.icu CNAME .
 *.siodgs.icu CNAME .
 sionscormation.org CNAME .
 *.sionscormation.org CNAME .
-sioqfivttjrca.site CNAME .
-*.sioqfivttjrca.site CNAME .
 sipermedius.life CNAME .
 *.sipermedius.life CNAME .
 siphdcwglypz.tech CNAME .
@@ -81062,8 +81036,6 @@ tjlsvkucubbgl.space CNAME .
 *.tjlsvkucubbgl.space CNAME .
 tjmsqsemqyshc.website CNAME .
 *.tjmsqsemqyshc.website CNAME .
-tjndsmlcnoweq.space CNAME .
-*.tjndsmlcnoweq.space CNAME .
 tjnukcxcafaiq.website CNAME .
 *.tjnukcxcafaiq.website CNAME .
 tjpkgnwvighek.click CNAME .
@@ -93152,8 +93124,6 @@ yfxkedinghbze.space CNAME .
 *.yfxkedinghbze.space CNAME .
 yfypfpfmcfvmi.top CNAME .
 *.yfypfpfmcfvmi.top CNAME .
-ygdymjteuazch.site CNAME .
-*.ygdymjteuazch.site CNAME .
 ygerneablauts.qpon CNAME .
 *.ygerneablauts.qpon CNAME .
 ygersioepxuxo.online CNAME .
@@ -94082,8 +94052,6 @@ zbvbmifryccxd.website CNAME .
 *.zbvbmifryccxd.website CNAME .
 zcapieuheltue.store CNAME .
 *.zcapieuheltue.store CNAME .
-zcdyouluynjgv.website CNAME .
-*.zcdyouluynjgv.website CNAME .
 zcfpfsndkuzzp.store CNAME .
 *.zcfpfsndkuzzp.store CNAME .
 zcnmjb.icu CNAME .
