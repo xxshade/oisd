@@ -1,16 +1,16 @@
-; Version: 202510250519
+; Version: 202510250619
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95038
-; Last modified: 2025-10-25T05:19:44+0000
+; Entries: 95014
+; Last modified: 2025-10-25T06:19:24+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761369122 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761372721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -5136,8 +5136,6 @@ ad-optima.com CNAME .
 *.ad-optima.com CNAME .
 ad-pay.de CNAME .
 *.ad-pay.de CNAME .
-ad-pub.terra.com.br CNAME .
-*.ad-pub.terra.com.br CNAME .
 ad-scope.com CNAME .
 *.ad-scope.com CNAME .
 ad-scope.com.cn CNAME .
@@ -10568,8 +10566,6 @@ ambaab.com CNAME .
 *.ambaab.com CNAME .
 ambaquarrel.rest CNAME .
 *.ambaquarrel.rest CNAME .
-ambeartictor.com CNAME .
-*.ambeartictor.com CNAME .
 ambie.site CNAME .
 *.ambie.site CNAME .
 ambient-platform.com CNAME .
@@ -17008,8 +17004,6 @@ bizonads-ssp.com CNAME .
 *.bizonads-ssp.com CNAME .
 bizosama.com CNAME .
 *.bizosama.com CNAME .
-bizrotator.com CNAME .
-*.bizrotator.com CNAME .
 bj.ad.track.66mobi.com CNAME .
 *.bj.ad.track.66mobi.com CNAME .
 bj2550.com CNAME .
@@ -21342,8 +21336,6 @@ choupsee.com CNAME .
 *.choupsee.com CNAME .
 chouraip.com CNAME .
 *.chouraip.com CNAME .
-chourgaib.net CNAME .
-*.chourgaib.net CNAME .
 chozeers.xyz CNAME .
 *.chozeers.xyz CNAME .
 chpadblock.com CNAME .
@@ -33994,8 +33986,6 @@ ergonomicparadeupstroke.com CNAME .
 *.ergonomicparadeupstroke.com CNAME .
 ergotindanaite.digital CNAME .
 *.ergotindanaite.digital CNAME .
-erialtghehpgg.online CNAME .
-*.erialtghehpgg.online CNAME .
 eriavended.click CNAME .
 *.eriavended.click CNAME .
 eringodeglut.shop CNAME .
@@ -40890,8 +40880,6 @@ grwp3.com CNAME .
 *.grwp3.com CNAME .
 grygrothapi.pro CNAME .
 *.grygrothapi.pro CNAME .
-grzrxyvbxfsok.online CNAME .
-*.grzrxyvbxfsok.online CNAME .
 gs-ad.jp CNAME .
 *.gs-ad.jp CNAME .
 gs.mountain.com CNAME .
@@ -43900,8 +43888,6 @@ hztpibvstcrrz.site CNAME .
 *.hztpibvstcrrz.site CNAME .
 hzychcvdmjo.com CNAME .
 *.hzychcvdmjo.com CNAME .
-hzyrtyxsarscw.online CNAME .
-*.hzyrtyxsarscw.online CNAME .
 hzzvfturvtdvt.store CNAME .
 *.hzzvfturvtdvt.store CNAME .
 i-c-c-c.com CNAME .
@@ -58830,8 +58816,6 @@ nyalabubukle.cfd CNAME .
 *.nyalabubukle.cfd CNAME .
 nybkctzmldnye.space CNAME .
 *.nybkctzmldnye.space CNAME .
-nybrvnteugnpr.site CNAME .
-*.nybrvnteugnpr.site CNAME .
 nycp-hlb.dvgtm.akadns.net CNAME .
 *.nycp-hlb.dvgtm.akadns.net CNAME .
 nycteaflota.com CNAME .
@@ -61598,8 +61582,6 @@ paoailpcwnnhd.life CNAME .
 *.paoailpcwnnhd.life CNAME .
 papawrefits.com CNAME .
 *.papawrefits.com CNAME .
-paphoolred.com CNAME .
-*.paphoolred.com CNAME .
 paphzz.icu CNAME .
 *.paphzz.icu CNAME .
 papi.look.360.cn CNAME .
@@ -66072,8 +66054,6 @@ pvtnlmysbeigh.website CNAME .
 *.pvtnlmysbeigh.website CNAME .
 pvuaypsrfcecd.site CNAME .
 *.pvuaypsrfcecd.site CNAME .
-pvudrinycbaj.com CNAME .
-*.pvudrinycbaj.com CNAME .
 pvwpdapsakr.com CNAME .
 *.pvwpdapsakr.com CNAME .
 pvxzjdetbhrtz.top CNAME .
@@ -68110,8 +68090,6 @@ recommend-drcn.hms.dbankcloud.cn CNAME .
 *.recommend-drcn.hms.dbankcloud.cn CNAME .
 recommendedblanket.com CNAME .
 *.recommendedblanket.com CNAME .
-recommendednewspapermyself.com CNAME .
-*.recommendednewspapermyself.com CNAME .
 recompensecombinedlooks.com CNAME .
 *.recompensecombinedlooks.com CNAME .
 recompensemesmerize.com CNAME .
@@ -84168,8 +84146,6 @@ turdoidknape.click CNAME .
 *.turdoidknape.click CNAME .
 turesdi.top CNAME .
 *.turesdi.top CNAME .
-tureukworektob.info CNAME .
-*.tureukworektob.info CNAME .
 turflivestockdetector.com CNAME .
 *.turflivestockdetector.com CNAME .
 turfquelltablets.com CNAME .
