@@ -1,16 +1,16 @@
-; Version: 202510251822
+; Version: 202510251921
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95014
-; Last modified: 2025-10-25T18:22:12+0000
+; Entries: 94988
+; Last modified: 2025-10-25T19:21:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761415921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761419521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -110,8 +110,6 @@ $TTL 30
 *.054ii.com CNAME .
 055479b29b.9a57160d5c.com CNAME .
 *.055479b29b.9a57160d5c.com CNAME .
-058d79990c.com CNAME .
-*.058d79990c.com CNAME .
 05e4bd1819.com CNAME .
 *.05e4bd1819.com CNAME .
 05f3b6b187.com CNAME .
@@ -30746,8 +30744,6 @@ domesticrejoinedremark.com CNAME .
 *.domesticrejoinedremark.com CNAME .
 domestictransfer.shop CNAME .
 *.domestictransfer.shop CNAME .
-domewtwotor.com CNAME .
-*.domewtwotor.com CNAME .
 domexxxcolnsn.life CNAME .
 *.domexxxcolnsn.life CNAME .
 domicileperil.com CNAME .
@@ -34334,8 +34330,6 @@ eunow4u.com CNAME .
 *.eunow4u.com CNAME .
 eunpprzdlkf.online CNAME .
 *.eunpprzdlkf.online CNAME .
-euopkalxm.com CNAME .
-*.euopkalxm.com CNAME .
 euphoric-nature.com CNAME .
 *.euphoric-nature.com CNAME .
 eupornstar.info CNAME .
@@ -40132,8 +40126,6 @@ gobletauxiliary.com CNAME .
 *.gobletauxiliary.com CNAME .
 gobmodfoe.com CNAME .
 *.gobmodfoe.com CNAME .
-gobsabsiza.com CNAME .
-*.gobsabsiza.com CNAME .
 gobusinessloan.com CNAME .
 *.gobusinessloan.com CNAME .
 goddedkrater.com CNAME .
@@ -40760,8 +40752,6 @@ groleegni.net CNAME .
 *.groleegni.net CNAME .
 grookilteepsou.net CNAME .
 *.grookilteepsou.net CNAME .
-groomoub.com CNAME .
-*.groomoub.com CNAME .
 grooperclopped.digital CNAME .
 *.grooperclopped.digital CNAME .
 groorgoothumeco.net CNAME .
@@ -53104,8 +53094,6 @@ mainroll.com CNAME .
 *.mainroll.com CNAME .
 maintaintournamentslick.com CNAME .
 *.maintaintournamentslick.com CNAME .
-mainting-minues.xyz CNAME .
-*.mainting-minues.xyz CNAME .
 maintopkurku.qpon CNAME .
 *.maintopkurku.qpon CNAME .
 maio.jp CNAME .
@@ -54962,8 +54950,6 @@ mjvkkfolyddcq.website CNAME .
 *.mjvkkfolyddcq.website CNAME .
 mjwcsqcajfwhi.online CNAME .
 *.mjwcsqcajfwhi.online CNAME .
-mjwospwkg.com CNAME .
-*.mjwospwkg.com CNAME .
 mjxads.internet.com CNAME .
 *.mjxads.internet.com CNAME .
 mjxrcnuntghni.space CNAME .
@@ -57908,8 +57894,6 @@ nlfutnfylfgez.store CNAME .
 *.nlfutnfylfgez.store CNAME .
 nljnqxhpmwrla.website CNAME .
 *.nljnqxhpmwrla.website CNAME .
-nljsoezxslzhr.space CNAME .
-*.nljsoezxslzhr.space CNAME .
 nljyjt.icu CNAME .
 *.nljyjt.icu CNAME .
 nlkli.com CNAME .
@@ -67158,8 +67142,6 @@ qwpjtmwidhjijk.com CNAME .
 *.qwpjtmwidhjijk.com CNAME .
 qwpsgqyzrzcr.life CNAME .
 *.qwpsgqyzrzcr.life CNAME .
-qwrvyvheoqh.com CNAME .
-*.qwrvyvheoqh.com CNAME .
 qwrwawwlrlkyr.top CNAME .
 *.qwrwawwlrlkyr.top CNAME .
 qwrwawwlrzavv.top CNAME .
@@ -74588,8 +74570,6 @@ slowlyfocuseddose.com CNAME .
 *.slowlyfocuseddose.com CNAME .
 sltraffic.com CNAME .
 *.sltraffic.com CNAME .
-sltybgrptoww.com CNAME .
-*.sltybgrptoww.com CNAME .
 slubdamine.top CNAME .
 *.slubdamine.top CNAME .
 sluggedunbeget.top CNAME .
@@ -81296,8 +81276,6 @@ tmvirr.icu CNAME .
 *.tmvirr.icu CNAME .
 tnaczwecikco.online CNAME .
 *.tnaczwecikco.online CNAME .
-tnbigewpbffra.website CNAME .
-*.tnbigewpbffra.website CNAME .
 tnc-boot.capcutapi.com CNAME .
 *.tnc-boot.capcutapi.com CNAME .
 tnc-sg.capcutapi.com CNAME .
@@ -81340,8 +81318,6 @@ tnegeszxnuwpo.space CNAME .
 *.tnegeszxnuwpo.space CNAME .
 tnfjlukzibewa.space CNAME .
 *.tnfjlukzibewa.space CNAME .
-tnfno.icu CNAME .
-*.tnfno.icu CNAME .
 tnfqivurduflf.store CNAME .
 *.tnfqivurduflf.store CNAME .
 tnijhexxbrdag.online CNAME .
@@ -83652,8 +83628,6 @@ trk.techtarget.com CNAME .
 *.trk.techtarget.com CNAME .
 trk.tirto.id CNAME .
 *.trk.tirto.id CNAME .
-trk.vidible.tv CNAME .
-*.trk.vidible.tv CNAME .
 trk2-wtb.swaven.com CNAME .
 *.trk2-wtb.swaven.com CNAME .
 trk2.pinterest.com CNAME .
