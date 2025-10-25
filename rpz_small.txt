@@ -1,16 +1,16 @@
-; Version: 202510250619
+; Version: 202510250719
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95014
-; Last modified: 2025-10-25T06:19:24+0000
+; Entries: 94990
+; Last modified: 2025-10-25T07:19:57+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761372721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761376321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -29560,8 +29560,6 @@ dfqcp2awt0947.cloudfront.net CNAME .
 *.dfqcp2awt0947.cloudfront.net CNAME .
 dfrgxsiydjbfj.space CNAME .
 *.dfrgxsiydjbfj.space CNAME .
-dfsubnnhamtad.site CNAME .
-*.dfsubnnhamtad.site CNAME .
 dfuijqrojtvcb.site CNAME .
 *.dfuijqrojtvcb.site CNAME .
 dfwbfr2blhmr5.cloudfront.net CNAME .
@@ -46694,8 +46692,6 @@ jdfrqcqxzkjlr.space CNAME .
 *.jdfrqcqxzkjlr.space CNAME .
 jdfxtlykcmrly.online CNAME .
 *.jdfxtlykcmrly.online CNAME .
-jdhxeheulyybv.store CNAME .
-*.jdhxeheulyybv.store CNAME .
 jdhxvjrildzjt.site CNAME .
 *.jdhxvjrildzjt.site CNAME .
 jdlqivqfhiyjz.site CNAME .
@@ -48288,8 +48284,6 @@ kfvtvbihzxkck.website CNAME .
 *.kfvtvbihzxkck.website CNAME .
 kfwolwopegike.love CNAME .
 *.kfwolwopegike.love CNAME .
-kfzdbukgugedn.space CNAME .
-*.kfzdbukgugedn.space CNAME .
 kgdvs9ov3l2aasw4nuts.com CNAME .
 *.kgdvs9ov3l2aasw4nuts.com CNAME .
 kgfjrb711.com CNAME .
@@ -50878,8 +50872,6 @@ llfpaondsunun.site CNAME .
 *.llfpaondsunun.site CNAME .
 llgkzsbqwtdwz.online CNAME .
 *.llgkzsbqwtdwz.online CNAME .
-lljbszgukzvnu.site CNAME .
-*.lljbszgukzvnu.site CNAME .
 llnakdvnqoghu.site CNAME .
 *.llnakdvnqoghu.site CNAME .
 llog.pl CNAME .
@@ -63270,8 +63262,6 @@ pkuscuncykeql.life CNAME .
 *.pkuscuncykeql.life CNAME .
 pkvjrb.icu CNAME .
 *.pkvjrb.icu CNAME .
-pkzxulxtgggxz.space CNAME .
-*.pkzxulxtgggxz.space CNAME .
 pl.connatix.com CNAME .
 *.pl.connatix.com CNAME .
 pl.cp31.ott.cibntv.net CNAME .
@@ -66594,8 +66584,6 @@ qingolor.com CNAME .
 *.qingolor.com CNAME .
 qinvaris.com CNAME .
 *.qinvaris.com CNAME .
-qiqmyoriizxtj.site CNAME .
-*.qiqmyoriizxtj.site CNAME .
 qiqzvhmpvfbxf.tech CNAME .
 *.qiqzvhmpvfbxf.tech CNAME .
 qirbtkfgqdaug.website CNAME .
@@ -66752,8 +66740,6 @@ qogcteumntijn.site CNAME .
 *.qogcteumntijn.site CNAME .
 qohdzcdlxukep.online CNAME .
 *.qohdzcdlxukep.online CNAME .
-qolkekwuvcjvm.website CNAME .
-*.qolkekwuvcjvm.website CNAME .
 qonbibff.icu CNAME .
 *.qonbibff.icu CNAME .
 qoqv.com CNAME .
@@ -69492,8 +69478,6 @@ rmonitor.qq.com CNAME .
 *.rmonitor.qq.com CNAME .
 rmorbhodgdflkp.com CNAME .
 *.rmorbhodgdflkp.com CNAME .
-rmpvsnsyr.com CNAME .
-*.rmpvsnsyr.com CNAME .
 rmpywaamvfwfa.store CNAME .
 *.rmpywaamvfwfa.store CNAME .
 rms-drcn.platform.dbankcloud.cn CNAME .
@@ -72206,8 +72190,6 @@ sboehtuuoyggh.space CNAME .
 *.sboehtuuoyggh.space CNAME .
 sbpb1.chuiyue.com CNAME .
 *.sbpb1.chuiyue.com CNAME .
-sbpmzllgy.com CNAME .
-*.sbpmzllgy.com CNAME .
 sbqjioehjqnzb.site CNAME .
 *.sbqjioehjqnzb.site CNAME .
 sbscribeme.com CNAME .
@@ -75196,8 +75178,6 @@ soorkylarixin.com CNAME .
 *.soorkylarixin.com CNAME .
 soosooka.com CNAME .
 *.soosooka.com CNAME .
-soostoutoonuw.com CNAME .
-*.soostoutoonuw.com CNAME .
 sootgrid.com CNAME .
 *.sootgrid.com CNAME .
 sootoarathus.net CNAME .
@@ -93056,8 +93036,6 @@ yb23b.com CNAME .
 *.yb23b.com CNAME .
 ybibpwduubqhk.space CNAME .
 *.ybibpwduubqhk.space CNAME .
-ybjewvsigopww.store CNAME .
-*.ybjewvsigopww.store CNAME .
 ybjgdbcmispbe.store CNAME .
 *.ybjgdbcmispbe.store CNAME .
 yblvoxyjzuqrh.space CNAME .
@@ -93326,8 +93304,6 @@ yizj5fcwaj.com CNAME .
 *.yizj5fcwaj.com CNAME .
 yj2nf.icu CNAME .
 *.yj2nf.icu CNAME .
-yjcckvcaln.net CNAME .
-*.yjcckvcaln.net CNAME .
 yjdzqszsqttiy.store CNAME .
 *.yjdzqszsqttiy.store CNAME .
 yje912.cn CNAME .
