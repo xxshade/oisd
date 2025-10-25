@@ -1,9 +1,9 @@
-# Version: 202510250223
+# Version: 202510250423
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21074
-# Last modified: 2025-10-25T02:23:40+0000
+# Entries: 21077
+# Last modified: 2025-10-25T04:23:32+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1598,6 +1598,7 @@ local-zone: "avgle.pro." always_null
 local-zone: "avgo.tv." always_null
 local-zone: "avhd101.com." always_null
 local-zone: "avhu.com." always_null
+local-zone: "avhwa.com." always_null
 local-zone: "aviasales.ru." always_null
 local-zone: "avideos.xxx." always_null
 local-zone: "avidolpics.com." always_null
@@ -6820,6 +6821,7 @@ local-zone: "goindian2.com." always_null
 local-zone: "goit.global." always_null
 local-zone: "gojav-hd.com." always_null
 local-zone: "goladivka.com." always_null
+local-zone: "golapristan.com." always_null
 local-zone: "gold-gay.com." always_null
 local-zone: "goldasiantits.com." always_null
 local-zone: "goldenbbw.com." always_null
@@ -20723,6 +20725,7 @@ local-zone: "yaoihavenreborn.com." always_null
 local-zone: "yaoimangaonline.com." always_null
 local-zone: "yapatube.com." always_null
 local-zone: "yapfiles.ru." always_null
+local-zone: "yapl2.com." always_null
 local-zone: "yapornoham.vip." always_null
 local-zone: "yareel.com." always_null
 local-zone: "yaroslavlsm.com." always_null
