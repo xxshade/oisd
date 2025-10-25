@@ -1,16 +1,16 @@
-; Version: 202510251420
+; Version: 202510251521
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95130
-; Last modified: 2025-10-25T14:20:58+0000
+; Entries: 95110
+; Last modified: 2025-10-25T15:21:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761401521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761405121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13082,8 +13082,6 @@ aqdbfqsbnwpkb.website CNAME .
 *.aqdbfqsbnwpkb.website CNAME .
 aqdkehbez.com CNAME .
 *.aqdkehbez.com CNAME .
-aqfiritdwhtpf.space CNAME .
-*.aqfiritdwhtpf.space CNAME .
 aqghjpsqpanwu.online CNAME .
 *.aqghjpsqpanwu.online CNAME .
 aqgjqy.icu CNAME .
@@ -29518,8 +29516,6 @@ dexterrobbins.cf CNAME .
 *.dexterrobbins.cf CNAME .
 deycppnevpjax.online CNAME .
 *.deycppnevpjax.online CNAME .
-deylyratingdigicat.monster CNAME .
-*.deylyratingdigicat.monster CNAME .
 deymalaise.com CNAME .
 *.deymalaise.com CNAME .
 deypersonalreco.com CNAME .
@@ -46208,8 +46204,6 @@ itpsfqhnjlkwl.space CNAME .
 *.itpsfqhnjlkwl.space CNAME .
 itqseeh.icu CNAME .
 *.itqseeh.icu CNAME .
-itqvecaciock.com CNAME .
-*.itqvecaciock.com CNAME .
 itqyik.icu CNAME .
 *.itqyik.icu CNAME .
 itren.site CNAME .
@@ -52600,8 +52594,6 @@ luzypntaczbig.website CNAME .
 *.luzypntaczbig.website CNAME .
 lv9qr0g0.xyz CNAME .
 *.lv9qr0g0.xyz CNAME .
-lvakowxfzgnoo.online CNAME .
-*.lvakowxfzgnoo.online CNAME .
 lvbbdxvfisdnw.website CNAME .
 *.lvbbdxvfisdnw.website CNAME .
 lvbeybbkovomk.top CNAME .
@@ -65916,8 +65908,6 @@ pushamir.com CNAME .
 *.pushamir.com CNAME .
 pushance.com CNAME .
 *.pushance.com CNAME .
-pushanert.com CNAME .
-*.pushanert.com CNAME .
 pushatomic.com CNAME .
 *.pushatomic.com CNAME .
 pushazam.com CNAME .
@@ -74304,8 +74294,6 @@ sjtactic.com CNAME .
 *.sjtactic.com CNAME .
 sjucxifhymhdr.space CNAME .
 *.sjucxifhymhdr.space CNAME .
-sjvftcjneqmal.site CNAME .
-*.sjvftcjneqmal.site CNAME .
 sjvkiuvwo.net CNAME .
 *.sjvkiuvwo.net CNAME .
 sjzdhinioddfp.store CNAME .
@@ -84880,8 +84868,6 @@ ueuodgnrhb.com CNAME .
 *.ueuodgnrhb.com CNAME .
 ueuwvgco19.com CNAME .
 *.ueuwvgco19.com CNAME .
-uevarchbpdw.com CNAME .
-*.uevarchbpdw.com CNAME .
 uevazhxacchp.com CNAME .
 *.uevazhxacchp.com CNAME .
 uexteqwr.com CNAME .
@@ -86362,8 +86348,6 @@ uwsmamsebynub.site CNAME .
 *.uwsmamsebynub.site CNAME .
 uwzaq.world CNAME .
 *.uwzaq.world CNAME .
-uxbcragmtd.com CNAME .
-*.uxbcragmtd.com CNAME .
 uxbygjzvingbv.online CNAME .
 *.uxbygjzvingbv.online CNAME .
 uxffgxaqqkiha.site CNAME .
@@ -88200,8 +88184,6 @@ vxbstsvddlepb.online CNAME .
 *.vxbstsvddlepb.online CNAME .
 vxdehrxgnvhksfe.com CNAME .
 *.vxdehrxgnvhksfe.com CNAME .
-vxgvqcxghgtqe.site CNAME .
-*.vxgvqcxghgtqe.site CNAME .
 vxiearhzvtdtv.website CNAME .
 *.vxiearhzvtdtv.website CNAME .
 vxlehqrvmw.com CNAME .
@@ -93800,8 +93782,6 @@ ypiohesltiqrj.space CNAME .
 *.ypiohesltiqrj.space CNAME .
 ypmrjyxltcrra.space CNAME .
 *.ypmrjyxltcrra.space CNAME .
-yprqvudqukpncc.com CNAME .
-*.yprqvudqukpncc.com CNAME .
 yptqys.tianqistatic.com CNAME .
 *.yptqys.tianqistatic.com CNAME .
 ypwcttlciuuzu.online CNAME .
