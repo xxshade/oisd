@@ -1,16 +1,16 @@
-; Version: 202510251019
+; Version: 202510251119
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94926
-; Last modified: 2025-10-25T10:19:38+0000
+; Entries: 94914
+; Last modified: 2025-10-25T11:19:58+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761387121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761390722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -35906,8 +35906,6 @@ feistyswim.com CNAME .
 *.feistyswim.com CNAME .
 fejwweqjtndwz.site CNAME .
 *.fejwweqjtndwz.site CNAME .
-fejxrzvnvdvrks.com CNAME .
-*.fejxrzvnvdvrks.com CNAME .
 felidae.mmm.page CNAME .
 *.felidae.mmm.page CNAME .
 felidae.mysuperportal.com CNAME .
@@ -46330,8 +46328,6 @@ iyykavopdpkxx.site CNAME .
 *.iyykavopdpkxx.site CNAME .
 iyyzqjvjeehdi.store CNAME .
 *.iyyzqjvjeehdi.store CNAME .
-iyzlokonmgbp.com CNAME .
-*.iyzlokonmgbp.com CNAME .
 izaybwqvajljf.space CNAME .
 *.izaybwqvajljf.space CNAME .
 izechqbrmajqr.online CNAME .
@@ -50794,8 +50790,6 @@ lkpmprksau.com CNAME .
 *.lkpmprksau.com CNAME .
 lkqagavhhaqrp.space CNAME .
 *.lkqagavhhaqrp.space CNAME .
-lkqaq.icu CNAME .
-*.lkqaq.icu CNAME .
 lkqd.net CNAME .
 *.lkqd.net CNAME .
 lkrhxbrrztyfw.space CNAME .
@@ -55158,8 +55152,6 @@ mnroknmldvpcn.website CNAME .
 *.mnroknmldvpcn.website CNAME .
 mnruplggq.com CNAME .
 *.mnruplggq.com CNAME .
-mnsjoufsw.com CNAME .
-*.mnsjoufsw.com CNAME .
 mntft.com CNAME .
 *.mntft.com CNAME .
 mnttmnonaroop.online CNAME .
@@ -57560,8 +57552,6 @@ nglmedia.com CNAME .
 *.nglmedia.com CNAME .
 ngmdyqmrfvdzp.space CNAME .
 *.ngmdyqmrfvdzp.space CNAME .
-ngnvtrwzyxqsn.store CNAME .
-*.ngnvtrwzyxqsn.store CNAME .
 ngplansforourco.com CNAME .
 *.ngplansforourco.com CNAME .
 ngshospicalada.com CNAME .
@@ -62700,8 +62690,6 @@ picmega.com CNAME .
 *.picmega.com CNAME .
 picritegeoidal.rest CNAME .
 *.picritegeoidal.rest CNAME .
-pics.firstload.de CNAME .
-*.pics.firstload.de CNAME .
 pics.xgo-img.com.cn CNAME .
 *.pics.xgo-img.com.cn CNAME .
 picshost.pics CNAME .
