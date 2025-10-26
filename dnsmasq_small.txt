@@ -1,9 +1,9 @@
-# Version: 202510261120
+# Version: 202510261143
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 47370
-# Last modified: 2025-10-26T11:20:23+0000
+# Entries: 47369
+# Last modified: 2025-10-26T11:43:47+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -41084,7 +41084,6 @@ server=/track.strife.com/
 server=/track.sunmedia.tv/
 server=/track.taimi.com/
 server=/track.tel1mekar.com/
-server=/track.tenjin.com/
 server=/track.thebase.in/
 server=/track.thefunpost.com/
 server=/track.tomwx.net/

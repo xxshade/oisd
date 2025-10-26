@@ -1,9 +1,9 @@
-# Version: 202510261120
+# Version: 202510261143
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47370
-# Last modified: 2025-10-26T11:20:24+0000
+# Entries: 47369
+# Last modified: 2025-10-26T11:43:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -41085,7 +41085,6 @@ local-zone: "track.strife.com." always_null
 local-zone: "track.sunmedia.tv." always_null
 local-zone: "track.taimi.com." always_null
 local-zone: "track.tel1mekar.com." always_null
-local-zone: "track.tenjin.com." always_null
 local-zone: "track.thebase.in." always_null
 local-zone: "track.thefunpost.com." always_null
 local-zone: "track.tomwx.net." always_null
