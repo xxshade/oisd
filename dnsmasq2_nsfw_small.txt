@@ -1,9 +1,9 @@
-# Version: 202510261425
+# Version: 202510261926
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21096
-# Last modified: 2025-10-26T14:25:16+0000
+# Entries: 21094
+# Last modified: 2025-10-26T19:26:07+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14236,7 +14236,6 @@ local=/pornwex.tv/
 local=/pornwhite.com/
 local=/pornwhitelist.com/
 local=/pornwithtext.com/
-local=/pornworks.ai/
 local=/pornworks.com/
 local=/pornworld.com/
 local=/pornworms.com/
@@ -14972,7 +14971,6 @@ local=/rexxx.co/
 local=/rexxx.com/
 local=/rexxx.org/
 local=/reycomix.com/
-local=/rf.gd/
 local=/rgcams.com/
 local=/richpopup.com/
 local=/rickysroom.com/
