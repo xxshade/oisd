@@ -1,16 +1,16 @@
-; Version: 202510261621
+; Version: 202510261721
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94854
-; Last modified: 2025-10-26T16:21:58+0000
+; Entries: 94830
+; Last modified: 2025-10-26T17:21:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761495121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761498722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -30566,8 +30566,6 @@ dnvogsqirpcfq.space CNAME .
 *.dnvogsqirpcfq.space CNAME .
 dnxlgencstz4.cloudfront.net CNAME .
 *.dnxlgencstz4.cloudfront.net CNAME .
-dnxohvytwgb.com CNAME .
-*.dnxohvytwgb.com CNAME .
 do0digwedphcm.cloudfront.net CNAME .
 *.do0digwedphcm.cloudfront.net CNAME .
 do1dns3y1w33m.cloudfront.net CNAME .
@@ -37532,8 +37530,6 @@ fpxpobaudkjzu.site CNAME .
 *.fpxpobaudkjzu.site CNAME .
 fpyf8.com CNAME .
 *.fpyf8.com CNAME .
-fpyfowtmpihq.com CNAME .
-*.fpyfowtmpihq.com CNAME .
 fpzpmx.com CNAME .
 *.fpzpmx.com CNAME .
 fqayoymigvmbw.website CNAME .
@@ -39278,8 +39274,6 @@ ghpdixnhnrxt.com CNAME .
 *.ghpdixnhnrxt.com CNAME .
 ghsheukwasa.com CNAME .
 *.ghsheukwasa.com CNAME .
-ghsheukwasana.info CNAME .
-*.ghsheukwasana.info CNAME .
 ghswqnoilsxuj.store CNAME .
 *.ghswqnoilsxuj.store CNAME .
 ghtanothingfrui.org CNAME .
@@ -54540,8 +54534,6 @@ mignished-sility.com CNAME .
 *.mignished-sility.com CNAME .
 migranticon.com CNAME .
 *.migranticon.com CNAME .
-migrantspiteconnecting.com CNAME .
-*.migrantspiteconnecting.com CNAME .
 mihkieqzbounu.space CNAME .
 *.mihkieqzbounu.space CNAME .
 mihoutao1868.github.io CNAME .
@@ -58708,8 +58700,6 @@ nygcwpskctfwq.space CNAME .
 *.nygcwpskctfwq.space CNAME .
 nyirdmnvfcjav.online CNAME .
 *.nyirdmnvfcjav.online CNAME .
-nyivoueeetmksk.com CNAME .
-*.nyivoueeetmksk.com CNAME .
 nyjelh.icu CNAME .
 *.nyjelh.icu CNAME .
 nyjnursqfwsum.website CNAME .
@@ -60756,8 +60746,6 @@ ouwszkswhujxz.online CNAME .
 *.ouwszkswhujxz.online CNAME .
 ouy3.site CNAME .
 *.ouy3.site CNAME .
-ouywqjpdvrypl.com CNAME .
-*.ouywqjpdvrypl.com CNAME .
 ouzalruksengung.com CNAME .
 *.ouzalruksengung.com CNAME .
 ouzosbesiren.com CNAME .
@@ -65342,8 +65330,6 @@ pttzjo.top CNAME .
 *.pttzjo.top CNAME .
 ptugnins.net CNAME .
 *.ptugnins.net CNAME .
-ptuqidzdjdkhi.site CNAME .
-*.ptuqidzdjdkhi.site CNAME .
 ptwmcd.com CNAME .
 *.ptwmcd.com CNAME .
 ptwmemd.com CNAME .
@@ -69034,8 +69020,6 @@ riaoz.xyz CNAME .
 *.riaoz.xyz CNAME .
 riazrk-oba.online CNAME .
 *.riazrk-oba.online CNAME .
-ribauneebirtaur.com CNAME .
-*.ribauneebirtaur.com CNAME .
 ribghr.icu CNAME .
 *.ribghr.icu CNAME .
 ric-ric-rum.com CNAME .
@@ -73850,8 +73834,6 @@ sikhmarion.top CNAME .
 *.sikhmarion.top CNAME .
 sikncs.com CNAME .
 *.sikncs.com CNAME .
-sileneperused.com CNAME .
-*.sileneperused.com CNAME .
 silent-mixture.com CNAME .
 *.silent-mixture.com CNAME .
 silenthill24.biz CNAME .
@@ -77718,8 +77700,6 @@ stiffpatient.com CNAME .
 *.stiffpatient.com CNAME .
 stighunge.net CNAME .
 *.stighunge.net CNAME .
-stihaizaugnie.net CNAME .
-*.stihaizaugnie.net CNAME .
 stikroltiltoowi.net CNAME .
 *.stikroltiltoowi.net CNAME .
 stillawokeathwart.com CNAME .
@@ -79798,8 +79778,6 @@ tbjrtcoqldf.site CNAME .
 *.tbjrtcoqldf.site CNAME .
 tbmods.ru CNAME .
 *.tbmods.ru CNAME .
-tbodupljtegwgjn.com CNAME .
-*.tbodupljtegwgjn.com CNAME .
 tbpot.com CNAME .
 *.tbpot.com CNAME .
 tbspraffe.rest CNAME .
@@ -86778,8 +86756,6 @@ versteether.cfd CNAME .
 *.versteether.cfd CNAME .
 vertigovitalitywieldable.com CNAME .
 *.vertigovitalitywieldable.com CNAME .
-vertysbos.top CNAME .
-*.vertysbos.top CNAME .
 veruta.com CNAME .
 *.veruta.com CNAME .
 vervewireless.com CNAME .
