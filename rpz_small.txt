@@ -1,16 +1,16 @@
-; Version: 202510252327
+; Version: 202510260112
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95034
-; Last modified: 2025-10-25T23:27:40+0000
+; Entries: 95018
+; Last modified: 2025-10-26T01:12:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761433921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761437522 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14172,8 +14172,6 @@ audraghafamign.com CNAME .
 *.audraghafamign.com CNAME .
 auforau.com CNAME .
 *.auforau.com CNAME .
-augacuphub.com CNAME .
-*.augacuphub.com CNAME .
 augailou.com CNAME .
 *.augailou.com CNAME .
 augejoulser.net CNAME .
@@ -25430,8 +25428,6 @@ czamfgpnexsxo.vip CNAME .
 *.czamfgpnexsxo.vip CNAME .
 czarmishap.com CNAME .
 *.czarmishap.com CNAME .
-czarspigling.click CNAME .
-*.czarspigling.click CNAME .
 czbtszvqutqfy.com CNAME .
 *.czbtszvqutqfy.com CNAME .
 czdclraxaacmq.online CNAME .
@@ -38034,8 +38030,6 @@ fulyvaxscaucd.club CNAME .
 *.fulyvaxscaucd.club CNAME .
 fumblingvacation.pro CNAME .
 *.fumblingvacation.pro CNAME .
-fumbvxyisknrie.com CNAME .
-*.fumbvxyisknrie.com CNAME .
 fumczyxbebovu.online CNAME .
 *.fumczyxbebovu.online CNAME .
 funbestgetjoobsli.org CNAME .
@@ -39512,8 +39506,6 @@ gjapplog.ucweb.com CNAME .
 *.gjapplog.ucweb.com CNAME .
 gjc.gjirafa.com CNAME .
 *.gjc.gjirafa.com CNAME .
-gjcgqqbfyb.com CNAME .
-*.gjcgqqbfyb.com CNAME .
 gjfyeghpsuxmx.space CNAME .
 *.gjfyeghpsuxmx.space CNAME .
 gjigle.com CNAME .
@@ -42756,8 +42748,6 @@ hjwqvivxoymvw.site CNAME .
 *.hjwqvivxoymvw.site CNAME .
 hjxajf.com CNAME .
 *.hjxajf.com CNAME .
-hjyimrwzncbrh.space CNAME .
-*.hjyimrwzncbrh.space CNAME .
 hk6vdj4z.click CNAME .
 *.hk6vdj4z.click CNAME .
 hkcqpidtxaqkl.online CNAME .
@@ -70920,8 +70910,6 @@ rugiomyh2vmr.com CNAME .
 *.rugiomyh2vmr.com CNAME .
 rugtranslating.com CNAME .
 *.rugtranslating.com CNAME .
-rugyhrjawkmln.site CNAME .
-*.rugyhrjawkmln.site CNAME .
 ruinjan.com CNAME .
 *.ruinjan.com CNAME .
 ruinousmanipulation.com CNAME .
@@ -72260,8 +72248,6 @@ scautnotum.world CNAME .
 *.scautnotum.world CNAME .
 scavelbuntine.life CNAME .
 *.scavelbuntine.life CNAME .
-scenbe.com CNAME .
-*.scenbe.com CNAME .
 scenedaybreakpatronize.com CNAME .
 *.scenedaybreakpatronize.com CNAME .
 scented-cash.pro CNAME .
@@ -87950,8 +87936,6 @@ vttooqksrnhun.rocks CNAME .
 *.vttooqksrnhun.rocks CNAME .
 vtxnfezsswgbq.website CNAME .
 *.vtxnfezsswgbq.website CNAME .
-vtymyoxxxkfwb.com CNAME .
-*.vtymyoxxxkfwb.com CNAME .
 vtzubx.icu CNAME .
 *.vtzubx.icu CNAME .
 vu-kgxwyxpr.online CNAME .
