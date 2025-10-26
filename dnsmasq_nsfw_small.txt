@@ -1,9 +1,9 @@
-# Version: 202510261024
+# Version: 202510261124
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21099
-# Last modified: 2025-10-26T10:24:44+0000
+# Entries: 21098
+# Last modified: 2025-10-26T11:24:45+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12711,7 +12711,6 @@ server=/petittube.com/
 server=/petrotechsociety.org/
 server=/petsexvideos.com/
 server=/pexi.nl/
-server=/pezdwood.sbs/
 server=/pezporn.com/
 server=/pgirls.vg/
 server=/pgmodels.com.br/

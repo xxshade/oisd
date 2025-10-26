@@ -1,9 +1,9 @@
-# Version: 202510261024
+# Version: 202510261124
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21099
-# Last modified: 2025-10-26T10:24:45+0000
+# Entries: 21098
+# Last modified: 2025-10-26T11:24:46+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -12712,7 +12712,6 @@ local-zone: "petittube.com." always_null
 local-zone: "petrotechsociety.org." always_null
 local-zone: "petsexvideos.com." always_null
 local-zone: "pexi.nl." always_null
-local-zone: "pezdwood.sbs." always_null
 local-zone: "pezporn.com." always_null
 local-zone: "pgirls.vg." always_null
 local-zone: "pgmodels.com.br." always_null
