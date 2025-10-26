@@ -1,16 +1,16 @@
-; Version: 202510261147
+; Version: 202510261158
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94736
-; Last modified: 2025-10-26T11:47:03+0000
+; Entries: 94730
+; Last modified: 2025-10-26T11:58:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761479204 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761479415 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -6980,6 +6980,8 @@ ads-service.api.linkme.global CNAME .
 *.ads-service.api.linkme.global CNAME .
 ads-sg.tiktok.com CNAME .
 *.ads-sg.tiktok.com CNAME .
+ads-static.conde.digital CNAME .
+*.ads-static.conde.digital CNAME .
 ads-static.recon.com CNAME .
 *.ads-static.recon.com CNAME .
 ads-thanhnien-vn.cdn.ampproject.org CNAME .
@@ -9898,8 +9900,6 @@ akucord.com CNAME .
 *.akucord.com CNAME .
 akuhni.by CNAME .
 *.akuhni.by CNAME .
-akuleamazona.shop CNAME .
-*.akuleamazona.shop CNAME .
 akupmhxbzdhau.space CNAME .
 *.akupmhxbzdhau.space CNAME .
 akusherok.ru CNAME .
@@ -39586,6 +39586,8 @@ globalismedia.com CNAME .
 *.globalismedia.com CNAME .
 globaloffers.link CNAME .
 *.globaloffers.link CNAME .
+globalservices.conde.digital CNAME .
+*.globalservices.conde.digital CNAME .
 globaltakeoff.net CNAME .
 *.globaltakeoff.net CNAME .
 globaltraffico.com CNAME .
@@ -40804,8 +40806,6 @@ gspkethascafr.online CNAME .
 *.gspkethascafr.online CNAME .
 gspubterc.site CNAME .
 *.gspubterc.site CNAME .
-gsqwjyws.com CNAME .
-*.gsqwjyws.com CNAME .
 gsrctroclqloz.tech CNAME .
 *.gsrctroclqloz.tech CNAME .
 gsspat.jp CNAME .
@@ -46802,8 +46802,6 @@ jitterystation.com CNAME .
 *.jitterystation.com CNAME .
 jiuyic.top CNAME .
 *.jiuyic.top CNAME .
-jiwtwaogh.com CNAME .
-*.jiwtwaogh.com CNAME .
 jixdwtlveqhrl.online CNAME .
 *.jixdwtlveqhrl.online CNAME .
 jixurt.icu CNAME .
@@ -59634,8 +59632,6 @@ omoonsih.net CNAME .
 *.omoonsih.net CNAME .
 omoscmh.studio CNAME .
 *.omoscmh.studio CNAME .
-ompdzjlsiqmlv.site CNAME .
-*.ompdzjlsiqmlv.site CNAME .
 ompe2.7u6h8.xyz CNAME .
 *.ompe2.7u6h8.xyz CNAME .
 omphacyyolk.shop CNAME .
@@ -65020,8 +65016,6 @@ prxuapqwdrdin.website CNAME .
 *.prxuapqwdrdin.website CNAME .
 pryingcavemen.cfd CNAME .
 *.pryingcavemen.cfd CNAME .
-prylmgvesdsm.com CNAME .
-*.prylmgvesdsm.com CNAME .
 pryqzoejbfxro.store CNAME .
 *.pryqzoejbfxro.store CNAME .
 ps1.reallifecam.to CNAME .

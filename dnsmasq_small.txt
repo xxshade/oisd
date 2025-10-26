@@ -1,9 +1,9 @@
-# Version: 202510261147
+# Version: 202510261158
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 47368
-# Last modified: 2025-10-26T11:47:03+0000
+# Entries: 47365
+# Last modified: 2025-10-26T11:58:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3493,6 +3493,7 @@ server=/ads-segment-profile-noneu.truecaller.com/
 server=/ads-server.mxplay.com/
 server=/ads-service.api.linkme.global/
 server=/ads-sg.tiktok.com/
+server=/ads-static.conde.digital/
 server=/ads-static.recon.com/
 server=/ads-thanhnien-vn.cdn.ampproject.org/
 server=/ads-tracking.collectiveaudience.co/
@@ -4952,7 +4953,6 @@ server=/aksvougxccpvg.online/
 server=/aktivator-windows10.blogspot.com/
 server=/akucord.com/
 server=/akuhni.by/
-server=/akuleamazona.shop/
 server=/akupmhxbzdhau.space/
 server=/akusherok.ru/
 server=/akutapro.com/
@@ -19796,6 +19796,7 @@ server=/globale-analytics-sdk.global-e.com/
 server=/globalinteractive.com/
 server=/globalismedia.com/
 server=/globaloffers.link/
+server=/globalservices.conde.digital/
 server=/globaltakeoff.net/
 server=/globaltraffico.com/
 server=/globalwoldsinc.com/
@@ -20405,7 +20406,6 @@ server=/gsndkwoaeaijv.site/
 server=/gsp1.baidu.com/
 server=/gspkethascafr.online/
 server=/gspubterc.site/
-server=/gsqwjyws.com/
 server=/gsrctroclqloz.tech/
 server=/gsspat.jp/
 server=/gsspcln.jp/
@@ -23404,7 +23404,6 @@ server=/jitsu.ixbt.com/
 server=/jitterspauperusher.com/
 server=/jitterystation.com/
 server=/jiuyic.top/
-server=/jiwtwaogh.com/
 server=/jixdwtlveqhrl.online/
 server=/jixurt.icu/
 server=/jizzarchives.com/
@@ -29820,7 +29819,6 @@ server=/omoevcozeezhg.one/
 server=/omomku7r4n3vo55rp5k.xyz/
 server=/omoonsih.net/
 server=/omoscmh.studio/
-server=/ompdzjlsiqmlv.site/
 server=/ompe2.7u6h8.xyz/
 server=/omphacyyolk.shop/
 server=/omqdqupnwbqow.space/
@@ -32513,7 +32511,6 @@ server=/prwrrkaerzzon.space/
 server=/prx.wayfair.com/
 server=/prxuapqwdrdin.website/
 server=/pryingcavemen.cfd/
-server=/prylmgvesdsm.com/
 server=/pryqzoejbfxro.store/
 server=/ps1.reallifecam.to/
 server=/ps2.camcaps.to/

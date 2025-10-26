@@ -1,9 +1,9 @@
-# Version: 202510261147
+# Version: 202510261158
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47368
-# Last modified: 2025-10-26T11:47:04+0000
+# Entries: 47365
+# Last modified: 2025-10-26T11:58:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3494,6 +3494,7 @@ local-zone: "ads-segment-profile-noneu.truecaller.com." always_null
 local-zone: "ads-server.mxplay.com." always_null
 local-zone: "ads-service.api.linkme.global." always_null
 local-zone: "ads-sg.tiktok.com." always_null
+local-zone: "ads-static.conde.digital." always_null
 local-zone: "ads-static.recon.com." always_null
 local-zone: "ads-thanhnien-vn.cdn.ampproject.org." always_null
 local-zone: "ads-tracking.collectiveaudience.co." always_null
@@ -4953,7 +4954,6 @@ local-zone: "aksvougxccpvg.online." always_null
 local-zone: "aktivator-windows10.blogspot.com." always_null
 local-zone: "akucord.com." always_null
 local-zone: "akuhni.by." always_null
-local-zone: "akuleamazona.shop." always_null
 local-zone: "akupmhxbzdhau.space." always_null
 local-zone: "akusherok.ru." always_null
 local-zone: "akutapro.com." always_null
@@ -19797,6 +19797,7 @@ local-zone: "globale-analytics-sdk.global-e.com." always_null
 local-zone: "globalinteractive.com." always_null
 local-zone: "globalismedia.com." always_null
 local-zone: "globaloffers.link." always_null
+local-zone: "globalservices.conde.digital." always_null
 local-zone: "globaltakeoff.net." always_null
 local-zone: "globaltraffico.com." always_null
 local-zone: "globalwoldsinc.com." always_null
@@ -20406,7 +20407,6 @@ local-zone: "gsndkwoaeaijv.site." always_null
 local-zone: "gsp1.baidu.com." always_null
 local-zone: "gspkethascafr.online." always_null
 local-zone: "gspubterc.site." always_null
-local-zone: "gsqwjyws.com." always_null
 local-zone: "gsrctroclqloz.tech." always_null
 local-zone: "gsspat.jp." always_null
 local-zone: "gsspcln.jp." always_null
@@ -23405,7 +23405,6 @@ local-zone: "jitsu.ixbt.com." always_null
 local-zone: "jitterspauperusher.com." always_null
 local-zone: "jitterystation.com." always_null
 local-zone: "jiuyic.top." always_null
-local-zone: "jiwtwaogh.com." always_null
 local-zone: "jixdwtlveqhrl.online." always_null
 local-zone: "jixurt.icu." always_null
 local-zone: "jizzarchives.com." always_null
@@ -29821,7 +29820,6 @@ local-zone: "omoevcozeezhg.one." always_null
 local-zone: "omomku7r4n3vo55rp5k.xyz." always_null
 local-zone: "omoonsih.net." always_null
 local-zone: "omoscmh.studio." always_null
-local-zone: "ompdzjlsiqmlv.site." always_null
 local-zone: "ompe2.7u6h8.xyz." always_null
 local-zone: "omphacyyolk.shop." always_null
 local-zone: "omqdqupnwbqow.space." always_null
@@ -32514,7 +32512,6 @@ local-zone: "prwrrkaerzzon.space." always_null
 local-zone: "prx.wayfair.com." always_null
 local-zone: "prxuapqwdrdin.website." always_null
 local-zone: "pryingcavemen.cfd." always_null
-local-zone: "prylmgvesdsm.com." always_null
 local-zone: "pryqzoejbfxro.store." always_null
 local-zone: "ps1.reallifecam.to." always_null
 local-zone: "ps2.camcaps.to." always_null
