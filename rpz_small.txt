@@ -1,16 +1,16 @@
-; Version: 202510260820
+; Version: 202510260920
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94828
-; Last modified: 2025-10-26T08:20:41+0000
+; Entries: 94808
+; Last modified: 2025-10-26T09:20:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761466321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761469921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9634,8 +9634,6 @@ aigfednd.icu CNAME .
 *.aigfednd.icu CNAME .
 aigletfriuli.com CNAME .
 *.aigletfriuli.com CNAME .
-aigneloa.com CNAME .
-*.aigneloa.com CNAME .
 aiharsoreersu.net CNAME .
 *.aiharsoreersu.net CNAME .
 aiiirwciki.com CNAME .
@@ -13276,8 +13274,6 @@ aridianhiatus.cyou CNAME .
 *.aridianhiatus.cyou CNAME .
 ariessifts.click CNAME .
 *.ariessifts.click CNAME .
-arightdaturic.shop CNAME .
-*.arightdaturic.shop CNAME .
 ariotgribble.com CNAME .
 *.ariotgribble.com CNAME .
 arithmeticrobust.com CNAME .
@@ -20612,8 +20608,6 @@ cedrt6.pro CNAME .
 *.cedrt6.pro CNAME .
 cee1.iteye.com CNAME .
 *.cee1.iteye.com CNAME .
-ceegsowfry.com CNAME .
-*.ceegsowfry.com CNAME .
 ceerrvzdgucqs.online CNAME .
 *.ceerrvzdgucqs.online CNAME .
 cef7cb85aa.com CNAME .
@@ -28156,8 +28150,6 @@ dalethsplicae.website CNAME .
 *.dalethsplicae.website CNAME .
 dalfmidewin.shop CNAME .
 *.dalfmidewin.shop CNAME .
-dalfpejqutg.com CNAME .
-*.dalfpejqutg.com CNAME .
 dallavel.com CNAME .
 *.dallavel.com CNAME .
 daly2024.com CNAME .
@@ -47656,8 +47648,6 @@ juveniletennis.com CNAME .
 *.juveniletennis.com CNAME .
 juxpdnekqdmka.space CNAME .
 *.juxpdnekqdmka.space CNAME .
-juxqriyjqbz.com CNAME .
-*.juxqriyjqbz.com CNAME .
 juyacwujaednv.com CNAME .
 *.juyacwujaednv.com CNAME .
 juywkhbpmswmq.website CNAME .
@@ -52478,8 +52468,6 @@ lvyvxkmvrjrul.online CNAME .
 *.lvyvxkmvrjrul.online CNAME .
 lw.musictarget.com CNAME .
 *.lw.musictarget.com CNAME .
-lwadkefvusresjw.com CNAME .
-*.lwadkefvusresjw.com CNAME .
 lwadm.com CNAME .
 *.lwadm.com CNAME .
 lwdblrksolqvt.store CNAME .
@@ -54708,8 +54696,6 @@ misav.sbs CNAME .
 *.misav.sbs CNAME .
 misc.api.snaptube.app CNAME .
 *.misc.api.snaptube.app CNAME .
-miscalculatesuccessiverelish.com CNAME .
-*.miscalculatesuccessiverelish.com CNAME .
 miscellaneousfloraprosecutor.com CNAME .
 *.miscellaneousfloraprosecutor.com CNAME .
 misdatedesmid.world CNAME .
@@ -68520,8 +68506,6 @@ reposerversor.click CNAME .
 *.reposerversor.click CNAME .
 repoundgaumish.help CNAME .
 *.repoundgaumish.help CNAME .
-representhostilemedia.com CNAME .
-*.representhostilemedia.com CNAME .
 reproio.com CNAME .
 *.reproio.com CNAME .
 reprtqemdf.com CNAME .
@@ -81676,8 +81660,6 @@ tpc.googlesyndication-cn.com CNAME .
 *.tpc.googlesyndication-cn.com CNAME .
 tpcserve.com CNAME .
 *.tpcserve.com CNAME .
-tpdcttrrbwizd.store CNAME .
-*.tpdcttrrbwizd.store CNAME .
 tpfjpdizmvpaz.store CNAME .
 *.tpfjpdizmvpaz.store CNAME .
 tpfoyllqpudvs.space CNAME .
@@ -93618,8 +93600,6 @@ ytroytj33.fun CNAME .
 *.ytroytj33.fun CNAME .
 ytseotpnuzrdc.site CNAME .
 *.ytseotpnuzrdc.site CNAME .
-yttompthree.com CNAME .
-*.yttompthree.com CNAME .
 ytv7335mt.com CNAME .
 *.ytv7335mt.com CNAME .
 ytvpxycvnjtow.site CNAME .
