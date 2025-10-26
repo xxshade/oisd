@@ -1,16 +1,16 @@
-; Version: 202510260224
+; Version: 202510260322
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95010
-; Last modified: 2025-10-26T02:24:42+0000
+; Entries: 94994
+; Last modified: 2025-10-26T03:22:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761444721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761448322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9884,8 +9884,6 @@ akknroojtna.com CNAME .
 *.akknroojtna.com CNAME .
 akku.mondo.trium.mitsubishi.sms13.de CNAME .
 *.akku.mondo.trium.mitsubishi.sms13.de CNAME .
-aklmjylamvyqr.top CNAME .
-*.aklmjylamvyqr.top CNAME .
 aklmjylwvkqbm.top CNAME .
 *.aklmjylwvkqbm.top CNAME .
 aklvbooruyymz.website CNAME .
@@ -11976,8 +11974,6 @@ anglerfish.luminfire.com CNAME .
 *.anglerfish.luminfire.com CNAME .
 anglerfish.pfolios.net CNAME .
 *.anglerfish.pfolios.net CNAME .
-angletolerate.com CNAME .
-*.angletolerate.com CNAME .
 anglezinccompassionate.com CNAME .
 *.anglezinccompassionate.com CNAME .
 angrilyanimatorcuddle.com CNAME .
@@ -27926,8 +27922,6 @@ d5z42oph1suk.cloudfront.net CNAME .
 *.d5z42oph1suk.cloudfront.net CNAME .
 d63a3au5lqmtu.cloudfront.net CNAME .
 *.d63a3au5lqmtu.cloudfront.net CNAME .
-d6774f016a.com CNAME .
-*.d6774f016a.com CNAME .
 d6cto2pyf2ks.cloudfront.net CNAME .
 *.d6cto2pyf2ks.cloudfront.net CNAME .
 d6deij4k3ikap.cloudfront.net CNAME .
@@ -44062,8 +44056,6 @@ ibmwqchwzvlmd.online CNAME .
 *.ibmwqchwzvlmd.online CNAME .
 ibnxviddjsqgq.store CNAME .
 *.ibnxviddjsqgq.store CNAME .
-ibpghycyittdqi.com CNAME .
-*.ibpghycyittdqi.com CNAME .
 ibqemk.icu CNAME .
 *.ibqemk.icu CNAME .
 ibrapush.com CNAME .
@@ -52200,8 +52192,6 @@ lp4.io CNAME .
 *.lp4.io CNAME .
 lparket.com CNAME .
 *.lparket.com CNAME .
-lpghlgjzu.com CNAME .
-*.lpghlgjzu.com CNAME .
 lpmotortest.com CNAME .
 *.lpmotortest.com CNAME .
 lpmugcevks.com CNAME .
@@ -68028,8 +68018,6 @@ recitalenquiry.com CNAME .
 *.recitalenquiry.com CNAME .
 recitalfinancially.com CNAME .
 *.recitalfinancially.com CNAME .
-reciteassemble.com CNAME .
-*.reciteassemble.com CNAME .
 reclame.lequipement.fr CNAME .
 *.reclame.lequipement.fr CNAME .
 reclinenumbermen.com CNAME .
@@ -87886,8 +87874,6 @@ vsimyppptdxdo.site CNAME .
 *.vsimyppptdxdo.site CNAME .
 vslpnvutywvnb.space CNAME .
 *.vslpnvutywvnb.space CNAME .
-vsoexylody.com CNAME .
-*.vsoexylody.com CNAME .
 vsrttzvdtihei.site CNAME .
 *.vsrttzvdtihei.site CNAME .
 vst.dfn-network.pro CNAME .
@@ -90356,8 +90342,6 @@ wpfmovniimllu.online CNAME .
 *.wpfmovniimllu.online CNAME .
 wph2zu9rlb.com CNAME .
 *.wph2zu9rlb.com CNAME .
-wpiagwas.com CNAME .
-*.wpiagwas.com CNAME .
 wpizqi.icu CNAME .
 *.wpizqi.icu CNAME .
 wpjplnykjopdp.online CNAME .
