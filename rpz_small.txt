@@ -1,16 +1,16 @@
-; Version: 202510260720
+; Version: 202510260820
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94858
-; Last modified: 2025-10-26T07:20:33+0000
+; Entries: 94828
+; Last modified: 2025-10-26T08:20:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761462721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761466321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2960,8 +2960,6 @@ $TTL 30
 *.831f1e8aa9.com CNAME .
 8330bccb63.com CNAME .
 *.8330bccb63.com CNAME .
-83409127.xyz CNAME .
-*.83409127.xyz CNAME .
 838ccf095c.02f9838600.com CNAME .
 *.838ccf095c.02f9838600.com CNAME .
 839944c715.com CNAME .
@@ -11220,8 +11218,6 @@ analytics.dv.socure.io CNAME .
 *.analytics.dv.socure.io CNAME .
 analytics.dvidshub.net CNAME .
 *.analytics.dvidshub.net CNAME .
-analytics.e1.ru CNAME .
-*.analytics.e1.ru CNAME .
 analytics.e2estudios.com CNAME .
 *.analytics.e2estudios.com CNAME .
 analytics.ecosia.org CNAME .
@@ -15722,8 +15718,6 @@ bc6dc48b743dc5d01.clicknplay.to CNAME .
 *.bc6dc48b743dc5d01.clicknplay.to CNAME .
 bca10c62ca.com CNAME .
 *.bca10c62ca.com CNAME .
-bcaahcahnt.com CNAME .
-*.bcaahcahnt.com CNAME .
 bcafchldfejnd.online CNAME .
 *.bcafchldfejnd.online CNAME .
 bcfads.com CNAME .
@@ -28646,8 +28640,6 @@ dcbbwymp1bhlf.cloudfront.net CNAME .
 *.dcbbwymp1bhlf.cloudfront.net CNAME .
 dcbpm.suning.cn CNAME .
 *.dcbpm.suning.cn CNAME .
-dcekmroqspsuq.online CNAME .
-*.dcekmroqspsuq.online CNAME .
 dcff90fa75.com CNAME .
 *.dcff90fa75.com CNAME .
 dcfnihzg81pa.com CNAME .
@@ -31864,8 +31856,6 @@ dxakvollzguju.tech CNAME .
 *.dxakvollzguju.tech CNAME .
 dxaobbhcuiech.online CNAME .
 *.dxaobbhcuiech.online CNAME .
-dxbekvagbi.com CNAME .
-*.dxbekvagbi.com CNAME .
 dxbzufvkoahib.space CNAME .
 *.dxbzufvkoahib.space CNAME .
 dxcvqzxyycraw.website CNAME .
@@ -39774,8 +39764,6 @@ gnashesfanfare.com CNAME .
 *.gnashesfanfare.com CNAME .
 gnawreclaim.com CNAME .
 *.gnawreclaim.com CNAME .
-gnaymrzznfqhv.website CNAME .
-*.gnaymrzznfqhv.website CNAME .
 gnewgyld.com CNAME .
 *.gnewgyld.com CNAME .
 gnezdo.ru CNAME .
@@ -42720,8 +42708,6 @@ hl.dyq.cn CNAME .
 *.hl.dyq.cn CNAME .
 hl4pvqgbyt.com CNAME .
 *.hl4pvqgbyt.com CNAME .
-hlaigamktijldqa.com CNAME .
-*.hlaigamktijldqa.com CNAME .
 hldijphcjszui.store CNAME .
 *.hldijphcjszui.store CNAME .
 hlgqbkgvfvelf.store CNAME .
@@ -52076,8 +52062,6 @@ lovingforever.pro CNAME .
 *.lovingforever.pro CNAME .
 lovinghosethus.com CNAME .
 *.lovinghosethus.com CNAME .
-lowdurantom.com CNAME .
-*.lowdurantom.com CNAME .
 loweredbowl.com CNAME .
 *.loweredbowl.com CNAME .
 lowlifewhateverspotless.com CNAME .
@@ -57262,8 +57246,6 @@ newg.clicknplay.to CNAME .
 *.newg.clicknplay.to CNAME .
 newgatemoble.com CNAME .
 *.newgatemoble.com CNAME .
-newhigee.net CNAME .
-*.newhigee.net CNAME .
 newjulads.com CNAME .
 *.newjulads.com CNAME .
 newlog.overwolf.com CNAME .
@@ -60918,8 +60900,6 @@ owtpooquoezgt.space CNAME .
 *.owtpooquoezgt.space CNAME .
 owvedlxhgvvxf.store CNAME .
 *.owvedlxhgvvxf.store CNAME .
-owvnxokffogou.site CNAME .
-*.owvnxokffogou.site CNAME .
 owwirzikteowa.online CNAME .
 *.owwirzikteowa.online CNAME .
 owwqbgkedrqeh.space CNAME .
@@ -69836,8 +69816,6 @@ rsd.viagrahtabs.shop CNAME .
 *.rsd.viagrahtabs.shop CNAME .
 rseducationinin.com CNAME .
 *.rseducationinin.com CNAME .
-rsihudniulpvr.online CNAME .
-*.rsihudniulpvr.online CNAME .
 rsityexcellojapanelm.org CNAME .
 *.rsityexcellojapanelm.org CNAME .
 rskdtqfdolvzb.site CNAME .
@@ -72050,8 +72028,6 @@ sbpb1.chuiyue.com CNAME .
 *.sbpb1.chuiyue.com CNAME .
 sbqjioehjqnzb.site CNAME .
 *.sbqjioehjqnzb.site CNAME .
-sbscribeme.com CNAME .
-*.sbscribeme.com CNAME .
 sbtiulwkstzpt.space CNAME .
 *.sbtiulwkstzpt.space CNAME .
 sbx.pagesjaunes.fr CNAME .
@@ -88528,8 +88504,6 @@ wc.paybooc.co.kr CNAME .
 *.wc.paybooc.co.kr CNAME .
 wcbxugtfk.com CNAME .
 *.wcbxugtfk.com CNAME .
-wcczteqglahvd.space CNAME .
-*.wcczteqglahvd.space CNAME .
 wcdkccrsixbtr.site CNAME .
 *.wcdkccrsixbtr.site CNAME .
 wchypueyeounn.space CNAME .
@@ -90216,8 +90190,6 @@ wpfc.ml CNAME .
 *.wpfc.ml CNAME .
 wpfly-sbpkrd.icu CNAME .
 *.wpfly-sbpkrd.icu CNAME .
-wpfmovniimllu.online CNAME .
-*.wpfmovniimllu.online CNAME .
 wph2zu9rlb.com CNAME .
 *.wph2zu9rlb.com CNAME .
 wpizqi.icu CNAME .
@@ -94482,8 +94454,6 @@ zoifwejzptmea.store CNAME .
 *.zoifwejzptmea.store CNAME .
 zojxutphlghyn.online CNAME .
 *.zojxutphlghyn.online CNAME .
-zokqlomemmvke.top CNAME .
-*.zokqlomemmvke.top CNAME .
 zolivexo.store CNAME .
 *.zolivexo.store CNAME .
 zolizatate.com CNAME .
