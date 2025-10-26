@@ -1,16 +1,16 @@
-; Version: 202510261721
+; Version: 202510261822
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94830
-; Last modified: 2025-10-26T17:21:23+0000
+; Entries: 94798
+; Last modified: 2025-10-26T18:22:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761498722 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761502321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13744,8 +13744,6 @@ assortplaintiffwailing.com CNAME .
 *.assortplaintiffwailing.com CNAME .
 assp.sohu.com CNAME .
 *.assp.sohu.com CNAME .
-assumeditch.com CNAME .
-*.assumeditch.com CNAME .
 assumeflippers.com CNAME .
 *.assumeflippers.com CNAME .
 assumptiveslumber.com CNAME .
@@ -21054,8 +21052,6 @@ cheeghalseghoay.net CNAME .
 *.cheeghalseghoay.net CNAME .
 cheeksognoura.net CNAME .
 *.cheeksognoura.net CNAME .
-cheephumsou.com CNAME .
-*.cheephumsou.com CNAME .
 cheepswoibe.qpon CNAME .
 *.cheepswoibe.qpon CNAME .
 cheerfultell.pro CNAME .
@@ -24350,8 +24346,6 @@ cqomjiajwczzf.online CNAME .
 *.cqomjiajwczzf.online CNAME .
 cqorwjtsurysk.website CNAME .
 *.cqorwjtsurysk.website CNAME .
-cqosxvpk.com CNAME .
-*.cqosxvpk.com CNAME .
 cqqmjkrcwuetz.store CNAME .
 *.cqqmjkrcwuetz.store CNAME .
 cqrqudjmhslqh.website CNAME .
@@ -29534,8 +29528,6 @@ dfwpqypmsyrkvv.com CNAME .
 *.dfwpqypmsyrkvv.com CNAME .
 dfx.xtapes.porn CNAME .
 *.dfx.xtapes.porn CNAME .
-dfypinknckctz.website CNAME .
-*.dfypinknckctz.website CNAME .
 dfzuxtkanxwxx.space CNAME .
 *.dfzuxtkanxwxx.space CNAME .
 dg0hrtzcus4q4.cloudfront.net CNAME .
@@ -37870,8 +37862,6 @@ fsu1cg19c.com CNAME .
 *.fsu1cg19c.com CNAME .
 fsx.i-run.fr CNAME .
 *.fsx.i-run.fr CNAME .
-ftacbwmrfphxa.online CNAME .
-*.ftacbwmrfphxa.online CNAME .
 ftblltrck.com CNAME .
 *.ftblltrck.com CNAME .
 ftd.agency CNAME .
@@ -42132,8 +42122,6 @@ hematiccapulet.world CNAME .
 *.hematiccapulet.world CNAME .
 hemenindir.to CNAME .
 *.hemenindir.to CNAME .
-hemeratenses.com CNAME .
-*.hemeratenses.com CNAME .
 hemineedunks.com CNAME .
 *.hemineedunks.com CNAME .
 hemnes.win CNAME .
@@ -42824,8 +42812,6 @@ hoarse-shake.pro CNAME .
 *.hoarse-shake.pro CNAME .
 hoarsecelebrityversus.com CNAME .
 *.hoarsecelebrityversus.com CNAME .
-hoasoukoush.net CNAME .
-*.hoasoukoush.net CNAME .
 hoasvvtyavmbn.store CNAME .
 *.hoasvvtyavmbn.store CNAME .
 hobblehorrifiedfox.com CNAME .
@@ -44196,8 +44182,6 @@ idolizedestimate.pro CNAME .
 *.idolizedestimate.pro CNAME .
 idqmcmowhjmps.website CNAME .
 *.idqmcmowhjmps.website CNAME .
-idrct.com CNAME .
-*.idrct.com CNAME .
 idreamed.com CNAME .
 *.idreamed.com CNAME .
 idsrscpzgpgzw.rocks CNAME .
@@ -46750,8 +46734,6 @@ jgoodedtayhfm.site CNAME .
 *.jgoodedtayhfm.site CNAME .
 jgqaainj.buzz CNAME .
 *.jgqaainj.buzz CNAME .
-jgqquaeevmhed.online CNAME .
-*.jgqquaeevmhed.online CNAME .
 jgubbpypmlxbk.one CNAME .
 *.jgubbpypmlxbk.one CNAME .
 jguroejplzivn.site CNAME .
@@ -57134,8 +57116,6 @@ nesiotbeworry.shop CNAME .
 *.nesiotbeworry.shop CNAME .
 nessainy.net CNAME .
 *.nessainy.net CNAME .
-nesta.dimawusinners.xyz CNAME .
-*.nesta.dimawusinners.xyz CNAME .
 nestledmph.com CNAME .
 *.nestledmph.com CNAME .
 net-filter.com CNAME .
@@ -60752,8 +60732,6 @@ ouzosbesiren.com CNAME .
 *.ouzosbesiren.com CNAME .
 ov.yahoo.co.jp CNAME .
 *.ov.yahoo.co.jp CNAME .
-ov8ct.icu CNAME .
-*.ov8ct.icu CNAME .
 ovalishabasers.digital CNAME .
 *.ovalishabasers.digital CNAME .
 ovantfaits.com CNAME .
@@ -65304,8 +65282,6 @@ ptopedsesaiss.com CNAME .
 *.ptopedsesaiss.com CNAME .
 ptoptaglyphi.com CNAME .
 *.ptoptaglyphi.com CNAME .
-ptoucmeejoohy.com CNAME .
-*.ptoucmeejoohy.com CNAME .
 ptouglaiksiky.net CNAME .
 *.ptouglaiksiky.net CNAME .
 ptoulraiph.net CNAME .
@@ -66730,8 +66706,6 @@ qtcpvgdluotko.website CNAME .
 *.qtcpvgdluotko.website CNAME .
 qtgoiasqfgbgb.space CNAME .
 *.qtgoiasqfgbgb.space CNAME .
-qtjqxpmynsjtg.online CNAME .
-*.qtjqxpmynsjtg.online CNAME .
 qtmcctlezxmvt.online CNAME .
 *.qtmcctlezxmvt.online CNAME .
 qtmqwnrvcfhg.com CNAME .
@@ -72710,8 +72684,6 @@ senditfast.cloud CNAME .
 *.senditfast.cloud CNAME .
 sendmepush.com CNAME .
 *.sendmepush.com CNAME .
-senonsiatinus.com CNAME .
-*.senonsiatinus.com CNAME .
 senrieadqahra.site CNAME .
 *.senrieadqahra.site CNAME .
 sensationthigh.com CNAME .
@@ -77584,8 +77556,6 @@ staysafeonlinetoday.com CNAME .
 *.staysafeonlinetoday.com CNAME .
 stbid.ru CNAME .
 *.stbid.ru CNAME .
-stbowfywtzhrq.space CNAME .
-*.stbowfywtzhrq.space CNAME .
 stc-nas.nixcdn.com CNAME .
 *.stc-nas.nixcdn.com CNAME .
 stc-support-app-brand.zdn.vn CNAME .
@@ -93632,8 +93602,6 @@ ytx-file.110route.cn CNAME .
 *.ytx-file.110route.cn CNAME .
 ytydijifrvcyj.club CNAME .
 *.ytydijifrvcyj.club CNAME .
-ytyoboyjvnuhk.store CNAME .
-*.ytyoboyjvnuhk.store CNAME .
 ytzihf.com CNAME .
 *.ytzihf.com CNAME .
 ytzisjouiwwsg.site CNAME .
