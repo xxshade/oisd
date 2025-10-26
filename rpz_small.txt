@@ -1,16 +1,16 @@
-; Version: 202510261158
+; Version: 202510261321
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94730
-; Last modified: 2025-10-26T11:58:28+0000
+; Entries: 94704
+; Last modified: 2025-10-26T13:21:12+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761479415 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761484322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -21330,8 +21330,6 @@ chunmiaosh.com CNAME .
 *.chunmiaosh.com CNAME .
 chupl.icu CNAME .
 *.chupl.icu CNAME .
-chuteepoabse.com CNAME .
-*.chuteepoabse.com CNAME .
 chxipdpddjlpe.global CNAME .
 *.chxipdpddjlpe.global CNAME .
 chyackdoitkin.cfd CNAME .
@@ -33164,8 +33162,6 @@ elitedollars.com CNAME .
 *.elitedollars.com CNAME .
 elitetoplist.com CNAME .
 *.elitetoplist.com CNAME .
-elitistcompensationstretched.com CNAME .
-*.elitistcompensationstretched.com CNAME .
 elizabethpertinent.com CNAME .
 *.elizabethpertinent.com CNAME .
 elizabethpunishhead.com CNAME .
@@ -33566,8 +33562,6 @@ enlightenedmountain.com CNAME .
 *.enlightenedmountain.com CNAME .
 enlightenelevatorboycott.com CNAME .
 *.enlightenelevatorboycott.com CNAME .
-enlsdqmbzycmo.space CNAME .
-*.enlsdqmbzycmo.space CNAME .
 enlvbrhejiami.online CNAME .
 *.enlvbrhejiami.online CNAME .
 enmusubimail000.com CNAME .
@@ -45964,8 +45958,6 @@ italianbeepimpediment.com CNAME .
 *.italianbeepimpediment.com CNAME .
 italianforesee.com CNAME .
 *.italianforesee.com CNAME .
-itblisseyer.com CNAME .
-*.itblisseyer.com CNAME .
 itbtdirbwlzmy.store CNAME .
 *.itbtdirbwlzmy.store CNAME .
 itcameruptr.com CNAME .
@@ -46486,8 +46478,6 @@ jbmmqpmrdjnsn.global CNAME .
 *.jbmmqpmrdjnsn.global CNAME .
 jboztgcwxnvoc.website CNAME .
 *.jboztgcwxnvoc.website CNAME .
-jbpfyhogtfj.com CNAME .
-*.jbpfyhogtfj.com CNAME .
 jbqtnmomoetzz.site CNAME .
 *.jbqtnmomoetzz.site CNAME .
 jbtul.com CNAME .
@@ -48908,8 +48898,6 @@ ksvnwdhtvndeq.site CNAME .
 *.ksvnwdhtvndeq.site CNAME .
 kszrmrhuwgrsy.website CNAME .
 *.kszrmrhuwgrsy.website CNAME .
-kszzlyhasgipx.store CNAME .
-*.kszzlyhasgipx.store CNAME .
 kta.etherscan.com CNAME .
 *.kta.etherscan.com CNAME .
 ktfmk4utug.com CNAME .
@@ -53068,8 +53056,6 @@ mandrill.yellowfruit.co CNAME .
 *.mandrill.yellowfruit.co CNAME .
 mangbaiz.xyz CNAME .
 *.mangbaiz.xyz CNAME .
-mangensaud.net CNAME .
-*.mangensaud.net CNAME .
 mangerolympicssnort.com CNAME .
 *.mangerolympicssnort.com CNAME .
 mangeskapa.rest CNAME .
@@ -58162,8 +58148,6 @@ npetropicalnormati.org CNAME .
 *.npetropicalnormati.org CNAME .
 npiramqanr.com CNAME .
 *.npiramqanr.com CNAME .
-npiwgxfpugdsc.site CNAME .
-*.npiwgxfpugdsc.site CNAME .
 nplvdodbja.com CNAME .
 *.nplvdodbja.com CNAME .
 npojutficc.com CNAME .
@@ -66336,8 +66320,6 @@ qidblight.top CNAME .
 *.qidblight.top CNAME .
 qidfamogebcku.space CNAME .
 *.qidfamogebcku.space CNAME .
-qidpfamr.com CNAME .
-*.qidpfamr.com CNAME .
 qihnajipjpmii.online CNAME .
 *.qihnajipjpmii.online CNAME .
 qihpwojcazrje.website CNAME .
@@ -72704,8 +72686,6 @@ separatelysmackfibber.com CNAME .
 *.separatelysmackfibber.com CNAME .
 sepiarypooris.com CNAME .
 *.sepiarypooris.com CNAME .
-septads.store CNAME .
-*.septads.store CNAME .
 septbajri.com CNAME .
 *.septbajri.com CNAME .
 septfd2em64eber.com CNAME .
@@ -74350,8 +74330,6 @@ sluicehamate.com CNAME .
 *.sluicehamate.com CNAME .
 slumberralph.com CNAME .
 *.slumberralph.com CNAME .
-slumzbsktpgkt.website CNAME .
-*.slumzbsktpgkt.website CNAME .
 slushhelmetmirth.com CNAME .
 *.slushhelmetmirth.com CNAME .
 slushy-classroom.pro CNAME .
@@ -75358,8 +75336,6 @@ spcwtcizsymxf.site CNAME .
 *.spcwtcizsymxf.site CNAME .
 spdate.com CNAME .
 *.spdate.com CNAME .
-spdxmrvxh.net CNAME .
-*.spdxmrvxh.net CNAME .
 speakmalthe.com CNAME .
 *.speakmalthe.com CNAME .
 spearmint4334.gb.net CNAME .
@@ -92596,8 +92572,6 @@ xy33.smallable.com CNAME .
 *.xy33.smallable.com CNAME .
 xycdn.com CNAME .
 *.xycdn.com CNAME .
-xylfkrzggfybfy.com CNAME .
-*.xylfkrzggfybfy.com CNAME .
 xylzwamxxshgw.click CNAME .
 *.xylzwamxxshgw.click CNAME .
 xympumihvhkkv.online CNAME .
