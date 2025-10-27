@@ -1,16 +1,16 @@
-; Version: 202510262328
+; Version: 202510270018
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94822
-; Last modified: 2025-10-26T23:28:49+0000
+; Entries: 94812
+; Last modified: 2025-10-27T00:18:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761520321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761523921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -792,8 +792,6 @@ $TTL 30
 *.1g46ls536.de CNAME .
 1gbjadpsq.de CNAME .
 *.1gbjadpsq.de CNAME .
-1gmzo.icu CNAME .
-*.1gmzo.icu CNAME .
 1gp3p6fkio.com CNAME .
 *.1gp3p6fkio.com CNAME .
 1gtp.icu CNAME .
@@ -57552,8 +57550,6 @@ nickelstapoun.com CNAME .
 *.nickelstapoun.com CNAME .
 nickhel.com CNAME .
 *.nickhel.com CNAME .
-nicknameuntie.com CNAME .
-*.nicknameuntie.com CNAME .
 nicolsphonol.rest CNAME .
 *.nicolsphonol.rest CNAME .
 nid.thesun.co.uk CNAME .
@@ -61144,8 +61140,6 @@ pacontainer.s3.amazonaws.com CNAME .
 *.pacontainer.s3.amazonaws.com CNAME .
 pacotaanankes.help CNAME .
 *.pacotaanankes.help CNAME .
-pacquetenfin.top CNAME .
-*.pacquetenfin.top CNAME .
 pacteaten.com CNAME .
 *.pacteaten.com CNAME .
 paddlefidget.com CNAME .
@@ -74194,8 +74188,6 @@ skvxbool.xyz CNAME .
 *.skvxbool.xyz CNAME .
 skwaiebpxbbku.site CNAME .
 *.skwaiebpxbbku.site CNAME .
-skwvxvjcpyyyg.net CNAME .
-*.skwvxvjcpyyyg.net CNAME .
 skyadsmart.com CNAME .
 *.skyadsmart.com CNAME .
 skydemanded.com CNAME .
@@ -75742,8 +75734,6 @@ spreement.com CNAME .
 *.spreement.com CNAME .
 sprewlnipter.qpon CNAME .
 *.sprewlnipter.qpon CNAME .
-springraptureimprove.com CNAME .
-*.springraptureimprove.com CNAME .
 sprinkletxt.com CNAME .
 *.sprinkletxt.com CNAME .
 sprinlof.com CNAME .
