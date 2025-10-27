@@ -1,9 +1,9 @@
-# Version: 202510270525
+# Version: 202510270624
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21011
-# Last modified: 2025-10-27T05:25:40+0000
+# Entries: 21010
+# Last modified: 2025-10-27T06:24:13+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15988,7 +15988,6 @@ local-zone: "sexsoshop.ru." always_null
 local-zone: "sexspb.love." always_null
 local-zone: "sexsq.com." always_null
 local-zone: "sexstalk.com." always_null
-local-zone: "sexstorian.com." always_null
 local-zone: "sexstories.com." always_null
 local-zone: "sexstories69.com." always_null
 local-zone: "sexstoriespost.com." always_null
