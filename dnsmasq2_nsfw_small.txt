@@ -1,9 +1,9 @@
-# Version: 202510271626
+# Version: 202510271826
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21011
-# Last modified: 2025-10-27T16:26:20+0000
+# Entries: 21009
+# Last modified: 2025-10-27T18:26:23+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -714,7 +714,6 @@ local=/afroporn.net/
 local=/afroromance.com/
 local=/afspraakjes.be/
 local=/afspraakjes.com/
-local=/againgay.com/
 local=/agama-sex.cz/
 local=/agat-tech.com/
 local=/agaysex.com/
@@ -13167,7 +13166,6 @@ local=/pornarabes.com/
 local=/pornarabi.net/
 local=/pornarch.com/
 local=/pornasia.net/
-local=/pornati.com/
 local=/pornav.co/
 local=/pornav.net/
 local=/pornavhd.com/
