@@ -1,16 +1,16 @@
-; Version: 202510271822
+; Version: 202510271921
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94778
-; Last modified: 2025-10-27T18:22:10+0000
+; Entries: 94750
+; Last modified: 2025-10-27T19:21:28+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761588722 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761592322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -2866,8 +2866,6 @@ $TTL 30
 *.7hgw85qugx.com CNAME .
 7imz0d5nay.com CNAME .
 *.7imz0d5nay.com CNAME .
-7izq96koky24fwo.cfd CNAME .
-*.7izq96koky24fwo.cfd CNAME .
 7jf3kxi6bq.com CNAME .
 *.7jf3kxi6bq.com CNAME .
 7jrahgc.de CNAME .
@@ -11716,8 +11714,6 @@ analytics.vedantu.com CNAME .
 *.analytics.vedantu.com CNAME .
 analytics.vendemore.com CNAME .
 *.analytics.vendemore.com CNAME .
-analytics.verfacto.com CNAME .
-*.analytics.verfacto.com CNAME .
 analytics.vg CNAME .
 *.analytics.vg CNAME .
 analytics.vgtimes.com CNAME .
@@ -13296,8 +13292,6 @@ arkwglkwhnhce.store CNAME .
 *.arkwglkwhnhce.store CNAME .
 arlcumwyzkijq.site CNAME .
 *.arlcumwyzkijq.site CNAME .
-arleavannya.com CNAME .
-*.arleavannya.com CNAME .
 armadillo.axeneo7.qc.ca CNAME .
 *.armadillo.axeneo7.qc.ca CNAME .
 armadillo.oceandecadenortheastpacific.org CNAME .
@@ -29806,8 +29800,6 @@ dippergeologyprescribe.com CNAME .
 *.dippergeologyprescribe.com CNAME .
 dippingearlier.com CNAME .
 *.dippingearlier.com CNAME .
-diptaich.com CNAME .
-*.diptaich.com CNAME .
 diqftdf1fp8u.cloudfront.net CNAME .
 *.diqftdf1fp8u.cloudfront.net CNAME .
 direcompulsion.com CNAME .
@@ -41152,8 +41144,6 @@ gvlntdvflisny.space CNAME .
 *.gvlntdvflisny.space CNAME .
 gvmogilshxbdg.store CNAME .
 *.gvmogilshxbdg.store CNAME .
-gvnuvaamizfup.website CNAME .
-*.gvnuvaamizfup.website CNAME .
 gvt2.com CNAME .
 *.gvt2.com CNAME .
 gw.blacked.com CNAME .
@@ -48818,8 +48808,6 @@ kq6mv8mpvs4m10r449nms6.xyz CNAME .
 *.kq6mv8mpvs4m10r449nms6.xyz CNAME .
 kqbjdvighp.com CNAME .
 *.kqbjdvighp.com CNAME .
-kqcetainqdx.com CNAME .
-*.kqcetainqdx.com CNAME .
 kqejazglxkwta.space CNAME .
 *.kqejazglxkwta.space CNAME .
 kqgmea.icu CNAME .
@@ -55954,8 +55942,6 @@ mtg.macpaw.com CNAME .
 *.mtg.macpaw.com CNAME .
 mtga.setapp.com CNAME .
 *.mtga.setapp.com CNAME .
-mtghwlbfmpuii.online CNAME .
-*.mtghwlbfmpuii.online CNAME .
 mthcplolzrszh.online CNAME .
 *.mthcplolzrszh.online CNAME .
 mtiafyqaa.com CNAME .
@@ -56486,8 +56472,6 @@ mzhdcgwoqgnpc.online CNAME .
 *.mzhdcgwoqgnpc.online CNAME .
 mzidndvsmszfx.space CNAME .
 *.mzidndvsmszfx.space CNAME .
-mzifugnakol.com CNAME .
-*.mzifugnakol.com CNAME .
 mziso.xyz CNAME .
 *.mziso.xyz CNAME .
 mzkgowyhchavk.site CNAME .
@@ -65200,8 +65184,6 @@ pticukcoyvvyu.store CNAME .
 *.pticukcoyvvyu.store CNAME .
 ptipsixo.com CNAME .
 *.ptipsixo.com CNAME .
-ptirgaux.com CNAME .
-*.ptirgaux.com CNAME .
 ptirtika.com CNAME .
 *.ptirtika.com CNAME .
 ptistyvymi.com CNAME .
@@ -78438,8 +78420,6 @@ svswyokrievoe.space CNAME .
 *.svswyokrievoe.space CNAME .
 svtefnjwxtoto.site CNAME .
 *.svtefnjwxtoto.site CNAME .
-svueoubgfj.com CNAME .
-*.svueoubgfj.com CNAME .
 svyixcelxerdo.space CNAME .
 *.svyixcelxerdo.space CNAME .
 svyksa.info CNAME .
@@ -80610,8 +80590,6 @@ tiangzwrvnify.website CNAME .
 *.tiangzwrvnify.website CNAME .
 tianji.flowgpt.com CNAME .
 *.tianji.flowgpt.com CNAME .
-tiarawhally.qpon CNAME .
-*.tiarawhally.qpon CNAME .
 tibacta.com CNAME .
 *.tibacta.com CNAME .
 tibiaeedgiest.help CNAME .
@@ -85208,8 +85186,6 @@ unlucky-judge.pro CNAME .
 *.unlucky-judge.pro CNAME .
 unluckydoubt.com CNAME .
 *.unluckydoubt.com CNAME .
-unlusheyespot.cyou CNAME .
-*.unlusheyespot.cyou CNAME .
 unluxioer.com CNAME .
 *.unluxioer.com CNAME .
 unmantyker.com CNAME .
@@ -87764,8 +87740,6 @@ vupload.duowan.com CNAME .
 *.vupload.duowan.com CNAME .
 vupoupay.com CNAME .
 *.vupoupay.com CNAME .
-vurmzvsdhtzlk.space CNAME .
-*.vurmzvsdhtzlk.space CNAME .
 vustaq.com CNAME .
 *.vustaq.com CNAME .
 vutipseethu.net CNAME .
@@ -89252,8 +89226,6 @@ whywolveshowl.com CNAME .
 *.whywolveshowl.com CNAME .
 wi1f.icu CNAME .
 *.wi1f.icu CNAME .
-wiampgqpfdxyz.website CNAME .
-*.wiampgqpfdxyz.website CNAME .
 wicdn.cloud CNAME .
 *.wicdn.cloud CNAME .
 wickedhumankindbarrel.com CNAME .
