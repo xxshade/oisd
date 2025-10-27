@@ -1,16 +1,16 @@
-; Version: 202510271722
+; Version: 202510271822
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94806
-; Last modified: 2025-10-27T17:22:45+0000
+; Entries: 94778
+; Last modified: 2025-10-27T18:22:10+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761585121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761588722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3406,8 +3406,6 @@ $TTL 30
 *.9aad7115.amy.gs CNAME .
 9adbbad978.com CNAME .
 *.9adbbad978.com CNAME .
-9ads.mobi CNAME .
-*.9ads.mobi CNAME .
 9aec3c08ad.c5ca8a76ed.com CNAME .
 *.9aec3c08ad.c5ca8a76ed.com CNAME .
 9anime.to CNAME .
@@ -5832,8 +5830,6 @@ adballoon.sooplive.co.kr CNAME .
 *.adballoon.sooplive.co.kr CNAME .
 adbard.net CNAME .
 *.adbard.net CNAME .
-adbcmodum.com CNAME .
-*.adbcmodum.com CNAME .
 adbit.co CNAME .
 *.adbit.co CNAME .
 adbite.com CNAME .
@@ -18238,8 +18234,6 @@ brocode1s.com CNAME .
 *.brocode1s.com CNAME .
 brocode3s.com CNAME .
 *.brocode3s.com CNAME .
-brodmn.com CNAME .
-*.brodmn.com CNAME .
 brodownload6s.site CNAME .
 *.brodownload6s.site CNAME .
 brodownload8s.com CNAME .
@@ -20606,8 +20600,6 @@ ced843cd18.com CNAME .
 *.ced843cd18.com CNAME .
 ced8c68532.com CNAME .
 *.ced8c68532.com CNAME .
-cedasclnacomw.store CNAME .
-*.cedasclnacomw.store CNAME .
 cedecancontemporary.com CNAME .
 *.cedecancontemporary.com CNAME .
 cedeimprovise.com CNAME .
@@ -23202,8 +23194,6 @@ compromisegraintickets.com CNAME .
 *.compromisegraintickets.com CNAME .
 compteur.websiteout.net CNAME .
 *.compteur.websiteout.net CNAME .
-compucelunlock.net CNAME .
-*.compucelunlock.net CNAME .
 comscore.com CNAME .
 *.comscore.com CNAME .
 comsprague.com CNAME .
@@ -29388,8 +29378,6 @@ detour.click CNAME .
 *.detour.click CNAME .
 detoxifylagoonsnugness.com CNAME .
 *.detoxifylagoonsnugness.com CNAME .
-detsiwoogiks.com CNAME .
-*.detsiwoogiks.com CNAME .
 deturbcordies.com CNAME .
 *.deturbcordies.com CNAME .
 deturbsparged.help CNAME .
@@ -29542,8 +29530,6 @@ dgafgadsgkjg.top CNAME .
 *.dgafgadsgkjg.top CNAME .
 dgcollector.evidon.com CNAME .
 *.dgcollector.evidon.com CNAME .
-dgflmhqw.com CNAME .
-*.dgflmhqw.com CNAME .
 dggaenaawxe8z.cloudfront.net CNAME .
 *.dggaenaawxe8z.cloudfront.net CNAME .
 dgkkeiedhqgmp.top CNAME .
@@ -32822,8 +32808,6 @@ eewhapseepoo.net CNAME .
 *.eewhapseepoo.net CNAME .
 eeyuchkookier.com CNAME .
 *.eeyuchkookier.com CNAME .
-eezauroaac.com CNAME .
-*.eezauroaac.com CNAME .
 ef-dongfeng.tanx.com CNAME .
 *.ef-dongfeng.tanx.com CNAME .
 ef.fanatical.com CNAME .
@@ -34124,8 +34108,6 @@ estiques.com CNAME .
 *.estiques.com CNAME .
 estpeopleshouldth.org CNAME .
 *.estpeopleshouldth.org CNAME .
-estqtttaquue.com CNAME .
-*.estqtttaquue.com CNAME .
 esusaryproced.com CNAME .
 *.esusaryproced.com CNAME .
 esveabkwjvkcj.space CNAME .
@@ -39642,8 +39624,6 @@ glochatuji.com CNAME .
 *.glochatuji.com CNAME .
 gloochie.com CNAME .
 *.gloochie.com CNAME .
-gloodsie.com CNAME .
-*.gloodsie.com CNAME .
 gloorsie.com CNAME .
 *.gloorsie.com CNAME .
 glopages.ru CNAME .
@@ -40086,8 +40066,6 @@ goingtabific.com CNAME .
 *.goingtabific.com CNAME .
 gojbtiqarctsc.life CNAME .
 *.gojbtiqarctsc.life CNAME .
-gojesrlkzmlgz.website CNAME .
-*.gojesrlkzmlgz.website CNAME .
 gojjutccrvayv.store CNAME .
 *.gojjutccrvayv.store CNAME .
 goksmejewlqpk.space CNAME .
@@ -41122,8 +41100,6 @@ guqeeflwaxjec.today CNAME .
 *.guqeeflwaxjec.today CNAME .
 gurgleupstandingexist.com CNAME .
 *.gurgleupstandingexist.com CNAME .
-gurjunbassia.com CNAME .
-*.gurjunbassia.com CNAME .
 gurkchesses.cfd CNAME .
 *.gurkchesses.cfd CNAME .
 gurnardyenisei.click CNAME .
@@ -71900,8 +71876,6 @@ saunaleap.com CNAME .
 *.saunaleap.com CNAME .
 saunaproficientprelude.com CNAME .
 *.saunaproficientprelude.com CNAME .
-saunoglaisho.com CNAME .
-*.saunoglaisho.com CNAME .
 sautelogis.cfd CNAME .
 *.sautelogis.cfd CNAME .
 save-apps.monster CNAME .
@@ -88566,8 +88540,6 @@ weavekidnapfreaky.com CNAME .
 *.weavekidnapfreaky.com CNAME .
 weaveradrenaline.com CNAME .
 *.weaveradrenaline.com CNAME .
-weayrvvwboloz.top CNAME .
-*.weayrvvwboloz.top CNAME .
 weazenygundy.help CNAME .
 *.weazenygundy.help CNAME .
 web-ads.10sq.net CNAME .
