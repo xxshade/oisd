@@ -1,16 +1,16 @@
-; Version: 202510270018
+; Version: 202510270207
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94812
-; Last modified: 2025-10-27T00:18:22+0000
+; Entries: 94780
+; Last modified: 2025-10-27T02:07:04+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761523921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761527521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24312,8 +24312,6 @@ cqcounter.com CNAME .
 *.cqcounter.com CNAME .
 cqcpazetvhaso.website CNAME .
 *.cqcpazetvhaso.website CNAME .
-cqctbfwacshol.store CNAME .
-*.cqctbfwacshol.store CNAME .
 cqeorasldxsbw.store CNAME .
 *.cqeorasldxsbw.store CNAME .
 cqjgztejpzvkd.space CNAME .
@@ -32262,8 +32260,6 @@ eap.big5.enorth.com.cn CNAME .
 *.eap.big5.enorth.com.cn CNAME .
 eap.enorth.com.cn CNAME .
 *.eap.enorth.com.cn CNAME .
-eapfzajtkpdue.com CNAME .
-*.eapfzajtkpdue.com CNAME .
 earbossysavvy.com CNAME .
 *.earbossysavvy.com CNAME .
 eardepth-prisists.com CNAME .
@@ -32524,8 +32520,6 @@ ecma.bdimg.com CNAME .
 *.ecma.bdimg.com CNAME .
 ecmb.bdimg.com CNAME .
 *.ecmb.bdimg.com CNAME .
-ecmsfknkqb.com CNAME .
-*.ecmsfknkqb.com CNAME .
 eco.blendxxx.com CNAME .
 *.eco.blendxxx.com CNAME .
 ecomedtorg.ru CNAME .
@@ -38516,8 +38510,6 @@ garbageshallotsnowiness.com CNAME .
 *.garbageshallotsnowiness.com CNAME .
 gardeningremovalcontrary.com CNAME .
 *.gardeningremovalcontrary.com CNAME .
-gardoult.com CNAME .
-*.gardoult.com CNAME .
 gargantuan-speaker.pro CNAME .
 *.gargantuan-speaker.pro CNAME .
 gargleearnest.com CNAME .
@@ -39238,8 +39230,6 @@ ghostnewz.com CNAME .
 *.ghostnewz.com CNAME .
 ghostsinstance.com CNAME .
 *.ghostsinstance.com CNAME .
-ghpdixnhnrxt.com CNAME .
-*.ghpdixnhnrxt.com CNAME .
 ghsheukwasa.com CNAME .
 *.ghsheukwasa.com CNAME .
 ghswqnoilsxuj.store CNAME .
@@ -41260,8 +41250,6 @@ gyipdlomyttqb.online CNAME .
 *.gyipdlomyttqb.online CNAME .
 gylavpnvbaacd.online CNAME .
 *.gylavpnvbaacd.online CNAME .
-gyluzaaglmzyd.site CNAME .
-*.gyluzaaglmzyd.site CNAME .
 gymea.site CNAME .
 *.gymea.site CNAME .
 gymnasiumfilmgale.com CNAME .
@@ -42358,8 +42346,6 @@ hhuobnajd.com CNAME .
 *.hhuobnajd.com CNAME .
 hhxqadbgokgtb.online CNAME .
 *.hhxqadbgokgtb.online CNAME .
-hhzcuywygcrk.com CNAME .
-*.hhzcuywygcrk.com CNAME .
 hi-xgnnkqs.buzz CNAME .
 *.hi-xgnnkqs.buzz CNAME .
 hi4c61mi8d.com CNAME .
@@ -44396,8 +44382,6 @@ ikcaru.com CNAME .
 *.ikcaru.com CNAME .
 ikcfbfcsusubx.site CNAME .
 *.ikcfbfcsusubx.site CNAME .
-ikengoti.com CNAME .
-*.ikengoti.com CNAME .
 ikiif.com CNAME .
 *.ikiif.com CNAME .
 ikjnbvf.de CNAME .
@@ -46146,8 +46130,6 @@ ivynjtsidwnqh.online CNAME .
 *.ivynjtsidwnqh.online CNAME .
 ivzaq2irg.com CNAME .
 *.ivzaq2irg.com CNAME .
-ivzrjdgmq.com CNAME .
-*.ivzrjdgmq.com CNAME .
 iwantuonly.com CNAME .
 *.iwantuonly.com CNAME .
 iwantusingle.com CNAME .
@@ -52002,8 +51984,6 @@ lousefodgel.com CNAME .
 *.lousefodgel.com CNAME .
 lousyfastened.com CNAME .
 *.lousyfastened.com CNAME .
-louwhoriroud.net CNAME .
-*.louwhoriroud.net CNAME .
 louxoxo.com CNAME .
 *.louxoxo.com CNAME .
 lovable-scale.com CNAME .
@@ -66282,8 +66262,6 @@ qeqblgbsnmkcd.website CNAME .
 *.qeqblgbsnmkcd.website CNAME .
 qeqyswhipqrgu.space CNAME .
 *.qeqyswhipqrgu.space CNAME .
-qerkbejkbqojj.top CNAME .
-*.qerkbejkbqojj.top CNAME .
 qernnbahzjdjf.online CNAME .
 *.qernnbahzjdjf.online CNAME .
 qesrnpogpignd.store CNAME .
@@ -73302,8 +73280,6 @@ shahilessee.shop CNAME .
 *.shahilessee.shop CNAME .
 shaiksuk.net CNAME .
 *.shaiksuk.net CNAME .
-shailoahits.net CNAME .
-*.shailoahits.net CNAME .
 shaishet.xyz CNAME .
 *.shaishet.xyz CNAME .
 shaiwourtijogno.net CNAME .
@@ -84468,8 +84444,6 @@ uc9.suinidai.com.cn CNAME .
 *.uc9.suinidai.com.cn CNAME .
 uc9.ucweb.com CNAME .
 *.uc9.ucweb.com CNAME .
-ucationinin.info CNAME .
-*.ucationinin.info CNAME .
 ucationininance.org CNAME .
 *.ucationininance.org CNAME .
 uccfioqedzfom.site CNAME .
@@ -85676,8 +85650,6 @@ ureasesparlish.cyou CNAME .
 *.ureasesparlish.cyou CNAME .
 uredy.top CNAME .
 *.uredy.top CNAME .
-uremdilronkw.com CNAME .
-*.uremdilronkw.com CNAME .
 urest.org CNAME .
 *.urest.org CNAME .
 uretalzonated.com CNAME .
@@ -87720,8 +87692,6 @@ vsx.hotpornfile.org CNAME .
 *.vsx.hotpornfile.org CNAME .
 vsxlvgcqkulnu.net CNAME .
 *.vsxlvgcqkulnu.net CNAME .
-vsxmeznlfjxgr.online CNAME .
-*.vsxmeznlfjxgr.online CNAME .
 vsykigidqigxu.online CNAME .
 *.vsykigidqigxu.online CNAME .
 vtabnalp.net CNAME .
@@ -89890,8 +89860,6 @@ wnifhkhtpemse.space CNAME .
 *.wnifhkhtpemse.space CNAME .
 wnlabbsupkwuu.space CNAME .
 *.wnlabbsupkwuu.space CNAME .
-wnlydxdppjhjsn.com CNAME .
-*.wnlydxdppjhjsn.com CNAME .
 wnnatyfziksqt.website CNAME .
 *.wnnatyfziksqt.website CNAME .
 wnojded.icu CNAME .
