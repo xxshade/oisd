@@ -1,16 +1,16 @@
-; Version: 202510270619
+; Version: 202510270720
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94698
-; Last modified: 2025-10-27T06:19:54+0000
+; Entries: 94666
+; Last modified: 2025-10-27T07:20:07+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761545521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761549121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -8054,8 +8054,6 @@ adserversolutions.com CNAME .
 *.adserversolutions.com CNAME .
 adservg.com CNAME .
 *.adservg.com CNAME .
-adservice.click CNAME .
-*.adservice.click CNAME .
 adservice.tohsoft.com CNAME .
 *.adservice.tohsoft.com CNAME .
 adserviceretry.kugou.com CNAME .
@@ -15426,8 +15424,6 @@ bannisterflaskputdown.com CNAME .
 *.bannisterflaskputdown.com CNAME .
 banquetsweeper.cyou CNAME .
 *.banquetsweeper.cyou CNAME .
-banquetunarmedgrater.com CNAME .
-*.banquetunarmedgrater.com CNAME .
 bans.bride.ru CNAME .
 *.bans.bride.ru CNAME .
 banshop.gruntovik.ru CNAME .
@@ -18838,8 +18834,6 @@ bwdsnvwtnvuhl.store CNAME .
 *.bwdsnvwtnvuhl.store CNAME .
 bwhhcuikrgvhs.online CNAME .
 *.bwhhcuikrgvhs.online CNAME .
-bwnjtkvoih.com CNAME .
-*.bwnjtkvoih.com CNAME .
 bwp.download.com CNAME .
 *.bwp.download.com CNAME .
 bwqteixclqazk.store CNAME .
@@ -20310,8 +20304,6 @@ cdn.mequoda.com CNAME .
 *.cdn.mequoda.com CNAME .
 cdn.metrike.com CNAME .
 *.cdn.metrike.com CNAME .
-cdn.mircheigeshoa.com CNAME .
-*.cdn.mircheigeshoa.com CNAME .
 cdn.myadsmyanmar.com CNAME .
 *.cdn.myadsmyanmar.com CNAME .
 cdn.mypcbackup.com CNAME .
@@ -29754,8 +29746,6 @@ dinomicrummies.com CNAME .
 *.dinomicrummies.com CNAME .
 dinterperson.org CNAME .
 *.dinterperson.org CNAME .
-dinwhozi.com CNAME .
-*.dinwhozi.com CNAME .
 diobelydwarfer.rest CNAME .
 *.diobelydwarfer.rest CNAME .
 diodeflews.cfd CNAME .
@@ -39700,8 +39690,6 @@ gnashesfanfare.com CNAME .
 *.gnashesfanfare.com CNAME .
 gnawreclaim.com CNAME .
 *.gnawreclaim.com CNAME .
-gnewgyld.com CNAME .
-*.gnewgyld.com CNAME .
 gnezdo.ru CNAME .
 *.gnezdo.ru CNAME .
 gnfwcrhdmmlku.store CNAME .
@@ -42610,8 +42598,6 @@ hkfwgdlnmjwwb.online CNAME .
 *.hkfwgdlnmjwwb.online CNAME .
 hkgrrrscwssqq.website CNAME .
 *.hkgrrrscwssqq.website CNAME .
-hkhepvdhopxflu.com CNAME .
-*.hkhepvdhopxflu.com CNAME .
 hkjfukkhwfepo.club CNAME .
 *.hkjfukkhwfepo.club CNAME .
 hkjwazawuwxiy.online CNAME .
@@ -50144,8 +50130,6 @@ lifeporn.net CNAME .
 *.lifeporn.net CNAME .
 lifesoonersoar.org CNAME .
 *.lifesoonersoar.org CNAME .
-lifetds.com CNAME .
-*.lifetds.com CNAME .
 liflodestoque.top CNAME .
 *.liflodestoque.top CNAME .
 liftedd.net CNAME .
@@ -54828,8 +54812,6 @@ mlog.bigda.com CNAME .
 *.mlog.bigda.com CNAME .
 mlougq.icu CNAME .
 *.mlougq.icu CNAME .
-mlpddqlczeqkc.com CNAME .
-*.mlpddqlczeqkc.com CNAME .
 mlqcixbbgdwij.online CNAME .
 *.mlqcixbbgdwij.online CNAME .
 mlsys.xyz CNAME .
@@ -54980,8 +54962,6 @@ mnrdqnowjoajc.store CNAME .
 *.mnrdqnowjoajc.store CNAME .
 mnroknmldvpcn.website CNAME .
 *.mnroknmldvpcn.website CNAME .
-mnruplggq.com CNAME .
-*.mnruplggq.com CNAME .
 mntft.com CNAME .
 *.mntft.com CNAME .
 mnttmnonaroop.online CNAME .
@@ -56240,8 +56220,6 @@ my-pu.sh CNAME .
 *.my-pu.sh CNAME .
 my-romanceharmony.com CNAME .
 *.my-romanceharmony.com CNAME .
-my-rudderjolly.com CNAME .
-*.my-rudderjolly.com CNAME .
 my-spacelv.com CNAME .
 *.my-spacelv.com CNAME .
 my-sweetflirt.com CNAME .
@@ -57290,8 +57268,6 @@ nex8.space CNAME .
 *.nex8.space CNAME .
 nexage.com CNAME .
 *.nexage.com CNAME .
-nexbkvlusqewlk.net CNAME .
-*.nexbkvlusqewlk.net CNAME .
 nexium33bv.com CNAME .
 *.nexium33bv.com CNAME .
 nexjzgqalrtgq.online CNAME .
@@ -65096,8 +65072,6 @@ pt.wisernotify.com CNAME .
 *.pt.wisernotify.com CNAME .
 pta.wcm.pl CNAME .
 *.pta.wcm.pl CNAME .
-ptadsetertoa.com CNAME .
-*.ptadsetertoa.com CNAME .
 ptaiceckir.net CNAME .
 *.ptaiceckir.net CNAME .
 ptaicoul.xyz CNAME .
@@ -65462,10 +65436,6 @@ puppyderisiverear.com CNAME .
 *.puppyderisiverear.com CNAME .
 pupqdnmrigbly.store CNAME .
 *.pupqdnmrigbly.store CNAME .
-pupur.pro CNAME .
-*.pupur.pro CNAME .
-puranasebriose.top CNAME .
-*.puranasebriose.top CNAME .
 purchasefertilised.com CNAME .
 *.purchasefertilised.com CNAME .
 purchaselock.com CNAME .
@@ -90288,8 +90258,6 @@ wugroansaghadry.com CNAME .
 *.wugroansaghadry.com CNAME .
 wukcvtbrlyrxd.store CNAME .
 *.wukcvtbrlyrxd.store CNAME .
-wukmcwasv.com CNAME .
-*.wukmcwasv.com CNAME .
 wumufama.com CNAME .
 *.wumufama.com CNAME .
 wuresde.top CNAME .
