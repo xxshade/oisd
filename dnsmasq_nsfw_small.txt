@@ -1,9 +1,9 @@
-# Version: 202510262225
+# Version: 202510270211
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21009
-# Last modified: 2025-10-26T22:25:41+0000
+# Entries: 21011
+# Last modified: 2025-10-27T02:11:24+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15139,6 +15139,7 @@ server=/runthegauntlet.org/
 server=/ruperttube.net/
 server=/rupertxtube.com/
 server=/ruporno.cloud/
+server=/ruporno.online/
 server=/ruporno21.com/
 server=/rupornohub.ru/
 server=/rus-massage.com/
@@ -18538,6 +18539,7 @@ server=/veryladyboy.com/
 server=/verynude.net/
 server=/verytranny.com/
 server=/verytwink.com/
+server=/veryxxxxxhd.cam/
 server=/vetop.ru/
 server=/vetrimatrimony.com/
 server=/veuxtube.com/
