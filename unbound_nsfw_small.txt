@@ -1,9 +1,9 @@
-# Version: 202510271325
+# Version: 202510271626
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21012
-# Last modified: 2025-10-27T13:25:18+0000
+# Entries: 21011
+# Last modified: 2025-10-27T16:26:20+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -4966,7 +4966,6 @@ local-zone: "eroticlove.top." always_null
 local-zone: "eroticmetart.com." always_null
 local-zone: "eroticmonkey.ch." always_null
 local-zone: "eroticmv.com." always_null
-local-zone: "eroticnice.com." always_null
 local-zone: "eroticnice.xyz." always_null
 local-zone: "erotico.page." always_null
 local-zone: "eroticonly.com." always_null
