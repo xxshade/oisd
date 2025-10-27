@@ -1,16 +1,16 @@
-; Version: 202510271120
+; Version: 202510271221
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94524
-; Last modified: 2025-10-27T11:20:49+0000
+; Entries: 94488
+; Last modified: 2025-10-27T12:21:29+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761563522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761567121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -756,8 +756,6 @@ $TTL 30
 *.1ep.co CNAME .
 1ep2l1253.de CNAME .
 *.1ep2l1253.de CNAME .
-1f0l.top CNAME .
-*.1f0l.top CNAME .
 1f26db4741.com CNAME .
 *.1f26db4741.com CNAME .
 1f2e7.v.fwmrm.net CNAME .
@@ -906,8 +904,6 @@ $TTL 30
 *.1ts18.top CNAME .
 1ts19.top CNAME .
 *.1ts19.top CNAME .
-1ttv.net CNAME .
-*.1ttv.net CNAME .
 1unblock.com CNAME .
 *.1unblock.com CNAME .
 1uo9djbnsr.com CNAME .
@@ -10082,8 +10078,6 @@ alicoccdnct-xn.inter.71edge.com CNAME .
 *.alicoccdnct-xn.inter.71edge.com CNAME .
 aliecspres.com CNAME .
 *.aliecspres.com CNAME .
-alienateappetite.com CNAME .
-*.alienateappetite.com CNAME .
 alienatecommit.com CNAME .
 *.alienatecommit.com CNAME .
 alienateparadise.com CNAME .
@@ -19330,8 +19324,6 @@ caizaipt.net CNAME .
 *.caizaipt.net CNAME .
 caizuwailou.net CNAME .
 *.caizuwailou.net CNAME .
-cakesdenyconventional.com CNAME .
-*.cakesdenyconventional.com CNAME .
 cakesinventory.com CNAME .
 *.cakesinventory.com CNAME .
 cakoeg.icu CNAME .
@@ -21462,8 +21454,6 @@ cizion.com CNAME .
 *.cizion.com CNAME .
 cj2550.com CNAME .
 *.cj2550.com CNAME .
-cjaktayqsl.net CNAME .
-*.cjaktayqsl.net CNAME .
 cjatrtlyqngiv.site CNAME .
 *.cjatrtlyqngiv.site CNAME .
 cjbyfsmr.life CNAME .
@@ -22498,8 +22488,6 @@ coarseschool.com CNAME .
 *.coarseschool.com CNAME .
 coastalcations.cyou CNAME .
 *.coastalcations.cyou CNAME .
-coateebyth.com CNAME .
-*.coateebyth.com CNAME .
 coatsanguine.com CNAME .
 *.coatsanguine.com CNAME .
 coaxwrote.com CNAME .
@@ -34688,8 +34676,6 @@ exad.smi2.ru CNAME .
 *.exad.smi2.ru CNAME .
 exaggerating.makeup CNAME .
 *.exaggerating.makeup CNAME .
-exaltationinsufficientintentional.com CNAME .
-*.exaltationinsufficientintentional.com CNAME .
 exaltedsleep.com CNAME .
 *.exaltedsleep.com CNAME .
 exaltedstay.pro CNAME .
@@ -38112,8 +38098,6 @@ fznidd.top CNAME .
 *.fznidd.top CNAME .
 fznpq.com CNAME .
 *.fznpq.com CNAME .
-fzrredotinjoi.website CNAME .
-*.fzrredotinjoi.website CNAME .
 fzvqmzsidkjgx.space CNAME .
 *.fzvqmzsidkjgx.space CNAME .
 fzvzgaezwsrzm.store CNAME .
@@ -42526,8 +42510,6 @@ hjmawbrxzq.space CNAME .
 *.hjmawbrxzq.space CNAME .
 hjoddysekhmji.site CNAME .
 *.hjoddysekhmji.site CNAME .
-hjrtttwrgwnnp.online CNAME .
-*.hjrtttwrgwnnp.online CNAME .
 hjrzuojyxuewm.global CNAME .
 *.hjrzuojyxuewm.global CNAME .
 hjvzfa.top CNAME .
@@ -43490,8 +43472,6 @@ hwtadf.icu CNAME .
 *.hwtadf.icu CNAME .
 hwxprd.icu CNAME .
 *.hwxprd.icu CNAME .
-hwyijnwehlsrq.website CNAME .
-*.hwyijnwehlsrq.website CNAME .
 hwymoyv.icu CNAME .
 *.hwymoyv.icu CNAME .
 hwzuwlghfqizh.space CNAME .
@@ -57618,8 +57598,6 @@ nmhtwujmecgzi.store CNAME .
 *.nmhtwujmecgzi.store CNAME .
 nmkli.com CNAME .
 *.nmkli.com CNAME .
-nmnhrpvdbvmed.website CNAME .
-*.nmnhrpvdbvmed.website CNAME .
 nmnuaancrwvps.space CNAME .
 *.nmnuaancrwvps.space CNAME .
 nmohwgqtxslxm.site CNAME .
@@ -60554,8 +60532,6 @@ overgotsnecker.com CNAME .
 *.overgotsnecker.com CNAME .
 overjoyedtempfig.com CNAME .
 *.overjoyedtempfig.com CNAME .
-overkirliaan.com CNAME .
-*.overkirliaan.com CNAME .
 overlapflintsidenote.com CNAME .
 *.overlapflintsidenote.com CNAME .
 overliebaidya.help CNAME .
@@ -65522,8 +65498,6 @@ pushnevis.com CNAME .
 *.pushnevis.com CNAME .
 pushnews.org CNAME .
 *.pushnews.org CNAME .
-pushnice.com CNAME .
-*.pushnice.com CNAME .
 pushno.com CNAME .
 *.pushno.com CNAME .
 pushnotice.xyz CNAME .
@@ -72376,8 +72350,6 @@ segmentor.snowfox-ai.com CNAME .
 *.segmentor.snowfox-ai.com CNAME .
 seguingjungled.com CNAME .
 *.seguingjungled.com CNAME .
-sehjwenicsjrc.site CNAME .
-*.sehjwenicsjrc.site CNAME .
 seidclonos.cyou CNAME .
 *.seidclonos.cyou CNAME .
 seishinyoga.com CNAME .
@@ -86280,8 +86252,6 @@ vealyupstamp.cfd CNAME .
 *.vealyupstamp.cfd CNAME .
 vealyvexful.digital CNAME .
 *.vealyvexful.digital CNAME .
-vebgjxajdywbpmp.com CNAME .
-*.vebgjxajdywbpmp.com CNAME .
 vebv8me7q.com CNAME .
 *.vebv8me7q.com CNAME .
 vectioncorpse.digital CNAME .
@@ -90310,8 +90280,6 @@ wynvalur.com CNAME .
 *.wynvalur.com CNAME .
 wyqikvlslnuuf.space CNAME .
 *.wyqikvlslnuuf.space CNAME .
-wyrglylcvbpdy.net CNAME .
-*.wyrglylcvbpdy.net CNAME .
 wysasys.com CNAME .
 *.wysasys.com CNAME .
 wytnrgtxsgvwo.online CNAME .
@@ -93916,8 +93884,6 @@ zifrppvunuhag.site CNAME .
 *.zifrppvunuhag.site CNAME .
 ziggingantlid.com CNAME .
 *.ziggingantlid.com CNAME .
-zigraignoowhauy.com CNAME .
-*.zigraignoowhauy.com CNAME .
 zigzag.vn CNAME .
 *.zigzag.vn CNAME .
 ziidgugyfrbvf.website CNAME .
@@ -94406,8 +94372,6 @@ zvthanutunpww.site CNAME .
 *.zvthanutunpww.site CNAME .
 zvvajeommbajz.top CNAME .
 *.zvvajeommbajz.top CNAME .
-zvvajeommbwmb.top CNAME .
-*.zvvajeommbwmb.top CNAME .
 zvwhrc.com CNAME .
 *.zvwhrc.com CNAME .
 zvypqoedujvod.website CNAME .
