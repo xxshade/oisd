@@ -1,9 +1,9 @@
-# Version: 202510271125
+# Version: 202510271325
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 21011
-# Last modified: 2025-10-27T11:25:07+0000
+# Entries: 21012
+# Last modified: 2025-10-27T13:25:18+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -18226,6 +18226,7 @@ local-zone: "twinksofonlyfans.com." always_null
 local-zone: "twinkspornos.com." always_null
 local-zone: "twinktrade.com." always_null
 local-zone: "twinkworldp.com." always_null
+local-zone: "twipaco.com." always_null
 local-zone: "twistedporn.com." always_null
 local-zone: "twistys.com." always_null
 local-zone: "twistysnetwork.com." always_null
