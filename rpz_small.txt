@@ -1,16 +1,16 @@
-; Version: 202510270720
+; Version: 202510270820
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94666
-; Last modified: 2025-10-27T07:20:07+0000
+; Entries: 94636
+; Last modified: 2025-10-27T08:20:37+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761549121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761552721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13202,8 +13202,6 @@ ardslediana.com CNAME .
 *.ardslediana.com CNAME .
 ardssandshrewon.com CNAME .
 *.ardssandshrewon.com CNAME .
-ardsvenipedeon.com CNAME .
-*.ardsvenipedeon.com CNAME .
 areasnap.com CNAME .
 *.areasnap.com CNAME .
 areconform.com CNAME .
@@ -16992,8 +16990,6 @@ bkqykixrzrgwr.space CNAME .
 *.bkqykixrzrgwr.space CNAME .
 bkrkv.com CNAME .
 *.bkrkv.com CNAME .
-bkrwesbxbu.com CNAME .
-*.bkrwesbxbu.com CNAME .
 bkrxfveyilyqu.site CNAME .
 *.bkrxfveyilyqu.site CNAME .
 bkuxigrmvndcr.site CNAME .
@@ -34726,8 +34722,6 @@ examplehibernatescientific.com CNAME .
 *.examplehibernatescientific.com CNAME .
 exasrv.com CNAME .
 *.exasrv.com CNAME .
-excavajo7.gimmeporn.xyz CNAME .
-*.excavajo7.gimmeporn.xyz CNAME .
 excavatenearbywand.com CNAME .
 *.excavatenearbywand.com CNAME .
 exceedinglyorangesclothe.com CNAME .
@@ -39194,8 +39188,6 @@ ghwmbue.icu CNAME .
 *.ghwmbue.icu CNAME .
 ghyzimfjilvbt.online CNAME .
 *.ghyzimfjilvbt.online CNAME .
-ghzbeyhx.com CNAME .
-*.ghzbeyhx.com CNAME .
 ghzxqtvqjybuj.online CNAME .
 *.ghzxqtvqjybuj.online CNAME .
 gi-client-tracking.goodgamestudios.com CNAME .
@@ -39722,8 +39714,6 @@ go-g3t-push.net CNAME .
 *.go-g3t-push.net CNAME .
 go-g3t-s0me.com CNAME .
 *.go-g3t-s0me.com CNAME .
-go-g3t-som3.com CNAME .
-*.go-g3t-som3.com CNAME .
 go-rank.de CNAME .
 *.go-rank.de CNAME .
 go-rillatrack.com CNAME .
@@ -40296,8 +40286,6 @@ gqiikkuqzsxrt.store CNAME .
 *.gqiikkuqzsxrt.store CNAME .
 gqnfkfrunjxdw.world CNAME .
 *.gqnfkfrunjxdw.world CNAME .
-gqpdgily.net CNAME .
-*.gqpdgily.net CNAME .
 gqprjkneyocuo.site CNAME .
 *.gqprjkneyocuo.site CNAME .
 gqrznrvddpsso.site CNAME .
@@ -42870,8 +42858,6 @@ hoo1luha.com CNAME .
 *.hoo1luha.com CNAME .
 hoodentangle.com CNAME .
 *.hoodentangle.com CNAME .
-hoodingafaced.com CNAME .
-*.hoodingafaced.com CNAME .
 hoodingluster.com CNAME .
 *.hoodingluster.com CNAME .
 hookawep.net CNAME .
@@ -60436,8 +60422,6 @@ ouldhukelpmetor.org CNAME .
 *.ouldhukelpmetor.org CNAME .
 oulsools.com CNAME .
 *.oulsools.com CNAME .
-oumtirsu.com CNAME .
-*.oumtirsu.com CNAME .
 oundandround.com CNAME .
 *.oundandround.com CNAME .
 oundaymitools.org CNAME .
@@ -60860,8 +60844,6 @@ ozihlzpeabppp.online CNAME .
 *.ozihlzpeabppp.online CNAME .
 ozjga.top CNAME .
 *.ozjga.top CNAME .
-ozkwcvtpxoxnh.site CNAME .
-*.ozkwcvtpxoxnh.site CNAME .
 ozoj.com CNAME .
 *.ozoj.com CNAME .
 ozonemedia.com CNAME .
@@ -65626,8 +65608,6 @@ pushno.com CNAME .
 *.pushno.com CNAME .
 pushnotice.xyz CNAME .
 *.pushnotice.xyz CNAME .
-pushochenk.com CNAME .
-*.pushochenk.com CNAME .
 pushokey.com CNAME .
 *.pushokey.com CNAME .
 pushpong.net CNAME .
@@ -66114,8 +66094,6 @@ qdmil.com CNAME .
 *.qdmil.com CNAME .
 qdn4ydsg3s.com CNAME .
 *.qdn4ydsg3s.com CNAME .
-qdnydtcipe.com CNAME .
-*.qdnydtcipe.com CNAME .
 qdoeki.xyz CNAME .
 *.qdoeki.xyz CNAME .
 qdpvnjhzcafbl.space CNAME .
@@ -85892,8 +85870,6 @@ uvoonaix.top CNAME .
 *.uvoonaix.top CNAME .
 uvpwmzjuncdty.space CNAME .
 *.uvpwmzjuncdty.space CNAME .
-uvsvljawmqxik.space CNAME .
-*.uvsvljawmqxik.space CNAME .
 uvtbfriwugkhn.store CNAME .
 *.uvtbfriwugkhn.store CNAME .
 uvwnkmf.icu CNAME .
@@ -86332,8 +86308,6 @@ vcdn.subiz-cdn.com CNAME .
 *.vcdn.subiz-cdn.com CNAME .
 vcenygfcoyias.site CNAME .
 *.vcenygfcoyias.site CNAME .
-vcfangvfkvenv.website CNAME .
-*.vcfangvfkvenv.website CNAME .
 vcjfxnwmzpdgu.store CNAME .
 *.vcjfxnwmzpdgu.store CNAME .
 vckeyscqjreer.icu CNAME .
@@ -88794,8 +88768,6 @@ wenxue.youzhicn.com CNAME .
 *.wenxue.youzhicn.com CNAME .
 wenykhldanuek.store CNAME .
 *.wenykhldanuek.store CNAME .
-weocnwmly.com CNAME .
-*.weocnwmly.com CNAME .
 weptnastyturmoil.com CNAME .
 *.weptnastyturmoil.com CNAME .
 werbemanager.w24.at CNAME .
@@ -94626,8 +94598,6 @@ zyf03k.xyz CNAME .
 *.zyf03k.xyz CNAME .
 zyhzzhxnlnfdk.site CNAME .
 *.zyhzzhxnlnfdk.site CNAME .
-zykkjyaokkbbz.top CNAME .
-*.zykkjyaokkbbz.top CNAME .
 zykkjyaokkjyb.top CNAME .
 *.zykkjyaokkjyb.top CNAME .
 zykumw.com CNAME .
