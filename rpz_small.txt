@@ -1,16 +1,16 @@
-; Version: 202510270820
+; Version: 202510270920
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94636
-; Last modified: 2025-10-27T08:20:37+0000
+; Entries: 94612
+; Last modified: 2025-10-27T09:20:20+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761552721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761556321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -1606,8 +1606,6 @@ $TTL 30
 *.3ckz.com CNAME .
 3cloud.net CNAME .
 *.3cloud.net CNAME .
-3cxs.com CNAME .
-*.3cxs.com CNAME .
 3d-hentai.de CNAME .
 *.3d-hentai.de CNAME .
 3d49bae212.95cf9b0579.com CNAME .
@@ -13522,8 +13520,6 @@ asg.pornoplay.online CNAME .
 *.asg.pornoplay.online CNAME .
 asg.pornvids.fr CNAME .
 *.asg.pornvids.fr CNAME .
-asg.redfans.org CNAME .
-*.asg.redfans.org CNAME .
 asg.sdtraff.com CNAME .
 *.asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
@@ -20672,8 +20668,6 @@ cephalopod.revelio.io CNAME .
 *.cephalopod.revelio.io CNAME .
 cephalopod.staff.design CNAME .
 *.cephalopod.staff.design CNAME .
-cephoupharauts.net CNAME .
-*.cephoupharauts.net CNAME .
 ceqyuidnlnyib.site CNAME .
 *.ceqyuidnlnyib.site CNAME .
 cercalventers.click CNAME .
@@ -33710,8 +33704,6 @@ epldjrxblnvpa.store CNAME .
 *.epldjrxblnvpa.store CNAME .
 eplixxwmbkoqp.space CNAME .
 *.eplixxwmbkoqp.space CNAME .
-eplndhtrobl.com CNAME .
-*.eplndhtrobl.com CNAME .
 epmumb34x.top CNAME .
 *.epmumb34x.top CNAME .
 epnredirect.ru CNAME .
@@ -46934,8 +46926,6 @@ joggingavenge.com CNAME .
 *.joggingavenge.com CNAME .
 joggymyet.live CNAME .
 *.joggymyet.live CNAME .
-joglomsexurgod.net CNAME .
-*.joglomsexurgod.net CNAME .
 jogoforte.com CNAME .
 *.jogoforte.com CNAME .
 jogryvgycqjph.store CNAME .
@@ -49040,8 +49030,6 @@ kychq.cn CNAME .
 *.kychq.cn CNAME .
 kyfgxnkkiozwf.site CNAME .
 *.kyfgxnkkiozwf.site CNAME .
-kyglutumyqyoq.online CNAME .
-*.kyglutumyqyoq.online CNAME .
 kygwbcvevmaoz.store CNAME .
 *.kygwbcvevmaoz.store CNAME .
 kylgonjyyhk.net CNAME .
@@ -52260,8 +52248,6 @@ luoqdtopebadx.store CNAME .
 *.luoqdtopebadx.store CNAME .
 lupon.media CNAME .
 *.lupon.media CNAME .
-luqkzajkeobq.com CNAME .
-*.luqkzajkeobq.com CNAME .
 luresdl.top CNAME .
 *.luresdl.top CNAME .
 lurgaimt.net CNAME .
@@ -53032,8 +53018,6 @@ manrec.cc CNAME .
 *.manrec.cc CNAME .
 mansfieldspurtvan.com CNAME .
 *.mansfieldspurtvan.com CNAME .
-mansudee.net CNAME .
-*.mansudee.net CNAME .
 mantaray.bullshitgoggles.com CNAME .
 *.mantaray.bullshitgoggles.com CNAME .
 manteelclanned.com CNAME .
@@ -64024,8 +64008,6 @@ pqlrfrtotmzpt.website CNAME .
 *.pqlrfrtotmzpt.website CNAME .
 pqnnvegqkyadt.space CNAME .
 *.pqnnvegqkyadt.space CNAME .
-pqogerqaztise.store CNAME .
-*.pqogerqaztise.store CNAME .
 pqthctoaotsik.online CNAME .
 *.pqthctoaotsik.online CNAME .
 pqvpcahwuvfo.life CNAME .
@@ -68742,8 +68724,6 @@ reypelis.tv CNAME .
 *.reypelis.tv CNAME .
 rezrboabevzmj.top CNAME .
 *.rezrboabevzmj.top CNAME .
-rezrboarmmjma.top CNAME .
-*.rezrboarmmjma.top CNAME .
 rezrboarmmqmv.top CNAME .
 *.rezrboarmmqmv.top CNAME .
 rfdqlehuiufyk.click CNAME .
@@ -79586,8 +79566,6 @@ tbgwyrxwtmfrh.site CNAME .
 *.tbgwyrxwtmfrh.site CNAME .
 tbimsmdlxsiam.website CNAME .
 *.tbimsmdlxsiam.website CNAME .
-tbjjmbokxshqc.store CNAME .
-*.tbjjmbokxshqc.store CNAME .
 tbjrtcoqldf.site CNAME .
 *.tbjrtcoqldf.site CNAME .
 tbmods.ru CNAME .
@@ -86656,8 +86634,6 @@ vgfhycwkvh.com CNAME .
 *.vgfhycwkvh.com CNAME .
 vgfj.cn CNAME .
 *.vgfj.cn CNAME .
-vghoqhivou.com CNAME .
-*.vghoqhivou.com CNAME .
 vgkaszpddsetc.online CNAME .
 *.vgkaszpddsetc.online CNAME .
 vgnyli.top CNAME .
