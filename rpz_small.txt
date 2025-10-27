@@ -1,16 +1,16 @@
-; Version: 202510270207
+; Version: 202510270320
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94780
-; Last modified: 2025-10-27T02:07:04+0000
+; Entries: 94750
+; Last modified: 2025-10-27T03:20:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761527521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761534721 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3900,8 +3900,6 @@ a1.qqan.com CNAME .
 *.a1.qqan.com CNAME .
 a1.tbuz.com.cn CNAME .
 *.a1.tbuz.com.cn CNAME .
-a1.tuke8.com CNAME .
-*.a1.tuke8.com CNAME .
 a1.zhanzhang.net CNAME .
 *.a1.zhanzhang.net CNAME .
 a11k.com CNAME .
@@ -4222,8 +4220,6 @@ abashfireworks.com CNAME .
 *.abashfireworks.com CNAME .
 abatersurat.digital CNAME .
 *.abatersurat.digital CNAME .
-abayclaik.com CNAME .
-*.abayclaik.com CNAME .
 abb030d6a7.com CNAME .
 *.abb030d6a7.com CNAME .
 abberantbeefy.com CNAME .
@@ -6388,8 +6384,6 @@ adlog.com.com CNAME .
 *.adlog.com.com CNAME .
 adlogists.com CNAME .
 *.adlogists.com CNAME .
-adlookmanager.com CNAME .
-*.adlookmanager.com CNAME .
 adloox.com CNAME .
 *.adloox.com CNAME .
 adlooxtracking.com CNAME .
@@ -10728,8 +10722,6 @@ amt-k.ru CNAME .
 *.amt-k.ru CNAME .
 amt3.com CNAME .
 *.amt3.com CNAME .
-amtkwrbsvnhruj.com CNAME .
-*.amtkwrbsvnhruj.com CNAME .
 amtropiusr.com CNAME .
 *.amtropiusr.com CNAME .
 amuletcheek.com CNAME .
@@ -23900,8 +23892,6 @@ counter.1i.kz CNAME .
 *.counter.1i.kz CNAME .
 counter.24h.com.vn CNAME .
 *.counter.24h.com.vn CNAME .
-counter.24log.es CNAME .
-*.counter.24log.es CNAME .
 counter.ajansspor.com CNAME .
 *.counter.ajansspor.com CNAME .
 counter.all.biz CNAME .
@@ -30388,8 +30378,6 @@ dmhulgvmedlik.store CNAME .
 *.dmhulgvmedlik.store CNAME .
 dmiredindeed.com CNAME .
 *.dmiredindeed.com CNAME .
-dmjlfkhpbpguhej.com CNAME .
-*.dmjlfkhpbpguhej.com CNAME .
 dmkdtkad2jyb9.cloudfront.net CNAME .
 *.dmkdtkad2jyb9.cloudfront.net CNAME .
 dmkynnbnphpyl.store CNAME .
@@ -31834,8 +31822,6 @@ dxenmweujarfm.store CNAME .
 *.dxenmweujarfm.store CNAME .
 dxewphcplowwk.site CNAME .
 *.dxewphcplowwk.site CNAME .
-dxgemlwokuieu.store CNAME .
-*.dxgemlwokuieu.store CNAME .
 dxgo95ahe73e8.cloudfront.net CNAME .
 *.dxgo95ahe73e8.cloudfront.net CNAME .
 dxh2ivs16758.cloudfront.net CNAME .
@@ -35214,8 +35200,6 @@ f680e0bdca.com CNAME .
 *.f680e0bdca.com CNAME .
 f703.twincities.com CNAME .
 *.f703.twincities.com CNAME .
-f7050945a4.com CNAME .
-*.f7050945a4.com CNAME .
 f761efe176.com CNAME .
 *.f761efe176.com CNAME .
 f775.thehour.com CNAME .
@@ -38648,8 +38632,6 @@ gbrwplgcsjieu.online CNAME .
 *.gbrwplgcsjieu.online CNAME .
 gbsmw33tfi.com CNAME .
 *.gbsmw33tfi.com CNAME .
-gbztputcfgp.com CNAME .
-*.gbztputcfgp.com CNAME .
 gc.newsweek.com CNAME .
 *.gc.newsweek.com CNAME .
 gcd-s2s.appsflyer.com CNAME .
@@ -60780,8 +60762,6 @@ ovqds.com CNAME .
 *.ovqds.com CNAME .
 ovret.com CNAME .
 *.ovret.com CNAME .
-ovrjkuavda.com CNAME .
-*.ovrjkuavda.com CNAME .
 ovsaopbvoajdn.website CNAME .
 *.ovsaopbvoajdn.website CNAME .
 ovtflklfxbrgo.today CNAME .
@@ -70926,8 +70906,6 @@ rwwmbymaezkla.top CNAME .
 *.rwwmbymaezkla.top CNAME .
 rwwmbymaezljq.top CNAME .
 *.rwwmbymaezljq.top CNAME .
-rwwmbymajvmbj.top CNAME .
-*.rwwmbymajvmbj.top CNAME .
 rwxpkychnthdx.space CNAME .
 *.rwxpkychnthdx.space CNAME .
 rwylatoun.life CNAME .
@@ -81142,8 +81120,6 @@ toad.frontendmentor.io CNAME .
 *.toad.frontendmentor.io CNAME .
 toangroi.xyz CNAME .
 *.toangroi.xyz CNAME .
-toapz.xyz CNAME .
-*.toapz.xyz CNAME .
 toastrowingthrilled.com CNAME .
 *.toastrowingthrilled.com CNAME .
 toawaups.net CNAME .
@@ -85246,8 +85222,6 @@ unrebelasterin.com CNAME .
 *.unrebelasterin.com CNAME .
 unregisteredtraditional.com CNAME .
 *.unregisteredtraditional.com CNAME .
-unreshiramor.com CNAME .
-*.unreshiramor.com CNAME .
 unresolveddrama.com CNAME .
 *.unresolveddrama.com CNAME .
 unrestwidthconsonant.com CNAME .
@@ -87884,8 +87858,6 @@ vxwmkbtkhtpru.today CNAME .
 *.vxwmkbtkhtpru.today CNAME .
 vxxpifqgqlvnh.store CNAME .
 *.vxxpifqgqlvnh.store CNAME .
-vxxusdcloqauy.website CNAME .
-*.vxxusdcloqauy.website CNAME .
 vxxybwpygvjpc.online CNAME .
 *.vxxybwpygvjpc.online CNAME .
 vyabxutgyiidb.site CNAME .
@@ -88120,8 +88092,6 @@ waiveryforgoer.rest CNAME .
 *.waiveryforgoer.rest CNAME .
 waivespogonip.shop CNAME .
 *.waivespogonip.shop CNAME .
-wajwfczrrnywp.space CNAME .
-*.wajwfczrrnywp.space CNAME .
 wakealibis.com CNAME .
 *.wakealibis.com CNAME .
 wakenleonist.com CNAME .
