@@ -1,16 +1,16 @@
-; Version: 202510270920
+; Version: 202510271020
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94612
-; Last modified: 2025-10-27T09:20:20+0000
+; Entries: 94572
+; Last modified: 2025-10-27T10:20:47+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761556321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761559921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3054,8 +3054,6 @@ $TTL 30
 *.88bb36fab4.com CNAME .
 88cb0eb486.com CNAME .
 *.88cb0eb486.com CNAME .
-88d7b6aa44fb8eb.com CNAME .
-*.88d7b6aa44fb8eb.com CNAME .
 88ddebd3d3.com CNAME .
 *.88ddebd3d3.com CNAME .
 88eq7spm.de CNAME .
@@ -10550,8 +10548,6 @@ ambitious-quote.com CNAME .
 *.ambitious-quote.com CNAME .
 ambitiousdemand.com CNAME .
 *.ambitiousdemand.com CNAME .
-ambkiegjrhix.com CNAME .
-*.ambkiegjrhix.com CNAME .
 amc.yandex.ru CNAME .
 *.amc.yandex.ru CNAME .
 amcdn.vn CNAME .
@@ -21036,8 +21032,6 @@ chekmakfrosk.click CNAME .
 *.chekmakfrosk.click CNAME .
 chekrilsoumpoab.net CNAME .
 *.chekrilsoumpoab.net CNAME .
-cheksoam.com CNAME .
-*.cheksoam.com CNAME .
 chemicalssmuglyuntying.com CNAME .
 *.chemicalssmuglyuntying.com CNAME .
 chengaib.net CNAME .
@@ -35702,8 +35696,6 @@ februaryinjectionproudly.com CNAME .
 *.februaryinjectionproudly.com CNAME .
 februaryparent.com CNAME .
 *.februaryparent.com CNAME .
-febsixuxeegre.com CNAME .
-*.febsixuxeegre.com CNAME .
 fecchekora.shop CNAME .
 *.fecchekora.shop CNAME .
 fecguzhzeia.vip CNAME .
@@ -35988,8 +35980,6 @@ fgjaelzvzxtdq.rocks CNAME .
 *.fgjaelzvzxtdq.rocks CNAME .
 fgk-jheepn.site CNAME .
 *.fgk-jheepn.site CNAME .
-fgkrjcrtqb.net CNAME .
-*.fgkrjcrtqb.net CNAME .
 fgkxluxqgpzzm.xyz CNAME .
 *.fgkxluxqgpzzm.xyz CNAME .
 fgllllfedeltb.website CNAME .
@@ -36612,8 +36602,6 @@ fisheyeskimmed.click CNAME .
 *.fisheyeskimmed.click CNAME .
 fishingslaplobby.com CNAME .
 *.fishingslaplobby.com CNAME .
-fistevasionjoint.com CNAME .
-*.fistevasionjoint.com CNAME .
 fitbiomie.com CNAME .
 *.fitbiomie.com CNAME .
 fitsagitateacid.com CNAME .
@@ -37332,8 +37320,6 @@ fotao9.com CNAME .
 *.fotao9.com CNAME .
 fotmrrwfgprar.fun CNAME .
 *.fotmrrwfgprar.fun CNAME .
-fotsaulr.net CNAME .
-*.fotsaulr.net CNAME .
 fouettbrauna.com CNAME .
 *.fouettbrauna.com CNAME .
 foulishschwa.click CNAME .
@@ -39704,8 +39690,6 @@ go-g3t-msg.com CNAME .
 *.go-g3t-msg.com CNAME .
 go-g3t-push.net CNAME .
 *.go-g3t-push.net CNAME .
-go-g3t-s0me.com CNAME .
-*.go-g3t-s0me.com CNAME .
 go-rank.de CNAME .
 *.go-rank.de CNAME .
 go-rillatrack.com CNAME .
@@ -49226,8 +49210,6 @@ lahsxicxicuvp.store CNAME .
 *.lahsxicxicuvp.store CNAME .
 laichegloavy.com CNAME .
 *.laichegloavy.com CNAME .
-laichsisogony.com CNAME .
-*.laichsisogony.com CNAME .
 laihtsfmbrmog.site CNAME .
 *.laihtsfmbrmog.site CNAME .
 laikeeboathaip.com CNAME .
@@ -54530,8 +54512,6 @@ minosbios.world CNAME .
 *.minosbios.world CNAME .
 minotaur107.com CNAME .
 *.minotaur107.com CNAME .
-mintaza.xyz CNAME .
-*.mintaza.xyz CNAME .
 mintegral.com CNAME .
 *.mintegral.com CNAME .
 mintegral.net CNAME .
@@ -56928,8 +56908,6 @@ nellmeeten.com CNAME .
 *.nellmeeten.com CNAME .
 nelo2-col.linecorp.com CNAME .
 *.nelo2-col.linecorp.com CNAME .
-nelumbooctyne.shop CNAME .
-*.nelumbooctyne.shop CNAME .
 nelvyvlfyjksw.space CNAME .
 *.nelvyvlfyjksw.space CNAME .
 nematicanears.shop CNAME .
@@ -59136,8 +59114,6 @@ official-permit.com CNAME .
 *.official-permit.com CNAME .
 officialkmspico.com CNAME .
 *.officialkmspico.com CNAME .
-offinfernaper.com CNAME .
-*.offinfernaper.com CNAME .
 offmantiner.com CNAME .
 *.offmantiner.com CNAME .
 offoonguser.com CNAME .
@@ -62486,8 +62462,6 @@ pihu.xxxpornhd.pro CNAME .
 *.pihu.xxxpornhd.pro CNAME .
 piiqrmvymwue.world CNAME .
 *.piiqrmvymwue.world CNAME .
-pijitmvnobzl.com CNAME .
-*.pijitmvnobzl.com CNAME .
 pikiblurb.cfd CNAME .
 *.pikiblurb.cfd CNAME .
 pilchnepal.shop CNAME .
@@ -63370,8 +63344,6 @@ po.zolivexo.ru CNAME .
 *.po.zolivexo.ru CNAME .
 po18ad.com CNAME .
 *.po18ad.com CNAME .
-poacawhe.net CNAME .
-*.poacawhe.net CNAME .
 poachostistour.net CNAME .
 *.poachostistour.net CNAME .
 poasauwhoothy.net CNAME .
@@ -73578,8 +73550,6 @@ siblinggut.com CNAME .
 *.siblinggut.com CNAME .
 siblpnvryviqz.website CNAME .
 *.siblpnvryviqz.website CNAME .
-sibufxhdrqpkqfp.com CNAME .
-*.sibufxhdrqpkqfp.com CNAME .
 sibzstojwoqew.website CNAME .
 *.sibzstojwoqew.website CNAME .
 sicilywring.com CNAME .
@@ -80168,8 +80138,6 @@ thedreamofus.xyz CNAME .
 *.thedreamofus.xyz CNAME .
 theeptoah.com CNAME .
 *.theeptoah.com CNAME .
-theessaroops.com CNAME .
-*.theessaroops.com CNAME .
 theetheks.com CNAME .
 *.theetheks.com CNAME .
 theexcitingsweetflirt.com CNAME .
@@ -85250,8 +85218,6 @@ unwrittenfront.com CNAME .
 *.unwrittenfront.com CNAME .
 unybpmnswkywk.space CNAME .
 *.unybpmnswkywk.space CNAME .
-unzidmjojmoye.com CNAME .
-*.unzidmjojmoye.com CNAME .
 uod2quk646.com CNAME .
 *.uod2quk646.com CNAME .
 uoenkcbxwumqh.xyz CNAME .
@@ -89330,8 +89296,6 @@ windacerbity.com CNAME .
 *.windacerbity.com CNAME .
 windfallicontelegraph.com CNAME .
 *.windfallicontelegraph.com CNAME .
-windindelicateexclusive.com CNAME .
-*.windindelicateexclusive.com CNAME .
 windingnegotiation.com CNAME .
 *.windingnegotiation.com CNAME .
 windingsynonym.com CNAME .
@@ -93444,8 +93408,6 @@ yummymembership.com CNAME .
 *.yummymembership.com CNAME .
 yun-hl.3g.qq.com CNAME .
 *.yun-hl.3g.qq.com CNAME .
-yunobesjwncfa.com CNAME .
-*.yunobesjwncfa.com CNAME .
 yunque.pluto.ro CNAME .
 *.yunque.pluto.ro CNAME .
 yunshipei.com CNAME .
@@ -93742,8 +93704,6 @@ zbvbmifryccxd.website CNAME .
 *.zbvbmifryccxd.website CNAME .
 zcapieuheltue.store CNAME .
 *.zcapieuheltue.store CNAME .
-zcfpfsndkuzzp.store CNAME .
-*.zcfpfsndkuzzp.store CNAME .
 zcnmjb.icu CNAME .
 *.zcnmjb.icu CNAME .
 zcode11.me CNAME .
