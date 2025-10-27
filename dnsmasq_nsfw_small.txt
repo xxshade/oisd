@@ -1,9 +1,9 @@
-# Version: 202510270624
+# Version: 202510271025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 21010
-# Last modified: 2025-10-27T06:24:13+0000
+# Entries: 21009
+# Last modified: 2025-10-27T10:25:04+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -17372,7 +17372,6 @@ server=/the-moms.com/
 server=/the-pornflix.cfd/
 server=/the-redtube.bond/
 server=/the-sexy-tube.online/
-server=/the-tube8.cfd/
 server=/the-vulgar-tube.ru/
 server=/the-vulgar-tube.site/
 server=/the-xnxx.click/
