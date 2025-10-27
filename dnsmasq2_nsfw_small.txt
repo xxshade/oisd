@@ -1,9 +1,9 @@
-# Version: 202510270211
+# Version: 202510270426
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 21011
-# Last modified: 2025-10-27T02:11:24+0000
+# Entries: 21010
+# Last modified: 2025-10-27T04:26:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5573,7 +5573,6 @@ local=/fetoo.com/
 local=/fetside.com/
 local=/fetster.com/
 local=/fewporn.pro/
-local=/feyanovisib.net/
 local=/feysam.net/
 local=/ffetish.photos/
 local=/ffetish.video/
