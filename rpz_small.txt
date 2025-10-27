@@ -1,16 +1,16 @@
-; Version: 202510270421
+; Version: 202510270521
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94772
-; Last modified: 2025-10-27T04:21:14+0000
+; Entries: 94752
+; Last modified: 2025-10-27T05:21:18+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761538321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761541921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -19414,8 +19414,6 @@ calmlygelatinecandle.com CNAME .
 *.calmlygelatinecandle.com CNAME .
 calmlytraditionalfreelance.com CNAME .
 *.calmlytraditionalfreelance.com CNAME .
-calomelsiti.com CNAME .
-*.calomelsiti.com CNAME .
 caltertangintin.com CNAME .
 *.caltertangintin.com CNAME .
 calvali.com CNAME .
@@ -24790,8 +24788,6 @@ crudenessfinishersacred.com CNAME .
 *.crudenessfinishersacred.com CNAME .
 cruel-love.com CNAME .
 *.cruel-love.com CNAME .
-cruhliip.com CNAME .
-*.cruhliip.com CNAME .
 cruiserx.net CNAME .
 *.cruiserx.net CNAME .
 crumblerefunddiana.com CNAME .
@@ -28170,8 +28166,6 @@ danesbasques.shop CNAME .
 *.danesbasques.shop CNAME .
 danesuffocate.com CNAME .
 *.danesuffocate.com CNAME .
-dangerfiddlesticks.com CNAME .
-*.dangerfiddlesticks.com CNAME .
 dangerinsignificantinvent.com CNAME .
 *.dangerinsignificantinvent.com CNAME .
 dangerous-leader.pro CNAME .
@@ -29020,8 +29014,6 @@ delightspiritedtroop.com CNAME .
 *.delightspiritedtroop.com CNAME .
 deliman.net CNAME .
 *.deliman.net CNAME .
-delinesmeeked.help CNAME .
-*.delinesmeeked.help CNAME .
 delirious-year.com CNAME .
 *.delirious-year.com CNAME .
 deliriousglowing.com CNAME .
@@ -46474,8 +46466,6 @@ jbbyyryezqqvq.top CNAME .
 *.jbbyyryezqqvq.top CNAME .
 jbbyyryolmlvq.top CNAME .
 *.jbbyyryolmlvq.top CNAME .
-jbbyyryolmzkz.top CNAME .
-*.jbbyyryolmzkz.top CNAME .
 jbbyyryolqmww.top CNAME .
 *.jbbyyryolqmww.top CNAME .
 jbbyyryolqvvb.top CNAME .
@@ -46522,8 +46512,6 @@ jcagaqxwu.com CNAME .
 *.jcagaqxwu.com CNAME .
 jcajuesjvxlqy.store CNAME .
 *.jcajuesjvxlqy.store CNAME .
-jcarqmiqlwryfq.com CNAME .
-*.jcarqmiqlwryfq.com CNAME .
 jcavguudmzlif.site CNAME .
 *.jcavguudmzlif.site CNAME .
 jcbj62b2t.com CNAME .
@@ -52186,8 +52174,6 @@ ltackvyticqaq.online CNAME .
 *.ltackvyticqaq.online CNAME .
 ltassrv.com.s3.amazonaws.com CNAME .
 *.ltassrv.com.s3.amazonaws.com CNAME .
-ltboqyitvdqla.website CNAME .
-*.ltboqyitvdqla.website CNAME .
 ltbzdstsmjiop.space CNAME .
 *.ltbzdstsmjiop.space CNAME .
 ltcpfjgmkplye.online CNAME .
@@ -54494,8 +54480,6 @@ mihoutao1868.github.io CNAME .
 *.mihoutao1868.github.io CNAME .
 miigbxonhjgnr.top CNAME .
 *.miigbxonhjgnr.top CNAME .
-miiiyhwmlyaqg.site CNAME .
-*.miiiyhwmlyaqg.site CNAME .
 mikeinfo.rest CNAME .
 *.mikeinfo.rest CNAME .
 mikellli.com CNAME .
@@ -60472,8 +60456,6 @@ otoyueuprumok.icu CNAME .
 *.otoyueuprumok.icu CNAME .
 otstaffmys.com CNAME .
 *.otstaffmys.com CNAME .
-ottbquetbznbx.space CNAME .
-*.ottbquetbznbx.space CNAME .
 otter.emdegmbh.com CNAME .
 *.otter.emdegmbh.com CNAME .
 otter.jetting.no CNAME .
@@ -70890,8 +70872,6 @@ rvxmlj.icu CNAME .
 *.rvxmlj.icu CNAME .
 rvyaqmmxxoinm.site CNAME .
 *.rvyaqmmxxoinm.site CNAME .
-rvybbvrixxwyb.website CNAME .
-*.rvybbvrixxwyb.website CNAME .
 rw.marchex.io CNAME .
 *.rw.marchex.io CNAME .
 rwckymejgcrkd.store CNAME .
