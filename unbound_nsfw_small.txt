@@ -1,9 +1,9 @@
-# Version: 202510280125
+# Version: 202510280724
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20977
-# Last modified: 2025-10-28T01:25:09+0000
+# Entries: 20978
+# Last modified: 2025-10-28T07:24:48+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8121,6 +8121,7 @@ local-zone: "huippupornoa.com." always_null
 local-zone: "huivpizde.com." always_null
 local-zone: "humaniplex.com." always_null
 local-zone: "humidorshop.at." always_null
+local-zone: "humor-blog.com." always_null
 local-zone: "humoron.com." always_null
 local-zone: "humpaki.com." always_null
 local-zone: "humpinglife.com." always_null
