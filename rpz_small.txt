@@ -1,16 +1,16 @@
-; Version: 202510280520
+; Version: 202510280620
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94648
-; Last modified: 2025-10-28T05:20:18+0000
+; Entries: 94616
+; Last modified: 2025-10-28T06:20:11+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761628321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761631922 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -16062,8 +16062,6 @@ bee.shelveholidays.co.uk CNAME .
 *.bee.shelveholidays.co.uk CNAME .
 bee.tc.easebar.com CNAME .
 *.bee.tc.easebar.com CNAME .
-beegotou.net CNAME .
-*.beegotou.net CNAME .
 beegrenugoz.com CNAME .
 *.beegrenugoz.com CNAME .
 beelinehindu.com CNAME .
@@ -32152,8 +32150,6 @@ e7e34b16ed.com CNAME .
 *.e7e34b16ed.com CNAME .
 e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz CNAME .
 *.e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz CNAME .
-e806dd6aba.com CNAME .
-*.e806dd6aba.com CNAME .
 e8370630f3.com CNAME .
 *.e8370630f3.com CNAME .
 e8656a9f30.com CNAME .
@@ -32784,8 +32780,6 @@ efadfubcqalcr.club CNAME .
 *.efadfubcqalcr.club CNAME .
 efanyorgagetni.info CNAME .
 *.efanyorgagetni.info CNAME .
-efef322148.com CNAME .
-*.efef322148.com CNAME .
 efeyaukqwlyticafr.com CNAME .
 *.efeyaukqwlyticafr.com CNAME .
 effacedefend.com CNAME .
@@ -33784,8 +33778,6 @@ eqfqekkgkwpya.online CNAME .
 *.eqfqekkgkwpya.online CNAME .
 eqieg6yn5.com CNAME .
 *.eqieg6yn5.com CNAME .
-eqltxthw.com CNAME .
-*.eqltxthw.com CNAME .
 eqpmzcorwgnda.store CNAME .
 *.eqpmzcorwgnda.store CNAME .
 equaleddunair.click CNAME .
@@ -49588,8 +49580,6 @@ lbumpethohbsp.online CNAME .
 *.lbumpethohbsp.online CNAME .
 lby2kd27c.com CNAME .
 *.lby2kd27c.com CNAME .
-lbyezwnsmrbum.online CNAME .
-*.lbyezwnsmrbum.online CNAME .
 lbylqerzmzlzq.top CNAME .
 *.lbylqerzmzlzq.top CNAME .
 lbzyjmbvmkovm.top CNAME .
@@ -59794,8 +59784,6 @@ ooawsxkdrm.club CNAME .
 *.ooawsxkdrm.club CNAME .
 oobeapxokjyke.online CNAME .
 *.oobeapxokjyke.online CNAME .
-oobvqbtytczg.com CNAME .
-*.oobvqbtytczg.com CNAME .
 oodrampi.com CNAME .
 *.oodrampi.com CNAME .
 oogdrtkrenaoh.website CNAME .
@@ -64928,8 +64916,6 @@ prrbmzwmxbbhu.store CNAME .
 *.prrbmzwmxbbhu.store CNAME .
 prre.ru CNAME .
 *.prre.ru CNAME .
-prsnnsgdbhtwsb.com CNAME .
-*.prsnnsgdbhtwsb.com CNAME .
 prsutbxjqvriz.site CNAME .
 *.prsutbxjqvriz.site CNAME .
 prtawe.com CNAME .
@@ -66232,8 +66218,6 @@ qgwyazvkzafrh.website CNAME .
 *.qgwyazvkzafrh.website CNAME .
 qgxbluhsgad.com CNAME .
 *.qgxbluhsgad.com CNAME .
-qgxfckhxyjf.com CNAME .
-*.qgxfckhxyjf.com CNAME .
 qhdhtd.com CNAME .
 *.qhdhtd.com CNAME .
 qhiatcfrywgse.click CNAME .
@@ -66816,8 +66800,6 @@ qvid2.b-cdn.net CNAME .
 *.qvid2.b-cdn.net CNAME .
 qvikar.com CNAME .
 *.qvikar.com CNAME .
-qvrqujqovtnm.net CNAME .
-*.qvrqujqovtnm.net CNAME .
 qvsimvenounsx.online CNAME .
 *.qvsimvenounsx.online CNAME .
 qvvurjgilhgbd.space CNAME .
@@ -66836,8 +66818,6 @@ qwlbvlyeqlvoj.top CNAME .
 *.qwlbvlyeqlvoj.top CNAME .
 qwlmacbmwmtum.online CNAME .
 *.qwlmacbmwmtum.online CNAME .
-qwpjtmwidhjijk.com CNAME .
-*.qwpjtmwidhjijk.com CNAME .
 qwpsgqyzrzcr.life CNAME .
 *.qwpsgqyzrzcr.life CNAME .
 qwrwawwlrlkyr.top CNAME .
@@ -69178,8 +69158,6 @@ rmtpouusuokbh.space CNAME .
 *.rmtpouusuokbh.space CNAME .
 rmtxdn.icu CNAME .
 *.rmtxdn.icu CNAME .
-rmviblvfup.com CNAME .
-*.rmviblvfup.com CNAME .
 rmvvawqleqbaw.top CNAME .
 *.rmvvawqleqbaw.top CNAME .
 rmvvawqobqeov.top CNAME .
@@ -72520,8 +72498,6 @@ selfservice.adoptim.com CNAME .
 *.selfservice.adoptim.com CNAME .
 selfservicebondnewly.com CNAME .
 *.selfservicebondnewly.com CNAME .
-sellerher.com CNAME .
-*.sellerher.com CNAME .
 sellersfloush.com CNAME .
 *.sellersfloush.com CNAME .
 sellrashmm.com CNAME .
@@ -75638,8 +75614,6 @@ spukesuzette.shop CNAME .
 *.spukesuzette.shop CNAME .
 spulyiecooboo.website CNAME .
 *.spulyiecooboo.website CNAME .
-spumoniunites.qpon CNAME .
-*.spumoniunites.qpon CNAME .
 spunorientation.com CNAME .
 *.spunorientation.com CNAME .
 spuriusjayant.life CNAME .
@@ -78006,8 +77980,6 @@ succubicocopan.cfd CNAME .
 *.succubicocopan.cfd CNAME .
 suchanalytik.hideandsec.sh CNAME .
 *.suchanalytik.hideandsec.sh CNAME .
-sucmahouckoo.com CNAME .
-*.sucmahouckoo.com CNAME .
 sucnaegzvbrhu.site CNAME .
 *.sucnaegzvbrhu.site CNAME .
 sucocune.com CNAME .
@@ -85534,8 +85506,6 @@ uqrchidhtpvmc.space CNAME .
 *.uqrchidhtpvmc.space CNAME .
 uqvgtqnthkqgi.space CNAME .
 *.uqvgtqnthkqgi.space CNAME .
-uqvkbnjtvbpy.com CNAME .
-*.uqvkbnjtvbpy.com CNAME .
 uqwkayiepuwam.com CNAME .
 *.uqwkayiepuwam.com CNAME .
 uqxtyjclokxex.website CNAME .
@@ -86382,8 +86352,6 @@ vdacdn1.viettel.vn CNAME .
 *.vdacdn1.viettel.vn CNAME .
 vdacdn2.viettel.vn CNAME .
 *.vdacdn2.viettel.vn CNAME .
-vdaplqlnnlapg.store CNAME .
-*.vdaplqlnnlapg.store CNAME .
 vdbaa.com CNAME .
 *.vdbaa.com CNAME .
 vdbedxruxhcdm.website CNAME .
