@@ -1,9 +1,9 @@
-# Version: 202510281225
+# Version: 202510281526
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 20977
-# Last modified: 2025-10-28T12:25:39+0000
+# Entries: 20978
+# Last modified: 2025-10-28T15:26:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1324,6 +1324,7 @@ server=/around.xxx/
 server=/arousingdates.com/
 server=/arousr.com/
 server=/arporn.com/
+server=/arporncam.com/
 server=/arquivoporno.net/
 server=/artdeseduire.com/
 server=/artfile.ru/

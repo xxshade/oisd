@@ -1,9 +1,9 @@
-# Version: 202510281225
+# Version: 202510281526
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20977
-# Last modified: 2025-10-28T12:25:40+0000
+# Entries: 20978
+# Last modified: 2025-10-28T15:26:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1325,6 +1325,7 @@ local-zone: "around.xxx." always_null
 local-zone: "arousingdates.com." always_null
 local-zone: "arousr.com." always_null
 local-zone: "arporn.com." always_null
+local-zone: "arporncam.com." always_null
 local-zone: "arquivoporno.net." always_null
 local-zone: "artdeseduire.com." always_null
 local-zone: "artfile.ru." always_null
