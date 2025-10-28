@@ -1,16 +1,16 @@
-; Version: 202510281121
+; Version: 202510281221
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94438
-; Last modified: 2025-10-28T11:21:16+0000
+; Entries: 94408
+; Last modified: 2025-10-28T12:21:25+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761649922 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761653521 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3150,8 +3150,6 @@ $TTL 30
 *.8fvchzuz.myutilitydomain.com CNAME .
 8gold.com CNAME .
 *.8gold.com CNAME .
-8gra3.icu CNAME .
-*.8gra3.icu CNAME .
 8inhjmd.usefathom.com CNAME .
 *.8inhjmd.usefathom.com CNAME .
 8j1f0af5.de CNAME .
@@ -9772,8 +9770,6 @@ ajjwutdytigzg.rocks CNAME .
 *.ajjwutdytigzg.rocks CNAME .
 ajkzd9h.com CNAME .
 *.ajkzd9h.com CNAME .
-ajougnophomseez.com CNAME .
-*.ajougnophomseez.com CNAME .
 ajs.bowintelligence.com CNAME .
 *.ajs.bowintelligence.com CNAME .
 ajs.laketrend.com CNAME .
@@ -14040,8 +14036,6 @@ auchletcecal.cfd CNAME .
 *.auchletcecal.cfd CNAME .
 auchoahy.net CNAME .
 *.auchoahy.net CNAME .
-aucmauphufaukoo.net CNAME .
-*.aucmauphufaukoo.net CNAME .
 aucmoartoas.com CNAME .
 *.aucmoartoas.com CNAME .
 auctionads.com CNAME .
@@ -20930,8 +20924,6 @@ chauckee.net CNAME .
 *.chauckee.net CNAME .
 chautcho.com CNAME .
 *.chautcho.com CNAME .
-chavamephu.com CNAME .
-*.chavamephu.com CNAME .
 chavoads.com CNAME .
 *.chavoads.com CNAME .
 chbwe.space CNAME .
@@ -32430,8 +32422,6 @@ ecbwemnff3.com CNAME .
 *.ecbwemnff3.com CNAME .
 ecd2f27cc8.d0056a5b0b.com CNAME .
 *.ecd2f27cc8.d0056a5b0b.com CNAME .
-ecgxugvhmrwqm.com CNAME .
-*.ecgxugvhmrwqm.com CNAME .
 echarjutka.shop CNAME .
 *.echarjutka.shop CNAME .
 echidna.hellotomorrow.agency CNAME .
@@ -39118,8 +39108,6 @@ ghtanothingfrui.org CNAME .
 *.ghtanothingfrui.org CNAME .
 ghtry.amateurswild.com CNAME .
 *.ghtry.amateurswild.com CNAME .
-ghuet.xyz CNAME .
-*.ghuet.xyz CNAME .
 ghwmbue.icu CNAME .
 *.ghwmbue.icu CNAME .
 ghyzimfjilvbt.online CNAME .
@@ -43240,8 +43228,6 @@ hublosk.com CNAME .
 *.hublosk.com CNAME .
 hubrisone.com CNAME .
 *.hubrisone.com CNAME .
-hucnfoxgiirbw.online CNAME .
-*.hucnfoxgiirbw.online CNAME .
 hudmmxrbwnbwl.fun CNAME .
 *.hudmmxrbwnbwl.fun CNAME .
 hue11.com CNAME .
@@ -60154,8 +60140,6 @@ oseveralyearsfo.org CNAME .
 *.oseveralyearsfo.org CNAME .
 osfultrbriolenai.info CNAME .
 *.osfultrbriolenai.info CNAME .
-osgmkbbkzoajx.online CNAME .
-*.osgmkbbkzoajx.online CNAME .
 osgvimkpobra.com CNAME .
 *.osgvimkpobra.com CNAME .
 oshanixot.com CNAME .
@@ -69024,8 +69008,6 @@ rmlnxwswbvoff.space CNAME .
 *.rmlnxwswbvoff.space CNAME .
 rmonitor.qq.com CNAME .
 *.rmonitor.qq.com CNAME .
-rmorbhodgdflkp.com CNAME .
-*.rmorbhodgdflkp.com CNAME .
 rmpywaamvfwfa.store CNAME .
 *.rmpywaamvfwfa.store CNAME .
 rms-drcn.platform.dbankcloud.cn CNAME .
@@ -87338,8 +87320,6 @@ vqqcqfrnugfqm.site CNAME .
 *.vqqcqfrnugfqm.site CNAME .
 vqqjqbkzclwav.website CNAME .
 *.vqqjqbkzclwav.website CNAME .
-vqrozzojjvvoz.top CNAME .
-*.vqrozzojjvvoz.top CNAME .
 vquhshiqyqudr.space CNAME .
 *.vquhshiqyqudr.space CNAME .
 vqzbmjexsbscb.store CNAME .
@@ -89090,8 +89070,6 @@ wiinvent.com.vn CNAME .
 *.wiinvent.com.vn CNAME .
 wiinvent.tv CNAME .
 *.wiinvent.tv CNAME .
-wijphyfu.com CNAME .
-*.wijphyfu.com CNAME .
 wijqnlrjczisx.space CNAME .
 *.wijqnlrjczisx.space CNAME .
 wijrejzkekuvy.site CNAME .
@@ -90724,8 +90702,6 @@ xkspgkdejobec.site CNAME .
 *.xkspgkdejobec.site CNAME .
 xkuleysuqgzbz.website CNAME .
 *.xkuleysuqgzbz.website CNAME .
-xkxnbvfbfkoog.store CNAME .
-*.xkxnbvfbfkoog.store CNAME .
 xlbgbzzphvkac.site CNAME .
 *.xlbgbzzphvkac.site CNAME .
 xldyxnzo6.com CNAME .
@@ -92776,8 +92752,6 @@ yizghfwqrbhgy.space CNAME .
 *.yizghfwqrbhgy.space CNAME .
 yizj5fcwaj.com CNAME .
 *.yizj5fcwaj.com CNAME .
-yj2nf.icu CNAME .
-*.yj2nf.icu CNAME .
 yjdzqszsqttiy.store CNAME .
 *.yjdzqszsqttiy.store CNAME .
 yje912.cn CNAME .
@@ -92866,8 +92840,6 @@ ylogepubxynzu.space CNAME .
 *.ylogepubxynzu.space CNAME .
 ylscmihqxrrda.global CNAME .
 *.ylscmihqxrrda.global CNAME .
-ylwfbiqipjmuz.online CNAME .
-*.ylwfbiqipjmuz.online CNAME .
 ylx-1.com CNAME .
 *.ylx-1.com CNAME .
 ylx-2.com CNAME .
@@ -94436,8 +94408,6 @@ zzhengre.com CNAME .
 *.zzhengre.com CNAME .
 zzhlssowvzfds.online CNAME .
 *.zzhlssowvzfds.online CNAME .
-zzkzklrwrovab.top CNAME .
-*.zzkzklrwrovab.top CNAME .
 zzlles.com CNAME .
 *.zzlles.com CNAME .
 zzux.com CNAME .
