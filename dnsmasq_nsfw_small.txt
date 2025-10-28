@@ -1,9 +1,9 @@
-# Version: 202510280125
+# Version: 202510281225
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
 # Entries: 20977
-# Last modified: 2025-10-28T01:25:08+0000
+# Last modified: 2025-10-28T12:25:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5871,7 +5871,6 @@ server=/free-xnxx.click/
 server=/free-xxx-movies.club/
 server=/free-xxx-porn.org/
 server=/free-xxxvideo.yachts/
-server=/free-youjizz.bond/
 server=/free.bg/
 server=/free.hr/
 server=/free.nf/
@@ -8120,6 +8119,7 @@ server=/huippupornoa.com/
 server=/huivpizde.com/
 server=/humaniplex.com/
 server=/humidorshop.at/
+server=/humor-blog.com/
 server=/humoron.com/
 server=/humpaki.com/
 server=/humpinglife.com/
