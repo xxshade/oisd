@@ -1,16 +1,16 @@
-; Version: 202510280025
+; Version: 202510280121
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94710
-; Last modified: 2025-10-28T00:25:52+0000
+; Entries: 94674
+; Last modified: 2025-10-28T01:21:05+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761610321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761613922 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -9536,8 +9536,6 @@ ahomsoalsoah.net CNAME .
 *.ahomsoalsoah.net CNAME .
 ahoy-internal-ads-hv.b-cdn.net CNAME .
 *.ahoy-internal-ads-hv.b-cdn.net CNAME .
-ahqoscozv.com CNAME .
-*.ahqoscozv.com CNAME .
 ahqpqagt.gay CNAME .
 *.ahqpqagt.gay CNAME .
 ahrhxdoudmngm.space CNAME .
@@ -30802,8 +30800,6 @@ doruffleton.com CNAME .
 *.doruffleton.com CNAME .
 dosawes.com CNAME .
 *.dosawes.com CNAME .
-doseadraa.com CNAME .
-*.doseadraa.com CNAME .
 doshellosan.com CNAME .
 *.doshellosan.com CNAME .
 dosselsmachair.click CNAME .
@@ -35216,8 +35212,6 @@ f7tkpjw6v.com CNAME .
 *.f7tkpjw6v.com CNAME .
 f7ugx6b863.com CNAME .
 *.f7ugx6b863.com CNAME .
-f8260adbf8558d6.com CNAME .
-*.f8260adbf8558d6.com CNAME .
 f864fdc049.com CNAME .
 *.f864fdc049.com CNAME .
 f866.troyrecord.com CNAME .
@@ -35630,8 +35624,6 @@ fceedf7652.com CNAME .
 *.fceedf7652.com CNAME .
 fcepahafyq.com CNAME .
 *.fcepahafyq.com CNAME .
-fcgwwfcc.net CNAME .
-*.fcgwwfcc.net CNAME .
 fckbx.com CNAME .
 *.fckbx.com CNAME .
 fckbxx.com CNAME .
@@ -37040,8 +37032,6 @@ flytierchurred.space CNAME .
 *.flytierchurred.space CNAME .
 fm-analytics-api.pocketfm.com CNAME .
 *.fm-analytics-api.pocketfm.com CNAME .
-fmekkbhgguovjd.com CNAME .
-*.fmekkbhgguovjd.com CNAME .
 fmgxqcxzpfbel.click CNAME .
 *.fmgxqcxzpfbel.click CNAME .
 fmipurdtuta.com CNAME .
@@ -38204,8 +38194,6 @@ g.mnw.cn CNAME .
 *.g.mnw.cn CNAME .
 g0-g3t-msg.com CNAME .
 *.g0-g3t-msg.com CNAME .
-g0-g3t-msg.net CNAME .
-*.g0-g3t-msg.net CNAME .
 g0-g3t-som3.com CNAME .
 *.g0-g3t-som3.com CNAME .
 g0gr67p.de CNAME .
@@ -46894,8 +46882,6 @@ jldsfd.icu CNAME .
 *.jldsfd.icu CNAME .
 jlfdfodxejpxt.space CNAME .
 *.jlfdfodxejpxt.space CNAME .
-jllhshufro.com CNAME .
-*.jllhshufro.com CNAME .
 jllxkqvoecigv.online CNAME .
 *.jllxkqvoecigv.online CNAME .
 jlmgzsrxtmuce.online CNAME .
@@ -49410,8 +49396,6 @@ languishcharmingwidely.com CNAME .
 *.languishcharmingwidely.com CNAME .
 languishrubbish.com CNAME .
 *.languishrubbish.com CNAME .
-languroa.xyz CNAME .
-*.languroa.xyz CNAME .
 lankswingconcerning.com CNAME .
 *.lankswingconcerning.com CNAME .
 lanky-bar.com CNAME .
@@ -53572,8 +53556,6 @@ mclick.mobi CNAME .
 *.mclick.mobi CNAME .
 mcocayxlebnuv.space CNAME .
 *.mcocayxlebnuv.space CNAME .
-mcoput5pw54niert.cfd CNAME .
-*.mcoput5pw54niert.cfd CNAME .
 mcppsh.com CNAME .
 *.mcppsh.com CNAME .
 mcpuwpsh.com CNAME .
@@ -56198,8 +56180,6 @@ mwowoshszibzo.space CNAME .
 *.mwowoshszibzo.space CNAME .
 mwrgi.com CNAME .
 *.mwrgi.com CNAME .
-mwrtlnueao.net CNAME .
-*.mwrtlnueao.net CNAME .
 mwseohimnnfcx.store CNAME .
 *.mwseohimnnfcx.store CNAME .
 mwsvsmhfwpffc.club CNAME .
@@ -58536,8 +58516,6 @@ nx7.hdxxxclips.com CNAME .
 *.nx7.hdxxxclips.com CNAME .
 nxammcghvgoin.website CNAME .
 *.nxammcghvgoin.website CNAME .
-nxckislfpmkg.com CNAME .
-*.nxckislfpmkg.com CNAME .
 nxdefd.icu CNAME .
 *.nxdefd.icu CNAME .
 nxet1.360doc.cn CNAME .
@@ -71820,8 +71798,6 @@ sauhonaik.com CNAME .
 *.sauhonaik.com CNAME .
 saukndaspiratio.com CNAME .
 *.saukndaspiratio.com CNAME .
-sauloshijaiboub.net CNAME .
-*.sauloshijaiboub.net CNAME .
 saultssipibo.com CNAME .
 *.saultssipibo.com CNAME .
 saumoupsaug.com CNAME .
@@ -80378,8 +80354,6 @@ thighlemonadejell.com CNAME .
 *.thighlemonadejell.com CNAME .
 thikraik.net CNAME .
 *.thikraik.net CNAME .
-thimblehaltedbounce.com CNAME .
-*.thimblehaltedbounce.com CNAME .
 thimblestrangearchitect.com CNAME .
 *.thimblestrangearchitect.com CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
@@ -84020,8 +83994,6 @@ twinrtb.com CNAME .
 *.twinrtb.com CNAME .
 twinsrv.com CNAME .
 *.twinsrv.com CNAME .
-twintcherem.shop CNAME .
-*.twintcherem.shop CNAME .
 twirlamassante.com CNAME .
 *.twirlamassante.com CNAME .
 twirlparchextent.com CNAME .
@@ -86428,8 +86400,6 @@ vdc.zoomph.com CNAME .
 *.vdc.zoomph.com CNAME .
 vde1.voyage-prive.de CNAME .
 *.vde1.voyage-prive.de CNAME .
-vdeavpfroe.com CNAME .
-*.vdeavpfroe.com CNAME .
 vdeiseyswdfco.global CNAME .
 *.vdeiseyswdfco.global CNAME .
 vdgtzmfxlfpmb.space CNAME .
@@ -89154,8 +89124,6 @@ whosealluvia.click CNAME .
 *.whosealluvia.click CNAME .
 whoucheehy.net CNAME .
 *.whoucheehy.net CNAME .
-whounsou.com CNAME .
-*.whounsou.com CNAME .
 whouphesaussums.net CNAME .
 *.whouphesaussums.net CNAME .
 whourgie.com CNAME .
@@ -89730,8 +89698,6 @@ wmktew.icu CNAME .
 *.wmktew.icu CNAME .
 wmlatpmbcaebl.space CNAME .
 *.wmlatpmbcaebl.space CNAME .
-wmmiyrophemnl.store CNAME .
-*.wmmiyrophemnl.store CNAME .
 wmmrbwiyztgeg.top CNAME .
 *.wmmrbwiyztgeg.top CNAME .
 wmnfqywhoauuo.website CNAME .
@@ -93052,8 +93018,6 @@ yjrohhkqfddlx.store CNAME .
 *.yjrohhkqfddlx.store CNAME .
 yjustingexcelele.org CNAME .
 *.yjustingexcelele.org CNAME .
-yjyqabsqm.com CNAME .
-*.yjyqabsqm.com CNAME .
 yjzgncwwpcjve.online CNAME .
 *.yjzgncwwpcjve.online CNAME .
 yk-ssp-ad.cp31.ott.cibntv.net CNAME .
