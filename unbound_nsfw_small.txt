@@ -1,9 +1,9 @@
-# Version: 202510272328
+# Version: 202510280125
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20978
-# Last modified: 2025-10-27T23:28:51+0000
+# Entries: 20977
+# Last modified: 2025-10-28T01:25:09+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -15702,7 +15702,6 @@ local-zone: "sexhookups.org." always_null
 local-zone: "sexhoundlinks.com." always_null
 local-zone: "sexhqvideo.com." always_null
 local-zone: "sexhub.dk." always_null
-local-zone: "sexhub1.com." always_null
 local-zone: "sexhunt.dk." always_null
 local-zone: "sexic.net." always_null
 local-zone: "sexier.com." always_null
