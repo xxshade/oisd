@@ -1,16 +1,16 @@
-; Version: 202510272324
+; Version: 202510280025
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94738
-; Last modified: 2025-10-27T23:24:46+0000
+; Entries: 94710
+; Last modified: 2025-10-28T00:25:52+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761606721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761610321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14530,8 +14530,6 @@ axislogger.appspot.com CNAME .
 *.axislogger.appspot.com CNAME .
 axjndvucr.com CNAME .
 *.axjndvucr.com CNAME .
-axkocscuqo.com CNAME .
-*.axkocscuqo.com CNAME .
 axmmilepqvdyj.world CNAME .
 *.axmmilepqvdyj.world CNAME .
 axolotlly.com CNAME .
@@ -14872,6 +14870,8 @@ b70a8e5392.com CNAME .
 *.b70a8e5392.com CNAME .
 b730.fortmorgantimes.com CNAME .
 *.b730.fortmorgantimes.com CNAME .
+b7360c81c8.com CNAME .
+*.b7360c81c8.com CNAME .
 b78b08af88.dd795a9d50.com CNAME .
 *.b78b08af88.dd795a9d50.com CNAME .
 b79e4u3hz7.com CNAME .
@@ -32162,8 +32162,6 @@ e806dd6aba.com CNAME .
 *.e806dd6aba.com CNAME .
 e8370630f3.com CNAME .
 *.e8370630f3.com CNAME .
-e84dc0210f.b7360c81c8.com CNAME .
-*.e84dc0210f.b7360c81c8.com CNAME .
 e8656a9f30.com CNAME .
 *.e8656a9f30.com CNAME .
 e8853962d1.com CNAME .
@@ -38654,8 +38652,6 @@ gcsh3bxck.com CNAME .
 *.gcsh3bxck.com CNAME .
 gcvir.xyz CNAME .
 *.gcvir.xyz CNAME .
-gcvrairjrposm.website CNAME .
-*.gcvrairjrposm.website CNAME .
 gcvxhwgvpwpyv.online CNAME .
 *.gcvxhwgvpwpyv.online CNAME .
 gcxqfqykhnzai.online CNAME .
@@ -49124,8 +49120,6 @@ kzqjctpvdjmwc.store CNAME .
 *.kzqjctpvdjmwc.store CNAME .
 kzt2afc1rp52.com CNAME .
 *.kzt2afc1rp52.com CNAME .
-kzwdhgakfrxcv.website CNAME .
-*.kzwdhgakfrxcv.website CNAME .
 l-iw.de CNAME .
 *.l-iw.de CNAME .
 l.cdn-fileserver.com CNAME .
@@ -49438,8 +49432,6 @@ laoqo.top CNAME .
 *.laoqo.top CNAME .
 laphagrito.com CNAME .
 *.laphagrito.com CNAME .
-lapsebreak.com CNAME .
-*.lapsebreak.com CNAME .
 laptweakbriefly.com CNAME .
 *.laptweakbriefly.com CNAME .
 larasub.conxxx.pro CNAME .
@@ -52554,8 +52546,6 @@ lythesimblot.cfd CNAME .
 *.lythesimblot.cfd CNAME .
 lyticaframeofm.com CNAME .
 *.lyticaframeofm.com CNAME .
-lyvcfkecscm.com CNAME .
-*.lyvcfkecscm.com CNAME .
 lyvkvqitzktkx.store CNAME .
 *.lyvkvqitzktkx.store CNAME .
 lyvlbjzbozkxy.space CNAME .
@@ -53814,8 +53804,6 @@ medicalcandid.com CNAME .
 *.medicalcandid.com CNAME .
 medicationspoons.com CNAME .
 *.medicationspoons.com CNAME .
-medicine4.top CNAME .
-*.medicine4.top CNAME .
 medicinemannerruthless.com CNAME .
 *.medicinemannerruthless.com CNAME .
 medievalbraneedlework.com CNAME .
@@ -62324,8 +62312,6 @@ phellumunused.cfd CNAME .
 *.phellumunused.cfd CNAME .
 pheloawaraijee.net CNAME .
 *.pheloawaraijee.net CNAME .
-phempeeram.net CNAME .
-*.phempeeram.net CNAME .
 pheniter.com CNAME .
 *.pheniter.com CNAME .
 phenomtrackapi-ir.phenompeople.com CNAME .
@@ -69010,8 +68996,6 @@ rinlfeppahke.com CNAME .
 *.rinlfeppahke.com CNAME .
 rinryesopertyva.org CNAME .
 *.rinryesopertyva.org CNAME .
-rinsouxy.com CNAME .
-*.rinsouxy.com CNAME .
 riotousgrit.com CNAME .
 *.riotousgrit.com CNAME .
 ripe-heart.com CNAME .
@@ -80212,8 +80196,6 @@ th.tubetruck.com CNAME .
 *.th.tubetruck.com CNAME .
 thagrechulo.com CNAME .
 *.thagrechulo.com CNAME .
-thaickoo.net CNAME .
-*.thaickoo.net CNAME .
 thaigapousty.net CNAME .
 *.thaigapousty.net CNAME .
 thairmamzel.help CNAME .
@@ -80862,8 +80844,6 @@ tjlsvkucubbgl.space CNAME .
 *.tjlsvkucubbgl.space CNAME .
 tjmsqsemqyshc.website CNAME .
 *.tjmsqsemqyshc.website CNAME .
-tjnukcxcafaiq.website CNAME .
-*.tjnukcxcafaiq.website CNAME .
 tjpkgnwvighek.click CNAME .
 *.tjpkgnwvighek.click CNAME .
 tjpzz.buzz CNAME .
@@ -83460,8 +83440,6 @@ trt-scripts.usedrop.io CNAME .
 *.trt-scripts.usedrop.io CNAME .
 trt.usedrop.io CNAME .
 *.trt.usedrop.io CNAME .
-tru74hze5yu2m9.cfd CNAME .
-*.tru74hze5yu2m9.cfd CNAME .
 truanet.com CNAME .
 *.truanet.com CNAME .
 trucestaff.com CNAME .
@@ -86682,8 +86660,6 @@ vetatoilets.click CNAME .
 *.vetatoilets.click CNAME .
 vetchesthiever.com CNAME .
 *.vetchesthiever.com CNAME .
-vetertrg.com CNAME .
-*.vetertrg.com CNAME .
 vetiveraccable.click CNAME .
 *.vetiveraccable.click CNAME .
 vetxpx.icu CNAME .
@@ -92614,8 +92590,6 @@ xystuscalm.world CNAME .
 *.xystuscalm.world CNAME .
 xysxkzzygujpn.website CNAME .
 *.xysxkzzygujpn.website CNAME .
-xyvywaakzevea.store CNAME .
-*.xyvywaakzevea.store CNAME .
 xywxwovfxhtaf.space CNAME .
 *.xywxwovfxhtaf.space CNAME .
 xyz0k4gfs.xyz CNAME .
@@ -93906,8 +93880,6 @@ zdh10260lo.com CNAME .
 *.zdh10260lo.com CNAME .
 zdh10261lo.com CNAME .
 *.zdh10261lo.com CNAME .
-zdh10270lo.com CNAME .
-*.zdh10270lo.com CNAME .
 zdh10271lo.com CNAME .
 *.zdh10271lo.com CNAME .
 zdh10280lo.com CNAME .
