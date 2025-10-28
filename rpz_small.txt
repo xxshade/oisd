@@ -1,16 +1,16 @@
-; Version: 202510280820
+; Version: 202510280920
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94538
-; Last modified: 2025-10-28T08:20:01+0000
+; Entries: 94510
+; Last modified: 2025-10-28T09:20:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761639121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761642722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3032,8 +3032,6 @@ $TTL 30
 *.874547.men CNAME .
 875ae5699d.8b543b5074.com CNAME .
 *.875ae5699d.8b543b5074.com CNAME .
-877f80dfaa.com CNAME .
-*.877f80dfaa.com CNAME .
 879.thebussybandit.com CNAME .
 *.879.thebussybandit.com CNAME .
 87c96e5e53.f74f316370.com CNAME .
@@ -14670,8 +14668,6 @@ azqqlobqwoeqw.top CNAME .
 *.azqqlobqwoeqw.top CNAME .
 azqqlobqwomqr.top CNAME .
 *.azqqlobqwomqr.top CNAME .
-azqqlobqwoyzw.top CNAME .
-*.azqqlobqwoyzw.top CNAME .
 azsiacentrum.hu CNAME .
 *.azsiacentrum.hu CNAME .
 azskk.com CNAME .
@@ -16226,8 +16222,6 @@ beltenefloit.com CNAME .
 *.beltenefloit.com CNAME .
 beltingfederal.shop CNAME .
 *.beltingfederal.shop CNAME .
-beltmenpampero.click CNAME .
-*.beltmenpampero.click CNAME .
 beludicolor.com CNAME .
 *.beludicolor.com CNAME .
 belwrite.com CNAME .
@@ -36030,8 +36024,6 @@ fibbooze.com CNAME .
 *.fibbooze.com CNAME .
 fibrefilamentherself.com CNAME .
 *.fibrefilamentherself.com CNAME .
-fibrousconcuss.com CNAME .
-*.fibrousconcuss.com CNAME .
 fickle-brush.com CNAME .
 *.fickle-brush.com CNAME .
 fickle-dream.com CNAME .
@@ -51992,8 +51984,6 @@ lprgcuewbzwdd.store CNAME .
 *.lprgcuewbzwdd.store CNAME .
 lptrck.com CNAME .
 *.lptrck.com CNAME .
-lpxwtr7f3umqhjb9.cfd CNAME .
-*.lpxwtr7f3umqhjb9.cfd CNAME .
 lpyyzoetztnmv.one CNAME .
 *.lpyyzoetztnmv.one CNAME .
 lpzttnoezjdir.xyz CNAME .
@@ -54726,8 +54716,6 @@ mkt.hoanghamobile.com CNAME .
 *.mkt.hoanghamobile.com CNAME .
 mktp-base.mktplatforms.com CNAME .
 *.mktp-base.mktplatforms.com CNAME .
-mkue.cn CNAME .
-*.mkue.cn CNAME .
 mkybbjaracrvh.online CNAME .
 *.mkybbjaracrvh.online CNAME .
 mkyxrljdjoawi.site CNAME .
@@ -62230,8 +62218,6 @@ pheedo.com CNAME .
 *.pheedo.com CNAME .
 pheersie.com CNAME .
 *.pheersie.com CNAME .
-pheestouphoo.com CNAME .
-*.pheestouphoo.com CNAME .
 phegnauxoudsez.xyz CNAME .
 *.phegnauxoudsez.xyz CNAME .
 phellumunused.cfd CNAME .
@@ -62320,8 +62306,6 @@ phoubourgoksa.com CNAME .
 *.phoubourgoksa.com CNAME .
 phoulseertaibe.com CNAME .
 *.phoulseertaibe.com CNAME .
-phourtookepta.net CNAME .
-*.phourtookepta.net CNAME .
 phouvemp.net CNAME .
 *.phouvemp.net CNAME .
 phpad.cqnews.net CNAME .
@@ -78662,8 +78646,6 @@ szciifmbhbmcx.space CNAME .
 *.szciifmbhbmcx.space CNAME .
 szhaczzptwovk.club CNAME .
 *.szhaczzptwovk.club CNAME .
-szhtsymsqjj.com CNAME .
-*.szhtsymsqjj.com CNAME .
 szjevtlhcggwu.site CNAME .
 *.szjevtlhcggwu.site CNAME .
 sznzfsidzwfiz.space CNAME .
@@ -84504,8 +84486,6 @@ uinnertablis.com CNAME .
 *.uinnertablis.com CNAME .
 uiopkl.com CNAME .
 *.uiopkl.com CNAME .
-uiotjaqx.com CNAME .
-*.uiotjaqx.com CNAME .
 uiphk.one CNAME .
 *.uiphk.one CNAME .
 uiqouw.icu CNAME .
@@ -84878,8 +84858,6 @@ undrawsremet.com CNAME .
 *.undrawsremet.com CNAME .
 uneasinessresurrection.com CNAME .
 *.uneasinessresurrection.com CNAME .
-unelekidan.com CNAME .
-*.unelekidan.com CNAME .
 unequaledchair.com CNAME .
 *.unequaledchair.com CNAME .
 uneven-cold.pro CNAME .
@@ -89684,8 +89662,6 @@ wokeshootdisreputable.com CNAME .
 *.wokeshootdisreputable.com CNAME .
 wokm8isd4zit.com CNAME .
 *.wokm8isd4zit.com CNAME .
-wolaufie.com CNAME .
-*.wolaufie.com CNAME .
 wolf.novel.io CNAME .
 *.wolf.novel.io CNAME .
 wolf.samarasousa.com CNAME .
@@ -89764,8 +89740,6 @@ woof-wo0f.net CNAME .
 *.woof-wo0f.net CNAME .
 woogoust.com CNAME .
 *.woogoust.com CNAME .
-woolenabled.com CNAME .
-*.woolenabled.com CNAME .
 woollensimplicity.com CNAME .
 *.woollensimplicity.com CNAME .
 woopra.com CNAME .
@@ -92272,8 +92246,6 @@ xulizui6.com CNAME .
 *.xulizui6.com CNAME .
 xuptiwsibnpe.com CNAME .
 *.xuptiwsibnpe.com CNAME .
-xuqbrtisoli.com CNAME .
-*.xuqbrtisoli.com CNAME .
 xurkvrrdbevqc.website CNAME .
 *.xurkvrrdbevqc.website CNAME .
 xurlctzwmnnxm.site CNAME .
