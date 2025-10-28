@@ -1,9 +1,9 @@
-# Version: 202510282022
+# Version: 202510282121
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47149
-# Last modified: 2025-10-28T20:22:43+0000
+# Entries: 47139
+# Last modified: 2025-10-28T21:21:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -780,7 +780,6 @@ local-zone: "3807bf7acf.com." always_null
 local-zone: "38167473.xyz." always_null
 local-zone: "382be190f4.com." always_null
 local-zone: "3861759da2.4191f1f197.com." always_null
-local-zone: "38835571.xyz." always_null
 local-zone: "388533c5eb.com." always_null
 local-zone: "3890e014d2.com." always_null
 local-zone: "38ds89f8.de." always_null
@@ -7833,7 +7832,6 @@ local-zone: "bcgzqzjkyjmfd.store." always_null
 local-zone: "bchina-1.xsfaya.com." always_null
 local-zone: "bcjnxyvjmcmdc.com." always_null
 local-zone: "bcloudhost.com." always_null
-local-zone: "bcngzqzripfgb.online." always_null
 local-zone: "bcnonwgwntvpv.website." always_null
 local-zone: "bcombdmnoidze.online." always_null
 local-zone: "bcpbtqpumbarw.online." always_null
@@ -21553,7 +21551,6 @@ local-zone: "hqvkbn.icu." always_null
 local-zone: "hqwa.xyz." always_null
 local-zone: "hqxvhbntctxha.space." always_null
 local-zone: "hrahdmon.com." always_null
-local-zone: "hrahpnhrlf.com." always_null
 local-zone: "hramb.site." always_null
 local-zone: "hrbaal0z.xyz." always_null
 local-zone: "hreso.site." always_null
@@ -23165,7 +23162,6 @@ local-zone: "jb-dqxiin.today." always_null
 local-zone: "jb.ecar168.cn." always_null
 local-zone: "jbaqavqkroqob.top." always_null
 local-zone: "jbaqavqkrovyy.top." always_null
-local-zone: "jbaqavqkrylmq.top." always_null
 local-zone: "jbaqavqrkojmz.top." always_null
 local-zone: "jbbhdyduwphef.store." always_null
 local-zone: "jbbydz.icu." always_null
@@ -23388,7 +23384,6 @@ local-zone: "jlxsgk.com." always_null
 local-zone: "jly24aw29n5m-a.akamaihd.net." always_null
 local-zone: "jlzbnl.com." always_null
 local-zone: "jmabcnclmfkrg.store." always_null
-local-zone: "jmdvcukmrwmmy.website." always_null
 local-zone: "jmebwpbpvofcx.online." always_null
 local-zone: "jmhrmhgjkdgvd.store." always_null
 local-zone: "jmipzsn.icu." always_null
@@ -23752,7 +23747,6 @@ local-zone: "jwsltekcmzhkj.store." always_null
 local-zone: "jwufajjpajnfq.website." always_null
 local-zone: "jwuikmwpwrvae.site." always_null
 local-zone: "jwxlupfcsmlkb.online." always_null
-local-zone: "jwycysrhsgtyz.website." always_null
 local-zone: "jwzeoshnruedd.website." always_null
 local-zone: "jwzvfjur.work." always_null
 local-zone: "jx3.freepornobook.com." always_null
@@ -29773,7 +29767,6 @@ local-zone: "onfluencer.net." always_null
 local-zone: "ongffzbvekahn.site." always_null
 local-zone: "ongmansuchc.com." always_null
 local-zone: "oniyyrgezoanj.website." always_null
-local-zone: "onkavst.com." always_null
 local-zone: "onkjicaw.com." always_null
 local-zone: "online-1.co.in." always_null
 local-zone: "online-adnetwork.com." always_null
@@ -32646,7 +32639,6 @@ local-zone: "purrahdianoia.rest." always_null
 local-zone: "pursuingconjunction.com." always_null
 local-zone: "pusgutreggae.cfd." always_null
 local-zone: "push-api.topaz-analytics.com." always_null
-local-zone: "push-news.click." always_null
 local-zone: "push-notifications.top." always_null
 local-zone: "push-sdk.com." always_null
 local-zone: "push-sdk.net." always_null
@@ -43726,7 +43718,6 @@ local-zone: "vwmdzetaikxvc.site." always_null
 local-zone: "vwoalbekrhqam.online." always_null
 local-zone: "vwonwkaqvq-a.global.ssl.fastly.net." always_null
 local-zone: "vwpttkoh.xyz." always_null
-local-zone: "vwrectxemak.com." always_null
 local-zone: "vws.vidcoin.com." always_null
 local-zone: "vws4brkfst.com." always_null
 local-zone: "vwtbrzymoz.com." always_null
@@ -46970,7 +46961,6 @@ local-zone: "zofmhx.icu." always_null
 local-zone: "zog.link." always_null
 local-zone: "zogrepsili.com." always_null
 local-zone: "zoifwejzptmea.store." always_null
-local-zone: "zojxutphlghyn.online." always_null
 local-zone: "zolivexo.store." always_null
 local-zone: "zolizatate.com." always_null
 local-zone: "zollzunis.top." always_null
