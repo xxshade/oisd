@@ -1,16 +1,16 @@
-; Version: 202510290620
+; Version: 202510290719
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 94858
-; Last modified: 2025-10-29T06:20:15+0000
+; Entries: 94854
+; Last modified: 2025-10-29T07:19:59+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761718321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761721921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -48326,8 +48326,6 @@ kibyglsp.top CNAME .
 *.kibyglsp.top CNAME .
 kickhoistsuccess.com CNAME .
 *.kickhoistsuccess.com CNAME .
-kiddingpseud.com CNAME .
-*.kiddingpseud.com CNAME .
 kidimportant.com CNAME .
 *.kidimportant.com CNAME .
 kidnapbarkey.cyou CNAME .
@@ -67882,8 +67880,6 @@ reboantzarf.com CNAME .
 *.reboantzarf.com CNAME .
 rebootsormers.com CNAME .
 *.rebootsormers.com CNAME .
-rebopsmurly.com CNAME .
-*.rebopsmurly.com CNAME .
 rebosogabby.cyou CNAME .
 *.rebosogabby.cyou CNAME .
 rebukeemotion.com CNAME .
