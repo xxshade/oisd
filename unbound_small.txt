@@ -1,9 +1,9 @@
-# Version: 202510290121
+# Version: 202510290406
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
 # Entries: 47391
-# Last modified: 2025-10-29T01:21:11+0000
+# Last modified: 2025-10-29T04:06:26+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -42,7 +42,6 @@ local-zone: "0214217ebc.com." always_null
 local-zone: "0225083fd4.26664d7709.com." always_null
 local-zone: "023e6510cc.com." always_null
 local-zone: "023hysj.com." always_null
-local-zone: "024187449b.f07a0277a7.com." always_null
 local-zone: "024e3caef2.com." always_null
 local-zone: "029519cbdc.com." always_null
 local-zone: "02952346.xyz." always_null
@@ -17616,6 +17615,7 @@ local-zone: "f.xyu.tv." always_null
 local-zone: "f016d57403.com." always_null
 local-zone: "f023.bostonherald.com." always_null
 local-zone: "f03f.com." always_null
+local-zone: "f07a0277a7.com." always_null
 local-zone: "f07neg4p.de." always_null
 local-zone: "f0b02e7c3f.com." always_null
 local-zone: "f0d5add3ea.com." always_null
