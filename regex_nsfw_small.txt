@@ -1,14 +1,15 @@
-# Version: 202510301224
+# Version: 202510301824
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 17630
-# Last modified: 2025-10-30T12:24:02+0000
+# Entries: 18202
+# Last modified: 2025-10-30T18:24:43+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
 # Homepage: https://oisd.nl
 
+/^(.*\.)?007xf\.com$/
 /^(.*\.)?01tube\.com$/
 /^(.*\.)?021sex\.net$/
 /^(.*\.)?037hdjav\.com$/
@@ -78,6 +79,7 @@
 /^(.*\.)?18mag\.net$/
 /^(.*\.)?18matureporn\.cc$/
 /^(.*\.)?18mh\.org$/
+/^(.*\.)?18porn\.biz$/
 /^(.*\.)?18porn\.sex$/
 /^(.*\.)?18porn\.wtf$/
 /^(.*\.)?18porn2\.biz$/
@@ -115,6 +117,7 @@
 /^(.*\.)?1plus1tv\.ru$/
 /^(.*\.)?1pondo\.tv$/
 /^(.*\.)?1porn\.press$/
+/^(.*\.)?1porn\.tv$/
 /^(.*\.)?1porno\.media$/
 /^(.*\.)?1pornxxx\.com$/
 /^(.*\.)?1r4\.com$/
@@ -129,6 +132,7 @@
 /^(.*\.)?1xbet\.com$/
 /^(.*\.)?1xnxx\.net$/
 /^(.*\.)?1xxxmalayalam\.com$/
+/^(.*\.)?2018porn\.pro$/
 /^(.*\.)?2021porno\.com$/
 /^(.*\.)?20porno\.com$/
 /^(.*\.)?21naturals\.com$/
@@ -138,6 +142,7 @@
 /^(.*\.)?236avporn\.com$/
 /^(.*\.)?24\-jav\.com$/
 /^(.*\.)?24\-video\.com$/
+/^(.*\.)?24\-video\.ru$/
 /^(.*\.)?247analsex\.com$/
 /^(.*\.)?247asiansex\.com$/
 /^(.*\.)?247bigboobs\.com$/
@@ -246,6 +251,7 @@
 /^(.*\.)?429\.xxx$/
 /^(.*\.)?429men\.com$/
 /^(.*\.)?42web\.io$/
+/^(.*\.)?44sex\.com$/
 /^(.*\.)?44yu\.cc$/
 /^(.*\.)?45porn\.net$/
 /^(.*\.)?48\.ie$/
@@ -261,9 +267,11 @@
 /^(.*\.)?4gay\.com$/
 /^(.*\.)?4hdporn\.com$/
 /^(.*\.)?4hu\.tv$/
+/^(.*\.)?4khd\.com$/
 /^(.*\.)?4kincestporn\.com$/
 /^(.*\.)?4kporn\.xxx$/
 /^(.*\.)?4kpornvideos\.tv$/
+/^(.*\.)?4krealincestporn\.com$/
 /^(.*\.)?4ksex\.me$/
 /^(.*\.)?4kup\.net$/
 /^(.*\.)?4ox\.pw$/
@@ -285,6 +293,7 @@
 /^(.*\.)?560pmovie\.com$/
 /^(.*\.)?5chat\.it$/
 /^(.*\.)?5escorts\.ca$/
+/^(.*\.)?5escorts\.com$/
 /^(.*\.)?5gays\.com$/
 /^(.*\.)?5kporn\.com$/
 /^(.*\.)?5moviesporn\.io$/
@@ -317,6 +326,7 @@
 /^(.*\.)?69xxxtube\.com$/
 /^(.*\.)?69yed\.com$/
 /^(.*\.)?6annonce\.net$/
+/^(.*\.)?6buses\.com$/
 /^(.*\.)?6chat\.org$/
 /^(.*\.)?6chua\.com$/
 /^(.*\.)?6dude\.com$/
@@ -343,12 +353,14 @@
 /^(.*\.)?7dak\.com$/
 /^(.*\.)?7mmtv\.me$/
 /^(.*\.)?7mmtv\.sx$/
+/^(.*\.)?7pornmovies\.com$/
 /^(.*\.)?7rkchat\.com$/
 /^(.*\.)?7sexvideos\.com$/
 /^(.*\.)?8\-muses\.xyz$/
 /^(.*\.)?83xnxx\.com$/
 /^(.*\.)?85po\.com$/
 /^(.*\.)?8animal\.com$/
+/^(.*\.)?8boobs\.com$/
 /^(.*\.)?8freeporn\.com$/
 /^(.*\.)?8kporner\.com$/
 /^(.*\.)?8kun\.top$/
@@ -357,6 +369,7 @@
 /^(.*\.)?8muses\.io$/
 /^(.*\.)?8muses\.xxx$/
 /^(.*\.)?8se\.me$/
+/^(.*\.)?8sexnhathd\.com$/
 /^(.*\.)?8teenxxx\.com$/
 /^(.*\.)?8ung\.at$/
 /^(.*\.)?8zoo\.net$/
@@ -390,6 +403,7 @@
 /^(.*\.)?9xbuddy\.io$/
 /^(.*\.)?a\-hadaka\.jp$/
 /^(.*\.)?a\-hentai\.tv$/
+/^(.*\.)?a1tb\.com$/
 /^(.*\.)?aaaporn\.net$/
 /^(.*\.)?aagmaal\.club$/
 /^(.*\.)?aagmaal\.com$/
@@ -422,6 +436,7 @@
 /^(.*\.)?aboutporno\.net$/
 /^(.*\.)?aboutyou\.ee$/
 /^(.*\.)?abozeb\.com$/
+/^(.*\.)?abpa\.at$/
 /^(.*\.)?abricoff\.com$/
 /^(.*\.)?abs154\.ru$/
 /^(.*\.)?absolugirl\.com$/
@@ -447,6 +462,7 @@
 /^(.*\.)?actieforum\.com$/
 /^(.*\.)?actionmatures\.com$/
 /^(.*\.)?actionviewphotography\.com$/
+/^(.*\.)?actress\-base\.ru$/
 /^(.*\.)?actressx\.com$/
 /^(.*\.)?acxx\.de$/
 /^(.*\.)?ad\-extremesite\.com$/
@@ -507,6 +523,7 @@
 /^(.*\.)?adultcrush\.com$/
 /^(.*\.)?adultdatingfriends\.biz$/
 /^(.*\.)?adultdazzle\.com$/
+/^(.*\.)?adultdb\.io$/
 /^(.*\.)?adultdeals\.com$/
 /^(.*\.)?adultdeepfakes\.com$/
 /^(.*\.)?adultdvdempire\.com$/
@@ -524,6 +541,7 @@
 /^(.*\.)?adultfriendfinder\.review$/
 /^(.*\.)?adultgalls\.com$/
 /^(.*\.)?adultgames\.games$/
+/^(.*\.)?adultgamescollector\.com$/
 /^(.*\.)?adultgameson\.com$/
 /^(.*\.)?adultgamesworld\.com$/
 /^(.*\.)?adultgirlsporn\.com$/
@@ -533,6 +551,7 @@
 /^(.*\.)?adulthdvideo\.com$/
 /^(.*\.)?adultiptv\.net$/
 /^(.*\.)?adultism\.com$/
+/^(.*\.)?adultjoy\.net$/
 /^(.*\.)?adultlook\.com$/
 /^(.*\.)?adultmagazinespdf\.com$/
 /^(.*\.)?adultmatchmaker\.com\.au$/
@@ -563,6 +582,7 @@
 /^(.*\.)?adulttime\.com$/
 /^(.*\.)?adulttime\.xxx$/
 /^(.*\.)?adulttoymegastore\.com\.au$/
+/^(.*\.)?adultwebcamdownloads\.org$/
 /^(.*\.)?adultwebtoon\.com$/
 /^(.*\.)?adultwork\.com$/
 /^(.*\.)?adultworldq\.com$/
@@ -589,6 +609,7 @@
 /^(.*\.)?africanbbws\.com$/
 /^(.*\.)?africancasting\.com$/
 /^(.*\.)?afrilov\.com$/
+/^(.*\.)?afroebony\.com$/
 /^(.*\.)?afrohot\.com$/
 /^(.*\.)?afroromance\.com$/
 /^(.*\.)?afspraakjes\.be$/
@@ -620,6 +641,7 @@
 /^(.*\.)?ahvideoscdn\.net$/
 /^(.*\.)?ahxxxtube\.net$/
 /^(.*\.)?ai\-porn\.ai$/
+/^(.*\.)?ai\-porn\.click$/
 /^(.*\.)?ai\-undress\.ai$/
 /^(.*\.)?aiailah\.com$/
 /^(.*\.)?aiallure\.com$/
@@ -633,6 +655,7 @@
 /^(.*\.)?aihentaigenerator\.art$/
 /^(.*\.)?aindiansex\.com$/
 /^(.*\.)?ainude\.best$/
+/^(.*\.)?ainudez\.com$/
 /^(.*\.)?aiohotgirlz\.com$/
 /^(.*\.)?aiporn\.photos$/
 /^(.*\.)?aiporntool\.com$/
@@ -642,6 +665,7 @@
 /^(.*\.)?airbnb4you\.ch$/
 /^(.*\.)?airlesbianporn\.com$/
 /^(.*\.)?airxxxporn\.com$/
+/^(.*\.)?aisan\-porn\.org$/
 /^(.*\.)?aiuncensored\.info$/
 /^(.*\.)?aivfree\.com$/
 /^(.*\.)?aki\-h\.com$/
@@ -661,7 +685,9 @@
 /^(.*\.)?alexaporn\.com$/
 /^(.*\.)?alexpix\.tv$/
 /^(.*\.)?alexporn\.com$/
+/^(.*\.)?alexysexy\.com$/
 /^(.*\.)?alicante69\.com$/
+/^(.*\.)?alinablog\.al$/
 /^(.*\.)?alive\.com$/
 /^(.*\.)?aliveai\.app$/
 /^(.*\.)?aliveboy\.com$/
@@ -687,6 +713,7 @@
 /^(.*\.)?allcams\.cc$/
 /^(.*\.)?allclassic\.porn$/
 /^(.*\.)?allcumshotpics\.com$/
+/^(.*\.)?alldating4u\.com$/
 /^(.*\.)?alldeepfake\.com$/
 /^(.*\.)?alldesiporn\.com$/
 /^(.*\.)?allebonygals\.com$/
@@ -811,6 +838,7 @@
 /^(.*\.)?amateurok\.com$/
 /^(.*\.)?amateurpicpost\.com$/
 /^(.*\.)?amateurpics\.site$/
+/^(.*\.)?amateurpin\.xxx$/
 /^(.*\.)?amateurptv\.com$/
 /^(.*\.)?amateurs\-gone\-wild\.com$/
 /^(.*\.)?amateurscrush\.com$/
@@ -832,6 +860,7 @@
 /^(.*\.)?americanflings\.com$/
 /^(.*\.)?ametart\.com$/
 /^(.*\.)?amiden\.com$/
+/^(.*\.)?amigae\.com$/
 /^(.*\.)?amigos\.com$/
 /^(.*\.)?amitie\.fr$/
 /^(.*\.)?amkingdom\.com$/
@@ -840,7 +869,9 @@
 /^(.*\.)?amorus\.ru$/
 /^(.*\.)?amoryamistad\.mx$/
 /^(.*\.)?amourangels\.com$/
+/^(.*\.)?amouretmoi\.com$/
 /^(.*\.)?ampland\.com$/
+/^(.*\.)?amurchik\.ua$/
 /^(.*\.)?amurz\.com$/
 /^(.*\.)?an4lporn\.com$/
 /^(.*\.)?ana\.sk$/
@@ -886,6 +917,7 @@
 /^(.*\.)?analrz\.com$/
 /^(.*\.)?analsaga\.com$/
 /^(.*\.)?analsee\.com$/
+/^(.*\.)?analsex7\.com$/
 /^(.*\.)?analsexvideos\.xxx$/
 /^(.*\.)?analstate\.com$/
 /^(.*\.)?analteensex\.net$/
@@ -917,6 +949,7 @@
 /^(.*\.)?anifap\.pro$/
 /^(.*\.)?anifaper\.com$/
 /^(.*\.)?anilos\.com$/
+/^(.*\.)?animal\-porn\.net$/
 /^(.*\.)?animal\-trace\.com$/
 /^(.*\.)?animalfreeporn\.com$/
 /^(.*\.)?animalfuckxxx\.com$/
@@ -929,7 +962,9 @@
 /^(.*\.)?animalsex\.me$/
 /^(.*\.)?animalsex\.site$/
 /^(.*\.)?animalsex\.video$/
+/^(.*\.)?animalsexgay\.com$/
 /^(.*\.)?animalsexhouse\.com$/
+/^(.*\.)?animalsporn\.net$/
 /^(.*\.)?animalxxxbestiality\.com$/
 /^(.*\.)?animalzooporn\.net$/
 /^(.*\.)?anime\-sharing\.com$/
@@ -951,6 +986,7 @@
 /^(.*\.)?aniporn\.com$/
 /^(.*\.)?anirena\.com$/
 /^(.*\.)?anistar\.org$/
+/^(.*\.)?anitube\.biz$/
 /^(.*\.)?anixart\.tv$/
 /^(.*\.)?ankararus\.net$/
 /^(.*\.)?ankitarana\.com$/
@@ -998,6 +1034,7 @@
 /^(.*\.)?anyxxx\.me$/
 /^(.*\.)?anyxxx\.tv$/
 /^(.*\.)?aosex\.com$/
+/^(.*\.)?aoutrametade\.com\.br$/
 /^(.*\.)?aoxx69\.vip$/
 /^(.*\.)?apartadox\.com$/
 /^(.*\.)?apartmens\-alean\.ru$/
@@ -1010,6 +1047,7 @@
 /^(.*\.)?apopularporn\.com$/
 /^(.*\.)?aporn\.pro$/
 /^(.*\.)?apornbase\.com$/
+/^(.*\.)?apornbox\.com$/
 /^(.*\.)?apornfactory\.com$/
 /^(.*\.)?apornor\.art$/
 /^(.*\.)?apornor\.me$/
@@ -1087,13 +1125,16 @@
 /^(.*\.)?archivebate\.live$/
 /^(.*\.)?archiveonline\.eu$/
 /^(.*\.)?arctica\-sk\.ru$/
+/^(.*\.)?ardienteplacer\.com$/
 /^(.*\.)?area51\.porn$/
+/^(.*\.)?area51\.to$/
 /^(.*\.)?area52\.com$/
 /^(.*\.)?areajav\.com$/
 /^(.*\.)?arealporn\.com$/
 /^(.*\.)?argentinasx\.com$/
 /^(.*\.)?argentinaxp\.com$/
 /^(.*\.)?argentum107\.ru$/
+/^(.*\.)?arhivporno\.today$/
 /^(.*\.)?arhivporno24\.online$/
 /^(.*\.)?aristos\-logistika\.ru$/
 /^(.*\.)?armporno\.cc$/
@@ -1138,6 +1179,7 @@
 /^(.*\.)?ashoo\.black$/
 /^(.*\.)?ashoo\.io$/
 /^(.*\.)?ashoo\.nl$/
+/^(.*\.)?asiachan\.com$/
 /^(.*\.)?asiafriendfinder\.com$/
 /^(.*\.)?asialadies\.de$/
 /^(.*\.)?asiamodels\.cc$/
@@ -1164,6 +1206,7 @@
 /^(.*\.)?asianfreep\.com$/
 /^(.*\.)?asiangalore\.com$/
 /^(.*\.)?asiangay\.tv$/
+/^(.*\.)?asiangaylove\.com$/
 /^(.*\.)?asiangirlpics\.com$/
 /^(.*\.)?asiangirls\.life$/
 /^(.*\.)?asianleak\.org$/
@@ -1188,11 +1231,13 @@
 /^(.*\.)?asianpornlab\.com$/
 /^(.*\.)?asianpornone\.com$/
 /^(.*\.)?asianpornp\.com$/
+/^(.*\.)?asianpornpro\.com$/
 /^(.*\.)?asianpornq\.com$/
 /^(.*\.)?asianporntube\.click$/
 /^(.*\.)?asianpornv\.com$/
 /^(.*\.)?asianpornxl\.com$/
 /^(.*\.)?asianpplanet\.com$/
+/^(.*\.)?asianpreality\.com$/
 /^(.*\.)?asianpshow\.com$/
 /^(.*\.)?asianpspace\.com$/
 /^(.*\.)?asianpussy\.pics$/
@@ -1223,6 +1268,7 @@
 /^(.*\.)?asianwifeporn\.com$/
 /^(.*\.)?asianwomen\.pics$/
 /^(.*\.)?asianwomenonline\.org$/
+/^(.*\.)?asianworldp\.com$/
 /^(.*\.)?asianxn\.icu$/
 /^(.*\.)?asianxxx\.cc$/
 /^(.*\.)?asianxxxvideos\.xyz$/
@@ -1244,6 +1290,7 @@
 /^(.*\.)?ass\-time\.com$/
 /^(.*\.)?ass4all\.com$/
 /^(.*\.)?assamesesexstory\.xyz$/
+/^(.*\.)?assamesesexvideos\.com$/
 /^(.*\.)?asscj\.com$/
 /^(.*\.)?assesphoto\.com$/
 /^(.*\.)?assfocus\.com$/
@@ -1259,6 +1306,7 @@
 /^(.*\.)?asstok\.com$/
 /^(.*\.)?asstomouth\.guru$/
 /^(.*\.)?asstoo\.com$/
+/^(.*\.)?asstr\.info$/
 /^(.*\.)?asstr\.org$/
 /^(.*\.)?asstraffic\.com$/
 /^(.*\.)?assvideos\.pro$/
@@ -1293,6 +1341,7 @@
 /^(.*\.)?autolinkweb\.com$/
 /^(.*\.)?av\-mad\.com$/
 /^(.*\.)?av\-matome\.jp$/
+/^(.*\.)?av\-photograph\.com$/
 /^(.*\.)?av\-subthaix\.net$/
 /^(.*\.)?av\-th\.net$/
 /^(.*\.)?av\.gallery$/
@@ -1338,6 +1387,7 @@
 /^(.*\.)?avkuy\.net$/
 /^(.*\.)?avlulu\.cc$/
 /^(.*\.)?avmable\.me$/
+/^(.*\.)?avminny\.com$/
 /^(.*\.)?avn\.com$/
 /^(.*\.)?avped\.com$/
 /^(.*\.)?avple\.tv$/
@@ -1350,6 +1400,7 @@
 /^(.*\.)?avslut\.com$/
 /^(.*\.)?avsubthai\.me$/
 /^(.*\.)?avsubtitles\.com$/
+/^(.*\.)?avthaisub\.com$/
 /^(.*\.)?avtime\.tv$/
 /^(.*\.)?avtoday\.io$/
 /^(.*\.)?avtop10\.com$/
@@ -1358,11 +1409,13 @@
 /^(.*\.)?avtub\.pet$/
 /^(.*\.)?avtubflix\.com$/
 /^(.*\.)?avtubs\.com$/
+/^(.*\.)?avventureinzona\.com$/
 /^(.*\.)?avventurepiccanti\.com$/
 /^(.*\.)?avwikidb\.com$/
 /^(.*\.)?avxxx\.bz$/
 /^(.*\.)?avxxx\.site$/
 /^(.*\.)?avxxxmini\.com$/
+/^(.*\.)?avxxxsmile\.com$/
 /^(.*\.)?awardsdaily\.com$/
 /^(.*\.)?awesomephd\.com$/
 /^(.*\.)?awesomepornworld\.com$/
@@ -1399,6 +1452,7 @@
 /^(.*\.)?babeherder\.com$/
 /^(.*\.)?babehub\.com$/
 /^(.*\.)?babehump\.com$/
+/^(.*\.)?babepedia\.com$/
 /^(.*\.)?babeporn\.org$/
 /^(.*\.)?babepump\.com$/
 /^(.*\.)?baberas\.com$/
@@ -1430,6 +1484,7 @@
 /^(.*\.)?babosas\.com$/
 /^(.*\.)?babushki\.online$/
 /^(.*\.)?babushky\.club$/
+/^(.*\.)?babylongirls\.co\.uk$/
 /^(.*\.)?babylonloveshop\.com$/
 /^(.*\.)?backdoorlesbians\.com$/
 /^(.*\.)?backpage\.com$/
@@ -1452,6 +1507,7 @@
 /^(.*\.)?badhotfuck\.org$/
 /^(.*\.)?badjojo\.com$/
 /^(.*\.)?badmilfs\.com$/
+/^(.*\.)?badmovies\.org$/
 /^(.*\.)?badoink\.com$/
 /^(.*\.)?badoinkvr\.com$/
 /^(.*\.)?badoo\.com$/
@@ -1499,6 +1555,7 @@
 /^(.*\.)?bangedtranny\.com$/
 /^(.*\.)?bangerscrib\.com$/
 /^(.*\.)?bangfever\.com$/
+/^(.*\.)?banghornylocals\.com$/
 /^(.*\.)?banging\.cz$/
 /^(.*\.)?banglachodargolpo\.com$/
 /^(.*\.)?banglachoti\-story\.com$/
@@ -1540,6 +1597,7 @@
 /^(.*\.)?batocomic\.com$/
 /^(.*\.)?batocomic\.net$/
 /^(.*\.)?batocomic\.org$/
+/^(.*\.)?batotoo\.com$/
 /^(.*\.)?batotwo\.com$/
 /^(.*\.)?bawesomesex\.com$/
 /^(.*\.)?bazoocam\.org$/
@@ -1616,6 +1674,7 @@
 /^(.*\.)?bdsmpornc\.com$/
 /^(.*\.)?bdsmporno245\.com$/
 /^(.*\.)?bdsmpornp\.com$/
+/^(.*\.)?bdsmrooms\.su$/
 /^(.*\.)?bdsmship\.com$/
 /^(.*\.)?bdsmsite\.net$/
 /^(.*\.)?bdsmspot\.com$/
@@ -1631,11 +1690,14 @@
 /^(.*\.)?bdsmzone\.com$/
 /^(.*\.)?bdxvideohd\.com$/
 /^(.*\.)?be\-mail\.it$/
+/^(.*\.)?beach\-spy\-eye\.net$/
 /^(.*\.)?bear411\.com$/
 /^(.*\.)?bearforest\.com$/
+/^(.*\.)?bearfront\.com$/
 /^(.*\.)?bearworld\.com$/
 /^(.*\.)?beastiality\.sex$/
 /^(.*\.)?beastmovie\.club$/
+/^(.*\.)?beastysexlinks\.com$/
 /^(.*\.)?beastzoo\.org$/
 /^(.*\.)?beate\-uhse\-movie\.com$/
 /^(.*\.)?beatifulgirlfriends\.com$/
@@ -1644,6 +1706,7 @@
 /^(.*\.)?beautifulgirlsex\.com$/
 /^(.*\.)?beautifulptv\.com$/
 /^(.*\.)?beauty\-angels\.com$/
+/^(.*\.)?beauty\-around\.com$/
 /^(.*\.)?beautyass\.com$/
 /^(.*\.)?beautybay\.com$/
 /^(.*\.)?beautygocams\.com$/
@@ -1727,10 +1790,12 @@
 /^(.*\.)?best\-sex\-clips\.com$/
 /^(.*\.)?best18porn\.com$/
 /^(.*\.)?best444\.com$/
+/^(.*\.)?bestadulthookup\.com$/
 /^(.*\.)?bestandfree\.com$/
 /^(.*\.)?bestasianporn\.cc$/
 /^(.*\.)?bestasianwomen\.com$/
 /^(.*\.)?bestbbwp\.com$/
+/^(.*\.)?bestbeeg\.top$/
 /^(.*\.)?bestbondagevideos\.com$/
 /^(.*\.)?bestcam\.tv$/
 /^(.*\.)?bestelinks\.nl$/
@@ -1738,6 +1803,7 @@
 /^(.*\.)?besterpornos\.com$/
 /^(.*\.)?bestesexclips\.com$/
 /^(.*\.)?bestesexvideos\.com$/
+/^(.*\.)?besteyecandy\.com$/
 /^(.*\.)?bestfans\.com$/
 /^(.*\.)?bestfemaledomination\.com$/
 /^(.*\.)?bestfreetube\.porn$/
@@ -1863,6 +1929,7 @@
 /^(.*\.)?bhidioinlisa\.com$/
 /^(.*\.)?bhmodels\.com\.br$/
 /^(.*\.)?bhojpurisex\.site$/
+/^(.*\.)?bi\.org$/
 /^(.*\.)?biaustralia\.com\.au$/
 /^(.*\.)?bicupid\.com$/
 /^(.*\.)?biertijd\.com$/
@@ -1931,6 +1998,7 @@
 /^(.*\.)?biguz\.net$/
 /^(.*\.)?bigvideo\.net$/
 /^(.*\.)?bigwank\.com$/
+/^(.*\.)?bigxxtube\.com$/
 /^(.*\.)?bigxxx\.pet$/
 /^(.*\.)?bikerplanet\.com$/
 /^(.*\.)?bikinifanatics\.com$/
@@ -1966,6 +2034,7 @@
 /^(.*\.)?bizarroporno\.com$/
 /^(.*\.)?bizarropornos\.com$/
 /^(.*\.)?bizml\.site$/
+/^(.*\.)?bj\-share\.info$/
 /^(.*\.)?bj88sex\.com$/
 /^(.*\.)?bkporn\.com$/
 /^(.*\.)?black\-fuck\.net$/
@@ -2007,6 +2076,7 @@
 /^(.*\.)?blogbugs\.org$/
 /^(.*\.)?bloglag\.com$/
 /^(.*\.)?blogs\.fr$/
+/^(.*\.)?blogvporn\.com$/
 /^(.*\.)?blonde\.photos$/
 /^(.*\.)?blovjob\.com$/
 /^(.*\.)?blowingwind\.io$/
@@ -2021,6 +2091,8 @@
 /^(.*\.)?bludnice\.com$/
 /^(.*\.)?bluecam\.com$/
 /^(.*\.)?bluemoonroleplaying\.com$/
+/^(.*\.)?bluemove\.es$/
+/^(.*\.)?bluerockcafe\.com$/
 /^(.*\.)?bluevideos\.net$/
 /^(.*\.)?blushtales\.com$/
 /^(.*\.)?blushvibe\.com$/
@@ -2075,6 +2147,7 @@
 /^(.*\.)?bokepmulus\.icu$/
 /^(.*\.)?bokepporno\.co$/
 /^(.*\.)?bokeprare\.com$/
+/^(.*\.)?bokepsexindonesia\.icu$/
 /^(.*\.)?bokepsin\.cv$/
 /^(.*\.)?bokepsindo\.site$/
 /^(.*\.)?bokeptoket\.blog$/
@@ -2211,6 +2284,7 @@
 /^(.*\.)?bootytape\.com$/
 /^(.*\.)?bootytube\.net$/
 /^(.*\.)?bootytube\.tv$/
+/^(.*\.)?borndirty\.org$/
 /^(.*\.)?borntobefuck\.com$/
 /^(.*\.)?borsonline\.hu$/
 /^(.*\.)?borwap\.net$/
@@ -2312,6 +2386,7 @@
 /^(.*\.)?brokenlatinawhores\.com$/
 /^(.*\.)?brokestraightboys\.com$/
 /^(.*\.)?broomfieldvoice\.com$/
+/^(.*\.)?bropornvideos\.com$/
 /^(.*\.)?brotherporn\.net$/
 /^(.*\.)?broxnxx\.com$/
 /^(.*\.)?broxxx\.com$/
@@ -2338,6 +2413,7 @@
 /^(.*\.)?buddy\.net$/
 /^(.*\.)?buddygays\.com$/
 /^(.*\.)?buddyprofits\.com$/
+/^(.*\.)?bufera\.pro$/
 /^(.*\.)?bugilonly\.com$/
 /^(.*\.)?bukaporn\.com$/
 /^(.*\.)?bukaporn\.net$/
@@ -2491,6 +2567,7 @@
 /^(.*\.)?camgrid\.live$/
 /^(.*\.)?camhub\.cc$/
 /^(.*\.)?camhub\.tv$/
+/^(.*\.)?camhub\.world$/
 /^(.*\.)?camiqa\.com$/
 /^(.*\.)?camjoie\.com$/
 /^(.*\.)?camlivenude\.com$/
@@ -2507,10 +2584,12 @@
 /^(.*\.)?camrecs\.com$/
 /^(.*\.)?camrecs\.org$/
 /^(.*\.)?camrumorz\.com$/
+/^(.*\.)?cams\.autos$/
 /^(.*\.)?cams\.com$/
 /^(.*\.)?cams\.gift$/
 /^(.*\.)?cams\.gratis$/
 /^(.*\.)?cams\.reviews$/
+/^(.*\.)?cams\.rocks$/
 /^(.*\.)?cams\.xyz$/
 /^(.*\.)?cams247\.com$/
 /^(.*\.)?camsaovivo\.com$/
@@ -2595,6 +2674,7 @@
 /^(.*\.)?camworldx\.com$/
 /^(.*\.)?camzania\.com$/
 /^(.*\.)?camzey\.com$/
+/^(.*\.)?canadapleasure\.com$/
 /^(.*\.)?canadianflirtzone\.com$/
 /^(.*\.)?canalblog\.com$/
 /^(.*\.)?canalchat\.org$/
@@ -2604,6 +2684,7 @@
 /^(.*\.)?candfans\.jp$/
 /^(.*\.)?candidgirls\.io$/
 /^(.*\.)?candidshiny\.com$/
+/^(.*\.)?candidteens\.net$/
 /^(.*\.)?candy\.adult$/
 /^(.*\.)?candy\.ai$/
 /^(.*\.)?candy\.porn$/
@@ -2612,6 +2693,7 @@
 /^(.*\.)?candymilfs\.com$/
 /^(.*\.)?candynetwork\.ai$/
 /^(.*\.)?candyteenclub\.com$/
+/^(.*\.)?cangcuc\.com$/
 /^(.*\.)?canovel\.com$/
 /^(.*\.)?caoav\.net$/
 /^(.*\.)?capetinhas\.blog$/
@@ -2653,11 +2735,13 @@
 /^(.*\.)?casualpickup\.com$/
 /^(.*\.)?casualteensex\.com$/
 /^(.*\.)?casualwives\.com$/
+/^(.*\.)?cat3movie\.club$/
 /^(.*\.)?catadorcolombia\.com$/
 /^(.*\.)?catalinacruz\.com$/
 /^(.*\.)?catbango\.com$/
 /^(.*\.)?catchyporn\.com$/
 /^(.*\.)?catypink\.gr$/
+/^(.*\.)?cautjumatatea\.com$/
 /^(.*\.)?cav102\.com$/
 /^(.*\.)?cav103\.com$/
 /^(.*\.)?cav104\.com$/
@@ -2683,6 +2767,7 @@
 /^(.*\.)?cdnsexu\.com$/
 /^(.*\.)?cdntrex\.com$/
 /^(.*\.)?cec18\.pro$/
+/^(.*\.)?cekc\.mn$/
 /^(.*\.)?celeb\-stalker\.com$/
 /^(.*\.)?celeb\.cx$/
 /^(.*\.)?celeb\.tv$/
@@ -2692,6 +2777,7 @@
 /^(.*\.)?celebfapper\.com$/
 /^(.*\.)?celebgate\.cc$/
 /^(.*\.)?celebgate\.org$/
+/^(.*\.)?celebhub\.net$/
 /^(.*\.)?celebjihad\.com$/
 /^(.*\.)?celebjihad\.live$/
 /^(.*\.)?celebmasta\.com$/
@@ -2716,9 +2802,11 @@
 /^(.*\.)?centerfold\.com$/
 /^(.*\.)?centoxcento\.net$/
 /^(.*\.)?centoxcentovod\.com$/
+/^(.*\.)?centraldegruposwhats\.com\.br$/
 /^(.*\.)?cephalokal\.com$/
 /^(.*\.)?cercoincontri\.com$/
 /^(.*\.)?cerdas\.com$/
+/^(.*\.)?cerezamayorista\.com$/
 /^(.*\.)?ceritasex\.cc$/
 /^(.*\.)?cermon\.top$/
 /^(.*\.)?ceske\-kurvicky\.cz$/
@@ -2739,6 +2827,7 @@
 /^(.*\.)?chat\-ruletka\-18\.com$/
 /^(.*\.)?chat\-s\-devushkami\.com$/
 /^(.*\.)?chatasy\.com$/
+/^(.*\.)?chataufriss\.com$/
 /^(.*\.)?chatbabe\.be$/
 /^(.*\.)?chatbang\.net$/
 /^(.*\.)?chatcams\.pl$/
@@ -2765,6 +2854,7 @@
 /^(.*\.)?chatruletkaz\.com$/
 /^(.*\.)?chatsex\.xxx$/
 /^(.*\.)?chatsexne\.com$/
+/^(.*\.)?chatspin\.com$/
 /^(.*\.)?chattersate\.xyz$/
 /^(.*\.)?chattestdu\.de$/
 /^(.*\.)?chatubate\.me$/
@@ -2811,6 +2901,7 @@
 /^(.*\.)?chicafruta\.com$/
 /^(.*\.)?chicasdemiregion\.com$/
 /^(.*\.)?chicasdesnudas\.xxx$/
+/^(.*\.)?chicasdetuzona\.com$/
 /^(.*\.)?chiccams\.com$/
 /^(.*\.)?chichnhau\.vip$/
 /^(.*\.)?chichonas\.icu$/
@@ -2889,7 +2980,10 @@
 /^(.*\.)?cineville\.nl$/
 /^(.*\.)?circusporn\.com$/
 /^(.*\.)?cita\-caliente\.com$/
+/^(.*\.)?citapasion\.com$/
+/^(.*\.)?citas10\.net$/
 /^(.*\.)?citebeur\.com$/
+/^(.*\.)?cityoflove\.com$/
 /^(.*\.)?cityofsin3d\.com$/
 /^(.*\.)?cityporno\.top$/
 /^(.*\.)?citysweeties\.com$/
@@ -2917,7 +3011,9 @@
 /^(.*\.)?clip\.today$/
 /^(.*\.)?clipesdesexo\.com$/
 /^(.*\.)?clipf\.com$/
+/^(.*\.)?cliphotvl\.com$/
 /^(.*\.)?cliphunter\.com$/
+/^(.*\.)?clipphot\.net$/
 /^(.*\.)?clips18\.net$/
 /^(.*\.)?clips4sale\.com$/
 /^(.*\.)?clipsexhot\.vip$/
@@ -2937,6 +3033,7 @@
 /^(.*\.)?clporn\.com$/
 /^(.*\.)?club72\.fr$/
 /^(.*\.)?clubcarmelmoore\.com$/
+/^(.*\.)?clubcrossdressing\.com$/
 /^(.*\.)?clubdom\.com$/
 /^(.*\.)?clubeadulto\.net$/
 /^(.*\.)?clubedeflerte\.com$/
@@ -2986,6 +3083,7 @@
 /^(.*\.)?collarspace\.com$/
 /^(.*\.)?collectionofbestporn\.com$/
 /^(.*\.)?collegehdsex\.com$/
+/^(.*\.)?collegehumor\.com$/
 /^(.*\.)?collegeporn\.xxx$/
 /^(.*\.)?collegeteensex\.net$/
 /^(.*\.)?colliderporn\.com$/
@@ -2993,6 +3091,7 @@
 /^(.*\.)?colsex\.com$/
 /^(.*\.)?comic3\.xyz$/
 /^(.*\.)?comicless\.com$/
+/^(.*\.)?comicporn\.xxx$/
 /^(.*\.)?comics\-moon\.com$/
 /^(.*\.)?comics\-portal\.com$/
 /^(.*\.)?comics\.guru$/
@@ -3004,6 +3103,7 @@
 /^(.*\.)?comicsporno\.xxx$/
 /^(.*\.)?comicspornow\.com$/
 /^(.*\.)?comicspornoxxx\.com$/
+/^(.*\.)?comicspornpic\.com$/
 /^(.*\.)?comicxxx\.eu$/
 /^(.*\.)?comikey\.com$/
 /^(.*\.)?comiko\.net$/
@@ -3021,13 +3121,16 @@
 /^(.*\.)?confrariars\.com\.br$/
 /^(.*\.)?congdongmassage\.com$/
 /^(.*\.)?contactetflirt\.com$/
+/^(.*\.)?contactoysexo\.com$/
 /^(.*\.)?contactq\.fr$/
 /^(.*\.)?contatosexual\.com$/
 /^(.*\.)?contentpays\.info$/
 /^(.*\.)?contoerotico\.blog$/
+/^(.*\.)?contosadultos\.club$/
 /^(.*\.)?contoscn\.com$/
 /^(.*\.)?contoseroticos\.blog$/
 /^(.*\.)?contoseroticos\.blog\.br$/
+/^(.*\.)?contoseroticos\.com$/
 /^(.*\.)?contoseroticos\.com\.br$/
 /^(.*\.)?contoseroticos69\.com$/
 /^(.*\.)?contoseroticoscnn\.com$/
@@ -3104,6 +3207,7 @@
 /^(.*\.)?createaimilf\.com$/
 /^(.*\.)?createaishemale\.com$/
 /^(.*\.)?createhentai\.com$/
+/^(.*\.)?createporn\.app$/
 /^(.*\.)?createporn\.com$/
 /^(.*\.)?cremz\.com$/
 /^(.*\.)?criollasx\.com$/
@@ -3124,6 +3228,7 @@
 /^(.*\.)?crxs\.me$/
 /^(.*\.)?crystalmilfpics\.com$/
 /^(.*\.)?csakporno\.hu$/
+/^(.*\.)?csaladinet\.hu$/
 /^(.*\.)?csolve\.net$/
 /^(.*\.)?css\.edu$/
 /^(.*\.)?csucsvideok\.hu$/
@@ -3220,6 +3325,7 @@
 /^(.*\.)?czechvrfetish\.com$/
 /^(.*\.)?czechvrnetwork\.com$/
 /^(.*\.)?d\.tube$/
+/^(.*\.)?d0g\.dog$/
 /^(.*\.)?d2pass\.com$/
 /^(.*\.)?d3\.ru$/
 /^(.*\.)?d4swing\.com$/
@@ -3248,6 +3354,7 @@
 /^(.*\.)?dailyslutporn\.com$/
 /^(.*\.)?dailytamilsex\.com$/
 /^(.*\.)?daju\-spravku\.ru$/
+/^(.*\.)?dakotadice\.com\.au$/
 /^(.*\.)?dalechatea\.me$/
 /^(.*\.)?daleporno\.com$/
 /^(.*\.)?dalporn\.net$/
@@ -3258,6 +3365,7 @@
 /^(.*\.)?damsexvn\.com$/
 /^(.*\.)?dancingbear\.com$/
 /^(.*\.)?danews\.cc$/
+/^(.*\.)?danexxx\.com$/
 /^(.*\.)?dangerousminds\.net$/
 /^(.*\.)?dansk\.sbs$/
 /^(.*\.)?danskesex\.com$/
@@ -3276,6 +3384,7 @@
 /^(.*\.)?darknessporn\.com$/
 /^(.*\.)?darknetvideos\.com$/
 /^(.*\.)?darkplustv\.com$/
+/^(.*\.)?darkpornlist\.com$/
 /^(.*\.)?darkroomvr\.com$/
 /^(.*\.)?darksside\.com$/
 /^(.*\.)?darkteens\.net$/
@@ -3328,6 +3437,7 @@
 /^(.*\.)?deepfakesporn\.com$/
 /^(.*\.)?deepfucks\.com$/
 /^(.*\.)?deepgoretube\.site$/
+/^(.*\.)?deephot\.link$/
 /^(.*\.)?deepkpop\.com$/
 /^(.*\.)?deeplush\.com$/
 /^(.*\.)?deepstrip\.com$/
@@ -3339,6 +3449,7 @@
 /^(.*\.)?definefetish\.com$/
 /^(.*\.)?defloration\.com$/
 /^(.*\.)?defloration\.tv$/
+/^(.*\.)?degustibusbread\.co\.uk$/
 /^(.*\.)?dehatibf\.com$/
 /^(.*\.)?deinesexfilme\.com$/
 /^(.*\.)?deinseitensprung\.com$/
@@ -3373,6 +3484,7 @@
 /^(.*\.)?desi\-xxx\-porn\.com$/
 /^(.*\.)?desi\-xxx\.pro$/
 /^(.*\.)?desi49\.info$/
+/^(.*\.)?desi49\.run$/
 /^(.*\.)?desi49\.tube$/
 /^(.*\.)?desi49\.world$/
 /^(.*\.)?desiadultstory\.com$/
@@ -3387,6 +3499,7 @@
 /^(.*\.)?desichudai\.click$/
 /^(.*\.)?desichudaistories\.com$/
 /^(.*\.)?desichudaixxx\.com$/
+/^(.*\.)?desicomments\.com$/
 /^(.*\.)?desicouplexxx\.com$/
 /^(.*\.)?desicumtube\.com$/
 /^(.*\.)?desidekho\.net$/
@@ -3432,6 +3545,7 @@
 /^(.*\.)?desipornfuck\.com$/
 /^(.*\.)?desipornhub\.org$/
 /^(.*\.)?desipornindian\.com$/
+/^(.*\.)?desipornlist\.com$/
 /^(.*\.)?desipornmovies\.cc$/
 /^(.*\.)?desipornphoto\.com$/
 /^(.*\.)?desipornvideo\.cc$/
@@ -3498,6 +3612,7 @@
 /^(.*\.)?destacamos\.net$/
 /^(.*\.)?destinyporn\.com$/
 /^(.*\.)?detog\.com$/
+/^(.*\.)?deutsch\.monster$/
 /^(.*\.)?deutsch\.webcam$/
 /^(.*\.)?deutsche\.video$/
 /^(.*\.)?deutscheladies\.de$/
@@ -3533,6 +3648,7 @@
 /^(.*\.)?dgkanal\.in\.rs$/
 /^(.*\.)?dialog\-mebel\.ru$/
 /^(.*\.)?dialsexy\.fr$/
+/^(.*\.)?diaper\-bois\.com$/
 /^(.*\.)?diaper\.community$/
 /^(.*\.)?diaper\.porn$/
 /^(.*\.)?diaperedanime\.com$/
@@ -3564,6 +3680,7 @@
 /^(.*\.)?dirtychat\.app$/
 /^(.*\.)?dirtycode\.io$/
 /^(.*\.)?dirtydating\.com$/
+/^(.*\.)?dirtyfarmer\.com$/
 /^(.*\.)?dirtyflix\.com$/
 /^(.*\.)?dirtyhomeclips\.com$/
 /^(.*\.)?dirtyindianporn\.info$/
@@ -3589,6 +3706,7 @@
 /^(.*\.)?dirtytube\.com$/
 /^(.*\.)?dirtyyoungbitches\.com$/
 /^(.*\.)?dirtyzone\.com$/
+/^(.*\.)?disc\-net\.org$/
 /^(.*\.)?discreetdolls\.com$/
 /^(.*\.)?discreethookups\.co\.uk$/
 /^(.*\.)?diskretamatchningar\.com$/
@@ -3607,6 +3725,7 @@
 /^(.*\.)?dixyporn\.com$/
 /^(.*\.)?djatoya\.com$/
 /^(.*\.)?djav\.org$/
+/^(.*\.)?djgujarati\.com$/
 /^(.*\.)?dlakave\.sbs$/
 /^(.*\.)?dlcentral\.top$/
 /^(.*\.)?dlgal\.com$/
@@ -3656,6 +3775,7 @@
 /^(.*\.)?domashka\.site$/
 /^(.*\.)?domashneeporno\.net$/
 /^(.*\.)?domesticmilfs\.com$/
+/^(.*\.)?dominanteladies\.de$/
 /^(.*\.)?domkarin\.com$/
 /^(.*\.)?domknig\.net$/
 /^(.*\.)?domlepen\.com$/
@@ -3699,9 +3819,11 @@
 /^(.*\.)?dothewife\.com$/
 /^(.*\.)?dotwinks\.com$/
 /^(.*\.)?douga100ka\.jp$/
+/^(.*\.)?douga4\.top$/
 /^(.*\.)?doujin\-new\.com$/
 /^(.*\.)?doujin\-th\.com$/
 /^(.*\.)?doujin\-thai\.com$/
+/^(.*\.)?doujin\-xxx\.com$/
 /^(.*\.)?doujin\.sexy$/
 /^(.*\.)?doujin69\.com$/
 /^(.*\.)?doujin89\.com$/
@@ -3730,6 +3852,7 @@
 /^(.*\.)?dreambdsm\.com$/
 /^(.*\.)?dreamcam\.com$/
 /^(.*\.)?dreamgf\.ai$/
+/^(.*\.)?dreamgirls\.gr$/
 /^(.*\.)?dreammovies\.com$/
 /^(.*\.)?dreamnudesai\.com$/
 /^(.*\.)?dreamsearch1\.xyz$/
@@ -3779,6 +3902,7 @@
 /^(.*\.)?dvderotik\.com$/
 /^(.*\.)?dvdgayonline\.com$/
 /^(.*\.)?dvdl\.net$/
+/^(.*\.)?dvdrev\.com$/
 /^(.*\.)?dww\.at$/
 /^(.*\.)?dxlive\.com$/
 /^(.*\.)?dynastyseries\.com$/
@@ -3794,9 +3918,11 @@
 /^(.*\.)?eachporn\.com$/
 /^(.*\.)?eahentai\.com$/
 /^(.*\.)?eastboys\.com$/
+/^(.*\.)?eastguys\.net$/
 /^(.*\.)?eastrader\.net$/
 /^(.*\.)?easy\-rencontres\.com$/
 /^(.*\.)?easyflirt\.com$/
+/^(.*\.)?easygaychat\.com$/
 /^(.*\.)?easyporn\.xxx$/
 /^(.*\.)?easyrencontre\.com$/
 /^(.*\.)?easysex\.info$/
@@ -3861,6 +3987,7 @@
 /^(.*\.)?efukt\.com$/
 /^(.*\.)?eg\.ru$/
 /^(.*\.)?eggporncomics\.com$/
+/^(.*\.)?egoallstars\.com$/
 /^(.*\.)?egotastic\.com$/
 /^(.*\.)?egy69\.com$/
 /^(.*\.)?egyporn\.org$/
@@ -3894,6 +4021,7 @@
 /^(.*\.)?eliteacompanhantes\.net$/
 /^(.*\.)?eliteadulta\.com$/
 /^(.*\.)?elitebabes\.com$/
+/^(.*\.)?eliteescortsdubai\.com$/
 /^(.*\.)?elitegirl\.com\.br$/
 /^(.*\.)?elitemate\.com$/
 /^(.*\.)?eliterelatos\.com$/
@@ -3933,6 +4061,7 @@
 /^(.*\.)?encuentratuchica\.com$/
 /^(.*\.)?encuentroadulto\.com$/
 /^(.*\.)?encuentros\-sexuales\.mx$/
+/^(.*\.)?encuentrosmilf\.com$/
 /^(.*\.)?endlessfap\.com$/
 /^(.*\.)?ener\.ru$/
 /^(.*\.)?energysexy\.com$/
@@ -3950,10 +4079,12 @@
 /^(.*\.)?epicgfs\.com$/
 /^(.*\.)?epicpornpics\.com$/
 /^(.*\.)?epicpornvideos\.com$/
+/^(.*\.)?epidemz\.net\.co$/
 /^(.*\.)?eplay\.com$/
 /^(.*\.)?eporncam\.com$/
 /^(.*\.)?eporner\.com$/
 /^(.*\.)?eporner\.name$/
+/^(.*\.)?eporner\.porn$/
 /^(.*\.)?eporner\.video$/
 /^(.*\.)?epornerpics\.com$/
 /^(.*\.)?epornhome\.com$/
@@ -3992,10 +4123,12 @@
 /^(.*\.)?ero\-video\.net$/
 /^(.*\.)?ero\-vv\.com$/
 /^(.*\.)?ero18x\.com$/
+/^(.*\.)?eroanime\-aniruto\.net$/
 /^(.*\.)?eroasmr\.com$/
 /^(.*\.)?erobodio\.ru$/
 /^(.*\.)?eroboom\.net$/
 /^(.*\.)?eroboom\.org$/
+/^(.*\.)?eroboom\.pw$/
 /^(.*\.)?erocom\.tv$/
 /^(.*\.)?erocommunity\.com$/
 /^(.*\.)?erocurves\.com$/
@@ -4113,6 +4246,7 @@
 /^(.*\.)?erotik\-sex\-geschichten\.net$/
 /^(.*\.)?erotik\-von\-nebenan\.com$/
 /^(.*\.)?erotik\.com$/
+/^(.*\.)?erotik\.de$/
 /^(.*\.)?erotika\.app$/
 /^(.*\.)?erotika\.cc$/
 /^(.*\.)?erotikaweb\.hu$/
@@ -4143,6 +4277,7 @@
 /^(.*\.)?erovizor\.top$/
 /^(.*\.)?erovoice\.us$/
 /^(.*\.)?erowall\.com$/
+/^(.*\.)?eroxjapanz\.com$/
 /^(.*\.)?eroxxxvids\.cc$/
 /^(.*\.)?erozuna\.com$/
 /^(.*\.)?errio\.net$/
@@ -4159,18 +4294,22 @@
 /^(.*\.)?escort\-guide\.tv$/
 /^(.*\.)?escort\-guide\.ws$/
 /^(.*\.)?escort\-ireland\.com$/
+/^(.*\.)?escort\-jaipur\.in$/
 /^(.*\.)?escort\-kaluga\.ru$/
+/^(.*\.)?escort\-side\.dk$/
 /^(.*\.)?escort\-sterlitamak\.com$/
 /^(.*\.)?escort\.club$/
 /^(.*\.)?escort\.it$/
 /^(.*\.)?escort\.vc$/
 /^(.*\.)?escorta\.com$/
 /^(.*\.)?escortaccess\.net$/
+/^(.*\.)?escortads\.it$/
 /^(.*\.)?escortao\.com\.br$/
 /^(.*\.)?escortbabylon\.com$/
 /^(.*\.)?escortbabylon\.net$/
 /^(.*\.)?escortbook\.com$/
 /^(.*\.)?escortdex\.com$/
+/^(.*\.)?escortdimension\.net$/
 /^(.*\.)?escortdirectory\.com$/
 /^(.*\.)?escorte\.com$/
 /^(.*\.)?escorteintime\.com$/
@@ -4211,6 +4350,7 @@
 /^(.*\.)?espacoterapias\.com\.br$/
 /^(.*\.)?espanolas\.best$/
 /^(.*\.)?esposasymaridos\.com$/
+/^(.*\.)?espritlib\.com$/
 /^(.*\.)?esxxxx\.com$/
 /^(.*\.)?eternaldesire\.com$/
 /^(.*\.)?etuber\.com$/
@@ -4236,6 +4376,7 @@
 /^(.*\.)?evenflirten\.nl$/
 /^(.*\.)?eveningporn\.com$/
 /^(.*\.)?ever\-lusting\-life\.com$/
+/^(.*\.)?everiaclub\.com$/
 /^(.*\.)?everydayporn\.co$/
 /^(.*\.)?everydayporn\.com$/
 /^(.*\.)?everymature\.com$/
@@ -4265,6 +4406,7 @@
 /^(.*\.)?exotic4k\.com$/
 /^(.*\.)?exoticads\.com$/
 /^(.*\.)?exoticaz\.to$/
+/^(.*\.)?exoticflame\.com$/
 /^(.*\.)?exoticghana\.com$/
 /^(.*\.)?exotichot\.com$/
 /^(.*\.)?exotickenya\.com$/
@@ -4378,9 +4520,11 @@
 /^(.*\.)?fantasyhd\.com$/
 /^(.*\.)?fantasylesbianp\.com$/
 /^(.*\.)?fantasymassage\.com$/
+/^(.*\.)?fantasymaturep\.com$/
 /^(.*\.)?fantasyorientalp\.com$/
 /^(.*\.)?fantasyphq\.com$/
 /^(.*\.)?fantasyshemalep\.com$/
+/^(.*\.)?fantasyvintagep\.com$/
 /^(.*\.)?fanteziierotice\.ro$/
 /^(.*\.)?fanvue\.com$/
 /^(.*\.)?fap\-guru\.biz$/
@@ -4450,6 +4594,7 @@
 /^(.*\.)?faplex\.to$/
 /^(.*\.)?faply\.cc$/
 /^(.*\.)?fapmansion\.com$/
+/^(.*\.)?fapmenu\.com$/
 /^(.*\.)?fapmore\.com$/
 /^(.*\.)?fapmove\.com$/
 /^(.*\.)?fapnado\.com$/
@@ -4473,6 +4618,7 @@
 /^(.*\.)?fapporn\.com$/
 /^(.*\.)?fapptime\.com$/
 /^(.*\.)?faproulette\.co$/
+/^(.*\.)?fapsexclips\.com$/
 /^(.*\.)?fapshots\.com$/
 /^(.*\.)?fapsly\.com$/
 /^(.*\.)?fapster\.xxx$/
@@ -4514,6 +4660,7 @@
 /^(.*\.)?favoritepleasure\.eu$/
 /^(.*\.)?favoriteptv\.com$/
 /^(.*\.)?favos\.nl$/
+/^(.*\.)?favoyeurtube\.net$/
 /^(.*\.)?favy\.cam$/
 /^(.*\.)?fazersexo\.com$/
 /^(.*\.)?fboom\.me$/
@@ -4548,6 +4695,7 @@
 /^(.*\.)?femdommovies\.net$/
 /^(.*\.)?femdomqueen\.com$/
 /^(.*\.)?femdomtraining\.ca$/
+/^(.*\.)?femdomup\.net$/
 /^(.*\.)?femdomvc\.com$/
 /^(.*\.)?femdomworld\.com$/
 /^(.*\.)?femdomzzz\.com$/
@@ -4557,6 +4705,7 @@
 /^(.*\.)?femjoyhunter\.com$/
 /^(.*\.)?femme\-offerte\.com$/
 /^(.*\.)?femmefatalities\.com$/
+/^(.*\.)?femmetorrideacote\.com$/
 /^(.*\.)?femout\.xxx$/
 /^(.*\.)?femtasy\.com$/
 /^(.*\.)?femwrestlingrooms\.com$/
@@ -4567,16 +4716,19 @@
 /^(.*\.)?ferrovideo\.com$/
 /^(.*\.)?fessestivites\.com$/
 /^(.*\.)?festivalporn\.net$/
+/^(.*\.)?fet\-app\.com$/
 /^(.*\.)?feti072\.com$/
 /^(.*\.)?fetimation\.com$/
 /^(.*\.)?fetisch\.de$/
 /^(.*\.)?fetischpartner\.com$/
+/^(.*\.)?fetish\-games\.com$/
 /^(.*\.)?fetish\-island\.com$/
 /^(.*\.)?fetish\-porn\.xyz$/
 /^(.*\.)?fetish\.com$/
 /^(.*\.)?fetish\.gallery$/
 /^(.*\.)?fetishadviser\.com$/
 /^(.*\.)?fetishburg\.com$/
+/^(.*\.)?fetisheros\.com$/
 /^(.*\.)?fetishfemdom\.adult$/
 /^(.*\.)?fetishfinder\.com$/
 /^(.*\.)?fetishhitsgallery\.com$/
@@ -4589,10 +4741,12 @@
 /^(.*\.)?fetishspace\.com$/
 /^(.*\.)?fetishz\.com$/
 /^(.*\.)?fetlife\.com$/
+/^(.*\.)?fetlife\.reviews$/
 /^(.*\.)?fetoo\.com$/
 /^(.*\.)?fetside\.com$/
 /^(.*\.)?fetster\.com$/
 /^(.*\.)?fewporn\.pro$/
+/^(.*\.)?feysam\.net$/
 /^(.*\.)?ffetish\.video$/
 /^(.*\.)?fff\.com$/
 /^(.*\.)?ffjav\.com$/
@@ -4601,6 +4755,7 @@
 /^(.*\.)?fhaccess\.com$/
 /^(.*\.)?fhchannel\.com$/
 /^(.*\.)?fhgte\.com$/
+/^(.*\.)?fick\-inserate\.com$/
 /^(.*\.)?fickanzeiger\.com$/
 /^(.*\.)?ficklokal\.com$/
 /^(.*\.)?fickverein\.com$/
@@ -4624,6 +4779,7 @@
 /^(.*\.)?filhosdeafrodite\.com\.br$/
 /^(.*\.)?filipinamagic\.com$/
 /^(.*\.)?filipinawebcams\.com$/
+/^(.*\.)?filipinofriendfinder\.com$/
 /^(.*\.)?film\-adult\.com$/
 /^(.*\.)?film\-adult\.net$/
 /^(.*\.)?film1k\.com$/
@@ -4647,16 +4803,20 @@
 /^(.*\.)?filmepornotari\.com$/
 /^(.*\.)?filmerotikizle\.com$/
 /^(.*\.)?filmesdesexo\.blog$/
+/^(.*\.)?filmesgays\.net$/
 /^(.*\.)?filmeshentai\.com$/
 /^(.*\.)?filmesporno\.blog$/
 /^(.*\.)?filmesporno\.com\.br$/
 /^(.*\.)?filmesporno\.net\.br$/
 /^(.*\.)?filmesporno\.xxx$/
+/^(.*\.)?filmespornos\.net$/
 /^(.*\.)?filmexxx\.live$/
 /^(.*\.)?filmexxx\.porn$/
 /^(.*\.)?filmexxx18\.com$/
 /^(.*\.)?filmexxxgratis\.live$/
+/^(.*\.)?filmibeat\.com$/
 /^(.*\.)?filmikiporno\.tv$/
+/^(.*\.)?filminifullhdizle\.com$/
 /^(.*\.)?filmnudes\.com$/
 /^(.*\.)?filmovi\.monster$/
 /^(.*\.)?filmovisex\.sbs$/
@@ -4680,7 +4840,9 @@
 /^(.*\.)?filthypornz\.com$/
 /^(.*\.)?filtradas\.com$/
 /^(.*\.)?fimitere\.com\.tr$/
+/^(.*\.)?finance\.blog$/
 /^(.*\.)?find\-singles\-online\.com$/
+/^(.*\.)?find\-your\-slut\.com$/
 /^(.*\.)?findadeath\.com$/
 /^(.*\.)?findadultlove\.online$/
 /^(.*\.)?findanir\.com$/
@@ -4716,6 +4878,7 @@
 /^(.*\.)?fivestarpornsites\.com$/
 /^(.*\.)?fkbae\.to$/
 /^(.*\.)?flagrasamadores\.net$/
+/^(.*\.)?flair\.be$/
 /^(.*\.)?flashfemdom\.com$/
 /^(.*\.)?flashingjungle\.com$/
 /^(.*\.)?flashtranny\.com$/
@@ -4743,11 +4906,13 @@
 /^(.*\.)?flirt4free\.com$/
 /^(.*\.)?flirt888\.com$/
 /^(.*\.)?flirtarecondonne\.com$/
+/^(.*\.)?flirtarelocale\.com$/
 /^(.*\.)?flirtaround\.com$/
 /^(.*\.)?flirtback\.com$/
 /^(.*\.)?flirtbees\.com$/
 /^(.*\.)?flirteazacumine\.com$/
 /^(.*\.)?flirteccitanti\.com$/
+/^(.*\.)?flirtendenachbarn\.com$/
 /^(.*\.)?flirtenhier\.com$/
 /^(.*\.)?flirtespanol\.com$/
 /^(.*\.)?flirtgleich\.com$/
@@ -4798,13 +4963,16 @@
 /^(.*\.)?forced\.love$/
 /^(.*\.)?forced\.tv$/
 /^(.*\.)?forcedcinema\.net$/
+/^(.*\.)?forcefetish\.net$/
 /^(.*\.)?foreignbridesguru\.com$/
 /^(.*\.)?forevergeek\.com$/
 /^(.*\.)?forhertube\.com$/
+/^(.*\.)?foroescortsar\.com$/
 /^(.*\.)?forogore\.net$/
 /^(.*\.)?foropirata\.com$/
 /^(.*\.)?foroporno\.com$/
 /^(.*\.)?forquickies\.com$/
+/^(.*\.)?forshemale\.com$/
 /^(.*\.)?forttroff\.com$/
 /^(.*\.)?forum\-candaulisme\.fr$/
 /^(.*\.)?forumophilia\.com$/
@@ -4820,6 +4988,7 @@
 /^(.*\.)?fotosdepenis\.blog$/
 /^(.*\.)?fotosgarotas\.com$/
 /^(.*\.)?fotosmulherpelada\.com$/
+/^(.*\.)?fotosparafondo\.com$/
 /^(.*\.)?fotosporno\.io$/
 /^(.*\.)?foxhq\.com$/
 /^(.*\.)?foxnxx\.com$/
@@ -4839,6 +5008,7 @@
 /^(.*\.)?fpkmgppu\.ru$/
 /^(.*\.)?fpo\.xxx$/
 /^(.*\.)?fptplay\.net$/
+/^(.*\.)?fr\.nf$/
 /^(.*\.)?francexe\.com$/
 /^(.*\.)?frankreport\.com$/
 /^(.*\.)?fratgayporn\.com$/
@@ -4872,12 +5042,14 @@
 /^(.*\.)?freeadultcomix\.com$/
 /^(.*\.)?freeadultpornblogs\.com$/
 /^(.*\.)?freeadultsexychat\.com$/
+/^(.*\.)?freeappsgratis\.com$/
 /^(.*\.)?freearabianporn\.com$/
 /^(.*\.)?freebdsmpics\.com$/
 /^(.*\.)?freebiexxx\.com$/
 /^(.*\.)?freebigtitsporn\.com$/
 /^(.*\.)?freecam8\.com$/
 /^(.*\.)?freecams\.me$/
+/^(.*\.)?freecamsfan\.com$/
 /^(.*\.)?freecartoons\.biz$/
 /^(.*\.)?freecatfights\.com$/
 /^(.*\.)?freechatnow\.com$/
@@ -4893,6 +5065,7 @@
 /^(.*\.)?freefuckporno\.com$/
 /^(.*\.)?freefuckvids\.com$/
 /^(.*\.)?freegayporn\.pics$/
+/^(.*\.)?freegaypornphotos\.com$/
 /^(.*\.)?freegaysporn\.com$/
 /^(.*\.)?freegaytube\.xxx$/
 /^(.*\.)?freehdporn\.tv$/
@@ -4900,6 +5073,7 @@
 /^(.*\.)?freehentaidb\.com$/
 /^(.*\.)?freehentaipic\.com$/
 /^(.*\.)?freehentaistream\.com$/
+/^(.*\.)?freehindisexstories\.net$/
 /^(.*\.)?freehqporno\.com$/
 /^(.*\.)?freeindianfuck\.net$/
 /^(.*\.)?freeindianporn\.info$/
@@ -4922,6 +5096,7 @@
 /^(.*\.)?freepcountry\.com$/
 /^(.*\.)?freepfactory\.com$/
 /^(.*\.)?freephonep\.com$/
+/^(.*\.)?freephouse\.com$/
 /^(.*\.)?freeplands\.com$/
 /^(.*\.)?freeporn\.com$/
 /^(.*\.)?freeporn\.gg$/
@@ -4958,6 +5133,7 @@
 /^(.*\.)?freepornq\.com$/
 /^(.*\.)?freepornsex\.net$/
 /^(.*\.)?freepornsite\.link$/
+/^(.*\.)?freeporntube\.tv$/
 /^(.*\.)?freepornvideo\.sex$/
 /^(.*\.)?freepornvideos\.click$/
 /^(.*\.)?freepornvideos\.life$/
@@ -4975,7 +5151,9 @@
 /^(.*\.)?freesex\.cz$/
 /^(.*\.)?freesex\.pro$/
 /^(.*\.)?freesexarab\.com$/
+/^(.*\.)?freesexchat\.one$/
 /^(.*\.)?freesexcomics\.pro$/
+/^(.*\.)?freesexgame\.com$/
 /^(.*\.)?freesexhd\.net$/
 /^(.*\.)?freesexing\.com$/
 /^(.*\.)?freesexkahani\.com$/
@@ -5007,6 +5185,7 @@
 /^(.*\.)?freexcafe\.com$/
 /^(.*\.)?freexnxxvideos\.net$/
 /^(.*\.)?freexvideossex\.com$/
+/^(.*\.)?freexxxbase\.com$/
 /^(.*\.)?freexxxhindi\.com$/
 /^(.*\.)?freexxxmovies\.biz$/
 /^(.*\.)?freexxxmovies\.link$/
@@ -5080,6 +5259,7 @@
 /^(.*\.)?ftvhunter\.com$/
 /^(.*\.)?ftvmilfs\.com$/
 /^(.*\.)?fu8k\.com$/
+/^(.*\.)?fubar\.com$/
 /^(.*\.)?fuccunt\.com$/
 /^(.*\.)?fucd\.com$/
 /^(.*\.)?fuck\-hd\-movies\.com$/
@@ -5141,11 +5321,13 @@
 /^(.*\.)?fucktemple\.com$/
 /^(.*\.)?fucktubex\.net$/
 /^(.*\.)?fucktubez\.com$/
+/^(.*\.)?fuckundies\.com$/
 /^(.*\.)?fuckveteran\.com$/
 /^(.*\.)?fuckvideos\.xxx$/
 /^(.*\.)?fuckxnxx\.com$/
 /^(.*\.)?fuckyoucash\.com$/
 /^(.*\.)?fuckyoung\.net$/
+/^(.*\.)?fuegodevida\.com$/
 /^(.*\.)?fukou\-da\.net$/
 /^(.*\.)?fuktx\.net$/
 /^(.*\.)?fukxl\.com$/
@@ -5154,6 +5336,7 @@
 /^(.*\.)?fulladultmovies\.com$/
 /^(.*\.)?fullanal\.net$/
 /^(.*\.)?fullboys\.com$/
+/^(.*\.)?fullcomics18\.org$/
 /^(.*\.)?fulldesisex\.com$/
 /^(.*\.)?fulleroticmovies\.com$/
 /^(.*\.)?fullfamilyincest\.com$/
@@ -5228,6 +5411,7 @@
 /^(.*\.)?g2blazing\.com$/
 /^(.*\.)?g2fame\.com$/
 /^(.*\.)?gafiles\.com$/
+/^(.*\.)?gaisex\.org$/
 /^(.*\.)?galasti\.com$/
 /^(.*\.)?galaxyporn\.net$/
 /^(.*\.)?galeriedesade\.com$/
@@ -5262,6 +5446,7 @@
 /^(.*\.)?gatasdacapital\.com$/
 /^(.*\.)?gatasdovale\.com$/
 /^(.*\.)?gataslindas\.com$/
+/^(.*\.)?gatavirtual\.com$/
 /^(.*\.)?gatitas\.com$/
 /^(.*\.)?gauchastop\.com\.br$/
 /^(.*\.)?gaultier\-x\.com$/
@@ -5269,10 +5454,12 @@
 /^(.*\.)?gay\-beeg\.monster$/
 /^(.*\.)?gay\-beur\.com$/
 /^(.*\.)?gay\-brothers\.com$/
+/^(.*\.)?gay\-comics\.net$/
 /^(.*\.)?gay\-fetish\-xxx\.com$/
 /^(.*\.)?gay\-male\-celebs\.com$/
 /^(.*\.)?gay\-szene\.net$/
 /^(.*\.)?gay\-torrents\.net$/
+/^(.*\.)?gay\-xhamster\.cfd$/
 /^(.*\.)?gay\-xvideos\.cfd$/
 /^(.*\.)?gay\.bingo$/
 /^(.*\.)?gay\.de$/
@@ -5288,6 +5475,7 @@
 /^(.*\.)?gayassp\.com$/
 /^(.*\.)?gaybabe\.com$/
 /^(.*\.)?gaybarebackporn\.net$/
+/^(.*\.)?gaybeastiality\.net$/
 /^(.*\.)?gaybestiality\.net$/
 /^(.*\.)?gaybf\.com$/
 /^(.*\.)?gaybingo\.live$/
@@ -5301,6 +5489,8 @@
 /^(.*\.)?gaybuttp\.com$/
 /^(.*\.)?gaycamboy\.com$/
 /^(.*\.)?gaycamshows\.com$/
+/^(.*\.)?gaycamvideos\.net$/
+/^(.*\.)?gaychat\.nl$/
 /^(.*\.)?gayche2\.xyz$/
 /^(.*\.)?gaychik\.art$/
 /^(.*\.)?gayck\.com$/
@@ -5315,6 +5505,7 @@
 /^(.*\.)?gaydudesfucking\.com$/
 /^(.*\.)?gaydvdempire\.com$/
 /^(.*\.)?gayeroticvideoindex\.com$/
+/^(.*\.)?gayforfans\.com$/
 /^(.*\.)?gayforit\.eu$/
 /^(.*\.)?gayfplace\.com$/
 /^(.*\.)?gayfreep\.com$/
@@ -5367,7 +5558,9 @@
 /^(.*\.)?gayomsk3\.xyz$/
 /^(.*\.)?gayonlygay\.link$/
 /^(.*\.)?gaypage\.com$/
+/^(.*\.)?gaypclips\.com$/
 /^(.*\.)?gayperv\.com$/
+/^(.*\.)?gayphq\.com$/
 /^(.*\.)?gaypiter4\.xyz$/
 /^(.*\.)?gayporka\.top$/
 /^(.*\.)?gayporn\.com$/
@@ -5391,6 +5584,7 @@
 /^(.*\.)?gayporno\.tube$/
 /^(.*\.)?gaypornparty\.com$/
 /^(.*\.)?gaypornplanet\.com$/
+/^(.*\.)?gaypornq\.com$/
 /^(.*\.)?gaypornroom\.com$/
 /^(.*\.)?gaypornstarharem\.com$/
 /^(.*\.)?gayporntube\.com$/
@@ -5402,6 +5596,7 @@
 /^(.*\.)?gaypshow\.com$/
 /^(.*\.)?gaypworld\.com$/
 /^(.*\.)?gayradar\.site$/
+/^(.*\.)?gayrawclub\.com$/
 /^(.*\.)?gayroom\.com$/
 /^(.*\.)?gayroomporn\.com$/
 /^(.*\.)?gayrostov1\.xyz$/
@@ -5432,6 +5627,7 @@
 /^(.*\.)?gayspiralstories\.com$/
 /^(.*\.)?gaysporn\.online$/
 /^(.*\.)?gaysporno\.yachts$/
+/^(.*\.)?gaystorykub\.com$/
 /^(.*\.)?gaystream\.pw$/
 /^(.*\.)?gaystryst\.com$/
 /^(.*\.)?gaysuperman\.com$/
@@ -5447,7 +5643,9 @@
 /^(.*\.)?gaytxxx\.com$/
 /^(.*\.)?gayua\.com$/
 /^(.*\.)?gayufa\.xyz$/
+/^(.*\.)?gayvideo\.cfd$/
 /^(.*\.)?gayvideos\.beauty$/
+/^(.*\.)?gayvids\.tube$/
 /^(.*\.)?gayvids\.tv$/
 /^(.*\.)?gayvidsclub\.com$/
 /^(.*\.)?gaywebcamblog\.com$/
@@ -5499,7 +5697,9 @@
 /^(.*\.)?german\-porno\-deutsch\.org$/
 /^(.*\.)?germanfucktube\.net$/
 /^(.*\.)?germansextube\.biz$/
+/^(.*\.)?gertibaldi\.com$/
 /^(.*\.)?gesek\.info$/
+/^(.*\.)?gesek\.net$/
 /^(.*\.)?gesext\.de$/
 /^(.*\.)?get\-honey\.ai$/
 /^(.*\.)?getcam4\.com$/
@@ -5575,6 +5775,7 @@
 /^(.*\.)?girlsdelta\.com$/
 /^(.*\.)?girlsdocam\.com$/
 /^(.*\.)?girlsdopornsex\.com$/
+/^(.*\.)?girlsdump\.com$/
 /^(.*\.)?girlsexpictures\.com$/
 /^(.*\.)?girlsformatures\.com$/
 /^(.*\.)?girlsfucked\.com$/
@@ -5587,6 +5788,7 @@
 /^(.*\.)?girlsoutwest\.com$/
 /^(.*\.)?girlspee\.video$/
 /^(.*\.)?girlsreleased\.com$/
+/^(.*\.)?girlsreview\.nl$/
 /^(.*\.)?girlsrimguys\.com$/
 /^(.*\.)?girlsrimming\.com$/
 /^(.*\.)?girlssexhairy\.com$/
@@ -5595,6 +5797,7 @@
 /^(.*\.)?girlswithmuscle\.com$/
 /^(.*\.)?girlsxxx\.net$/
 /^(.*\.)?girlxxxphotos\.com$/
+/^(.*\.)?girlygirlpic\.com$/
 /^(.*\.)?givemeaporn\.com$/
 /^(.*\.)?givemeporn\.club$/
 /^(.*\.)?givemeyoung\.com$/
@@ -5605,11 +5808,13 @@
 /^(.*\.)?glamino\.com$/
 /^(.*\.)?glamorousgirls\.eu$/
 /^(.*\.)?glamourcon\.com$/
+/^(.*\.)?glamourhound\.com$/
 /^(.*\.)?glamsham\.com$/
 /^(.*\.)?glasove\.com$/
 /^(.*\.)?glassdildos\.com$/
 /^(.*\.)?glassporntube\.com$/
 /^(.*\.)?glavmatures\.com$/
+/^(.*\.)?globalmature\.com$/
 /^(.*\.)?globalshemale\.com$/
 /^(.*\.)?globalxh\.site$/
 /^(.*\.)?globalzonetoday\.com$/
@@ -5627,12 +5832,15 @@
 /^(.*\.)?gnulaseries\.nu$/
 /^(.*\.)?go\-gaytube\.com$/
 /^(.*\.)?go\.porn$/
+/^(.*\.)?go4sex\.eu$/
 /^(.*\.)?gobdsmporn\.com$/
 /^(.*\.)?gobokep\.com$/
 /^(.*\.)?god\-doujin\.com$/
+/^(.*\.)?goddess247\.com$/
 /^(.*\.)?godesiporn\.com$/
 /^(.*\.)?godesisex\.com$/
 /^(.*\.)?godkc\.com$/
+/^(.*\.)?godlikeproductions\.com$/
 /^(.*\.)?gofreeporn\.com$/
 /^(.*\.)?gofucker\.com$/
 /^(.*\.)?gofucker\.net$/
@@ -5762,16 +5970,19 @@
 /^(.*\.)?grayporn\.net$/
 /^(.*\.)?great\-site\.net$/
 /^(.*\.)?greatphit\.com$/
+/^(.*\.)?greatteenmodels\.com$/
 /^(.*\.)?greatvoyeurvideo\.com$/
 /^(.*\.)?greekfoot\.com$/
 /^(.*\.)?green\.porn$/
 /^(.*\.)?greenguysboard\.com$/
 /^(.*\.)?greenvids\.pro$/
 /^(.*\.)?gridhost\.com$/
+/^(.*\.)?grinderboy\.com$/
 /^(.*\.)?grindr\.com$/
 /^(.*\.)?grometsplaza\.net$/
 /^(.*\.)?grooby\.com$/
 /^(.*\.)?groobygirls\.com$/
+/^(.*\.)?groupfun\.com$/
 /^(.*\.)?groupsexxx\.com$/
 /^(.*\.)?groupslinks\.com$/
 /^(.*\.)?growig\.xyz$/
@@ -5833,6 +6044,7 @@
 /^(.*\.)?hairymilfpics\.com$/
 /^(.*\.)?hairyplus\.com$/
 /^(.*\.)?hairyporn\.tv$/
+/^(.*\.)?hairypornopics\.com$/
 /^(.*\.)?hairypornpics\.net$/
 /^(.*\.)?hairypornpictures\.com$/
 /^(.*\.)?hairypornwoman\.com$/
@@ -5907,6 +6119,7 @@
 /^(.*\.)?hardpornxxx\.com$/
 /^(.*\.)?hardsexden\.com$/
 /^(.*\.)?hardsextube\.com$/
+/^(.*\.)?hardtubexxxprem\.com$/
 /^(.*\.)?hardvintage\.com$/
 /^(.*\.)?hardwhores\.com$/
 /^(.*\.)?hardx\.com$/
@@ -5997,6 +6210,7 @@
 /^(.*\.)?hdpornmovies\.xxx$/
 /^(.*\.)?hdporno\.cam$/
 /^(.*\.)?hdporno\.sk$/
+/^(.*\.)?hdporno\.tv$/
 /^(.*\.)?hdporno720\.info$/
 /^(.*\.)?hdpornochief\.com$/
 /^(.*\.)?hdpornos\.xxx$/
@@ -6046,6 +6260,7 @@
 /^(.*\.)?hdtubemovies\.xxx$/
 /^(.*\.)?hdtwink\.com$/
 /^(.*\.)?hdwetpussy\.com$/
+/^(.*\.)?hdxnxx\.xxx$/
 /^(.*\.)?hdxvipizle\.com$/
 /^(.*\.)?hdxxporno\.com$/
 /^(.*\.)?hdxxx\.click$/
@@ -6069,6 +6284,7 @@
 /^(.*\.)?heavyonhotties\.com$/
 /^(.*\.)?hedarea\.com$/
 /^(.*\.)?heeporn\.me$/
+/^(.*\.)?heexxx\.top$/
 /^(.*\.)?hegre\-art\.com$/
 /^(.*\.)?hegre\.com$/
 /^(.*\.)?heihd\.com$/
@@ -6105,6 +6321,8 @@
 /^(.*\.)?hentai\-img\-xxx\.com$/
 /^(.*\.)?hentai\-img\.com$/
 /^(.*\.)?hentai\-ita\.net$/
+/^(.*\.)?hentai\-jp\.com$/
+/^(.*\.)?hentai\-manga\.io$/
 /^(.*\.)?hentai\-moon\.com$/
 /^(.*\.)?hentai\-share\.com$/
 /^(.*\.)?hentai\-share\.ru$/
@@ -6140,12 +6358,14 @@
 /^(.*\.)?hentaiasmr\.moe$/
 /^(.*\.)?hentaibaba\.com$/
 /^(.*\.)?hentaibaka\.one$/
+/^(.*\.)?hentaibanchi\.com$/
 /^(.*\.)?hentaibar\.cc$/
 /^(.*\.)?hentaibedta\.net$/
 /^(.*\.)?hentaiblue\.net$/
 /^(.*\.)?hentaibooty\.com$/
 /^(.*\.)?hentaibrasil\.info$/
 /^(.*\.)?hentaibrasileiro\.com$/
+/^(.*\.)?hentaibros\.net$/
 /^(.*\.)?hentaibux\.com$/
 /^(.*\.)?hentaicams\.xxx$/
 /^(.*\.)?hentaicity\.cc$/
@@ -6153,12 +6373,14 @@
 /^(.*\.)?hentaiclap\.com$/
 /^(.*\.)?hentaiclicker\.com$/
 /^(.*\.)?hentaiclub\.net$/
+/^(.*\.)?hentaicomics\.biz$/
 /^(.*\.)?hentaicomicxxx\.com$/
 /^(.*\.)?hentaicop\.com$/
 /^(.*\.)?hentaicore\.net$/
 /^(.*\.)?hentaicovid\.com$/
 /^(.*\.)?hentaicrot\.com$/
 /^(.*\.)?hentaicube\.xyz$/
+/^(.*\.)?hentaid\.tv$/
 /^(.*\.)?hentaidad\.com$/
 /^(.*\.)?hentaidatia\.com$/
 /^(.*\.)?hentaidestiny\.com$/
@@ -6177,6 +6399,7 @@
 /^(.*\.)?hentaifromhell\.org$/
 /^(.*\.)?hentaigasm\.com$/
 /^(.*\.)?hentaigasm\.tv$/
+/^(.*\.)?hentaigay\.com\.br$/
 /^(.*\.)?hentaigem\.com$/
 /^(.*\.)?hentaigifz\.com$/
 /^(.*\.)?hentaigo\.com$/
@@ -6193,6 +6416,7 @@
 /^(.*\.)?hentaihaven\.ws$/
 /^(.*\.)?hentaihaven\.xxx$/
 /^(.*\.)?hentaihd\.net$/
+/^(.*\.)?hentaiheart\.com$/
 /^(.*\.)?hentaihere\.com$/
 /^(.*\.)?hentaiheroes\.com$/
 /^(.*\.)?hentaihome\.net$/
@@ -6201,17 +6425,20 @@
 /^(.*\.)?hentaihub\.xxx$/
 /^(.*\.)?hentaijk\.com$/
 /^(.*\.)?hentaijuggs\.com$/
+/^(.*\.)?hentaikai\.com$/
 /^(.*\.)?hentaikey\.com$/
 /^(.*\.)?hentaikuindo\.me$/
 /^(.*\.)?hentaikun\.com$/
 /^(.*\.)?hentaila\.io$/
 /^(.*\.)?hentaila\.online$/
 /^(.*\.)?hentaila\.tv$/
+/^(.*\.)?hentaileague\.com$/
 /^(.*\.)?hentaili\.com$/
 /^(.*\.)?hentailib\.me$/
 /^(.*\.)?hentailib\.net$/
 /^(.*\.)?hentailib\.org$/
 /^(.*\.)?hentailoop\.com$/
+/^(.*\.)?hentaimanga\.me$/
 /^(.*\.)?hentaimania\.org$/
 /^(.*\.)?hentainexus\.com$/
 /^(.*\.)?hentaini\.com$/
@@ -6220,6 +6447,7 @@
 /^(.*\.)?hentaiplanet\.info$/
 /^(.*\.)?hentaiplay\.net$/
 /^(.*\.)?hentaiporn\.app$/
+/^(.*\.)?hentaiporno\.xxx$/
 /^(.*\.)?hentaipros\.com$/
 /^(.*\.)?hentaiprosnetwork\.com$/
 /^(.*\.)?hentaiputa\.com$/
@@ -6246,6 +6474,7 @@
 /^(.*\.)?hentaithai\.net$/
 /^(.*\.)?hentaitk\.net$/
 /^(.*\.)?hentaitokyo\.com$/
+/^(.*\.)?hentaitokyo\.net$/
 /^(.*\.)?hentaitorrents\.com$/
 /^(.*\.)?hentaitvn\.net$/
 /^(.*\.)?hentaiukr\.com$/
@@ -6261,6 +6490,7 @@
 /^(.*\.)?hentaixdickgirl\.com$/
 /^(.*\.)?hentaixxxmanga\.net$/
 /^(.*\.)?hentaixyuri\.com$/
+/^(.*\.)?hentaiyaoi\.net$/
 /^(.*\.)?hentaiyes\.com$/
 /^(.*\.)?hentaiz\.bid$/
 /^(.*\.)?hentaiz\.im$/
@@ -6277,6 +6507,7 @@
 /^(.*\.)?hentasis1\.top$/
 /^(.*\.)?hentay\.co$/
 /^(.*\.)?hentia\.xxx$/
+/^(.*\.)?heomax\.net$/
 /^(.*\.)?heosexx\.com$/
 /^(.*\.)?herbiceps\.com$/
 /^(.*\.)?herbicepscam\.com$/
@@ -6332,6 +6563,7 @@
 /^(.*\.)?hindihdporn\.net$/
 /^(.*\.)?hindikahani\.co\.in$/
 /^(.*\.)?hindinude\.com$/
+/^(.*\.)?hindiporn\.rodeo$/
 /^(.*\.)?hindiporn\.tv$/
 /^(.*\.)?hindiporn2\.com$/
 /^(.*\.)?hindipornblog\.com$/
@@ -6383,6 +6615,7 @@
 /^(.*\.)?hobybuchanon\.com$/
 /^(.*\.)?hochu\.tv$/
 /^(.*\.)?hoduhodu\.com$/
+/^(.*\.)?hoeren\.club$/
 /^(.*\.)?hoes\.tube$/
 /^(.*\.)?hoeszone\.com$/
 /^(.*\.)?hog\.mobi$/
@@ -6399,6 +6632,7 @@
 /^(.*\.)?holycowporn\.com$/
 /^(.*\.)?hombresdesnudos\.online$/
 /^(.*\.)?home\-made\-videos\.com$/
+/^(.*\.)?homeasianp\.com$/
 /^(.*\.)?homecamgirl\.com$/
 /^(.*\.)?homeclips\.com$/
 /^(.*\.)?homegayp\.com$/
@@ -6471,6 +6705,7 @@
 /^(.*\.)?hornybank\.com$/
 /^(.*\.)?hornybhabhiporn\.com$/
 /^(.*\.)?hornybutlonely\.com$/
+/^(.*\.)?hornycupids\.com$/
 /^(.*\.)?hornyfap\.tv$/
 /^(.*\.)?hornyfilmer\.com$/
 /^(.*\.)?hornygamer\.com$/
@@ -6543,9 +6778,11 @@
 /^(.*\.)?hotcelebshome\.com$/
 /^(.*\.)?hotchat\.ai$/
 /^(.*\.)?hotcomics\.io$/
+/^(.*\.)?hotcomics\.me$/
 /^(.*\.)?hotdailyflirts\.com$/
 /^(.*\.)?hotdesifuck\.pro$/
 /^(.*\.)?hotdesileaks\.com$/
+/^(.*\.)?hotdreams\.com\.br$/
 /^(.*\.)?hotebonypussy\.com$/
 /^(.*\.)?hotebonytube\.com$/
 /^(.*\.)?hotel\-rus\.net$/
@@ -6582,6 +6819,7 @@
 /^(.*\.)?hotmatch\.com$/
 /^(.*\.)?hotmaturesex\.com$/
 /^(.*\.)?hotmaturetricks\.com$/
+/^(.*\.)?hotmenuniverse\.com$/
 /^(.*\.)?hotmilfphotos\.com$/
 /^(.*\.)?hotmilfpics\.com$/
 /^(.*\.)?hotmilfporn\.site$/
@@ -6613,6 +6851,7 @@
 /^(.*\.)?hotnxx\.com$/
 /^(.*\.)?hotoctopuss\.com$/
 /^(.*\.)?hotoldermale\.com$/
+/^(.*\.)?hotpartystripper\.com$/
 /^(.*\.)?hotpgarden\.com$/
 /^(.*\.)?hotpie\-apk\.com$/
 /^(.*\.)?hotpisland\.com$/
@@ -6634,6 +6873,7 @@
 /^(.*\.)?hotpornvideos\.click$/
 /^(.*\.)?hotpornvideos\.tv$/
 /^(.*\.)?hotpplace\.com$/
+/^(.*\.)?hotpservice\.com$/
 /^(.*\.)?hotpussy\.pics$/
 /^(.*\.)?hotpussypics\.com$/
 /^(.*\.)?hotrecs\.com$/
@@ -6659,9 +6899,11 @@
 /^(.*\.)?hotters\.com\.br$/
 /^(.*\.)?hotterthanfire\.com$/
 /^(.*\.)?hottescorts\.com$/
+/^(.*\.)?hottest\-tube\.com$/
 /^(.*\.)?hottestasiansite\.com$/
 /^(.*\.)?hottestjavsite\.com$/
 /^(.*\.)?hottestlesbiansite\.com$/
+/^(.*\.)?hottestphd\.com$/
 /^(.*\.)?hottestphq\.com$/
 /^(.*\.)?hottestpornx\.com$/
 /^(.*\.)?hottiesofdubai\.com$/
@@ -6674,6 +6916,7 @@
 /^(.*\.)?hotvideo\.fr$/
 /^(.*\.)?hotwap\.net$/
 /^(.*\.)?hotwebcams\.org$/
+/^(.*\.)?hotwebseries\.net$/
 /^(.*\.)?hotwifecaps\.com$/
 /^(.*\.)?hotwifexxx\.com$/
 /^(.*\.)?hotwiveslive\.com$/
@@ -6705,6 +6948,7 @@
 /^(.*\.)?hqdesexo\.com$/
 /^(.*\.)?hqdesiporn\.com$/
 /^(.*\.)?hqfuck\.com$/
+/^(.*\.)?hqfukc\.com$/
 /^(.*\.)?hqgrandmatube\.com$/
 /^(.*\.)?hqhardporn\.com$/
 /^(.*\.)?hqhentai\.online$/
@@ -6733,6 +6977,7 @@
 /^(.*\.)?hqtube\.mobi$/
 /^(.*\.)?hqtube\.org$/
 /^(.*\.)?hqtube\.pro$/
+/^(.*\.)?hqtube\.tv$/
 /^(.*\.)?hqtube\.xxx$/
 /^(.*\.)?hqtubebank2\.com$/
 /^(.*\.)?hqxxxmovs\.com$/
@@ -6752,6 +6997,7 @@
 /^(.*\.)?hubetubex\.com$/
 /^(.*\.)?hubite\.com$/
 /^(.*\.)?hubmasa\.com$/
+/^(.*\.)?hubmasa\.net$/
 /^(.*\.)?huburbate\.com$/
 /^(.*\.)?hubzter\.live$/
 /^(.*\.)?hudenkie\.com$/
@@ -6778,6 +7024,7 @@
 /^(.*\.)?hung\-ya\.com$/
 /^(.*\.)?hungangels\.com$/
 /^(.*\.)?hungryporn\.net$/
+/^(.*\.)?hunk\-ch\.com$/
 /^(.*\.)?hunkypinoy\.tv$/
 /^(.*\.)?hunqz\.com$/
 /^(.*\.)?hunsex\.hu$/
@@ -6814,6 +7061,7 @@
 /^(.*\.)?iality\.best$/
 /^(.*\.)?iamsissy\.com$/
 /^(.*\.)?iamxxx\.com$/
+/^(.*\.)?iananthonycoleman\.com$/
 /^(.*\.)?ibabes\.com$/
 /^(.*\.)?ibdsmporn\.com$/
 /^(.*\.)?ibearporn\.com$/
@@ -6862,6 +7110,7 @@
 /^(.*\.)?igayporn\.tv$/
 /^(.*\.)?igaytube\.tv$/
 /^(.*\.)?igayvideos\.tv$/
+/^(.*\.)?igo\-bokep\.beauty$/
 /^(.*\.)?igodesu\.tv$/
 /^(.*\.)?igotube\.com$/
 /^(.*\.)?igry999\.ru$/
@@ -6907,6 +7156,7 @@
 /^(.*\.)?imluving\.com$/
 /^(.*\.)?imperiodefamosas\.com$/
 /^(.*\.)?impervert\.com$/
+/^(.*\.)?impostingit\.com$/
 /^(.*\.)?imss\.gob\.mx$/
 /^(.*\.)?imx\.to$/
 /^(.*\.)?in\-porn\.com$/
@@ -6934,6 +7184,7 @@
 /^(.*\.)?incest\.zone$/
 /^(.*\.)?incestcreampie\.pro$/
 /^(.*\.)?incestflix\.cc$/
+/^(.*\.)?incestflix\.ch$/
 /^(.*\.)?incestflix\.club$/
 /^(.*\.)?incestflix\.com$/
 /^(.*\.)?incestflix\.date$/
@@ -6956,6 +7207,7 @@
 /^(.*\.)?incestflix\.webcam$/
 /^(.*\.)?incestflix\.win$/
 /^(.*\.)?incestflix\.ws$/
+/^(.*\.)?incestgames\.net$/
 /^(.*\.)?incestik\.com$/
 /^(.*\.)?incestmom\.net$/
 /^(.*\.)?incesto\.blog\.br$/
@@ -6967,14 +7219,17 @@
 /^(.*\.)?incestuosas\.com$/
 /^(.*\.)?incestxxx\.com$/
 /^(.*\.)?incezt\.net$/
+/^(.*\.)?incgrepacks\.com$/
 /^(.*\.)?incontriamoci\.xxx$/
 /^(.*\.)?indecentvideos\.com$/
 /^(.*\.)?independent\.com\.mt$/
 /^(.*\.)?indexaav\.com$/
 /^(.*\.)?indexxx\.com$/
+/^(.*\.)?indfun\.com$/
 /^(.*\.)?indi\-kaluga\.ru$/
 /^(.*\.)?india3x\.pro$/
 /^(.*\.)?indiafuns\.com$/
+/^(.*\.)?indiamobiletube\.com$/
 /^(.*\.)?indian\-femdom\.com$/
 /^(.*\.)?indian\-porn\.pro$/
 /^(.*\.)?indian\-sex\-tube\.com$/
@@ -6995,6 +7250,7 @@
 /^(.*\.)?indianfplace\.com$/
 /^(.*\.)?indianfuck\.me$/
 /^(.*\.)?indiangaysite2\.com$/
+/^(.*\.)?indiangirlsclub\.net$/
 /^(.*\.)?indianhiddencams\.com$/
 /^(.*\.)?indianhottube\.com$/
 /^(.*\.)?indiankinkygirls\.com$/
@@ -7008,6 +7264,7 @@
 /^(.*\.)?indianporn\.cam$/
 /^(.*\.)?indianporn\.site$/
 /^(.*\.)?indianporn\.su$/
+/^(.*\.)?indianporn360\.com$/
 /^(.*\.)?indianporn365\.com$/
 /^(.*\.)?indianporn365\.xyz$/
 /^(.*\.)?indianporna\.com$/
@@ -7026,6 +7283,7 @@
 /^(.*\.)?indianpornox\.com$/
 /^(.*\.)?indianpornpictures\.com$/
 /^(.*\.)?indianpornplace\.com$/
+/^(.*\.)?indianpornsites\.net$/
 /^(.*\.)?indianporntop\.com$/
 /^(.*\.)?indianpornvideos\.cc$/
 /^(.*\.)?indianpornvideos\.click$/
@@ -7061,6 +7319,7 @@
 /^(.*\.)?indiantubexxx\.net$/
 /^(.*\.)?indianwifesporn\.com$/
 /^(.*\.)?indianxporn\.net$/
+/^(.*\.)?indianxxx\.vip$/
 /^(.*\.)?indianxxx\.xyz$/
 /^(.*\.)?indianxxx365\.com$/
 /^(.*\.)?indianxxx69\.com$/
@@ -7090,6 +7349,7 @@
 /^(.*\.)?indoporn\.mobi$/
 /^(.*\.)?indoporn\.pro$/
 /^(.*\.)?indoporn21\.site$/
+/^(.*\.)?indovidplus\.org$/
 /^(.*\.)?indoxvideos\.com$/
 /^(.*\.)?indsex\.in$/
 /^(.*\.)?indxxx\.com$/
@@ -7153,6 +7413,7 @@
 /^(.*\.)?intimcity\.com$/
 /^(.*\.)?intimcity\.top$/
 /^(.*\.)?intime\.cl$/
+/^(.*\.)?intimequebec\.com$/
 /^(.*\.)?intimestetik\.ru$/
 /^(.*\.)?intporn\.com$/
 /^(.*\.)?intrigue\.dating$/
@@ -7296,6 +7557,7 @@
 /^(.*\.)?japanesebeauties\.one$/
 /^(.*\.)?japanesehdporn\.com$/
 /^(.*\.)?japanesejav\.com$/
+/^(.*\.)?japaneseporn\.one$/
 /^(.*\.)?japaneseporn\.xxx$/
 /^(.*\.)?japanesepornpictures\.com$/
 /^(.*\.)?japanesesxxx\.com$/
@@ -7317,10 +7579,12 @@
 /^(.*\.)?japrz\.com$/
 /^(.*\.)?japteenx\.com$/
 /^(.*\.)?jaquemateateos\.com$/
+/^(.*\.)?jariosas\.com$/
 /^(.*\.)?jasmin\.ai$/
 /^(.*\.)?jasminchat\.net$/
 /^(.*\.)?jasmr\.net$/
 /^(.*\.)?jav\-angel\.net$/
+/^(.*\.)?jav\-fetish\.com$/
 /^(.*\.)?jav\-master\.com$/
 /^(.*\.)?jav\-pics\.com$/
 /^(.*\.)?jav\.autos$/
@@ -7349,6 +7613,7 @@
 /^(.*\.)?jav16882\.com$/
 /^(.*\.)?jav24\.com$/
 /^(.*\.)?jav2c\.com$/
+/^(.*\.)?jav321\.com$/
 /^(.*\.)?jav56\.com$/
 /^(.*\.)?jav68\.net$/
 /^(.*\.)?jav69xxx\.com$/
@@ -7368,6 +7633,7 @@
 /^(.*\.)?javbukkake\.com$/
 /^(.*\.)?javbus\.com$/
 /^(.*\.)?javbus\.sbs$/
+/^(.*\.)?javcc\.me$/
 /^(.*\.)?javchat\.com$/
 /^(.*\.)?javcl\.com$/
 /^(.*\.)?javcloud\.com$/
@@ -7375,6 +7641,7 @@
 /^(.*\.)?javcup\.com$/
 /^(.*\.)?javcv\.com$/
 /^(.*\.)?javdaddy\.com$/
+/^(.*\.)?javdatabase\.com$/
 /^(.*\.)?javdb\.com$/
 /^(.*\.)?javdb456\.com$/
 /^(.*\.)?javdb457\.com$/
@@ -7409,6 +7676,7 @@
 /^(.*\.)?javgiga\.com$/
 /^(.*\.)?javgirl\.pics$/
 /^(.*\.)?javgods\.com$/
+/^(.*\.)?javgrandpa\.top$/
 /^(.*\.)?javguru\.club$/
 /^(.*\.)?javguru\.guru$/
 /^(.*\.)?javhard\.net$/
@@ -7423,6 +7691,7 @@
 /^(.*\.)?javhd\.net$/
 /^(.*\.)?javhd\.pics$/
 /^(.*\.)?javhd\.today$/
+/^(.*\.)?javhd168\.com$/
 /^(.*\.)?javhdhello\.com$/
 /^(.*\.)?javhdporn\.live$/
 /^(.*\.)?javhdporn\.net$/
@@ -7458,6 +7727,7 @@
 /^(.*\.)?javmobile\.net$/
 /^(.*\.)?javmodel\.com$/
 /^(.*\.)?javmost\.com$/
+/^(.*\.)?javmove\.com$/
 /^(.*\.)?javmovs\.com$/
 /^(.*\.)?javnong\.cc$/
 /^(.*\.)?javnoon\.com$/
@@ -7479,6 +7749,7 @@
 /^(.*\.)?javporno\.net$/
 /^(.*\.)?javpornpics\.com$/
 /^(.*\.)?javpussy\.net$/
+/^(.*\.)?javquick\.com$/
 /^(.*\.)?javrank\.com$/
 /^(.*\.)?javrate\.com$/
 /^(.*\.)?javrider\.com$/
@@ -7516,8 +7787,10 @@
 /^(.*\.)?javthai\.me$/
 /^(.*\.)?javtiful\.com$/
 /^(.*\.)?javtiful\.to$/
+/^(.*\.)?javtop\.fun$/
 /^(.*\.)?javtopxx\.com$/
 /^(.*\.)?javtrailers\.com$/
+/^(.*\.)?javtree\.com$/
 /^(.*\.)?javtrend3\.com$/
 /^(.*\.)?javtsunami\.com$/
 /^(.*\.)?javtube\.com$/
@@ -7536,6 +7809,7 @@
 /^(.*\.)?javxxx\.me$/
 /^(.*\.)?javxxxporn\.com$/
 /^(.*\.)?javxxxporn365\.com$/
+/^(.*\.)?javy\.jp$/
 /^(.*\.)?javym\.net$/
 /^(.*\.)?javynow\.com$/
 /^(.*\.)?jazz\-jazz\.ru$/
@@ -7556,11 +7830,14 @@
 /^(.*\.)?jemontremesfesses\.com$/
 /^(.*\.)?jemontremesseins\.com$/
 /^(.*\.)?jemontremonminou\.com$/
+/^(.*\.)?jendekhane\.com$/
 /^(.*\.)?jendekhune\.com$/
 /^(.*\.)?jennyaroraescort\.com$/
 /^(.*\.)?jennylist\.xyz$/
 /^(.*\.)?jennymovies\.com$/
 /^(.*\.)?jenporno\.cz$/
+/^(.*\.)?jepangbasah\.com$/
+/^(.*\.)?jepangmantap\.com$/
 /^(.*\.)?jerk\-off\-pics\.com$/
 /^(.*\.)?jerk24\.com$/
 /^(.*\.)?jerkdolls\.com$/
@@ -7650,6 +7927,7 @@
 /^(.*\.)?josporn\.club$/
 /^(.*\.)?josporn\.com$/
 /^(.*\.)?jotsex\.com$/
+/^(.*\.)?jouwpagina\.be$/
 /^(.*\.)?jouwpagina\.nl$/
 /^(.*\.)?jovencitas\.gratis$/
 /^(.*\.)?joybear\.com$/
@@ -7664,13 +7942,16 @@
 /^(.*\.)?joystick\.tv$/
 /^(.*\.)?jp\-loveless\.com$/
 /^(.*\.)?jp\-sex\.com$/
+/^(.*\.)?jpavz\.net$/
 /^(.*\.)?jpboy1069\.net$/
+/^(.*\.)?jpdmv\.com$/
 /^(.*\.)?jpsex\-xxx\.com$/
 /^(.*\.)?jrants\.com$/
 /^(.*\.)?jraws\.net$/
 /^(.*\.)?jrk\-it\.com$/
 /^(.*\.)?jsutandy\.com$/
 /^(.*\.)?jto\.to$/
+/^(.*\.)?jucydate\.com$/
 /^(.*\.)?juggshunter\.com$/
 /^(.*\.)?juicyads\.com$/
 /^(.*\.)?juicychat\.ai$/
@@ -7691,6 +7972,7 @@
 /^(.*\.)?juniorsubs\.pl$/
 /^(.*\.)?junmeitu\.com$/
 /^(.*\.)?jusporn\.com$/
+/^(.*\.)?justbrides\.net$/
 /^(.*\.)?justcartoondicks\.com$/
 /^(.*\.)?justeroticstories\.com$/
 /^(.*\.)?justfor\.fans$/
@@ -7724,6 +8006,7 @@
 /^(.*\.)?justusboys\.com$/
 /^(.*\.)?justustrannies\.com$/
 /^(.*\.)?justvideoporn\.com$/
+/^(.*\.)?justworldporn\.com$/
 /^(.*\.)?justxxx4k\.com$/
 /^(.*\.)?jvid\.com$/
 /^(.*\.)?jvrlibrary\.com$/
@@ -7795,6 +8078,7 @@
 /^(.*\.)?kathrynsreport\.com$/
 /^(.*\.)?katitube\.com$/
 /^(.*\.)?katorporn\.com$/
+/^(.*\.)?katorsex\.me$/
 /^(.*\.)?katporn\.com$/
 /^(.*\.)?kauf6\.com$/
 /^(.*\.)?kaufmich\.com$/
@@ -7883,8 +8167,10 @@
 /^(.*\.)?kingbokep\.tv$/
 /^(.*\.)?kingcomix\.com$/
 /^(.*\.)?kinghost\.com$/
+/^(.*\.)?kingmature\.com$/
 /^(.*\.)?kingofhup\.com$/
 /^(.*\.)?kingsmanga\.net$/
+/^(.*\.)?kingtwinks\.com$/
 /^(.*\.)?kinguys\.com$/
 /^(.*\.)?kink\.ai$/
 /^(.*\.)?kink\.com$/
@@ -7915,6 +8201,7 @@
 /^(.*\.)?kissjav\.com$/
 /^(.*\.)?kissjav\.li$/
 /^(.*\.)?kisska\.net$/
+/^(.*\.)?kisskh\.co$/
 /^(.*\.)?kissmatures\.com$/
 /^(.*\.)?kisspornmovies\.com$/
 /^(.*\.)?kitty\-kats\.net$/
@@ -7944,6 +8231,7 @@
 /^(.*\.)?kokaqueen\.com$/
 /^(.*\.)?kokobumer\.com$/
 /^(.*\.)?koloporno\.com$/
+/^(.*\.)?kom\.cz$/
 /^(.*\.)?komendant\.net$/
 /^(.*\.)?komikindo4\.link$/
 /^(.*\.)?komikpoi\.com$/
@@ -7963,6 +8251,7 @@
 /^(.*\.)?konyajo\.com$/
 /^(.*\.)?kookporn\.com$/
 /^(.*\.)?kopeda\.com$/
+/^(.*\.)?kopilkahd\.com$/
 /^(.*\.)?kopro\-porn\.art$/
 /^(.*\.)?koptim\-sami\.ru$/
 /^(.*\.)?korean\-sex\.com$/
@@ -8002,8 +8291,10 @@
 /^(.*\.)?kumppaniaetsin\.com$/
 /^(.*\.)?kundun1069\.com$/
 /^(.*\.)?kupid\.ai$/
+/^(.*\.)?kupujemprodajem\.com$/
 /^(.*\.)?kurakura21\.com$/
 /^(.*\.)?kurakura21\.net$/
+/^(.*\.)?kurochikubi\.com$/
 /^(.*\.)?kurvi\.net$/
 /^(.*\.)?kusowanka\.com$/
 /^(.*\.)?kuvake\.net$/
@@ -8052,6 +8343,7 @@
 /^(.*\.)?lanasbigboobs\.com$/
 /^(.*\.)?landsmb\.ru$/
 /^(.*\.)?lang\.live$/
+/^(.*\.)?langtrees\.com$/
 /^(.*\.)?lankasri\.com$/
 /^(.*\.)?lap\.hu$/
 /^(.*\.)?lapkjogos\.com$/
@@ -8093,6 +8385,7 @@
 /^(.*\.)?law\.blog$/
 /^(.*\.)?lazytubeporn\.com$/
 /^(.*\.)?lbanez\.net$/
+/^(.*\.)?lbgasm\.com$/
 /^(.*\.)?leak\-sex\-tape\.com$/
 /^(.*\.)?leak\.xxx$/
 /^(.*\.)?leakav\.com$/
@@ -8101,6 +8394,7 @@
 /^(.*\.)?leakedbb\.com$/
 /^(.*\.)?leakedmeat\.com$/
 /^(.*\.)?leakedmeat\.live$/
+/^(.*\.)?leakednudes\.co$/
 /^(.*\.)?leakedvideo\.link$/
 /^(.*\.)?leakedzone\.com$/
 /^(.*\.)?leakimedia\.com$/
@@ -8110,6 +8404,7 @@
 /^(.*\.)?leakslove\.com$/
 /^(.*\.)?leaktube\.net$/
 /^(.*\.)?leaktubenet\.com$/
+/^(.*\.)?leakxxx\.com$/
 /^(.*\.)?lebon\.porn$/
 /^(.*\.)?lechetube\.com$/
 /^(.*\.)?lecoinporno\.fr$/
@@ -8151,6 +8446,7 @@
 /^(.*\.)?lesb8\.com$/
 /^(.*\.)?lesbi\.xxx$/
 /^(.*\.)?lesbian\-galleries\.com$/
+/^(.*\.)?lesbian\-hookup\.org$/
 /^(.*\.)?lesbian8\.com$/
 /^(.*\.)?lesbianact\.com$/
 /^(.*\.)?lesbianas\.lgbt$/
@@ -8181,6 +8477,7 @@
 /^(.*\.)?lesbianpornpics\.net$/
 /^(.*\.)?lesbianpornq\.com$/
 /^(.*\.)?lesbianpornspace\.com$/
+/^(.*\.)?lesbianpornup\.com$/
 /^(.*\.)?lesbianpornvideos\.com$/
 /^(.*\.)?lesbianpplanet\.com$/
 /^(.*\.)?lesbianptv\.com$/
@@ -8205,6 +8502,8 @@
 /^(.*\.)?lessonsporn\.com$/
 /^(.*\.)?letmejerk\.com$/
 /^(.*\.)?letsdoeit\.com$/
+/^(.*\.)?letsemjoy\.com$/
+/^(.*\.)?letshangout\.com$/
 /^(.*\.)?letsjerk\.tv$/
 /^(.*\.)?letsporn\.com$/
 /^(.*\.)?letspostit\.com$/
@@ -8220,11 +8519,13 @@
 /^(.*\.)?lewdvrgames\.com$/
 /^(.*\.)?lewdzone\.com$/
 /^(.*\.)?lexixxx\.com$/
+/^(.*\.)?lg126\.at$/
 /^(.*\.)?lgbtporn\.org$/
 /^(.*\.)?lgd\.gov\.bd$/
 /^(.*\.)?lh\-linz\.at$/
 /^(.*\.)?lhentai\.com$/
 /^(.*\.)?lhos\.ru$/
+/^(.*\.)?liaengel\.com$/
 /^(.*\.)?lib\.social$/
 /^(.*\.)?liberator\.com$/
 /^(.*\.)?libertines\.me$/
@@ -8235,6 +8536,7 @@
 /^(.*\.)?licknylons\.com$/
 /^(.*\.)?licksonic\.com$/
 /^(.*\.)?liebeakt\.com$/
+/^(.*\.)?liebein\.com$/
 /^(.*\.)?liebelib\.mobi$/
 /^(.*\.)?lieuxdedrague\.fr$/
 /^(.*\.)?lifeout\.com$/
@@ -8251,6 +8553,7 @@
 /^(.*\.)?lindaprofiles\.com$/
 /^(.*\.)?linduu\.com$/
 /^(.*\.)?linduu\.fr$/
+/^(.*\.)?lingayatmatrimony\.com$/
 /^(.*\.)?lingbokep\.com$/
 /^(.*\.)?linkdolls\.com$/
 /^(.*\.)?linkhotel\.nl$/
@@ -8284,6 +8587,7 @@
 /^(.*\.)?livecamrips\.su$/
 /^(.*\.)?livecamrips\.tv$/
 /^(.*\.)?livechat\.cz$/
+/^(.*\.)?livechat\.fi$/
 /^(.*\.)?livechatsan\.com$/
 /^(.*\.)?livedesichat\.com$/
 /^(.*\.)?livefreecamx\.com$/
@@ -8294,6 +8598,7 @@
 /^(.*\.)?livejasmin\.cam$/
 /^(.*\.)?livejasmin\.com$/
 /^(.*\.)?livejasminbabes\.net$/
+/^(.*\.)?livejasmintease\.com$/
 /^(.*\.)?livejsm\.com$/
 /^(.*\.)?liveleak\.com$/
 /^(.*\.)?livenude\.be$/
@@ -8369,12 +8674,14 @@
 /^(.*\.)?lottodetect\.com$/
 /^(.*\.)?lovado\.net$/
 /^(.*\.)?lovafrique\.com$/
+/^(.*\.)?love\-boat\.ru$/
 /^(.*\.)?love\-laces\.top$/
 /^(.*\.)?love\-moms\.info$/
 /^(.*\.)?love2bbs\.com$/
 /^(.*\.)?love4porn\.com$/
 /^(.*\.)?loveanal\.org$/
 /^(.*\.)?lovecamporn\.com$/
+/^(.*\.)?lovecity3d\.com$/
 /^(.*\.)?loveclik\.ru$/
 /^(.*\.)?loveescortistanbul\.com$/
 /^(.*\.)?lovefootjob\.com$/
@@ -8388,6 +8695,7 @@
 /^(.*\.)?lovehoneyforum\.com$/
 /^(.*\.)?lovehotporn\.com$/
 /^(.*\.)?lovekoala\.com$/
+/^(.*\.)?lovely\.co\.il$/
 /^(.*\.)?lovelyhairywomen\.com$/
 /^(.*\.)?lovematters\.in$/
 /^(.*\.)?loveme\.com$/
@@ -8496,6 +8804,7 @@
 /^(.*\.)?maduras\.vip$/
 /^(.*\.)?maduras\.xxx$/
 /^(.*\.)?madurasamateur\.com$/
+/^(.*\.)?madurasespana\.com$/
 /^(.*\.)?madurasvideos\.best$/
 /^(.*\.)?madxxxflicks\.com$/
 /^(.*\.)?mafab\.hu$/
@@ -8508,6 +8817,7 @@
 /^(.*\.)?mahajataha\.com$/
 /^(.*\.)?maheir\.com$/
 /^(.*\.)?mahiescort\.in$/
+/^(.*\.)?mahoushoujobu\.com$/
 /^(.*\.)?mail\-order\-brides\-russian\.com$/
 /^(.*\.)?mainbabes\.com$/
 /^(.*\.)?mainhub\.com$/
@@ -8567,11 +8877,14 @@
 /^(.*\.)?mangago\.me$/
 /^(.*\.)?mangahentai\.xyz$/
 /^(.*\.)?mangahere\.cc$/
+/^(.*\.)?mangahere\.co$/
 /^(.*\.)?mangahere\.com$/
 /^(.*\.)?mangahome\.com$/
 /^(.*\.)?mangahub\.io$/
+/^(.*\.)?mangakatana\.com$/
 /^(.*\.)?mangalotus\.com$/
 /^(.*\.)?mangamaniacs\.org$/
+/^(.*\.)?manganelo\.cc$/
 /^(.*\.)?mangaread\.co$/
 /^(.*\.)?mangashentais\.com$/
 /^(.*\.)?mangasincensura\.com$/
@@ -8642,6 +8955,7 @@
 /^(.*\.)?martichina\.com\.tr$/
 /^(.*\.)?martinassociates\.co\.uk$/
 /^(.*\.)?martted\.com$/
+/^(.*\.)?maruchihentai\.cc$/
 /^(.*\.)?maruhub\.com$/
 /^(.*\.)?masa49\.co\.in$/
 /^(.*\.)?masa49\.com$/
@@ -8677,6 +8991,7 @@
 /^(.*\.)?masterfap\.net$/
 /^(.*\.)?masterpaj\.com$/
 /^(.*\.)?mastertgp\.net$/
+/^(.*\.)?masthindistory\.com$/
 /^(.*\.)?mastibaba\.com$/
 /^(.*\.)?mastixflix\.com$/
 /^(.*\.)?masturbate2gether\.com$/
@@ -8717,6 +9032,7 @@
 /^(.*\.)?matureerotikfilm\.info$/
 /^(.*\.)?matureerotikfilm\.vip$/
 /^(.*\.)?matureexpress\.com$/
+/^(.*\.)?maturefilmerotik\.vip$/
 /^(.*\.)?matureflirtcontact\.com$/
 /^(.*\.)?matureflirting\.com$/
 /^(.*\.)?maturefplace\.com$/
@@ -8800,6 +9116,7 @@
 /^(.*\.)?mazmo\.net$/
 /^(.*\.)?mazolporn\.com$/
 /^(.*\.)?mbokepindo\.com$/
+/^(.*\.)?mccoysguide\.com$/
 /^(.*\.)?mclassbrasil\.com\.br$/
 /^(.*\.)?mcstories\.com$/
 /^(.*\.)?mdhcdn\.com$/
@@ -8870,6 +9187,7 @@
 /^(.*\.)?meinemuschibilder\.com$/
 /^(.*\.)?meinreifeflirt\.com$/
 /^(.*\.)?meinsex\.video$/
+/^(.*\.)?meinsingleschat\.com$/
 /^(.*\.)?meinyouporn\.com$/
 /^(.*\.)?meisjeneuken\.net$/
 /^(.*\.)?melapelacomics\.com$/
@@ -8879,6 +9197,7 @@
 /^(.*\.)?melonstube\.com$/
 /^(.*\.)?memojav\.com$/
 /^(.*\.)?men\.com$/
+/^(.*\.)?menak\.ru$/
 /^(.*\.)?menatplay\.com$/
 /^(.*\.)?mencelebrities\.com$/
 /^(.*\.)?menchats\.com$/
@@ -8906,6 +9225,7 @@
 /^(.*\.)?mersinforum\.net$/
 /^(.*\.)?mesfantasmes\.net$/
 /^(.*\.)?messyfun\.com$/
+/^(.*\.)?messytube\.com$/
 /^(.*\.)?mestrip\.com$/
 /^(.*\.)?mesvip\.com$/
 /^(.*\.)?met\-art\.com$/
@@ -8926,6 +9246,7 @@
 /^(.*\.)?meulink\.bio$/
 /^(.*\.)?meumundogay\.net$/
 /^(.*\.)?meupatrocinio\.com$/
+/^(.*\.)?meusdesabafos\.com$/
 /^(.*\.)?mex\.tl$/
 /^(.*\.)?meyzo\.mobi$/
 /^(.*\.)?meyzo\.org$/
@@ -8936,6 +9257,7 @@
 /^(.*\.)?mfcimg\.com$/
 /^(.*\.)?mfroot\.org$/
 /^(.*\.)?mgdjmp\.com$/
+/^(.*\.)?mhcomics\.com$/
 /^(.*\.)?mhentai\.net$/
 /^(.*\.)?miakhalifa\.com$/
 /^(.*\.)?miarroba\.com$/
@@ -8943,6 +9265,7 @@
 /^(.*\.)?mib19\.co\.kr$/
 /^(.*\.)?michellavienna\.com$/
 /^(.*\.)?midasplayer\.com$/
+/^(.*\.)?midporn\.com$/
 /^(.*\.)?miestnyflirt\.com$/
 /^(.*\.)?mightysextube\.com$/
 /^(.*\.)?mignonne\.com$/
@@ -8995,6 +9318,7 @@
 /^(.*\.)?milfroom\.com$/
 /^(.*\.)?milfs\-xxx\.com$/
 /^(.*\.)?milfs\.com$/
+/^(.*\.)?milfs30\.com$/
 /^(.*\.)?milfsarea\.com$/
 /^(.*\.)?milfsaround\.com$/
 /^(.*\.)?milfscity\.com$/
@@ -9064,6 +9388,7 @@
 /^(.*\.)?missav\.video$/
 /^(.*\.)?missav\.ws$/
 /^(.*\.)?missav01\.com$/
+/^(.*\.)?missav123\.com$/
 /^(.*\.)?missav888\.com$/
 /^(.*\.)?missavtv\.com$/
 /^(.*\.)?missavx\.com$/
@@ -9173,6 +9498,7 @@
 /^(.*\.)?mommysgirl\.com$/
 /^(.*\.)?mommysgirl\.net$/
 /^(.*\.)?momoiroadult\.com$/
+/^(.*\.)?momon\-ga\.com$/
 /^(.*\.)?momoniji\.com$/
 /^(.*\.)?mompornonly\.com$/
 /^(.*\.)?momporntv\.net$/
@@ -9238,6 +9564,7 @@
 /^(.*\.)?mosprostitutkis\.com$/
 /^(.*\.)?most\.lv$/
 /^(.*\.)?mostxxxvideos\.cc$/
+/^(.*\.)?motherfuckingwebsite\.com$/
 /^(.*\.)?motherless\.com$/
 /^(.*\.)?motherless\.pro$/
 /^(.*\.)?motherlessmedia\.com$/
@@ -9280,6 +9607,7 @@
 /^(.*\.)?mrman\.com$/
 /^(.*\.)?mrmancams\.com$/
 /^(.*\.)?mrnoegyi\.xyz$/
+/^(.*\.)?mrpinks\.com$/
 /^(.*\.)?mrporn\.com$/
 /^(.*\.)?mrporngeek\.com$/
 /^(.*\.)?mrpornogratis\.it$/
@@ -9303,6 +9631,7 @@
 /^(.*\.)?muarab\.net$/
 /^(.*\.)?muchfuck\.com$/
 /^(.*\.)?muchohentai\.com$/
+/^(.*\.)?muchohentai\.tv$/
 /^(.*\.)?muchoporno\.xxx$/
 /^(.*\.)?muitohentai\.com$/
 /^(.*\.)?mujeresdesnudas\.club$/
@@ -9326,6 +9655,7 @@
 /^(.*\.)?multporn\.net$/
 /^(.*\.)?multporn\.xxx$/
 /^(.*\.)?mumosengen\.com$/
+/^(.*\.)?mundopack\-tv\.com$/
 /^(.*\.)?mundoporn\.net$/
 /^(.*\.)?mundosexanuncio\.com$/
 /^(.*\.)?mundoxgay\.com$/
@@ -9372,11 +9702,13 @@
 /^(.*\.)?mybluehostin\.me$/
 /^(.*\.)?mybokep\.link$/
 /^(.*\.)?mybro\.tv$/
+/^(.*\.)?mycam\.buzz$/
 /^(.*\.)?mycams\.com$/
 /^(.*\.)?mycamtv\.com$/
 /^(.*\.)?mycandygames\.com$/
 /^(.*\.)?mycasualcompanion\.com$/
 /^(.*\.)?mychaturcam\.com$/
+/^(.*\.)?myclassicp\.com$/
 /^(.*\.)?mydatelab\.net$/
 /^(.*\.)?mydates\.com$/
 /^(.*\.)?mydaughterswap\.com$/
@@ -9422,11 +9754,13 @@
 /^(.*\.)?myhotbride\.com$/
 /^(.*\.)?myhotcams\.net$/
 /^(.*\.)?myhotcomix\.com$/
+/^(.*\.)?myhottestporn\.com$/
 /^(.*\.)?myhubhd\.org$/
 /^(.*\.)?myhugenaturals\.com$/
 /^(.*\.)?myimg\.ai$/
 /^(.*\.)?myindianporno\.com$/
 /^(.*\.)?myjavbay\.com$/
+/^(.*\.)?myjavp\.com$/
 /^(.*\.)?myladyboycupid\.com$/
 /^(.*\.)?myladyboydate\.com$/
 /^(.*\.)?mylatinabride\.com$/
@@ -9440,6 +9774,8 @@
 /^(.*\.)?mylovehidden\.tv$/
 /^(.*\.)?myloves\.com$/
 /^(.*\.)?mylust\.com$/
+/^(.*\.)?mym\.fans$/
+/^(.*\.)?mym\.news$/
 /^(.*\.)?mymangacomics\.com$/
 /^(.*\.)?mymaral\.com$/
 /^(.*\.)?mymatureflirt\.com$/
@@ -9454,6 +9790,7 @@
 /^(.*\.)?mynx\.co$/
 /^(.*\.)?myorientalp\.com$/
 /^(.*\.)?mypcountry\.com$/
+/^(.*\.)?mypervmom\.com$/
 /^(.*\.)?mypervyfamily\.com$/
 /^(.*\.)?mypmates\.club$/
 /^(.*\.)?mypmovies\.com$/
@@ -9462,6 +9799,7 @@
 /^(.*\.)?mypornadviser\.com$/
 /^(.*\.)?mypornarchive\.net$/
 /^(.*\.)?mypornbible\.com$/
+/^(.*\.)?myporndepot\.com$/
 /^(.*\.)?mypornerleak\.com$/
 /^(.*\.)?mypornfolder\.com$/
 /^(.*\.)?mypornhd\.net$/
@@ -9493,6 +9831,7 @@
 /^(.*\.)?mysextoyguide\.com$/
 /^(.*\.)?mysexvids\.net$/
 /^(.*\.)?mysexynudes\.com$/
+/^(.*\.)?mysiterips\.com$/
 /^(.*\.)?mysnoiportal\.ru$/
 /^(.*\.)?myspass\.de$/
 /^(.*\.)?myspicyvanilla\.com$/
@@ -9572,12 +9911,14 @@
 /^(.*\.)?nakedhairypussies\.com$/
 /^(.*\.)?nakedhornyteens\.com$/
 /^(.*\.)?nakedhotpics\.com$/
+/^(.*\.)?nakedjapanesegirl\.net$/
 /^(.*\.)?nakedmatureladies\.com$/
 /^(.*\.)?nakedmaturephotos\.com$/
 /^(.*\.)?nakedmaturepics\.com$/
 /^(.*\.)?nakedmilfs\.cc$/
 /^(.*\.)?nakednews\.com$/
 /^(.*\.)?nakedoldladies\.com$/
+/^(.*\.)?nakedpictures\.org$/
 /^(.*\.)?nakedpornpics\.com$/
 /^(.*\.)?nakedpornpictures\.com$/
 /^(.*\.)?nakedpussypics\.com$/
@@ -9618,6 +9959,7 @@
 /^(.*\.)?narezki\-podborki\.one$/
 /^(.*\.)?narod\.ru$/
 /^(.*\.)?narutohentaidb\.com$/
+/^(.*\.)?narutopixxx\.com$/
 /^(.*\.)?nashepornovideo\.cc$/
 /^(.*\.)?nastia\.ai$/
 /^(.*\.)?nasty\-young\.com$/
@@ -9627,6 +9969,8 @@
 /^(.*\.)?nastymaturetube\.com$/
 /^(.*\.)?nastypornpics\.com$/
 /^(.*\.)?nastypornvids\.com$/
+/^(.*\.)?nastyrat\.com$/
+/^(.*\.)?nastyvideotube\.com$/
 /^(.*\.)?nataliedate\.com$/
 /^(.*\.)?natashaescort\.com$/
 /^(.*\.)?natasharoy\.net$/
@@ -9651,6 +9995,7 @@
 /^(.*\.)?naughtywomenpics\.com$/
 /^(.*\.)?navratdoreality\.cz$/
 /^(.*\.)?neandertallica\.net$/
+/^(.*\.)?nearhentai\.com$/
 /^(.*\.)?nebyda\.com$/
 /^(.*\.)?nectar\.ai$/
 /^(.*\.)?nederlandsesexfilm\.net$/
@@ -9703,6 +10048,7 @@
 /^(.*\.)?neuerporno\.com$/
 /^(.*\.)?neukenfilm\.net$/
 /^(.*\.)?neukserver\.com$/
+/^(.*\.)?neverendservices\.com$/
 /^(.*\.)?new\-hindiporn\.com$/
 /^(.*\.)?new\-indian\-xxx\.com$/
 /^(.*\.)?new\-jav\.net$/
@@ -9747,6 +10093,7 @@
 /^(.*\.)?newsexxxx\.com$/
 /^(.*\.)?newshemalemodels\.com$/
 /^(.*\.)?newshemaletube\.com$/
+/^(.*\.)?newvideossex\.com$/
 /^(.*\.)?newxxx\.pro$/
 /^(.*\.)?newzealandgirls\.co\.nz$/
 /^(.*\.)?nextdoorstudios\.com$/
@@ -9760,7 +10107,9 @@
 /^(.*\.)?nhentai\.com$/
 /^(.*\.)?nhentai\.io$/
 /^(.*\.)?nhentai\.net$/
+/^(.*\.)?nhentai\.net\.br$/
 /^(.*\.)?nhentai\.one$/
+/^(.*\.)?nhentai\.online$/
 /^(.*\.)?nhentai\.to$/
 /^(.*\.)?nhentai\.website$/
 /^(.*\.)?nhentai\.xxx$/
@@ -9790,6 +10139,7 @@
 /^(.*\.)?nicky\.xxx$/
 /^(.*\.)?nicobronipago\.com$/
 /^(.*\.)?nigged\.com$/
+/^(.*\.)?nightdreambabe\.com$/
 /^(.*\.)?nightescortsclub\.com$/
 /^(.*\.)?nightmareporn\.com$/
 /^(.*\.)?nightsex\.net$/
@@ -9802,9 +10152,11 @@
 /^(.*\.)?nimboxcrm\.cloud$/
 /^(.*\.)?nimfomane\.com$/
 /^(.*\.)?nineanime\.com$/
+/^(.*\.)?ninemanga\.com$/
 /^(.*\.)?ninfomaniacas\.blog$/
 /^(.*\.)?ninkgirlfoxy\.de$/
 /^(.*\.)?nippleplay\.com$/
+/^(.*\.)?nippycams\.com$/
 /^(.*\.)?nishakapoor\.com$/
 /^(.*\.)?niteflirt\.com$/
 /^(.*\.)?nitgatas\.com\.br$/
@@ -9835,6 +10187,7 @@
 /^(.*\.)?noindexscan\.com$/
 /^(.*\.)?nokenny\.co$/
 /^(.*\.)?nokephub\.com$/
+/^(.*\.)?nomi\.ai$/
 /^(.*\.)?noname\.chat$/
 /^(.*\.)?nonamedomain\.hu$/
 /^(.*\.)?nonktube\.com$/
@@ -9941,6 +10294,7 @@
 /^(.*\.)?nudegirlsex\.com$/
 /^(.*\.)?nudegirlstits\.com$/
 /^(.*\.)?nudegrannypics\.com$/
+/^(.*\.)?nudegrannypics\.xyz$/
 /^(.*\.)?nudehairycunts\.com$/
 /^(.*\.)?nudeindian\.net$/
 /^(.*\.)?nudeindians2\.net$/
@@ -9991,6 +10345,7 @@
 /^(.*\.)?nudexxxpictures\.com$/
 /^(.*\.)?nudeyoung\.info$/
 /^(.*\.)?nudible\.com$/
+/^(.*\.)?nudie\.dk$/
 /^(.*\.)?nudify\.online$/
 /^(.*\.)?nudist\-camp\.info$/
 /^(.*\.)?nudist\-teen\.org$/
@@ -10017,9 +10372,11 @@
 /^(.*\.)?nungvl\.net$/
 /^(.*\.)?nungxthai\.me$/
 /^(.*\.)?nungxxx\.net$/
+/^(.*\.)?nunsextube\.com$/
 /^(.*\.)?nunude\.com$/
 /^(.*\.)?nunuporn\.com$/
 /^(.*\.)?nuol\.edu\.la$/
+/^(.*\.)?nupornfree\.com$/
 /^(.*\.)?nupornsite\.com$/
 /^(.*\.)?nursexfilme\.com$/
 /^(.*\.)?nuru\-massage\-ny\.com$/
@@ -10075,6 +10432,7 @@
 /^(.*\.)?ogospel\.com$/
 /^(.*\.)?ogporn\.com$/
 /^(.*\.)?ohentai\.org$/
+/^(.*\.)?ohhdude\.com$/
 /^(.*\.)?ohjoysextoy\.com$/
 /^(.*\.)?ohmature\.pro$/
 /^(.*\.)?ohmojo\.com$/
@@ -10100,6 +10458,7 @@
 /^(.*\.)?okxxx\.biz$/
 /^(.*\.)?okxxx\.live$/
 /^(.*\.)?okxxx1\.com$/
+/^(.*\.)?old\-combats\.com$/
 /^(.*\.)?old\-cunts\.com$/
 /^(.*\.)?old\-mama\.com$/
 /^(.*\.)?older\-mature\.net$/
@@ -10195,6 +10554,7 @@
 /^(.*\.)?onlyfams\.lol$/
 /^(.*\.)?onlyfams\.net$/
 /^(.*\.)?onlyfams\.pro$/
+/^(.*\.)?onlyfams\.vip$/
 /^(.*\.)?onlyfans\-slivy\.ru$/
 /^(.*\.)?onlyfans\.com$/
 /^(.*\.)?onlyfans\.family$/
@@ -10269,6 +10629,7 @@
 /^(.*\.)?oosex\.net$/
 /^(.*\.)?ooxxx\.com$/
 /^(.*\.)?openadultdirectory\.com$/
+/^(.*\.)?openday\.gr$/
 /^(.*\.)?openerotik\.com$/
 /^(.*\.)?openhotporn\.net$/
 /^(.*\.)?opensharing\.org$/
@@ -10293,12 +10654,14 @@
 /^(.*\.)?orgasmatrix\.com$/
 /^(.*\.)?orgasmusporn\.net$/
 /^(.*\.)?oriental\-porno\.com$/
+/^(.*\.)?orientalptv\.com$/
 /^(.*\.)?orsm\.net$/
 /^(.*\.)?orthobiotics\.uk$/
 /^(.*\.)?osakamotion\.net$/
 /^(.*\.)?osexlove\.com$/
 /^(.*\.)?osmiporno\.com$/
 /^(.*\.)?ososedki\.com$/
+/^(.*\.)?osteuropaladies\.de$/
 /^(.*\.)?otomi\-games\.com$/
 /^(.*\.)?otsos\.cz$/
 /^(.*\.)?otsosa\.net$/
@@ -10387,6 +10750,7 @@
 /^(.*\.)?papalah\.com$/
 /^(.*\.)?papoaolado\.com\.br$/
 /^(.*\.)?paprikolu\.net$/
+/^(.*\.)?paqueradolado\.com\.br$/
 /^(.*\.)?paqueravizinha\.com\.br$/
 /^(.*\.)?parabg\.com$/
 /^(.*\.)?paradisehill\.cc$/
@@ -10427,8 +10791,11 @@
 /^(.*\.)?passion\.com$/
 /^(.*\.)?passionaproximite\.com$/
 /^(.*\.)?passionatechat\.com$/
+/^(.*\.)?passionionline\.it$/
+/^(.*\.)?passionivicine\.com$/
 /^(.*\.)?pat\.com$/
 /^(.*\.)?patricinhas\.com$/
+/^(.*\.)?patrika\.com$/
 /^(.*\.)?pattaya\-addicts\.com$/
 /^(.*\.)?pawmanga\.com$/
 /^(.*\.)?payporn\.info$/
@@ -10460,9 +10827,11 @@
 /^(.*\.)?peladas69\.xxx$/
 /^(.*\.)?peliculaseroticasonline\.net$/
 /^(.*\.)?peliculaseroticass\.com$/
+/^(.*\.)?pelisplus\.today$/
 /^(.*\.)?pelispornx\.com$/
 /^(.*\.)?pelisxporno\.net$/
 /^(.*\.)?pelotok\.net$/
+/^(.*\.)?peludases\.com$/
 /^(.*\.)?pemersatu\.link$/
 /^(.*\.)?pemersatu\.org$/
 /^(.*\.)?pemersatu\.top$/
@@ -10474,6 +10843,7 @@
 /^(.*\.)?peniscase\.com$/
 /^(.*\.)?penispictures\.com$/
 /^(.*\.)?peniszeigen\.com$/
+/^(.*\.)?pensamentodeprazer\.com$/
 /^(.*\.)?penthouse\.com$/
 /^(.*\.)?penthousegold\.com$/
 /^(.*\.)?pepeporn\.com$/
@@ -10534,6 +10904,7 @@
 /^(.*\.)?philsex\.com$/
 /^(.*\.)?phim\-sex\.io$/
 /^(.*\.)?phim18vip\.vip$/
+/^(.*\.)?phimc3\.net$/
 /^(.*\.)?phimdamvl\.net$/
 /^(.*\.)?phimguru\.com$/
 /^(.*\.)?phimheo88\.com$/
@@ -10546,6 +10917,7 @@
 /^(.*\.)?phimsexfullhd\.com$/
 /^(.*\.)?phimsexhay1\.me$/
 /^(.*\.)?phimsexhd\.cyou$/
+/^(.*\.)?phimsexhentai\.vip$/
 /^(.*\.)?phimsexhiepdam\.lol$/
 /^(.*\.)?phimsexnguoilon\.kim$/
 /^(.*\.)?phimsexnhatbankhongche\.org$/
@@ -10553,6 +10925,7 @@
 /^(.*\.)?phimsexthai\.vip$/
 /^(.*\.)?phimsexvietnam\.blog$/
 /^(.*\.)?phimsexvietnam24h\.com$/
+/^(.*\.)?phimsexvn1\.blog$/
 /^(.*\.)?phimtoico\.com$/
 /^(.*\.)?phimxes\.click$/
 /^(.*\.)?phimxxx\.ai$/
@@ -10588,6 +10961,7 @@
 /^(.*\.)?picsxxxporn\.com$/
 /^(.*\.)?pictaram\.com$/
 /^(.*\.)?pictoa\.com$/
+/^(.*\.)?pictocum\.com$/
 /^(.*\.)?pictureview\.com$/
 /^(.*\.)?piczo\.com$/
 /^(.*\.)?pig69\.com$/
@@ -10619,10 +10993,12 @@
 /^(.*\.)?pinayviralsexx\.com$/
 /^(.*\.)?pinayx\.com$/
 /^(.*\.)?pinayx\.net$/
+/^(.*\.)?pinayx\.ph$/
 /^(.*\.)?pincelebs\.net$/
 /^(.*\.)?pinduck\.com$/
 /^(.*\.)?pingadults\.com$/
 /^(.*\.)?pinkcherry\.com$/
+/^(.*\.)?pinkcityescorts\.in$/
 /^(.*\.)?pinkclips\.mobi$/
 /^(.*\.)?pinkheartmovies\.xyz$/
 /^(.*\.)?pinklabel\.tv$/
@@ -10662,6 +11038,7 @@
 /^(.*\.)?placelibertine\.com$/
 /^(.*\.)?placercams\.com$/
 /^(.*\.)?placeresdelperu\.com$/
+/^(.*\.)?plan\-cul\-direct\.com$/
 /^(.*\.)?planet\-randy\.com$/
 /^(.*\.)?planetaescort\.cl$/
 /^(.*\.)?planete\-bdsm\.com$/
@@ -10688,6 +11065,7 @@
 /^(.*\.)?playojo\.com$/
 /^(.*\.)?playporn\.xxx$/
 /^(.*\.)?playporngames\.com$/
+/^(.*\.)?playsexgames\.xxx$/
 /^(.*\.)?playsextube\.com$/
 /^(.*\.)?playvids\.com$/
 /^(.*\.)?pleasyourgasm\.com$/
@@ -10701,6 +11079,7 @@
 /^(.*\.)?pmvtube\.com$/
 /^(.*\.)?poapan\.xyz$/
 /^(.*\.)?pobeda\-it\.ru$/
+/^(.*\.)?podjav\.com$/
 /^(.*\.)?podjav\.tv$/
 /^(.*\.)?podnakafe\.eu$/
 /^(.*\.)?podyom\.biz$/
@@ -10759,6 +11138,7 @@
 /^(.*\.)?porm\.xxx$/
 /^(.*\.)?pormama\.com$/
 /^(.*\.)?porn$/
+/^(.*\.)?porn\-4k\.com$/
 /^(.*\.)?porn\-app\.com$/
 /^(.*\.)?porn\-arab\.net$/
 /^(.*\.)?porn\-cartoons\.net$/
@@ -10766,6 +11146,7 @@
 /^(.*\.)?porn\-comix\.com$/
 /^(.*\.)?porn\-comix2\.com$/
 /^(.*\.)?porn\-data\.info$/
+/^(.*\.)?porn\-film\.pro$/
 /^(.*\.)?porn\-flv\.com$/
 /^(.*\.)?porn\-freewatch\.com$/
 /^(.*\.)?porn\-girls\-fuck\.com$/
@@ -10794,6 +11175,7 @@
 /^(.*\.)?porn\-tube\.video$/
 /^(.*\.)?porn\-video\-hd\.com$/
 /^(.*\.)?porn\-video\-tube\.com$/
+/^(.*\.)?porn\-video\.rodeo$/
 /^(.*\.)?porn\-videos\.org$/
 /^(.*\.)?porn\-videos\.rodeo$/
 /^(.*\.)?porn\-w\.org$/
@@ -10832,6 +11214,7 @@
 /^(.*\.)?porn300\.best$/
 /^(.*\.)?porn300\.com$/
 /^(.*\.)?porn365\.app$/
+/^(.*\.)?porn365\.group$/
 /^(.*\.)?porn365\.icu$/
 /^(.*\.)?porn365\.video$/
 /^(.*\.)?porn3dx\.com$/
@@ -10857,6 +11240,7 @@
 /^(.*\.)?porn93\.cc$/
 /^(.*\.)?porn998\.com$/
 /^(.*\.)?porna66\.com$/
+/^(.*\.)?pornabc\.net$/
 /^(.*\.)?pornaces\.com$/
 /^(.*\.)?pornadept\.com$/
 /^(.*\.)?pornado\.co$/
@@ -10931,6 +11315,7 @@
 /^(.*\.)?pornday\.net$/
 /^(.*\.)?porndd\.com$/
 /^(.*\.)?porndead\.com$/
+/^(.*\.)?porndead\.org$/
 /^(.*\.)?porndeepfake\.net$/
 /^(.*\.)?pornderful\.ai$/
 /^(.*\.)?porndesisex\.com$/
@@ -11119,6 +11504,7 @@
 /^(.*\.)?pornicom\.com$/
 /^(.*\.)?pornid\.name$/
 /^(.*\.)?pornid\.xxx$/
+/^(.*\.)?pornify\.su$/
 /^(.*\.)?pornigh\.com$/
 /^(.*\.)?pornike\.com$/
 /^(.*\.)?pornincest\.net$/
@@ -11242,10 +11628,12 @@
 /^(.*\.)?porno1\.hu$/
 /^(.*\.)?porno1\.pro$/
 /^(.*\.)?porno1\.sex$/
+/^(.*\.)?porno18\.blog\.br$/
 /^(.*\.)?porno18\.mobi$/
 /^(.*\.)?porno18\.site$/
 /^(.*\.)?porno2024\.online$/
 /^(.*\.)?porno26\.com$/
+/^(.*\.)?porno356\.com$/
 /^(.*\.)?porno365\.best$/
 /^(.*\.)?porno365\.bingo$/
 /^(.*\.)?porno365\.capital$/
@@ -11316,6 +11704,7 @@
 /^(.*\.)?pornoanal\.top$/
 /^(.*\.)?pornoanalnoe\.net$/
 /^(.*\.)?pornoanne\.com$/
+/^(.*\.)?pornoanswers\.com$/
 /^(.*\.)?pornoasia\.net$/
 /^(.*\.)?pornoazeri\.com$/
 /^(.*\.)?pornoback\.com$/
@@ -11339,7 +11728,9 @@
 /^(.*\.)?pornobomba\.link$/
 /^(.*\.)?pornobomba\.name$/
 /^(.*\.)?pornobomba\.online$/
+/^(.*\.)?pornobonita\.net$/
 /^(.*\.)?pornoborshch\.com$/
+/^(.*\.)?pornobrand\.com$/
 /^(.*\.)?pornobrasil\.blog\.br$/
 /^(.*\.)?pornobrasil\.com$/
 /^(.*\.)?pornobrasil\.com\.br$/
@@ -11348,6 +11739,7 @@
 /^(.*\.)?pornobrot\.com$/
 /^(.*\.)?pornobueno\.com$/
 /^(.*\.)?pornobuzz\.net$/
+/^(.*\.)?pornocafajeste\.com$/
 /^(.*\.)?pornocarioca\.com$/
 /^(.*\.)?pornocariocapremium\.com$/
 /^(.*\.)?pornocaseiros\.com$/
@@ -11359,6 +11751,7 @@
 /^(.*\.)?pornocomlegenda\.org$/
 /^(.*\.)?pornocuanimale\.online$/
 /^(.*\.)?pornoculazos\.com$/
+/^(.*\.)?pornoculonas\.net$/
 /^(.*\.)?pornodavid\.com$/
 /^(.*\.)?pornodevka\.com$/
 /^(.*\.)?pornodoido\.com$/
@@ -11377,6 +11770,7 @@
 /^(.*\.)?pornofb\.com$/
 /^(.*\.)?pornofilme\.best$/
 /^(.*\.)?pornofilme\.cyou$/
+/^(.*\.)?pornofilmek\.tv$/
 /^(.*\.)?pornofilmer\.icu$/
 /^(.*\.)?pornofilmitaliani\.com$/
 /^(.*\.)?pornofilmmom\.com$/
@@ -11384,6 +11778,7 @@
 /^(.*\.)?pornofisch\.com$/
 /^(.*\.)?pornoflux\.com$/
 /^(.*\.)?pornofoto\.xyz$/
+/^(.*\.)?pornofrancais\.org$/
 /^(.*\.)?pornofree\.pro$/
 /^(.*\.)?pornogames\.ru$/
 /^(.*\.)?pornogaylatino\.com$/
@@ -11477,12 +11872,14 @@
 /^(.*\.)?pornolymp\.com$/
 /^(.*\.)?pornomaduras\.net$/
 /^(.*\.)?pornomamki\.icu$/
+/^(.*\.)?pornomamme\.com$/
 /^(.*\.)?pornomanda\.net$/
 /^(.*\.)?pornomanga\.net$/
 /^(.*\.)?pornomaniac\.fr$/
 /^(.*\.)?pornomanoir\.com$/
 /^(.*\.)?pornomedia\.com$/
 /^(.*\.)?pornomesto\.cc$/
+/^(.*\.)?pornomesto\.me$/
 /^(.*\.)?pornomico\.com$/
 /^(.*\.)?pornomig\.net$/
 /^(.*\.)?pornomilf\.click$/
@@ -11661,6 +12058,7 @@
 /^(.*\.)?pornpics\.pictures$/
 /^(.*\.)?pornpics\.world$/
 /^(.*\.)?pornpicsamateur\.com$/
+/^(.*\.)?pornpictures\.link$/
 /^(.*\.)?pornpictureshq\.com$/
 /^(.*\.)?pornpig\.tube$/
 /^(.*\.)?pornpk\.me$/
@@ -11714,6 +12112,7 @@
 /^(.*\.)?pornslash\.com$/
 /^(.*\.)?pornsnow\.net$/
 /^(.*\.)?pornsok\.com$/
+/^(.*\.)?pornsok\.tv$/
 /^(.*\.)?pornsos\.com$/
 /^(.*\.)?pornsouthern\.com$/
 /^(.*\.)?pornspan\.com$/
@@ -11756,7 +12155,9 @@
 /^(.*\.)?porntry\.com$/
 /^(.*\.)?pornts\.com$/
 /^(.*\.)?porntube\.com$/
+/^(.*\.)?porntube\.gg$/
 /^(.*\.)?porntube99\.com$/
+/^(.*\.)?porntubecorp\.com$/
 /^(.*\.)?porntubeguru\.com$/
 /^(.*\.)?porntubelabs\.com$/
 /^(.*\.)?porntubezoo\.com$/
@@ -11769,7 +12170,9 @@
 /^(.*\.)?pornuha\.click$/
 /^(.*\.)?pornuha\.name$/
 /^(.*\.)?pornuhax\.com$/
+/^(.*\.)?pornuj\.cz$/
 /^(.*\.)?pornuniform\.com$/
+/^(.*\.)?pornus\.pro$/
 /^(.*\.)?pornuse\.com$/
 /^(.*\.)?pornuz\.ru$/
 /^(.*\.)?pornv\.xxx$/
@@ -11779,6 +12182,7 @@
 /^(.*\.)?pornvibing\.com$/
 /^(.*\.)?pornvideo\.com$/
 /^(.*\.)?pornvideo\.fans$/
+/^(.*\.)?pornvideo\.rodeo$/
 /^(.*\.)?pornvideo\.wtf$/
 /^(.*\.)?pornvideo4\.com$/
 /^(.*\.)?pornvideogifs\.com$/
@@ -11796,6 +12200,7 @@
 /^(.*\.)?pornvideosbox\.cc$/
 /^(.*\.)?pornvideoszone\.com$/
 /^(.*\.)?pornvideotop\.com$/
+/^(.*\.)?pornvideoxxx\.org$/
 /^(.*\.)?pornvidio\.top$/
 /^(.*\.)?pornvidn\.com$/
 /^(.*\.)?pornvids4k\.com$/
@@ -11805,6 +12210,7 @@
 /^(.*\.)?pornviola\.com$/
 /^(.*\.)?pornvov\.net$/
 /^(.*\.)?pornwa\.club$/
+/^(.*\.)?pornwa\.us$/
 /^(.*\.)?pornwap\.tv$/
 /^(.*\.)?pornwatch\.ws$/
 /^(.*\.)?pornwatchers\.com$/
@@ -11822,12 +12228,15 @@
 /^(.*\.)?pornx\.fr$/
 /^(.*\.)?pornx\.rip$/
 /^(.*\.)?pornx\.to$/
+/^(.*\.)?pornx\.tube$/
 /^(.*\.)?pornxab\.com$/
 /^(.*\.)?pornxex\.link$/
 /^(.*\.)?pornxhq\.com$/
 /^(.*\.)?pornxingo\.com$/
+/^(.*\.)?pornxnow\.me$/
 /^(.*\.)?pornxo\.me$/
 /^(.*\.)?pornxo\.xxx$/
+/^(.*\.)?pornxp\.buzz$/
 /^(.*\.)?pornxp\.cc$/
 /^(.*\.)?pornxp\.cfd$/
 /^(.*\.)?pornxp\.click$/
@@ -11835,6 +12244,7 @@
 /^(.*\.)?pornxp\.club$/
 /^(.*\.)?pornxp\.com$/
 /^(.*\.)?pornxp\.eu$/
+/^(.*\.)?pornxp\.info$/
 /^(.*\.)?pornxp\.lat$/
 /^(.*\.)?pornxp\.me$/
 /^(.*\.)?pornxp\.net$/
@@ -11905,6 +12315,7 @@
 /^(.*\.)?ppdwo\.buzz$/
 /^(.*\.)?pplah\.com$/
 /^(.*\.)?ppp\.porn$/
+/^(.*\.)?pr0gramm\.com$/
 /^(.*\.)?pr1cks\.com$/
 /^(.*\.)?pravda\.casino$/
 /^(.*\.)?prazerbrasil\.com$/
@@ -11939,6 +12350,7 @@
 /^(.*\.)?primerapiedra\.cl$/
 /^(.*\.)?primo\.is$/
 /^(.*\.)?princesscum\.com$/
+/^(.*\.)?pringed\.space$/
 /^(.*\.)?prisma\.net\.bd$/
 /^(.*\.)?privacygratis\.tv$/
 /^(.*\.)?privat\-zapisi\.co$/
@@ -11962,6 +12374,7 @@
 /^(.*\.)?privatmeet\.com$/
 /^(.*\.)?privatportal\.sk$/
 /^(.*\.)?privatszexclub\.hu$/
+/^(.*\.)?privegays\.com$/
 /^(.*\.)?priyaroy\.in$/
 /^(.*\.)?prmovies\.com$/
 /^(.*\.)?prncams\.com$/
@@ -11970,6 +12383,7 @@
 /^(.*\.)?prnteen\.com$/
 /^(.*\.)?pro\-ipcamera\.ru$/
 /^(.*\.)?product\.co\.jp$/
+/^(.*\.)?professor\-porno\.com$/
 /^(.*\.)?profibdsm\.cz$/
 /^(.*\.)?profissionaisdosexo\.com$/
 /^(.*\.)?profreeporno\.com$/
@@ -12043,6 +12457,7 @@
 /^(.*\.)?proxyporn\.info$/
 /^(.*\.)?proxyporn\.org$/
 /^(.*\.)?prtoper\.top$/
+/^(.*\.)?pruc\.org$/
 /^(.*\.)?prv\.pl$/
 /^(.*\.)?ps0z\.com$/
 /^(.*\.)?ptclassic\.com$/
@@ -12066,6 +12481,7 @@
 /^(.*\.)?puh\.lv$/
 /^(.*\.)?pulandit\.asia$/
 /^(.*\.)?pulandit\.com$/
+/^(.*\.)?pulpo69\.com$/
 /^(.*\.)?pulseandcocktails\.co\.uk$/
 /^(.*\.)?pumpjap\.com$/
 /^(.*\.)?pumpmilf\.com$/
@@ -12112,6 +12528,7 @@
 /^(.*\.)?pussyporn\.pics$/
 /^(.*\.)?pussypornpics\.com$/
 /^(.*\.)?pussyporntubes\.com$/
+/^(.*\.)?pussyspace\.click$/
 /^(.*\.)?pussyspace\.com$/
 /^(.*\.)?pussyspace\.net$/
 /^(.*\.)?pussystube\.com$/
@@ -12129,6 +12546,7 @@
 /^(.*\.)?putinho\.net$/
 /^(.*\.)?putlocker\.gy$/
 /^(.*\.)?putonas\.xxx$/
+/^(.*\.)?pv\.be$/
 /^(.*\.)?pvideo\.cz$/
 /^(.*\.)?pvip\.se$/
 /^(.*\.)?pvt\.sexy$/
@@ -12163,7 +12581,6 @@
 /^(.*\.)?quadrinhosporno\.net$/
 /^(.*\.)?qualityfuck\.com$/
 /^(.*\.)?quanduibaymau\.com$/
-/^(.*\.)?quanmama\.com$/
 /^(.*\.)?quartier\-rouge\.be$/
 /^(.*\.)?quatvn\.love$/
 /^(.*\.)?quebble\-dev\.io$/
@@ -12175,6 +12592,7 @@
 /^(.*\.)?queerdiary\.com$/
 /^(.*\.)?queermenow\.net$/
 /^(.*\.)?queerpig\.com$/
+/^(.*\.)?questionablequesting\.com$/
 /^(.*\.)?quickflirt\.com$/
 /^(.*\.)?quickmeme\.com$/
 /^(.*\.)?quienhabla\.mx$/
@@ -12227,6 +12645,7 @@
 /^(.*\.)?randomskip\.com$/
 /^(.*\.)?randyblue\.com$/
 /^(.*\.)?ranetki\.online$/
+/^(.*\.)?ranking\.bio$/
 /^(.*\.)?raovatnailsalon\.com$/
 /^(.*\.)?rapeathome\.com$/
 /^(.*\.)?raped\.ws$/
@@ -12239,6 +12658,7 @@
 /^(.*\.)?rapesection\.com$/
 /^(.*\.)?rapesexvideo\.com$/
 /^(.*\.)?rapetube\.me$/
+/^(.*\.)?rapetube\.tv$/
 /^(.*\.)?rapetubgallery\.com$/
 /^(.*\.)?rapidporngator\.com$/
 /^(.*\.)?rapidtai\.com$/
@@ -12267,6 +12687,7 @@
 /^(.*\.)?rbreezy\.xyz$/
 /^(.*\.)?rcgroups\.com$/
 /^(.*\.)?rcmodells\.com\.br$/
+/^(.*\.)?rddantes\.com$/
 /^(.*\.)?rdv\-libertins\.fr$/
 /^(.*\.)?rdv\-secret\.com$/
 /^(.*\.)?reachporn\.com$/
@@ -12277,6 +12698,7 @@
 /^(.*\.)?readtelugusexstories\.com$/
 /^(.*\.)?readtoto\.com$/
 /^(.*\.)?readtoto\.org$/
+/^(.*\.)?real\-girls\.net$/
 /^(.*\.)?real\-sexcontacts\.com$/
 /^(.*\.)?real4kporn\.com$/
 /^(.*\.)?realbabes\.com\.au$/
@@ -12290,6 +12712,7 @@
 /^(.*\.)?realgranny\.com$/
 /^(.*\.)?realincest\.cc$/
 /^(.*\.)?realincest\.net$/
+/^(.*\.)?realincest\.pro$/
 /^(.*\.)?realincesttube\.com$/
 /^(.*\.)?realincestvideos\.org$/
 /^(.*\.)?realitykings\.com$/
@@ -12298,12 +12721,14 @@
 /^(.*\.)?realjamvr\.com$/
 /^(.*\.)?reallifecam\.com$/
 /^(.*\.)?reallifecam\.monster$/
+/^(.*\.)?reallifecam\.to$/
 /^(.*\.)?reallifecams\.net$/
 /^(.*\.)?realmaturetube\.com$/
 /^(.*\.)?realnakedgirls\.net$/
 /^(.*\.)?realpornclip\.com$/
 /^(.*\.)?realpornmovies\.net$/
 /^(.*\.)?realpussyindi\.ru$/
+/^(.*\.)?realrapeporn\.pro$/
 /^(.*\.)?realsexclub\.com$/
 /^(.*\.)?realsexpass\.com$/
 /^(.*\.)?realsubmitted\.com$/
@@ -12323,11 +12748,13 @@
 /^(.*\.)?red\-xxx\.video$/
 /^(.*\.)?red52\.kr$/
 /^(.*\.)?redamateurtube\.com$/
+/^(.*\.)?redbled\.com$/
 /^(.*\.)?redcheryxxx\.com$/
 /^(.*\.)?redclouds\.com$/
 /^(.*\.)?redd\.tube$/
 /^(.*\.)?reddit\.tube$/
 /^(.*\.)?redditp\.com$/
+/^(.*\.)?reddnsfw\.com$/
 /^(.*\.)?reddtastic\.com$/
 /^(.*\.)?reddxxx\.com$/
 /^(.*\.)?redfans\.org$/
@@ -12337,7 +12764,9 @@
 /^(.*\.)?redgifs\.com$/
 /^(.*\.)?redgifsdownloader\.net$/
 /^(.*\.)?redhandstube\.com$/
+/^(.*\.)?redhdtube\.xxx$/
 /^(.*\.)?redhotero\.com$/
+/^(.*\.)?redhotpie\.com\.au$/
 /^(.*\.)?redhotstories\.com$/
 /^(.*\.)?redisex\.club$/
 /^(.*\.)?reditube\.com\.br$/
@@ -12347,6 +12776,7 @@
 /^(.*\.)?redlights\.be$/
 /^(.*\.)?redlights\.nl$/
 /^(.*\.)?redlights\.top$/
+/^(.*\.)?redlips\.nl$/
 /^(.*\.)?redneckjohn\.com$/
 /^(.*\.)?redporn\.com$/
 /^(.*\.)?redporn\.me$/
@@ -12420,6 +12850,7 @@
 /^(.*\.)?rencontre\-salopes\.com$/
 /^(.*\.)?rencontres\-femmes\.fr$/
 /^(.*\.)?rencontres\-rondes\.com$/
+/^(.*\.)?rencontres\-sanslendemain\.com$/
 /^(.*\.)?rencontresmatures\.com$/
 /^(.*\.)?renderotica\.com$/
 /^(.*\.)?renew\.ro$/
@@ -12482,6 +12913,7 @@
 /^(.*\.)?robbyporn\.com$/
 /^(.*\.)?robothumb\.com$/
 /^(.*\.)?roccosiffredi\.com$/
+/^(.*\.)?roccotube\.com$/
 /^(.*\.)?rock\.porn$/
 /^(.*\.)?rocketasian\.com$/
 /^(.*\.)?rockettube\.com$/
@@ -12503,6 +12935,7 @@
 /^(.*\.)?roriland\.info$/
 /^(.*\.)?roriwalrus\.com$/
 /^(.*\.)?rosa\-rossa\.com$/
+/^(.*\.)?rosasidan\.ws$/
 /^(.*\.)?rosecastle\.com\.au$/
 /^(.*\.)?rosemarydoll\.com$/
 /^(.*\.)?rosepornmovies\.com$/
@@ -12525,6 +12958,7 @@
 /^(.*\.)?rphang\.online$/
 /^(.*\.)?rprp\.ai$/
 /^(.*\.)?rrs1\.xyz$/
+/^(.*\.)?rtgallery\.net$/
 /^(.*\.)?rtvlive\.com$/
 /^(.*\.)?rtxporn\.net$/
 /^(.*\.)?ru\-porn\.cc$/
@@ -12613,6 +13047,7 @@
 /^(.*\.)?russ\-porno\.net$/
 /^(.*\.)?russex\.net$/
 /^(.*\.)?russex\.tv$/
+/^(.*\.)?russiabrides\.net$/
 /^(.*\.)?russianbrides\.com$/
 /^(.*\.)?russianescortsinmumbai\.com$/
 /^(.*\.)?russianporno\.fans$/
@@ -12709,6 +13144,7 @@
 /^(.*\.)?saucenao\.com$/
 /^(.*\.)?saudiah\.org$/
 /^(.*\.)?saumyagiri\.com$/
+/^(.*\.)?savemp4\.red$/
 /^(.*\.)?savemycam\.com$/
 /^(.*\.)?saveporn\.net$/
 /^(.*\.)?savitabhabhivideos\.com$/
@@ -12728,6 +13164,7 @@
 /^(.*\.)?scatbooru\.co\.uk$/
 /^(.*\.)?scatfap\.com$/
 /^(.*\.)?scatfile\.com$/
+/^(.*\.)?scathd\.com$/
 /^(.*\.)?scatkings\.com$/
 /^(.*\.)?scatsale\.com$/
 /^(.*\.)?scatshitporn\.net$/
@@ -12780,6 +13217,7 @@
 /^(.*\.)?secrethostess\.com$/
 /^(.*\.)?secretloversnearby\.com$/
 /^(.*\.)?secretsexchat\.com$/
+/^(.*\.)?sectretsclips\.com$/
 /^(.*\.)?securly\.mom$/
 /^(.*\.)?seduced\.com$/
 /^(.*\.)?seductionentrevoisins\.com$/
@@ -12850,6 +13288,7 @@
 /^(.*\.)?sensualgirls\.org$/
 /^(.*\.)?sensualpepper\.com$/
 /^(.*\.)?sensualwriter\.com$/
+/^(.*\.)?senzaregole\.com$/
 /^(.*\.)?senzula\.at$/
 /^(.*\.)?senzula\.com$/
 /^(.*\.)?senzuri\.tube$/
@@ -12906,6 +13345,7 @@
 /^(.*\.)?sex\-rakom\.com$/
 /^(.*\.)?sex\-ru\.vip$/
 /^(.*\.)?sex\-shop\.ua$/
+/^(.*\.)?sex\-shop69\.hu$/
 /^(.*\.)?sex\-studentki\.art$/
 /^(.*\.)?sex\-studentki\.beer$/
 /^(.*\.)?sex\-studentki\.bid$/
@@ -12935,6 +13375,7 @@
 /^(.*\.)?sex\-teen\.net$/
 /^(.*\.)?sex\-tjejer\.com$/
 /^(.*\.)?sex\-treffen\.com$/
+/^(.*\.)?sex\-video\.biz$/
 /^(.*\.)?sex\-video\.live$/
 /^(.*\.)?sex\-videochat\.me$/
 /^(.*\.)?sex\-videos\.best$/
@@ -13051,6 +13492,7 @@
 /^(.*\.)?sexdep\.pro$/
 /^(.*\.)?sexdiary\.live$/
 /^(.*\.)?sexdo\.com$/
+/^(.*\.)?sexdollpartner\.com$/
 /^(.*\.)?sexdolltech\.com$/
 /^(.*\.)?sexdom\.cc$/
 /^(.*\.)?sexdoma\.net$/
@@ -13093,6 +13535,7 @@
 /^(.*\.)?sexgaimup\.blog$/
 /^(.*\.)?sexgames\.cc$/
 /^(.*\.)?sexgayfilms\.com$/
+/^(.*\.)?sexgayplus\.com$/
 /^(.*\.)?sexgayvids\.com$/
 /^(.*\.)?sexgeschichten\-gratis\.net$/
 /^(.*\.)?sexgeschichten\.tv$/
@@ -13136,6 +13579,7 @@
 /^(.*\.)?sexkahani\.net$/
 /^(.*\.)?sexkbj\.tv$/
 /^(.*\.)?sexkche\.com$/
+/^(.*\.)?sexkhongche\.lol$/
 /^(.*\.)?sexkhongche\.love$/
 /^(.*\.)?sexkhongche\.org$/
 /^(.*\.)?sexkhongche\.top$/
@@ -13167,6 +13611,7 @@
 /^(.*\.)?sexlist\.tv$/
 /^(.*\.)?sexlivechich\.com$/
 /^(.*\.)?sexlivemoi\.com$/
+/^(.*\.)?sexlog\.com$/
 /^(.*\.)?sexloveero\.net$/
 /^(.*\.)?sexloverfury\.com$/
 /^(.*\.)?sexm\.xxx$/
@@ -13195,6 +13640,7 @@
 /^(.*\.)?sexnaked\.net$/
 /^(.*\.)?sexneka\.com$/
 /^(.*\.)?sexnest\.tv$/
+/^(.*\.)?sexnewxxx\.com$/
 /^(.*\.)?sexnhatbankhongche\.com$/
 /^(.*\.)?sexnord\.net$/
 /^(.*\.)?sexnovel\.org$/
@@ -13260,6 +13706,7 @@
 /^(.*\.)?sexosintabues30\.com$/
 /^(.*\.)?sexosochi\.guru$/
 /^(.*\.)?sexostav\.com$/
+/^(.*\.)?sexosur\.cl$/
 /^(.*\.)?sexotomsk\.com$/
 /^(.*\.)?sexotube2\.info$/
 /^(.*\.)?sexotver\.com$/
@@ -13280,6 +13727,7 @@
 /^(.*\.)?sexpornosng\.com$/
 /^(.*\.)?sexpornostories\.ru$/
 /^(.*\.)?sexpornotales\.top$/
+/^(.*\.)?sexpornoxxx\.net$/
 /^(.*\.)?sexpornpictures\.com$/
 /^(.*\.)?sexpornxxx\.video$/
 /^(.*\.)?sexpositions\.club$/
@@ -13291,6 +13739,7 @@
 /^(.*\.)?sexprzyjaciolka\.com$/
 /^(.*\.)?sexpun\.com$/
 /^(.*\.)?sexpunt\.nl$/
+/^(.*\.)?sexq\.net$/
 /^(.*\.)?sexrach\.com$/
 /^(.*\.)?sexrasskaz\.icu$/
 /^(.*\.)?sexrasta\.com$/
@@ -13461,6 +13910,7 @@
 /^(.*\.)?sexxxsurgut\.life$/
 /^(.*\.)?sexxxvolg\.life$/
 /^(.*\.)?sexxxx\.click$/
+/^(.*\.)?sexxxx\.observer$/
 /^(.*\.)?sexxxx\.rodeo$/
 /^(.*\.)?sexxxxvideos\.rodeo$/
 /^(.*\.)?sexxxypussy\.net$/
@@ -13555,6 +14005,7 @@
 /^(.*\.)?sexytrunk\.com$/
 /^(.*\.)?sexyvid\.net$/
 /^(.*\.)?sexyvideo\.pro$/
+/^(.*\.)?sexyvip\.net$/
 /^(.*\.)?sexywhitepussy\.com$/
 /^(.*\.)?sexywomeninlingerie\.com$/
 /^(.*\.)?sexyxxxpics\.com$/
@@ -13625,7 +14076,9 @@
 /^(.*\.)?shemalepornmovie\.com$/
 /^(.*\.)?shemalepornq\.com$/
 /^(.*\.)?shemalepornsex\.com$/
+/^(.*\.)?shemaleporntube\.tv$/
 /^(.*\.)?shemalepornvideos\.cc$/
+/^(.*\.)?shemalepplanet\.com$/
 /^(.*\.)?shemalepreality\.com$/
 /^(.*\.)?shemaleprivate\.com$/
 /^(.*\.)?shemalepservice\.com$/
@@ -13655,11 +14108,13 @@
 /^(.*\.)?sheseducedme\.com$/
 /^(.*\.)?shesfreaky\.com$/
 /^(.*\.)?sheshaft\.com$/
+/^(.*\.)?shhh\-video\.live$/
 /^(.*\.)?shiatube\.org$/
 /^(.*\.)?shibbydex\.com$/
 /^(.*\.)?shireyishunjian\.com$/
 /^(.*\.)?shirodoujin\.com$/
 /^(.*\.)?shirouto\.top$/
+/^(.*\.)?shirouto4\.top$/
 /^(.*\.)?shise\.me$/
 /^(.*\.)?shishartech\.com$/
 /^(.*\.)?shit\-around\.com$/
@@ -13715,6 +14170,7 @@
 /^(.*\.)?silver\-movies\.com$/
 /^(.*\.)?silverbardgames\.com$/
 /^(.*\.)?silvercartoon\.com$/
+/^(.*\.)?silverptv\.com$/
 /^(.*\.)?similar\.porn$/
 /^(.*\.)?similarpornsites\.net$/
 /^(.*\.)?simontokreal\.com$/
@@ -13776,6 +14232,7 @@
 /^(.*\.)?skokka\.com$/
 /^(.*\.)?skrf1\.ru$/
 /^(.*\.)?sksarab\.top$/
+/^(.*\.)?skymanga\.work$/
 /^(.*\.)?skyprivate\.com$/
 /^(.*\.)?skyrimvr\.ru$/
 /^(.*\.)?slackholes\.com$/
@@ -13796,6 +14253,7 @@
 /^(.*\.)?slowxh\.xyz$/
 /^(.*\.)?sls\.com$/
 /^(.*\.)?slunksclothing\.com$/
+/^(.*\.)?slushe\.com$/
 /^(.*\.)?slushy\.com$/
 /^(.*\.)?slut\-squad\.com$/
 /^(.*\.)?slut\.mom$/
@@ -13931,6 +14389,7 @@
 /^(.*\.)?spice\-tv\.jp$/
 /^(.*\.)?spicecash\.com$/
 /^(.*\.)?spicedubai\.com$/
+/^(.*\.)?spicetrade\.ru$/
 /^(.*\.)?spicevids\.com$/
 /^(.*\.)?spicy\.porn$/
 /^(.*\.)?spicybigbutt\.com$/
@@ -13961,14 +14420,17 @@
 /^(.*\.)?spunkpornpics\.com$/
 /^(.*\.)?spunkysex\.com$/
 /^(.*\.)?spxxxtube\.com$/
+/^(.*\.)?spycamfromguys\.com$/
 /^(.*\.)?spycock\.com$/
 /^(.*\.)?spyfam\.com$/
+/^(.*\.)?spyhub\.tv$/
 /^(.*\.)?spytug\.com$/
 /^(.*\.)?squirt\.org$/
 /^(.*\.)?squirt\.photos$/
 /^(.*\.)?squirtingclips\.com$/
 /^(.*\.)?srbam\.com$/
 /^(.*\.)?srbijasex\.com$/
+/^(.*\.)?ssajz\.com$/
 /^(.*\.)?ssexx\.net$/
 /^(.*\.)?ssigish\.com$/
 /^(.*\.)?sslkn\.club$/
@@ -13986,6 +14448,7 @@
 /^(.*\.)?staroeporno\.icu$/
 /^(.*\.)?starsze\.icu$/
 /^(.*\.)?starsze\.net$/
+/^(.*\.)?startapro\.hu$/
 /^(.*\.)?startbewijs\.nl$/
 /^(.*\.)?startje\.com$/
 /^(.*\.)?startkabel\.nl$/
@@ -14025,12 +14488,14 @@
 /^(.*\.)?storymirror\.com$/
 /^(.*\.)?storysite\.org$/
 /^(.*\.)?str8ongay\.com$/
+/^(.*\.)?str8upgayporn\.com$/
 /^(.*\.)?strandbeest\.com$/
 /^(.*\.)?strangercam\.com$/
 /^(.*\.)?strangercamgirls\.com$/
 /^(.*\.)?strangervideochat\.tv$/
 /^(.*\.)?straplez\.com$/
 /^(.*\.)?straponscreen\.com$/
+/^(.*\.)?straponsfemdom\.com$/
 /^(.*\.)?strapontales\.com$/
 /^(.*\.)?strategyanalytics\.com$/
 /^(.*\.)?stream\-69\.com$/
@@ -14209,6 +14674,7 @@
 /^(.*\.)?swingerperu\.net$/
 /^(.*\.)?swingerpornfun\.com$/
 /^(.*\.)?swingersplay\.com$/
+/^(.*\.)?swingingclub\.ro$/
 /^(.*\.)?swinglifestyle\.com$/
 /^(.*\.)?swingtowns\.com$/
 /^(.*\.)?swiperspiel\.com$/
@@ -14268,6 +14734,7 @@
 /^(.*\.)?tabulosesverlangen\.com$/
 /^(.*\.)?tacamateurs\.com$/
 /^(.*\.)?tacosaltos\.com$/
+/^(.*\.)?tagalogsexstory\.com$/
 /^(.*\.)?taiav\.com$/
 /^(.*\.)?taimadou\.com$/
 /^(.*\.)?tajik\-sex\.cc$/
@@ -14278,6 +14745,7 @@
 /^(.*\.)?talktome\.com$/
 /^(.*\.)?talkwithstranger\.com$/
 /^(.*\.)?talla\.ua$/
+/^(.*\.)?talon\-hauts\.com$/
 /^(.*\.)?tameuf\.com$/
 /^(.*\.)?tamil\-porno\.com$/
 /^(.*\.)?tamilauntysex\.rodeo$/
@@ -14300,7 +14768,9 @@
 /^(.*\.)?tamilxxxx\.com$/
 /^(.*\.)?tangablitzer\.com$/
 /^(.*\.)?tangas3d\.com$/
+/^(.*\.)?tankouhentai\.com$/
 /^(.*\.)?tanputas\.com$/
+/^(.*\.)?tantaly\.com$/
 /^(.*\.)?tantralux\.com$/
 /^(.*\.)?tapky\.info$/
 /^(.*\.)?taptolove\.com$/
@@ -14348,6 +14818,7 @@
 /^(.*\.)?teenager365\.to$/
 /^(.*\.)?teenax\.com$/
 /^(.*\.)?teenbustytube\.com$/
+/^(.*\.)?teencamrips\.com$/
 /^(.*\.)?teencumpot\.com$/
 /^(.*\.)?teencumpot\.sbs$/
 /^(.*\.)?teencunt\.net$/
@@ -14472,6 +14943,7 @@
 /^(.*\.)?tenmilliongalleries\.com$/
 /^(.*\.)?tennmeg\.com$/
 /^(.*\.)?tenshigao\.com$/
+/^(.*\.)?tentacleporn\.net$/
 /^(.*\.)?terbaru1\.top$/
 /^(.*\.)?terceiroz\.com$/
 /^(.*\.)?terk\.nl$/
@@ -14499,6 +14971,7 @@
 /^(.*\.)?tgstorytime\.com$/
 /^(.*\.)?tgtube\.com$/
 /^(.*\.)?thai\-hotmodels\.com$/
+/^(.*\.)?thaifriendly\.com$/
 /^(.*\.)?thailandredcat\.com$/
 /^(.*\.)?thaimassagejasmine\.com$/
 /^(.*\.)?thaipornhd\.com$/
@@ -14529,10 +15002,13 @@
 /^(.*\.)?theav\.xyz$/
 /^(.*\.)?thebarchive\.com$/
 /^(.*\.)?thebestfetishsites\.com$/
+/^(.*\.)?thebestflex\.com$/
 /^(.*\.)?thebestpoll\.com$/
 /^(.*\.)?thebestporn\.com$/
 /^(.*\.)?thebestshemalevideos\.com$/
+/^(.*\.)?thebjav\.com$/
 /^(.*\.)?theblank\.net$/
+/^(.*\.)?theblowers\.com$/
 /^(.*\.)?theboobsblog\.com$/
 /^(.*\.)?thebronetwork\.com$/
 /^(.*\.)?thecage\.co$/
@@ -14674,11 +15150,13 @@
 /^(.*\.)?thothub\.to$/
 /^(.*\.)?thothub\.vip$/
 /^(.*\.)?thotporn\.tv$/
+/^(.*\.)?thots\-leak\.com$/
 /^(.*\.)?thots\.tv$/
 /^(.*\.)?thotsbay\.tv$/
 /^(.*\.)?thotsflix\.com$/
 /^(.*\.)?thotslife\.com$/
 /^(.*\.)?thotstash\.com$/
+/^(.*\.)?thotvids\.com$/
 /^(.*\.)?thr33some\.com$/
 /^(.*\.)?threesomery\.com$/
 /^(.*\.)?threesomerz\.com$/
@@ -14701,6 +15179,7 @@
 /^(.*\.)?tiava\.top$/
 /^(.*\.)?tiava\.tv$/
 /^(.*\.)?tickle\.porn$/
+/^(.*\.)?tickling\-videos\.net$/
 /^(.*\.)?ticklingforum\.com$/
 /^(.*\.)?tickzoo\.tv$/
 /^(.*\.)?ticservice\.ru$/
@@ -14723,6 +15202,7 @@
 /^(.*\.)?tikxxx\.me$/
 /^(.*\.)?timtales\.com$/
 /^(.*\.)?tini\.sex\.hu$/
+/^(.*\.)?tinieblos\.com$/
 /^(.*\.)?tiny4k\.club$/
 /^(.*\.)?tiny4k\.com$/
 /^(.*\.)?tinychat\.com$/
@@ -14777,6 +15257,7 @@
 /^(.*\.)?tokimeki\-s\.com$/
 /^(.*\.)?tokyo\-hot\.com$/
 /^(.*\.)?tokyofacefuck\.com$/
+/^(.*\.)?tokyokinky\.com$/
 /^(.*\.)?tokyomotion\.com$/
 /^(.*\.)?tokyomotion\.net$/
 /^(.*\.)?tokyotosho\.info$/
@@ -14807,11 +15288,13 @@
 /^(.*\.)?top\-modelz\.org$/
 /^(.*\.)?top\-xxx\-videos\.com$/
 /^(.*\.)?top\-xxx\.pro$/
+/^(.*\.)?top10datingreviews\.org$/
 /^(.*\.)?top4fans\.com$/
 /^(.*\.)?top4tube\.com$/
 /^(.*\.)?topadulttubies\.com$/
 /^(.*\.)?topanasex\.com$/
 /^(.*\.)?topasianp\.com$/
+/^(.*\.)?topasiansporn\.com$/
 /^(.*\.)?topblackporn\.com$/
 /^(.*\.)?topcams\.tv$/
 /^(.*\.)?topcomicporno\.com$/
@@ -14854,6 +15337,7 @@
 /^(.*\.)?toppporr\.com$/
 /^(.*\.)?toprealincestporn\.com$/
 /^(.*\.)?toprussianbrides\.com$/
+/^(.*\.)?topsadulttoys\.uk$/
 /^(.*\.)?topsboysbrasil\.com\.br$/
 /^(.*\.)?topsdemaceio\.com\.br$/
 /^(.*\.)?topsexbd\.com$/
@@ -14883,6 +15367,7 @@
 /^(.*\.)?totallynsfw\.com$/
 /^(.*\.)?totemcash\.com$/
 /^(.*\.)?totempole666\.com$/
+/^(.*\.)?totohentai\.com$/
 /^(.*\.)?totoleak\.com$/
 /^(.*\.)?totporno\.com$/
 /^(.*\.)?tottaax\.com$/
@@ -14890,6 +15375,7 @@
 /^(.*\.)?toumpano\.net$/
 /^(.*\.)?tourcrimea\.biz$/
 /^(.*\.)?tourind\.cl$/
+/^(.*\.)?tousles2\.com$/
 /^(.*\.)?townofsins\.com$/
 /^(.*\.)?toxsales1\.com$/
 /^(.*\.)?toydemon\.com$/
@@ -14905,6 +15391,7 @@
 /^(.*\.)?trahkino\.pro$/
 /^(.*\.)?trahkino\.tv$/
 /^(.*\.)?traht\.org$/
+/^(.*\.)?traixitin\.club$/
 /^(.*\.)?tram\-pararam\.com$/
 /^(.*\.)?tramp\.mom$/
 /^(.*\.)?tranh18\.com$/
@@ -14939,6 +15426,7 @@
 /^(.*\.)?transexuales\.gratis$/
 /^(.*\.)?transfap\.to$/
 /^(.*\.)?transfixed\.com$/
+/^(.*\.)?transfixed\.tube$/
 /^(.*\.)?transflix\.net$/
 /^(.*\.)?transfur\.com$/
 /^(.*\.)?transgenderdate\.com$/
@@ -14952,6 +15440,7 @@
 /^(.*\.)?transpornvideo\.com$/
 /^(.*\.)?transsensual\.com$/
 /^(.*\.)?transsensualporn\.com$/
+/^(.*\.)?transtrav\.com$/
 /^(.*\.)?transtube\.tv$/
 /^(.*\.)?transtxxx\.com$/
 /^(.*\.)?transvestiter\.com$/
@@ -15019,10 +15508,13 @@
 /^(.*\.)?tryfist\.net$/
 /^(.*\.)?tryfucktube\.com$/
 /^(.*\.)?tryhotporn\.info$/
+/^(.*\.)?tryindianporn\.com$/
 /^(.*\.)?tryindiansex\.com$/
+/^(.*\.)?trylesbianporn\.com$/
 /^(.*\.)?trylivecam\.com$/
 /^(.*\.)?trypantyhose\.com$/
 /^(.*\.)?trypornsite\.com$/
+/^(.*\.)?tryquinn\.com$/
 /^(.*\.)?tryst\.link$/
 /^(.*\.)?trystagency\.com$/
 /^(.*\.)?tryteens\.com$/
@@ -15035,6 +15527,7 @@
 /^(.*\.)?tse\-tse\.it$/
 /^(.*\.)?tsescorts\.com$/
 /^(.*\.)?tsfap\.com$/
+/^(.*\.)?tsladies\.de$/
 /^(.*\.)?tslive\.com$/
 /^(.*\.)?tsmodelstube\.com$/
 /^(.*\.)?tsontes\-online\.net$/
@@ -15151,6 +15644,7 @@
 /^(.*\.)?tubesexgals\.com$/
 /^(.*\.)?tubespin\.tv$/
 /^(.*\.)?tubesplash\.com$/
+/^(.*\.)?tubeteencam\.com$/
 /^(.*\.)?tubeteenpussy\.com$/
 /^(.*\.)?tubeteensporn\.com$/
 /^(.*\.)?tubetria\.mobi$/
@@ -15179,8 +15673,10 @@
 /^(.*\.)?tubezzz\.net$/
 /^(.*\.)?tubixe\.com$/
 /^(.*\.)?tuboff\.com$/
+/^(.*\.)?tuboporno\.net$/
 /^(.*\.)?tubxporn\.com$/
 /^(.*\.)?tufos\.com\.br$/
+/^(.*\.)?tukif\-porn\.online$/
 /^(.*\.)?tukif\.club$/
 /^(.*\.)?tukif\.com$/
 /^(.*\.)?tukif\.icu$/
@@ -15248,6 +15744,7 @@
 /^(.*\.)?two\-elfs\.com$/
 /^(.*\.)?twojav\.com$/
 /^(.*\.)?twomance\.com$/
+/^(.*\.)?twonfans\.com$/
 /^(.*\.)?twtiktoks\.com$/
 /^(.*\.)?txnhh\.com$/
 /^(.*\.)?txnxxx\.com$/
@@ -15289,7 +15786,9 @@
 /^(.*\.)?ufym\.pro$/
 /^(.*\.)?ugandahotgirls\.com$/
 /^(.*\.)?ugandanporn\.com$/
+/^(.*\.)?uhairy\.com$/
 /^(.*\.)?uhdsexmovs\.com$/
+/^(.*\.)?uhmegle\.com$/
 /^(.*\.)?uhtube\.fun$/
 /^(.*\.)?uiiumovie\.com$/
 /^(.*\.)?uiiumovie\.fun$/
@@ -15316,6 +15815,7 @@
 /^(.*\.)?ukrainie\.sexy$/
 /^(.*\.)?ukrdate\.net$/
 /^(.*\.)?ukrseks\.com$/
+/^(.*\.)?uksexybabes\.com$/
 /^(.*\.)?ulanudesm\.com$/
 /^(.*\.)?ullu\.com\.in$/
 /^(.*\.)?ulluhotmaal\.com$/
@@ -15340,6 +15840,7 @@
 /^(.*\.)?uncensoredhentai\.xxx$/
 /^(.*\.)?unclothy\.com$/
 /^(.*\.)?uncut92\.cc$/
+/^(.*\.)?uncut99\.com$/
 /^(.*\.)?uncutbee\.top$/
 /^(.*\.)?uncuthub\.com$/
 /^(.*\.)?uncutjalwa\.net$/
@@ -15415,6 +15916,7 @@
 /^(.*\.)?ussxy\.com$/
 /^(.*\.)?ustawi\.wiki$/
 /^(.*\.)?usuarioporno\.com$/
+/^(.*\.)?utamuhub\.net$/
 /^(.*\.)?utanmazkizlar\.com$/
 /^(.*\.)?utanmazturkler\.com$/
 /^(.*\.)?utopiaguide\.pl$/
@@ -15460,6 +15962,7 @@
 /^(.*\.)?vamvideo\.com$/
 /^(.*\.)?vanillababes\.com$/
 /^(.*\.)?vase\-eroticke\-povidky\.cz$/
+/^(.*\.)?vasnastories\.com$/
 /^(.*\.)?vastserve\.com$/
 /^(.*\.)?vastsexclips\.com$/
 /^(.*\.)?vastsextube\.com$/
@@ -15505,6 +16008,7 @@
 /^(.*\.)?verytranny\.com$/
 /^(.*\.)?verytwink\.com$/
 /^(.*\.)?veryxxxxxhd\.cam$/
+/^(.*\.)?vetop\.ru$/
 /^(.*\.)?vetrimatrimony\.com$/
 /^(.*\.)?vezap\.com$/
 /^(.*\.)?veziporno\.com$/
@@ -15520,6 +16024,7 @@
 /^(.*\.)?vicepleasure\.net$/
 /^(.*\.)?vicetemple\.io$/
 /^(.*\.)?viciniardenti\.com$/
+/^(.*\.)?vicinipiccanti\.com$/
 /^(.*\.)?victoria\-rossi\.ru$/
 /^(.*\.)?victoriamilan\.com$/
 /^(.*\.)?victoriyaclub\.com$/
@@ -15538,6 +16043,7 @@
 /^(.*\.)?video\-camera\.ru$/
 /^(.*\.)?video\-chat\.live$/
 /^(.*\.)?video\-fucking\.com$/
+/^(.*\.)?video\-jav\.net$/
 /^(.*\.)?video\-roulette\.online$/
 /^(.*\.)?video\-roulette24\.ru$/
 /^(.*\.)?video\-sex\.org$/
@@ -15567,6 +16073,7 @@
 /^(.*\.)?videooxxx\.com$/
 /^(.*\.)?videoporcheitaliane\.com$/
 /^(.*\.)?videoporn\.tube$/
+/^(.*\.)?videoporn2020\.com$/
 /^(.*\.)?videopornhub\.com$/
 /^(.*\.)?videopornitaliani\.com$/
 /^(.*\.)?videopornl\.com$/
@@ -15579,6 +16086,7 @@
 /^(.*\.)?videosacana\.com\.br$/
 /^(.*\.)?videosamadores\.blog$/
 /^(.*\.)?videosarabic\.com$/
+/^(.*\.)?videosbag\.com$/
 /^(.*\.)?videosbang\.mobi$/
 /^(.*\.)?videosdemadurasx\.com$/
 /^(.*\.)?videosdesexo\.me$/
@@ -15632,9 +16140,11 @@
 /^(.*\.)?videoxxx\.sex$/
 /^(.*\.)?videozz\.xyz$/
 /^(.*\.)?videozzzsite\.club$/
+/^(.*\.)?vidgay\.fr$/
 /^(.*\.)?vidikierotika\.com$/
 /^(.*\.)?vidiosxnxx\.com$/
 /^(.*\.)?vidmax\.com$/
+/^(.*\.)?vidmo\.pro$/
 /^(.*\.)?vido99\.com$/
 /^(.*\.)?vids\.rip$/
 /^(.*\.)?vidsexe\.com$/
@@ -15654,12 +16164,14 @@
 /^(.*\.)?vigilfuoco\.it$/
 /^(.*\.)?vikacg\.com$/
 /^(.*\.)?vikiporn\.com$/
+/^(.*\.)?viks\.tv$/
 /^(.*\.)?villa\-venezia\-trier\.de$/
 /^(.*\.)?villagesexmms\.com$/
 /^(.*\.)?villagesexvideos3\.com$/
 /^(.*\.)?vinslave\.com$/
 /^(.*\.)?vintage\-erotica\-forum\.com$/
 /^(.*\.)?vintage8mmporn\.com$/
+/^(.*\.)?vintagealert\.com$/
 /^(.*\.)?vintagecuties\.com$/
 /^(.*\.)?vintagefplace\.com$/
 /^(.*\.)?vintagephq\.com$/
@@ -15671,6 +16183,7 @@
 /^(.*\.)?vintagepservice\.com$/
 /^(.*\.)?vintagepspace\.com$/
 /^(.*\.)?vintageptv\.com$/
+/^(.*\.)?vintagepussyp\.com$/
 /^(.*\.)?vintagesexq\.com$/
 /^(.*\.)?vintageworldp\.com$/
 /^(.*\.)?viojav\.com$/
@@ -15742,6 +16255,7 @@
 /^(.*\.)?vjav\.tube$/
 /^(.*\.)?vjav2\.com$/
 /^(.*\.)?vjxxx\.com$/
+/^(.*\.)?vk\-wall\.org$/
 /^(.*\.)?vkcams\.com$/
 /^(.*\.)?vkmag\.com$/
 /^(.*\.)?vkonche\.com$/
@@ -15752,6 +16266,7 @@
 /^(.*\.)?vlxx\.plus$/
 /^(.*\.)?vlxx\.rip$/
 /^(.*\.)?vlxx\.rocks$/
+/^(.*\.)?vlxx\.show$/
 /^(.*\.)?vlxx\.xxx$/
 /^(.*\.)?vlxx69\.top$/
 /^(.*\.)?vlxxhot\.net$/
@@ -15763,6 +16278,7 @@
 /^(.*\.)?voglioporno\.gratis$/
 /^(.*\.)?voilaporno\.com$/
 /^(.*\.)?voisinsecret\.com$/
+/^(.*\.)?voisinssolitaires\.com$/
 /^(.*\.)?voissa\.com$/
 /^(.*\.)?voissa\.fr$/
 /^(.*\.)?voksenmatch\.com$/
@@ -15780,6 +16296,7 @@
 /^(.*\.)?voyeur\-house\.tv$/
 /^(.*\.)?voyeur\-secrets\.com$/
 /^(.*\.)?voyeurex\.org$/
+/^(.*\.)?voyeurflash\.com$/
 /^(.*\.)?voyeurfrance\.net$/
 /^(.*\.)?voyeurhit\.com$/
 /^(.*\.)?voyeurhit\.tube$/
@@ -15790,8 +16307,10 @@
 /^(.*\.)?voyeurspycam\.top$/
 /^(.*\.)?voyeurstyle\.com$/
 /^(.*\.)?voyeurweb\.com$/
+/^(.*\.)?voyeurzona\.com$/
 /^(.*\.)?voyeurzz\.com$/
 /^(.*\.)?voyeyrist\.com$/
+/^(.*\.)?vpopke\.com$/
 /^(.*\.)?vporn\.com$/
 /^(.*\.)?vporn\.fun$/
 /^(.*\.)?vporn\.me$/
@@ -15828,6 +16347,7 @@
 /^(.*\.)?vsekraskitver\.ru$/
 /^(.*\.)?vseporno\.tv$/
 /^(.*\.)?vseprostitutki\.com$/
+/^(.*\.)?vsex\.in$/
 /^(.*\.)?vsexshop\.ru$/
 /^(.*\.)?vsmvideo\.com$/
 /^(.*\.)?vsporntube\.com$/
@@ -15858,6 +16378,7 @@
 /^(.*\.)?waifu\.pics$/
 /^(.*\.)?waikeung\.net$/
 /^(.*\.)?wakeupnfuck\.com$/
+/^(.*\.)?wamli\.net$/
 /^(.*\.)?wank\.io$/
 /^(.*\.)?wankbros\.com$/
 /^(.*\.)?wankerlab\.com$/
@@ -15925,6 +16446,7 @@
 /^(.*\.)?webcamexchange\.com$/
 /^(.*\.)?webcamfiles\.com$/
 /^(.*\.)?webcamgalore\.com$/
+/^(.*\.)?webcamgalore\.de$/
 /^(.*\.)?webcamjackers\.com$/
 /^(.*\.)?webcampornoxxx\.net$/
 /^(.*\.)?webcamrecs\.com$/
@@ -15933,6 +16455,7 @@
 /^(.*\.)?webcamsex\.nl$/
 /^(.*\.)?webcamsex247\.com$/
 /^(.*\.)?webcamshow\.cc$/
+/^(.*\.)?webcamstats\.com$/
 /^(.*\.)?webchoc\.com$/
 /^(.*\.)?webcindario\.com$/
 /^(.*\.)?webgata\.com$/
@@ -15945,6 +16468,7 @@
 /^(.*\.)?weboproxy\.com$/
 /^(.*\.)?webpshow\.com$/
 /^(.*\.)?webpussi\.com$/
+/^(.*\.)?webseriessex\.com$/
 /^(.*\.)?websexfilms\.com$/
 /^(.*\.)?websitebokep\.com$/
 /^(.*\.)?webstarterz\.com$/
@@ -15962,6 +16486,7 @@
 /^(.*\.)?wellsmedia\.com$/
 /^(.*\.)?welqum\.com$/
 /^(.*\.)?wenaked\.net$/
+/^(.*\.)?wendise\.com$/
 /^(.*\.)?wesell\.co\.il$/
 /^(.*\.)?weshporn\.com$/
 /^(.*\.)?westdelhiescorts\.com$/
@@ -15969,7 +16494,9 @@
 /^(.*\.)?wetandpissy\.com$/
 /^(.*\.)?wetandpuffy\.com$/
 /^(.*\.)?wetcartoonporn\.com$/
+/^(.*\.)?wetforher\.com$/
 /^(.*\.)?wetgif\.com$/
+/^(.*\.)?wethairypussies\.com$/
 /^(.*\.)?wetholefans\.com$/
 /^(.*\.)?wetlesbianbabes\.com$/
 /^(.*\.)?wetnjoy\.in$/
@@ -16015,6 +16542,7 @@
 /^(.*\.)?wifesbank\.com$/
 /^(.*\.)?wifetube\.xxx$/
 /^(.*\.)?wifewantstoplay\.com$/
+/^(.*\.)?wifewoman\.com$/
 /^(.*\.)?wifeysworld\.com$/
 /^(.*\.)?wifflegif\.com$/
 /^(.*\.)?wikifeet\.com$/
@@ -16030,6 +16558,7 @@
 /^(.*\.)?wildskirts\.com$/
 /^(.*\.)?wildteenporn\.com$/
 /^(.*\.)?wildwildvids\.com$/
+/^(.*\.)?wilfmovies\.com$/
 /^(.*\.)?wincest\.xyz$/
 /^(.*\.)?winporn\.com$/
 /^(.*\.)?winporn\.net$/
@@ -16046,6 +16575,7 @@
 /^(.*\.)?wodao\.buzz$/
 /^(.*\.)?wodap\.buzz$/
 /^(.*\.)?wodee\.buzz$/
+/^(.*\.)?womananimalporn\.cyou$/
 /^(.*\.)?womennaked\.net$/
 /^(.*\.)?womenshealthmag\.nl$/
 /^(.*\.)?womenwithsecrets\.com$/
@@ -16058,6 +16588,7 @@
 /^(.*\.)?worldasianp\.com$/
 /^(.*\.)?worldbbwp\.com$/
 /^(.*\.)?worldescortindex\.com$/
+/^(.*\.)?worldfreshp\.com$/
 /^(.*\.)?worldmilfp\.com$/
 /^(.*\.)?worldphq\.com$/
 /^(.*\.)?worldpornguru\.com$/
@@ -16130,6 +16661,7 @@
 /^(.*\.)?x\-tg\.tube$/
 /^(.*\.)?x\-ua\.net$/
 /^(.*\.)?x\-ufa\.net$/
+/^(.*\.)?x\-video\.fun$/
 /^(.*\.)?x\-video\.tube$/
 /^(.*\.)?x\-videochat\.ru$/
 /^(.*\.)?x\-videos\.club$/
@@ -16176,6 +16708,7 @@
 /^(.*\.)?xcadr\.online$/
 /^(.*\.)?xcafe\.com$/
 /^(.*\.)?xcamcovid\.com$/
+/^(.*\.)?xcamladyx\.com$/
 /^(.*\.)?xcams\.cam$/
 /^(.*\.)?xcams\.com$/
 /^(.*\.)?xcamy\.com$/
@@ -16198,6 +16731,7 @@
 /^(.*\.)?xdate\.ch$/
 /^(.*\.)?xdaug\.com$/
 /^(.*\.)?xdbxx\.com$/
+/^(.*\.)?xdesi\.org$/
 /^(.*\.)?xdesiporn\.cc$/
 /^(.*\.)?xdtube\.co$/
 /^(.*\.)?xecce\.com$/
@@ -16247,6 +16781,7 @@
 /^(.*\.)?xhamster\-gay\.pro$/
 /^(.*\.)?xhamster\-gay\.yachts$/
 /^(.*\.)?xhamster\-porn\.yachts$/
+/^(.*\.)?xhamster\-porno\.monster$/
 /^(.*\.)?xhamster\.best$/
 /^(.*\.)?xhamster\.bz$/
 /^(.*\.)?xhamster\.co\.hu$/
@@ -16344,13 +16879,16 @@
 /^(.*\.)?xixiporn\.fans$/
 /^(.*\.)?xjav\.tube$/
 /^(.*\.)?xjepang\.com$/
+/^(.*\.)?xjilbab\.cam$/
 /^(.*\.)?xjuggler\.de$/
 /^(.*\.)?xkeezmovies\.com$/
 /^(.*\.)?xl\-gaytube\.com$/
 /^(.*\.)?xl\-porn\.com$/
 /^(.*\.)?xl\.pt$/
 /^(.*\.)?xladyxxxmovie\.com$/
+/^(.*\.)?xlamma\.com$/
 /^(.*\.)?xleche\.com$/
+/^(.*\.)?xlecx\.com$/
 /^(.*\.)?xlecx\.one$/
 /^(.*\.)?xlesbiangirls\.com$/
 /^(.*\.)?xlgirls\.com$/
@@ -16434,6 +16972,7 @@
 /^(.*\.)?xn\-\-3dsq7teoyo9d\.com$/
 /^(.*\.)?xn\-\-4\-5wf7cfes9a9c6azaf3r1d\.com$/
 /^(.*\.)?xn\-\-4\-5wfa4ehe3i1bd1ood\.com$/
+/^(.*\.)?xn\-\-42c4dpaat4eb1h\.com$/
 /^(.*\.)?xn\-\-42c5ab1a9aq9hqb5dud\.com$/
 /^(.*\.)?xn\-\-42c6baga2dd6da0eti2a8e8a\.com$/
 /^(.*\.)?xn\-\-5\-wxf2e3an9l\.com$/
@@ -16541,6 +17080,7 @@
 /^(.*\.)?xnxx\.com$/
 /^(.*\.)?xnxx\.dev$/
 /^(.*\.)?xnxx\.es$/
+/^(.*\.)?xnxx\.fit$/
 /^(.*\.)?xnxx\.forex$/
 /^(.*\.)?xnxx\.gold$/
 /^(.*\.)?xnxx\.health$/
@@ -16623,6 +17163,7 @@
 /^(.*\.)?xnxxsexar\.com$/
 /^(.*\.)?xnxxsexarab\.com$/
 /^(.*\.)?xnxxstories\.in$/
+/^(.*\.)?xnxxtamil\.rodeo$/
 /^(.*\.)?xnxxtube\.win$/
 /^(.*\.)?xnxxtubevideos\.com$/
 /^(.*\.)?xnxxtv\.cam$/
@@ -16693,6 +17234,7 @@
 /^(.*\.)?xsafadas\.net$/
 /^(.*\.)?xsalut\.com$/
 /^(.*\.)?xscandals\.com$/
+/^(.*\.)?xsemok\.com$/
 /^(.*\.)?xsex\-tubes\.com$/
 /^(.*\.)?xsexsati\.com$/
 /^(.*\.)?xsexteen\.com$/
@@ -16701,6 +17243,7 @@
 /^(.*\.)?xsharings\.com$/
 /^(.*\.)?xshemale\.tube$/
 /^(.*\.)?xshemale\.tv$/
+/^(.*\.)?xshemale24\.com$/
 /^(.*\.)?xsijishe\.com$/
 /^(.*\.)?xsin\-hub\.com$/
 /^(.*\.)?xsnvshen\.com$/
@@ -16713,7 +17256,9 @@
 /^(.*\.)?xsub\.lol$/
 /^(.*\.)?xsuperjav\.com$/
 /^(.*\.)?xsz\-av\.com$/
+/^(.*\.)?xszav\.club$/
 /^(.*\.)?xszav1\.com$/
+/^(.*\.)?xtapes\.in$/
 /^(.*\.)?xtapes\.me$/
 /^(.*\.)?xtapes\.porn$/
 /^(.*\.)?xtapes\.to$/
@@ -16726,6 +17271,8 @@
 /^(.*\.)?xtits\.xxx$/
 /^(.*\.)?xtitscams\.live$/
 /^(.*\.)?xtok\.cam$/
+/^(.*\.)?xtoons\.art$/
+/^(.*\.)?xtorjack\.com$/
 /^(.*\.)?xtoys\.app$/
 /^(.*\.)?xtremechat\.com$/
 /^(.*\.)?xtube\.com$/
@@ -16842,6 +17389,7 @@
 /^(.*\.)?xvideos91\.com$/
 /^(.*\.)?xvideosamador\.blog$/
 /^(.*\.)?xvideosbr\.blog$/
+/^(.*\.)?xvideosbrasil\.com$/
 /^(.*\.)?xvideosdesi\.info$/
 /^(.*\.)?xvideosfoda\.com$/
 /^(.*\.)?xvideosfun\.com$/
@@ -16852,6 +17400,7 @@
 /^(.*\.)?xvideosit\.com$/
 /^(.*\.)?xvideosmovies\.net$/
 /^(.*\.)?xvideosnew\.com$/
+/^(.*\.)?xvideosonly\.com$/
 /^(.*\.)?xvideosplus\.net$/
 /^(.*\.)?xvideosporno\.blog$/
 /^(.*\.)?xvideosporno\.blog\.br$/
@@ -16860,6 +17409,7 @@
 /^(.*\.)?xvideosprivacy\.com$/
 /^(.*\.)?xvideosputaria\.com$/
 /^(.*\.)?xvideosrei\.com$/
+/^(.*\.)?xvideossexo\.net$/
 /^(.*\.)?xvideosteen\.icu$/
 /^(.*\.)?xvideosws\.com$/
 /^(.*\.)?xvideosx\.com\.br$/
@@ -16873,6 +17423,7 @@
 /^(.*\.)?xvideozz\.com$/
 /^(.*\.)?xvidgay\.com$/
 /^(.*\.)?xvidio\.blog$/
+/^(.*\.)?xvidio\.blog\.br$/
 /^(.*\.)?xvidioo\.com$/
 /^(.*\.)?xvidioporno\.com$/
 /^(.*\.)?xvidios\.xxx$/
@@ -16962,6 +17513,7 @@
 /^(.*\.)?xxx\-tube\-list\.com$/
 /^(.*\.)?xxx\-tube\-movie\.com$/
 /^(.*\.)?xxx\-tube\.monster$/
+/^(.*\.)?xxx\-tube\.top$/
 /^(.*\.)?xxx\-video\.icu$/
 /^(.*\.)?xxx\-video\.mobi$/
 /^(.*\.)?xxx\-video\.watch$/
@@ -16974,12 +17526,14 @@
 /^(.*\.)?xxx\-yes\.com$/
 /^(.*\.)?xxx\.com$/
 /^(.*\.)?xxx\.diet$/
+/^(.*\.)?xxx\.hair$/
 /^(.*\.)?xxx\.observer$/
 /^(.*\.)?xxx\.org$/
 /^(.*\.)?xxx\.report$/
 /^(.*\.)?xxx\.xxx$/
 /^(.*\.)?xxx1\.link$/
 /^(.*\.)?xxx18\.uno$/
+/^(.*\.)?xxx18anal\.com$/
 /^(.*\.)?xxx2019\.pro$/
 /^(.*\.)?xxx245\.com$/
 /^(.*\.)?xxx24video\.one$/
@@ -17051,6 +17605,7 @@
 /^(.*\.)?xxxdesi\.su$/
 /^(.*\.)?xxxdesi\.top$/
 /^(.*\.)?xxxdessert\.com$/
+/^(.*\.)?xxxdeutsch\.com$/
 /^(.*\.)?xxxdino\.com$/
 /^(.*\.)?xxxdit\.com$/
 /^(.*\.)?xxxdl\.net$/
@@ -17207,6 +17762,7 @@
 /^(.*\.)?xxxseen\.com$/
 /^(.*\.)?xxxseks245\.com$/
 /^(.*\.)?xxxsex\.best$/
+/^(.*\.)?xxxsex\.bid$/
 /^(.*\.)?xxxsex\.com$/
 /^(.*\.)?xxxsex99\.com$/
 /^(.*\.)?xxxsexclips\.net$/
@@ -17251,6 +17807,7 @@
 /^(.*\.)?xxxtubevideos\.click$/
 /^(.*\.)?xxxufa\.app$/
 /^(.*\.)?xxxultrahd\.net$/
+/^(.*\.)?xxxvasna\.com$/
 /^(.*\.)?xxxvideo\-free\.cfd$/
 /^(.*\.)?xxxvideo\.best$/
 /^(.*\.)?xxxvideo\.blog$/
@@ -17271,13 +17828,16 @@
 /^(.*\.)?xxxvideoporno\.net$/
 /^(.*\.)?xxxvideor\.com$/
 /^(.*\.)?xxxvideorindia\.pro$/
+/^(.*\.)?xxxvideos\.click$/
 /^(.*\.)?xxxvideos\.su$/
 /^(.*\.)?xxxvideos1\.com$/
 /^(.*\.)?xxxvideos247\.com$/
 /^(.*\.)?xxxvideosex\.net$/
 /^(.*\.)?xxxvideoshd\.cc$/
+/^(.*\.)?xxxvideoshd\.club$/
 /^(.*\.)?xxxvideoshindi\.vip$/
 /^(.*\.)?xxxvideoshot\.com$/
+/^(.*\.)?xxxvideosone\.com$/
 /^(.*\.)?xxxvideosxxx\.org$/
 /^(.*\.)?xxxvideosz\.com$/
 /^(.*\.)?xxxvideoszoo\.com$/
@@ -17299,6 +17859,7 @@
 /^(.*\.)?xxxxcum\.com$/
 /^(.*\.)?xxxxlucah\.mobi$/
 /^(.*\.)?xxxxnxx\.pro$/
+/^(.*\.)?xxxxselfie\.com$/
 /^(.*\.)?xxxxsexvideos\.com$/
 /^(.*\.)?xxxxsu\.com$/
 /^(.*\.)?xxxxsx\.com$/
@@ -17318,6 +17879,7 @@
 /^(.*\.)?xzooz\.su$/
 /^(.*\.)?xzuza\.com$/
 /^(.*\.)?xzx\.mobi$/
+/^(.*\.)?xzxxtube\.com$/
 /^(.*\.)?y\-suibi\.jp$/
 /^(.*\.)?y99\.in$/
 /^(.*\.)?yabai\.si$/
@@ -17335,6 +17897,7 @@
 /^(.*\.)?yanmaga\.jp$/
 /^(.*\.)?yaoidj\.com$/
 /^(.*\.)?yaoihavenreborn\.com$/
+/^(.*\.)?yaoimangaonline\.com$/
 /^(.*\.)?yaoitoon\.net$/
 /^(.*\.)?yapatube\.com$/
 /^(.*\.)?yapfiles\.ru$/
@@ -17381,6 +17944,7 @@
 /^(.*\.)?yesvids\.com$/
 /^(.*\.)?yeswegays\.com$/
 /^(.*\.)?yezzclips\.com$/
+/^(.*\.)?yhprn\.com$/
 /^(.*\.)?yiff\-party\.com$/
 /^(.*\.)?yiffer\.xyz$/
 /^(.*\.)?yiffspot\.com$/
@@ -17416,6 +17980,7 @@
 /^(.*\.)?youncensored\.com$/
 /^(.*\.)?young\-amateurs\.com$/
 /^(.*\.)?young\-dreams\.com$/
+/^(.*\.)?young\-gay\.cfd$/
 /^(.*\.)?young\-porn\-movie\.com$/
 /^(.*\.)?young\-xxx\.net$/
 /^(.*\.)?young18\.net$/
@@ -17545,6 +18110,7 @@
 /^(.*\.)?zoekvinden\.nl$/
 /^(.*\.)?zoig\.com$/
 /^(.*\.)?zoig1\.com$/
+/^(.*\.)?zolacams\.com$/
 /^(.*\.)?zona\-masajes\.com$/
 /^(.*\.)?zona\.co\.il$/
 /^(.*\.)?zona\.com\.br$/
@@ -17566,6 +18132,7 @@
 /^(.*\.)?zoofilia\.site$/
 /^(.*\.)?zoofilia\.us$/
 /^(.*\.)?zoofilialovers\.com$/
+/^(.*\.)?zoofilianet\.com$/
 /^(.*\.)?zoofiliaporn\.blog$/
 /^(.*\.)?zoofiliaporno\.blog$/
 /^(.*\.)?zoofiliaporno\.com$/
@@ -17578,10 +18145,13 @@
 /^(.*\.)?zoomgirls\.net$/
 /^(.*\.)?zoomilf\.com$/
 /^(.*\.)?zoomobileporn\.com$/
+/^(.*\.)?zoophilia\.club$/
 /^(.*\.)?zoophiliaporn\.com$/
 /^(.*\.)?zoophilist\.net$/
 /^(.*\.)?zooporn\.blog$/
 /^(.*\.)?zooporn\.net$/
+/^(.*\.)?zooporn\.org$/
+/^(.*\.)?zooporn\.show$/
 /^(.*\.)?zooporn\.stream$/
 /^(.*\.)?zooporn\.video$/
 /^(.*\.)?zoopornanimal\.net$/
@@ -17601,6 +18171,7 @@
 /^(.*\.)?zoosk\.com$/
 /^(.*\.)?zootracker\.vip$/
 /^(.*\.)?zootube1\.com$/
+/^(.*\.)?zootube4\.com$/
 /^(.*\.)?zootubered\.com$/
 /^(.*\.)?zoovilleforum\.net$/
 /^(.*\.)?zoox18\.com$/
@@ -17634,6 +18205,7 @@
 /^(.*\.)?zxctube\.com$/
 /^(.*\.)?zxvideos\.net$/
 /^(.*\.)?zybrdr\.com$/
+/^(.*\.)?zzcartoon\.com$/
 /^(.*\.)?zzgays\.com$/
 /^(.*\.)?zzgps\.com$/
 /^(.*\.)?zzhentai\.com$/
