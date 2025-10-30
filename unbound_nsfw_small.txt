@@ -1,9 +1,9 @@
-# Version: 202510300624
+# Version: 202510300724
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 17049
-# Last modified: 2025-10-30T06:24:20+0000
+# Entries: 17143
+# Last modified: 2025-10-30T07:24:34+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -310,6 +310,7 @@ local-zone: "69indian.com." always_null
 local-zone: "69lesbi.com." always_null
 local-zone: "69re.net." always_null
 local-zone: "69tang.org." always_null
+local-zone: "69teentube.com." always_null
 local-zone: "69vj.com." always_null
 local-zone: "69x.me." always_null
 local-zone: "69xxxtube.com." always_null
@@ -384,6 +385,7 @@ local-zone: "99re.com." always_null
 local-zone: "9hentai.uk." always_null
 local-zone: "9splt.com." always_null
 local-zone: "9vids.com." always_null
+local-zone: "9xbuddy.io." always_null
 local-zone: "a-hadaka.jp." always_null
 local-zone: "a-hentai.tv." always_null
 local-zone: "aagmaal.club." always_null
@@ -918,6 +920,7 @@ local-zone: "animeotk.com." always_null
 local-zone: "animeporn.best." always_null
 local-zone: "animeporn.tube." always_null
 local-zone: "animesex.club." always_null
+local-zone: "animeshentai.biz." always_null
 local-zone: "animeshentai.tv." always_null
 local-zone: "animesher.com." always_null
 local-zone: "animesrbija.com." always_null
@@ -983,6 +986,7 @@ local-zone: "apina.biz." always_null
 local-zone: "apollcomics.es." always_null
 local-zone: "apopularporn.com." always_null
 local-zone: "aporn.pro." always_null
+local-zone: "apornbase.com." always_null
 local-zone: "apornfactory.com." always_null
 local-zone: "apornor.art." always_null
 local-zone: "apornor.me." always_null
@@ -1007,6 +1011,7 @@ local-zone: "arabi8.com." always_null
 local-zone: "arabian-porn.com." always_null
 local-zone: "arabianchicks.com." always_null
 local-zone: "arabic-porn-tube.com." always_null
+local-zone: "arabic18.com." always_null
 local-zone: "arabicpornmovies.com." always_null
 local-zone: "arabipornx.com." always_null
 local-zone: "arabmales.tv." always_null
@@ -1186,6 +1191,7 @@ local-zone: "asianude4u.net." always_null
 local-zone: "asianvideohot.com." always_null
 local-zone: "asianviral.com." always_null
 local-zone: "asianviralhub.com." always_null
+local-zone: "asianwifeporn.com." always_null
 local-zone: "asianwomen.pics." always_null
 local-zone: "asianwomenonline.org." always_null
 local-zone: "asianxn.icu." always_null
@@ -1223,6 +1229,7 @@ local-zone: "asspictures.org." always_null
 local-zone: "asspig.com." always_null
 local-zone: "asstok.com." always_null
 local-zone: "asstomouth.guru." always_null
+local-zone: "asstoo.com." always_null
 local-zone: "asstr.org." always_null
 local-zone: "asstraffic.com." always_null
 local-zone: "assvideos.pro." always_null
@@ -1465,12 +1472,14 @@ local-zone: "banglachotiboi.in." always_null
 local-zone: "banglachotigolpo.net." always_null
 local-zone: "banglachotikahini.org." always_null
 local-zone: "banglachotikahinii.com." always_null
+local-zone: "banglachotix.com." always_null
 local-zone: "banglapanugolpo.com." always_null
 local-zone: "banglaxvideohd.com." always_null
 local-zone: "banglaxxx.org." always_null
 local-zone: "banglaxxxvideo.com." always_null
 local-zone: "banglaxxxvideos.com." always_null
 local-zone: "bangnest.com." always_null
+local-zone: "bangstars.com." always_null
 local-zone: "bangtubevideos.com." always_null
 local-zone: "bannedsextapes.com." always_null
 local-zone: "baobua.com." always_null
@@ -1737,6 +1746,7 @@ local-zone: "bestpornstars.tv." always_null
 local-zone: "bestpornstars.xxx." always_null
 local-zone: "bestporntube.co." always_null
 local-zone: "bestprettygirl.com." always_null
+local-zone: "bestpussypictures.com." always_null
 local-zone: "bestrapeporn.com." always_null
 local-zone: "bestrealdoll.com." always_null
 local-zone: "bestruporn.com." always_null
@@ -1929,6 +1939,7 @@ local-zone: "blackporn.me." always_null
 local-zone: "blackporn.tube." always_null
 local-zone: "blackporn24.com." always_null
 local-zone: "blackporn8.com." always_null
+local-zone: "blackpornhub.org." always_null
 local-zone: "blackpornstars.net." always_null
 local-zone: "blacksexvideos.xxx." always_null
 local-zone: "blackshemalevideo.com." always_null
@@ -1939,6 +1950,7 @@ local-zone: "blackxxxgay.com." always_null
 local-zone: "blazinglink.com." always_null
 local-zone: "blcdog.com." always_null
 local-zone: "bleachbooru.org." always_null
+local-zone: "blockbuster.com." always_null
 local-zone: "blog.hu." always_null
 local-zone: "blog4ever.com." always_null
 local-zone: "blogbugs.org." always_null
@@ -2209,6 +2221,7 @@ local-zone: "brashhut.com." always_null
 local-zone: "brasileirinhas.com.br." always_null
 local-zone: "brasileiro.info." always_null
 local-zone: "brasileiro.wtf." always_null
+local-zone: "brasilhentai.com." always_null
 local-zone: "brattymilf.com." always_null
 local-zone: "brattysis.com." always_null
 local-zone: "bravebabes.com." always_null
@@ -2461,6 +2474,7 @@ local-zone: "camspace.live." always_null
 local-zone: "camspacelive.com." always_null
 local-zone: "camsparty.com." always_null
 local-zone: "camsplanetlive.com." always_null
+local-zone: "camsstream.com." always_null
 local-zone: "camster.com." always_null
 local-zone: "camstreams.tv." always_null
 local-zone: "camsweb.net." always_null
@@ -2626,6 +2640,7 @@ local-zone: "celebsunmasked.com." always_null
 local-zone: "celebuncut.com." always_null
 local-zone: "celibatairesdisponibles.com." always_null
 local-zone: "celibest.com." always_null
+local-zone: "celibook.com." always_null
 local-zone: "cemiocw.com." always_null
 local-zone: "centerfold.com." always_null
 local-zone: "centoxcento.net." always_null
@@ -2651,6 +2666,7 @@ local-zone: "chat-rulet-18.com." always_null
 local-zone: "chat-ruletka-18.com." always_null
 local-zone: "chat-s-devushkami.com." always_null
 local-zone: "chatasy.com." always_null
+local-zone: "chatbabe.be." always_null
 local-zone: "chatbang.net." always_null
 local-zone: "chatcams.pl." always_null
 local-zone: "chatdaseducao.com." always_null
@@ -2750,6 +2766,7 @@ local-zone: "choiceporn.ru." always_null
 local-zone: "cholitas.us." always_null
 local-zone: "cholitas.xyz." always_null
 local-zone: "cholitaseroticas.com." always_null
+local-zone: "cholitasxxx.xyz." always_null
 local-zone: "cholotube.org." always_null
 local-zone: "cholotubegay.com." always_null
 local-zone: "choosescorts.com." always_null
@@ -2779,6 +2796,7 @@ local-zone: "chutlunds.com." always_null
 local-zone: "chutpatti.com." always_null
 local-zone: "chuyenphim18.site." always_null
 local-zone: "chyoa.com." always_null
+local-zone: "ciaoamigos.it." always_null
 local-zone: "cicisex.net." always_null
 local-zone: "cigarettesaftersex.com." always_null
 local-zone: "cila-mesta.ru." always_null
@@ -2825,6 +2843,7 @@ local-zone: "clipsexhot.vip." always_null
 local-zone: "clipsexsub3x.net." always_null
 local-zone: "clipsextoico.net." always_null
 local-zone: "clipsexviet.sbs." always_null
+local-zone: "clipsexx.lol." always_null
 local-zone: "cliptrend.com." always_null
 local-zone: "clipx16.com." always_null
 local-zone: "cliti.com." always_null
@@ -2971,6 +2990,7 @@ local-zone: "countryxxxsex.com." always_null
 local-zone: "covercaratulas.com." always_null
 local-zone: "cpornplanet.com." always_null
 local-zone: "craporn.com." always_null
+local-zone: "cravingmilfs.com." always_null
 local-zone: "crazedns.ru." always_null
 local-zone: "crazedporn.com." always_null
 local-zone: "crazedsexy.com." always_null
@@ -2981,6 +3001,7 @@ local-zone: "crazydaysandnights.net." always_null
 local-zone: "crazyforfeet.com." always_null
 local-zone: "crazyhotfuck.com." always_null
 local-zone: "crazyjavporn.com." always_null
+local-zone: "crazyporn.net." always_null
 local-zone: "crazyporn.xxx." always_null
 local-zone: "crazysexpics.com." always_null
 local-zone: "crazyshit.com." always_null
@@ -3146,6 +3167,7 @@ local-zone: "damsexvn.com." always_null
 local-zone: "dancingbear.com." always_null
 local-zone: "danews.cc." always_null
 local-zone: "dansk.sbs." always_null
+local-zone: "danskesex.com." always_null
 local-zone: "dansmovies.com." always_null
 local-zone: "danude.com." always_null
 local-zone: "dapfanatics.com." always_null
@@ -3162,6 +3184,7 @@ local-zone: "darknessporn.com." always_null
 local-zone: "darknetvideos.com." always_null
 local-zone: "darkplustv.com." always_null
 local-zone: "darkroomvr.com." always_null
+local-zone: "darksside.com." always_null
 local-zone: "darkteens.net." always_null
 local-zone: "darkwanderer.net." always_null
 local-zone: "darkx.com." always_null
@@ -3570,6 +3593,7 @@ local-zone: "dosugcx-mgn.biz." always_null
 local-zone: "dothal.com." always_null
 local-zone: "dothewife.com." always_null
 local-zone: "dotwinks.com." always_null
+local-zone: "douga100ka.jp." always_null
 local-zone: "doujin-new.com." always_null
 local-zone: "doujin-th.com." always_null
 local-zone: "doujin-thai.com." always_null
@@ -4171,6 +4195,7 @@ local-zone: "fagalicious.com." always_null
 local-zone: "fahlawy.com." always_null
 local-zone: "fairporn.net." always_null
 local-zone: "fairycosmo.com." always_null
+local-zone: "faitpastafarouche.com." always_null
 local-zone: "fak.xxx." always_null
 local-zone: "fakboi.tv." always_null
 local-zone: "fakedriver.net." always_null
@@ -4274,6 +4299,7 @@ local-zone: "fapchatvip.com." always_null
 local-zone: "fapclub.vip." always_null
 local-zone: "fapcoholic.com." always_null
 local-zone: "fapdick.net." always_null
+local-zone: "fapdig.com." always_null
 local-zone: "fapdiner.com." always_null
 local-zone: "fapdivan.com." always_null
 local-zone: "fapdu.com." always_null
@@ -4514,6 +4540,7 @@ local-zone: "filmxxxfrancais.org." always_null
 local-zone: "filmy69.pl." always_null
 local-zone: "filmyporno.tv." always_null
 local-zone: "filmyxxx.icu." always_null
+local-zone: "filtercams.com." always_null
 local-zone: "filthnest.com." always_null
 local-zone: "filthvana.com." always_null
 local-zone: "filthy.family." always_null
@@ -4583,6 +4610,7 @@ local-zone: "flingster.com." always_null
 local-zone: "flipfucking.com." always_null
 local-zone: "fliporn.biz." always_null
 local-zone: "flirt-spiel.de." always_null
+local-zone: "flirt.com." always_null
 local-zone: "flirt4free.com." always_null
 local-zone: "flirt888.com." always_null
 local-zone: "flirtarecondonne.com." always_null
@@ -4657,6 +4685,7 @@ local-zone: "fotonovelasxxx.com." always_null
 local-zone: "fotosacompanhantes.com." always_null
 local-zone: "fotoscaserasx.com." always_null
 local-zone: "fotosdebucetas.com." always_null
+local-zone: "fotosdepenis.blog." always_null
 local-zone: "fotosgarotas.com." always_null
 local-zone: "fotosmulherpelada.com." always_null
 local-zone: "fotosporno.io." always_null
@@ -5019,6 +5048,7 @@ local-zone: "funker530.com." always_null
 local-zone: "funkypornos.com." always_null
 local-zone: "funlover.ru." always_null
 local-zone: "funnyadultgamesplay.com." always_null
+local-zone: "funpic.hu." always_null
 local-zone: "funwithfeet.com." always_null
 local-zone: "funxxx.life." always_null
 local-zone: "fuq.com." always_null
@@ -5468,6 +5498,7 @@ local-zone: "goldhdtube.com." always_null
 local-zone: "goldindianporn.pro." always_null
 local-zone: "goldpclips.com." always_null
 local-zone: "goldpornfilms.com." always_null
+local-zone: "goldpornsite.com." always_null
 local-zone: "goldteenxxx.com." always_null
 local-zone: "goldtits.com." always_null
 local-zone: "goldtwinkxxx.com." always_null
@@ -5633,6 +5664,7 @@ local-zone: "hairybabestgp.com." always_null
 local-zone: "hairycuntgirls.com." always_null
 local-zone: "hairyerotica.com." always_null
 local-zone: "hairyfilm.com." always_null
+local-zone: "hairygirly.com." always_null
 local-zone: "hairymaturepics.com." always_null
 local-zone: "hairymilfpics.com." always_null
 local-zone: "hairyplus.com." always_null
@@ -5944,6 +5976,7 @@ local-zone: "hentaibedta.net." always_null
 local-zone: "hentaiblue.net." always_null
 local-zone: "hentaibooty.com." always_null
 local-zone: "hentaibrasil.info." always_null
+local-zone: "hentaibrasileiro.com." always_null
 local-zone: "hentaibux.com." always_null
 local-zone: "hentaicams.xxx." always_null
 local-zone: "hentaicity.cc." always_null
@@ -5994,6 +6027,7 @@ local-zone: "hentaiheroes.com." always_null
 local-zone: "hentaihome.net." always_null
 local-zone: "hentaihorizon.com." always_null
 local-zone: "hentaihub.org." always_null
+local-zone: "hentaihub.xxx." always_null
 local-zone: "hentaijk.com." always_null
 local-zone: "hentaijuggs.com." always_null
 local-zone: "hentaikey.com." always_null
@@ -6024,6 +6058,7 @@ local-zone: "hentairead.io." always_null
 local-zone: "hentairider.com." always_null
 local-zone: "hentairox.com." always_null
 local-zone: "hentais.blog." always_null
+local-zone: "hentais.tube." always_null
 local-zone: "hentaisaturn.tv." always_null
 local-zone: "hentaiser.com." always_null
 local-zone: "hentaisex.tv." always_null
@@ -6161,6 +6196,7 @@ local-zone: "hitomi.la." always_null
 local-zone: "hitomi.one." always_null
 local-zone: "hitporntube.com." always_null
 local-zone: "hitrpn.com." always_null
+local-zone: "hittamatch.com." always_null
 local-zone: "hk.st." always_null
 local-zone: "hlebo.com." always_null
 local-zone: "hlebo.mobi." always_null
@@ -6301,6 +6337,7 @@ local-zone: "hot-vixens.com." always_null
 local-zone: "hot-xnxx-videos.com." always_null
 local-zone: "hot-xxx.tv." always_null
 local-zone: "hot-xxx.wtf." always_null
+local-zone: "hot.ch." always_null
 local-zone: "hot.com." always_null
 local-zone: "hot18twinks.com." always_null
 local-zone: "hot4cams.com." always_null
@@ -6421,6 +6458,7 @@ local-zone: "hotsexvidios.com." always_null
 local-zone: "hotsexvids.net." always_null
 local-zone: "hotsexyteen.com." always_null
 local-zone: "hotshemaletube.com." always_null
+local-zone: "hotstash.net." always_null
 local-zone: "hotstunners.com." always_null
 local-zone: "hotteenerotica.com." always_null
 local-zone: "hotteennude.com." always_null
@@ -6547,6 +6585,7 @@ local-zone: "hung-ya.com." always_null
 local-zone: "hungangels.com." always_null
 local-zone: "hungryporn.net." always_null
 local-zone: "hunkypinoy.tv." always_null
+local-zone: "hunqz.com." always_null
 local-zone: "hunsex.hu." always_null
 local-zone: "hunszex.hu." always_null
 local-zone: "hunt4k.com." always_null
@@ -6560,6 +6599,7 @@ local-zone: "hutgay.com." always_null
 local-zone: "huyamba.info." always_null
 local-zone: "huyamba.mobi." always_null
 local-zone: "hvideos.net." always_null
+local-zone: "hw-area.com." always_null
 local-zone: "hyderabadbeauties.com." always_null
 local-zone: "hydievpornovideo.net." always_null
 local-zone: "hyggeligtreff.com." always_null
@@ -6798,6 +6838,7 @@ local-zone: "indianpussyporn.com." always_null
 local-zone: "indiansexbar.mobi." always_null
 local-zone: "indiansexbazar.com." always_null
 local-zone: "indiansexgate.mobi." always_null
+local-zone: "indiansexmms.co." always_null
 local-zone: "indiansexmms.me." always_null
 local-zone: "indiansexmovies.mobi." always_null
 local-zone: "indiansexstories2.net." always_null
@@ -6973,10 +7014,12 @@ local-zone: "itnewst.com." always_null
 local-zone: "itpornit.com." always_null
 local-zone: "its.porn." always_null
 local-zone: "itslive.com." always_null
+local-zone: "itsmyfetish.com." always_null
 local-zone: "itspov.com." always_null
 local-zone: "iv-videos.com." always_null
 local-zone: "ivenue.com." always_null
 local-zone: "ivfree.asia." always_null
+local-zone: "ivseek.com." always_null
 local-zone: "ivworld.net." always_null
 local-zone: "ivx.gallery." always_null
 local-zone: "ivysociete.com." always_null
@@ -7028,6 +7071,7 @@ local-zone: "jacquieetmichelstrip.com." always_null
 local-zone: "jacquieetmicheltv.net." always_null
 local-zone: "jacquieetmicheltv2.net." always_null
 local-zone: "jade-net-home.com." always_null
+local-zone: "jainsite.com." always_null
 local-zone: "jakolman.com." always_null
 local-zone: "jakuli.com." always_null
 local-zone: "jalap.ru." always_null
@@ -7109,6 +7153,7 @@ local-zone: "javbooks.com." always_null
 local-zone: "javboys.com." always_null
 local-zone: "javbraze.com." always_null
 local-zone: "javbtc.com." always_null
+local-zone: "javbucks.com." always_null
 local-zone: "javbukkake.com." always_null
 local-zone: "javbus.com." always_null
 local-zone: "javbus.sbs." always_null
@@ -7612,6 +7657,7 @@ local-zone: "kingcomix.com." always_null
 local-zone: "kinghost.com." always_null
 local-zone: "kingofhup.com." always_null
 local-zone: "kingsmanga.net." always_null
+local-zone: "kinguys.com." always_null
 local-zone: "kink.ai." always_null
 local-zone: "kink.com." always_null
 local-zone: "kinkbook.com." always_null
@@ -7676,6 +7722,7 @@ local-zone: "konachan.com." always_null
 local-zone: "kongumanamalai.com." always_null
 local-zone: "konimbo.co.il." always_null
 local-zone: "kontakt-vermittler.de." always_null
+local-zone: "kontakt-zentrum.at." always_null
 local-zone: "kontaktbox.com." always_null
 local-zone: "kontolbesar.top." always_null
 local-zone: "konyadakihurdaci.com." always_null
@@ -7740,6 +7787,7 @@ local-zone: "labporn.cc." always_null
 local-zone: "labporn.info." always_null
 local-zone: "labporn.org." always_null
 local-zone: "labporntube.com." always_null
+local-zone: "lachattedacote.com." always_null
 local-zone: "lacomics.net." always_null
 local-zone: "lacynylons.com." always_null
 local-zone: "ladiesbaba.com." always_null
@@ -7886,6 +7934,7 @@ local-zone: "lesbianpclips.com." always_null
 local-zone: "lesbianphq.com." always_null
 local-zone: "lesbianporn8.net." always_null
 local-zone: "lesbianpornb.com." always_null
+local-zone: "lesbianpornbros.com." always_null
 local-zone: "lesbianpornguru.com." always_null
 local-zone: "lesbianpornlab.com." always_null
 local-zone: "lesbianpornno.com." always_null
@@ -7937,6 +7986,7 @@ local-zone: "lhos.ru." always_null
 local-zone: "lib.social." always_null
 local-zone: "liberator.com." always_null
 local-zone: "libertines.me." always_null
+local-zone: "libertycouple.fr." always_null
 local-zone: "libo.ru." always_null
 local-zone: "liboggirls.net." always_null
 local-zone: "libraryofthumbs.com." always_null
@@ -8185,6 +8235,7 @@ local-zone: "made.porn." always_null
 local-zone: "madepics.net." always_null
 local-zone: "madgaysex.com." always_null
 local-zone: "madnessporn.com." always_null
+local-zone: "madou.pw." always_null
 local-zone: "madou.win." always_null
 local-zone: "madouqu.com." always_null
 local-zone: "madpain.com." always_null
@@ -8383,6 +8434,7 @@ local-zone: "masturhub.com." always_null
 local-zone: "masutabe.info." always_null
 local-zone: "mat6tube.com." always_null
 local-zone: "matb3aa.com." always_null
+local-zone: "match.com." always_null
 local-zone: "match2night.com." always_null
 local-zone: "matchwithmilfs.com." always_null
 local-zone: "matras-devison.ru." always_null
@@ -8604,6 +8656,7 @@ local-zone: "metalbondnyc.com." always_null
 local-zone: "metapix.net." always_null
 local-zone: "metaporn.com." always_null
 local-zone: "metart.com." always_null
+local-zone: "metart.network." always_null
 local-zone: "metartaccess.com." always_null
 local-zone: "metarthunter.com." always_null
 local-zone: "metartnetwork.com." always_null
@@ -8720,6 +8773,7 @@ local-zone: "mimozaa.tokyo." always_null
 local-zone: "minasdivinas.com." always_null
 local-zone: "mindcontrolcomics.com." always_null
 local-zone: "mindmix.ru." always_null
+local-zone: "minescripts.info." always_null
 local-zone: "minet.club." always_null
 local-zone: "mineti.biz." always_null
 local-zone: "minetrah.one." always_null
@@ -8976,6 +9030,7 @@ local-zone: "msk-escort.com." always_null
 local-zone: "msk-intimcity.net." always_null
 local-zone: "msk-prostitutok.net." always_null
 local-zone: "mskprostitutok.net." always_null
+local-zone: "mto.to." always_null
 local-zone: "mtree.com." always_null
 local-zone: "muah.ai." always_null
 local-zone: "muarab.net." always_null
@@ -9194,6 +9249,7 @@ local-zone: "mywebsite2.com." always_null
 local-zone: "myxxgirl.com." always_null
 local-zone: "myxxxadult.ru." always_null
 local-zone: "myxxxporn.biz." always_null
+local-zone: "myxxxteen.ru." always_null
 local-zone: "mzansi247.com." always_null
 local-zone: "mzansiadultblog.com." always_null
 local-zone: "mzansifun.com." always_null
@@ -9345,6 +9401,7 @@ local-zone: "nemyda.com." always_null
 local-zone: "nenas.la." always_null
 local-zone: "nenavist.org." always_null
 local-zone: "nenitas.club." always_null
+local-zone: "nenvl.net." always_null
 local-zone: "nenyda.com." always_null
 local-zone: "neonpussy.com." always_null
 local-zone: "neporn.com." always_null
@@ -9379,6 +9436,7 @@ local-zone: "new-porn.video." always_null
 local-zone: "new-porn.vip." always_null
 local-zone: "new-porn.xyz." always_null
 local-zone: "newamateurtube.com." always_null
+local-zone: "newanonib.com." always_null
 local-zone: "newarabsex.com." always_null
 local-zone: "newart.com." always_null
 local-zone: "newasiantube.com." always_null
@@ -9889,6 +9947,7 @@ local-zone: "onlypinay.bz." always_null
 local-zone: "onlyporn.tube." always_null
 local-zone: "onlyporn123.com." always_null
 local-zone: "onlyporno.cc." always_null
+local-zone: "onlyputaria.com." always_null
 local-zone: "onlyshagplace.com." always_null
 local-zone: "onlyspank.club." always_null
 local-zone: "onlyspanking.video." always_null
@@ -9905,6 +9964,7 @@ local-zone: "onscreens.me." always_null
 local-zone: "onsexprime.fr." always_null
 local-zone: "oo34.com." always_null
 local-zone: "oohcams.com." always_null
+local-zone: "oohlala.be." always_null
 local-zone: "oohporno.com." always_null
 local-zone: "ooksex.com." always_null
 local-zone: "oolsugam.com." always_null
@@ -10031,6 +10091,7 @@ local-zone: "pantyhosescreen.com." always_null
 local-zone: "panuval.com." always_null
 local-zone: "panuvideo.com." always_null
 local-zone: "paon.site." always_null
+local-zone: "papafickt.com." always_null
 local-zone: "papalah.com." always_null
 local-zone: "papoaolado.com.br." always_null
 local-zone: "paprikolu.net." always_null
@@ -10201,6 +10262,7 @@ local-zone: "photobarin.ru." always_null
 local-zone: "photos-de-femmes-mures.com." always_null
 local-zone: "photos18.com." always_null
 local-zone: "photosexx.ru." always_null
+local-zone: "photoweb.ru." always_null
 local-zone: "phrendly.com." always_null
 local-zone: "phun.org." always_null
 local-zone: "phunuonline.com.vn." always_null
@@ -10342,6 +10404,7 @@ local-zone: "pokazuha.ru." always_null
 local-zone: "pokegirlgo.com." always_null
 local-zone: "polarpornhd.com." always_null
 local-zone: "poldertube.nl." always_null
+local-zone: "polishhearts.de." always_null
 local-zone: "poloeoreee.pl." always_null
 local-zone: "polovinka.org." always_null
 local-zone: "polskie.icu." always_null
@@ -10508,6 +10571,7 @@ local-zone: "pornbb.org." always_null
 local-zone: "pornbbs.cc." always_null
 local-zone: "pornbbs.net." always_null
 local-zone: "pornbest.co." always_null
+local-zone: "pornbest.org." always_null
 local-zone: "pornbestpics.com." always_null
 local-zone: "pornbimbo.com." always_null
 local-zone: "pornbitter.com." always_null
@@ -10924,6 +10988,7 @@ local-zone: "pornoaccion.com." always_null
 local-zone: "pornoaffe.net." always_null
 local-zone: "pornoafisha.xyz." always_null
 local-zone: "pornoafricain.com." always_null
+local-zone: "pornoakt.club." always_null
 local-zone: "pornoalfa.com." always_null
 local-zone: "pornoamadorxxx.com." always_null
 local-zone: "pornoamateurlatino.net." always_null
@@ -11121,6 +11186,7 @@ local-zone: "pornopedia.com." always_null
 local-zone: "pornoperso.com." always_null
 local-zone: "pornophotos.net." always_null
 local-zone: "pornophotowomans.com." always_null
+local-zone: "pornopicshub.com." always_null
 local-zone: "pornopisa.com." always_null
 local-zone: "pornoplage.com." always_null
 local-zone: "pornoplanetxxx.com." always_null
@@ -11262,6 +11328,7 @@ local-zone: "pornpics.beauty." always_null
 local-zone: "pornpics.bid." always_null
 local-zone: "pornpics.center." always_null
 local-zone: "pornpics.chat." always_null
+local-zone: "pornpics.city." always_null
 local-zone: "pornpics.com." always_null
 local-zone: "pornpics.de." always_null
 local-zone: "pornpics.gallery." always_null
@@ -11401,6 +11468,7 @@ local-zone: "pornvideosbox.cc." always_null
 local-zone: "pornvideoszone.com." always_null
 local-zone: "pornvideotop.com." always_null
 local-zone: "pornvidio.top." always_null
+local-zone: "pornvidn.com." always_null
 local-zone: "pornvids4k.com." always_null
 local-zone: "pornvidsfree.com." always_null
 local-zone: "pornvidshot.com." always_null
@@ -11679,6 +11747,7 @@ local-zone: "purelovers.com." always_null
 local-zone: "purelyxxx.com." always_null
 local-zone: "puremature.com." always_null
 local-zone: "purenudism.com." always_null
+local-zone: "purenudism.cz." always_null
 local-zone: "purepov.com." always_null
 local-zone: "puretaboo.com." always_null
 local-zone: "puretaboo.org." always_null
@@ -11815,6 +11884,7 @@ local-zone: "ralphus.net." always_null
 local-zone: "ramika.co.in." always_null
 local-zone: "rampant.tv." always_null
 local-zone: "randomporn.click." always_null
+local-zone: "randomskip.com." always_null
 local-zone: "randyblue.com." always_null
 local-zone: "ranetki.online." always_null
 local-zone: "raovatnailsalon.com." always_null
@@ -12417,6 +12487,7 @@ local-zone: "senioriflirtti.com." always_null
 local-zone: "seniorsexpartner.com." always_null
 local-zone: "seniorsizzle.com." always_null
 local-zone: "sensationalcash.com." always_null
+local-zone: "sensitivecontent.info." always_null
 local-zone: "sensualagenda.com." always_null
 local-zone: "sensualgirls.org." always_null
 local-zone: "sensualpepper.com." always_null
@@ -12614,6 +12685,7 @@ local-zone: "sexdatesx.nl." always_null
 local-zone: "sexdead.org." always_null
 local-zone: "sexdeeperporn.com." always_null
 local-zone: "sexdep.pro." always_null
+local-zone: "sexdo.com." always_null
 local-zone: "sexdolltech.com." always_null
 local-zone: "sexdom.cc." always_null
 local-zone: "sexdoma.net." always_null
@@ -12908,6 +12980,7 @@ local-zone: "sextop1.ad." always_null
 local-zone: "sextop1.bot." always_null
 local-zone: "sextop1.forum." always_null
 local-zone: "sextop1.la." always_null
+local-zone: "sextop1a.com." always_null
 local-zone: "sextops1.blog." always_null
 local-zone: "sextoy.com." always_null
 local-zone: "sextoydistributing.com." always_null
@@ -12933,6 +13006,7 @@ local-zone: "sextulip.com." always_null
 local-zone: "sextut24.com." always_null
 local-zone: "sextvx.com." always_null
 local-zone: "sextwat.com." always_null
+local-zone: "sextwithsluts.com." always_null
 local-zone: "sexu.com." always_null
 local-zone: "sexu.me." always_null
 local-zone: "sexu.name." always_null
@@ -13368,6 +13442,7 @@ local-zone: "smokingfetishkingdom.com." always_null
 local-zone: "smokingsweeties.com." always_null
 local-zone: "smokinmovies.com." always_null
 local-zone: "smokva.com." always_null
+local-zone: "smooci.com." always_null
 local-zone: "smotret-video.ru." always_null
 local-zone: "smotretporno.fans." always_null
 local-zone: "smotretporno.net." always_null
@@ -13484,6 +13559,7 @@ local-zone: "spnati.net." always_null
 local-zone: "spornox.page." always_null
 local-zone: "sport.blog." always_null
 local-zone: "sportbud.org." always_null
+local-zone: "spotbbs.com." always_null
 local-zone: "spotx.fr." always_null
 local-zone: "spr.ru." always_null
 local-zone: "spreee.info." always_null
@@ -13858,6 +13934,7 @@ local-zone: "teatroporno.com." always_null
 local-zone: "tech.blog." always_null
 local-zone: "techou.jp." always_null
 local-zone: "tedouraku.com." always_null
+local-zone: "teen-erotic.net." always_null
 local-zone: "teen-erotica.net." always_null
 local-zone: "teen-gay.cfd." always_null
 local-zone: "teen-porno.ru." always_null
@@ -14035,6 +14112,7 @@ local-zone: "the-xnxx.icu." always_null
 local-zone: "the-xxxcom.icu." always_null
 local-zone: "the-xxxvideo.icu." always_null
 local-zone: "the-youporn.cc." always_null
+local-zone: "theadulthub.com." always_null
 local-zone: "theadultstories.com." always_null
 local-zone: "theadulttoyshop.com." always_null
 local-zone: "theanimalporn.com." always_null
@@ -14392,6 +14470,7 @@ local-zone: "tottaax.com." always_null
 local-zone: "touchmymelons.com." always_null
 local-zone: "toumpano.net." always_null
 local-zone: "tourcrimea.biz." always_null
+local-zone: "tourind.cl." always_null
 local-zone: "townofsins.com." always_null
 local-zone: "toxsales1.com." always_null
 local-zone: "toydemon.com." always_null
@@ -14526,6 +14605,7 @@ local-zone: "trypornsite.com." always_null
 local-zone: "tryst.link." always_null
 local-zone: "trystagency.com." always_null
 local-zone: "tryteens.com." always_null
+local-zone: "tryworldporn.com." always_null
 local-zone: "tryxnxx.com." always_null
 local-zone: "ts-dating.com." always_null
 local-zone: "ts4rent.eu." always_null
@@ -14721,6 +14801,7 @@ local-zone: "tvn.hu." always_null
 local-zone: "tvojerande.cz." always_null
 local-zone: "tvto.ru." always_null
 local-zone: "tvtuga.org." always_null
+local-zone: "twanal.com." always_null
 local-zone: "twatis.com." always_null
 local-zone: "twerkqueens.com." always_null
 local-zone: "twgays.com." always_null
@@ -14739,6 +14820,7 @@ local-zone: "twinkworldp.com." always_null
 local-zone: "twistedporn.com." always_null
 local-zone: "twistys.com." always_null
 local-zone: "twistysnetwork.com." always_null
+local-zone: "twmilf.com." always_null
 local-zone: "twojav.com." always_null
 local-zone: "twomance.com." always_null
 local-zone: "twtiktoks.com." always_null
@@ -14801,6 +14883,7 @@ local-zone: "ukraina-love.com." always_null
 local-zone: "ukraine-brides.net." always_null
 local-zone: "ukraine-brides.org." always_null
 local-zone: "ukraineescort.quest." always_null
+local-zone: "ukrainewoman.net." always_null
 local-zone: "ukrainiancharm.com." always_null
 local-zone: "ukrainie.sexy." always_null
 local-zone: "ukrdate.net." always_null
@@ -14859,6 +14942,7 @@ local-zone: "unrealfuck.com." always_null
 local-zone: "unshavedtwats.com." always_null
 local-zone: "unstability.ai." always_null
 local-zone: "unusualpeople.com." always_null
+local-zone: "unusualporn.net." always_null
 local-zone: "updatesz.com." always_null
 local-zone: "upforit.com." always_null
 local-zone: "upfy.org." always_null
@@ -15051,6 +15135,7 @@ local-zone: "videopornitaliani.com." always_null
 local-zone: "videopornl.com." always_null
 local-zone: "videopornofrancais.com." always_null
 local-zone: "videopornoinceste.xxx." always_null
+local-zone: "videoputaria.com." always_null
 local-zone: "videos-xxx-tube.com." always_null
 local-zone: "videos.com." always_null
 local-zone: "videos.zone." always_null
@@ -15518,6 +15603,7 @@ local-zone: "worldbbwp.com." always_null
 local-zone: "worldescortindex.com." always_null
 local-zone: "worldmilfp.com." always_null
 local-zone: "worldphq.com." always_null
+local-zone: "worldpornguru.com." always_null
 local-zone: "worldpornmovies.com." always_null
 local-zone: "worldsex.com." always_null
 local-zone: "worldshemalep.com." always_null
@@ -16045,6 +16131,7 @@ local-zone: "xnxxes.live." always_null
 local-zone: "xnxxfree.org." always_null
 local-zone: "xnxxgratis.com." always_null
 local-zone: "xnxxhamster.net." always_null
+local-zone: "xnxxhd.tv." always_null
 local-zone: "xnxxhindi.xyz." always_null
 local-zone: "xnxxhits.com." always_null
 local-zone: "xnxxhole.com." always_null
@@ -16158,6 +16245,7 @@ local-zone: "xstorysnap.com." always_null
 local-zone: "xsuperjav.com." always_null
 local-zone: "xsz-av.com." always_null
 local-zone: "xszav1.com." always_null
+local-zone: "xtapes.me." always_null
 local-zone: "xtapes.porn." always_null
 local-zone: "xtapes.to." always_null
 local-zone: "xteenlesbianporn.com." always_null
@@ -16214,6 +16302,7 @@ local-zone: "xvideoporno.net." always_null
 local-zone: "xvideoporno.tv." always_null
 local-zone: "xvideos-amateur-movie.com." always_null
 local-zone: "xvideos-ar.com." always_null
+local-zone: "xvideos-br.com." always_null
 local-zone: "xvideos-cdn.com." always_null
 local-zone: "xvideos-hd.blog." always_null
 local-zone: "xvideos-hd.com." always_null
@@ -16283,6 +16372,7 @@ local-zone: "xvideos9.com." always_null
 local-zone: "xvideos91.com." always_null
 local-zone: "xvideosamador.blog." always_null
 local-zone: "xvideosdesi.info." always_null
+local-zone: "xvideosfoda.com." always_null
 local-zone: "xvideosfun.com." always_null
 local-zone: "xvideosgostosa.com." always_null
 local-zone: "xvideoshemale.pro." always_null
@@ -16462,6 +16552,7 @@ local-zone: "xxxbullet.com." always_null
 local-zone: "xxxbunker.com." always_null
 local-zone: "xxxcage.com." always_null
 local-zone: "xxxcargo.com." always_null
+local-zone: "xxxcensored.com." always_null
 local-zone: "xxxchina.asia." always_null
 local-zone: "xxxchinaporno24.com." always_null
 local-zone: "xxxcholitas.com." always_null
@@ -16709,6 +16800,7 @@ local-zone: "xxxvideos1.com." always_null
 local-zone: "xxxvideos247.com." always_null
 local-zone: "xxxvideosex.net." always_null
 local-zone: "xxxvideoshd.cc." always_null
+local-zone: "xxxvideoshot.com." always_null
 local-zone: "xxxvideosxxx.org." always_null
 local-zone: "xxxvideosz.com." always_null
 local-zone: "xxxvideoszoo.com." always_null
@@ -16797,6 +16889,7 @@ local-zone: "yesbackpage.com." always_null
 local-zone: "yescams.com." always_null
 local-zone: "yeseporn.com." always_null
 local-zone: "yeslesbians.com." always_null
+local-zone: "yesmessenger.com." always_null
 local-zone: "yesporn.cam." always_null
 local-zone: "yesporn.video." always_null
 local-zone: "yesporn.vip." always_null
@@ -17052,6 +17145,7 @@ local-zone: "zvraceny.cz." always_null
 local-zone: "zw-net.com." always_null
 local-zone: "zwaremetalen.com." always_null
 local-zone: "zwhitelabel.com." always_null
+local-zone: "zwinkr.de." always_null
 local-zone: "zxctube.com." always_null
 local-zone: "zxvideos.net." always_null
 local-zone: "zybrdr.com." always_null
