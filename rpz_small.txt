@@ -1,16 +1,16 @@
-; Version: 202510300720
+; Version: 202510300820
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95264
-; Last modified: 2025-10-30T07:20:50+0000
+; Entries: 95258
+; Last modified: 2025-10-30T08:20:06+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761808321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761811922 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4242,8 +4242,6 @@ abberantextending.com CNAME .
 *.abberantextending.com CNAME .
 abberantpawnpalette.com CNAME .
 *.abberantpawnpalette.com CNAME .
-abblameter.cfd CNAME .
-*.abblameter.cfd CNAME .
 abbotpredicateemma.com CNAME .
 *.abbotpredicateemma.com CNAME .
 abbott.vo.llnwd.net CNAME .
@@ -46938,8 +46936,6 @@ jeuflyleaf.cyou CNAME .
 *.jeuflyleaf.cyou CNAME .
 jewacgufesztu.space CNAME .
 *.jewacgufesztu.space CNAME .
-jewbushquam.qpon CNAME .
-*.jewbushquam.qpon CNAME .
 jeweleddees.click CNAME .
 *.jeweleddees.click CNAME .
 jewellerybroadlyisabella.com CNAME .
@@ -83738,8 +83734,6 @@ trendmd.com CNAME .
 *.trendmd.com CNAME .
 trends.newsmaxwidget.com CNAME .
 *.trends.newsmaxwidget.com CNAME .
-trendysleets.cyou CNAME .
-*.trendysleets.cyou CNAME .
 trenhsasolce.com CNAME .
 *.trenhsasolce.com CNAME .
 trenpyle.com CNAME .
