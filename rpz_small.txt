@@ -1,16 +1,16 @@
-; Version: 202511011121
+; Version: 202511011222
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95908
-; Last modified: 2025-11-01T11:21:40+0000
+; Entries: 95894
+; Last modified: 2025-11-01T12:22:22+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761995522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761999122 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13922,8 +13922,6 @@ atetsuthskcft.website CNAME .
 *.atetsuthskcft.website CNAME .
 ateyfathertold.org CNAME .
 *.ateyfathertold.org CNAME .
-atgmzemuf.com CNAME .
-*.atgmzemuf.com CNAME .
 atgvmlnbtnlxl.website CNAME .
 *.atgvmlnbtnlxl.website CNAME .
 athaveresultedinncr.org CNAME .
@@ -46084,8 +46082,6 @@ ionakasulba.org CNAME .
 *.ionakasulba.org CNAME .
 ionigravida.com CNAME .
 *.ionigravida.com CNAME .
-ioniserpinones.com CNAME .
-*.ioniserpinones.com CNAME .
 iononetravoy.com CNAME .
 *.iononetravoy.com CNAME .
 ionwindonpetropic.info CNAME .
@@ -55612,8 +55608,6 @@ mnxaitgszttui.website CNAME .
 *.mnxaitgszttui.website CNAME .
 mnxtwmdclreco.space CNAME .
 *.mnxtwmdclreco.space CNAME .
-mnzexkjo.com CNAME .
-*.mnzexkjo.com CNAME .
 mo.freeindoapp.com CNAME .
 *.mo.freeindoapp.com CNAME .
 mo.gushiji.cc CNAME .
@@ -60566,8 +60560,6 @@ oorgoograigel.net CNAME .
 *.oorgoograigel.net CNAME .
 oorljoimmwspw.website CNAME .
 *.oorljoimmwspw.website CNAME .
-ooshatholru.net CNAME .
-*.ooshatholru.net CNAME .
 oostotsu.com CNAME .
 *.oostotsu.com CNAME .
 ootchoft.com CNAME .
@@ -61356,8 +61348,6 @@ ouuxjvhdgdsav.space CNAME .
 *.ouuxjvhdgdsav.space CNAME .
 ouweessougleji.net CNAME .
 *.ouweessougleji.net CNAME .
-ouwnpjulxriwuw.com CNAME .
-*.ouwnpjulxriwuw.com CNAME .
 ouwszkswhujxz.online CNAME .
 *.ouwszkswhujxz.online CNAME .
 ouy3.site CNAME .
@@ -64176,8 +64166,6 @@ pn.ybp.yahoo.com CNAME .
 *.pn.ybp.yahoo.com CNAME .
 pnd.gs CNAME .
 *.pnd.gs CNAME .
-pndqgxehpwpfq.com CNAME .
-*.pndqgxehpwpfq.com CNAME .
 pndvhjgixorbq.online CNAME .
 *.pndvhjgixorbq.online CNAME .
 pnekru6pxrum-a.akamaihd.net CNAME .
@@ -84100,8 +84088,6 @@ transfto.com CNAME .
 *.transfto.com CNAME .
 transistorizedbirleanimal.com CNAME .
 *.transistorizedbirleanimal.com CNAME .
-transitionfrenchdowny.com CNAME .
-*.transitionfrenchdowny.com CNAME .
 translatebonus.net CNAME .
 *.translatebonus.net CNAME .
 translatelavatory.com CNAME .
