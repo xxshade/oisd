@@ -1,9 +1,9 @@
-# Version: 202511010926
+# Version: 202511011025
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20395
-# Last modified: 2025-11-01T09:26:02+0000
+# Entries: 20401
+# Last modified: 2025-11-01T10:25:10+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -5373,6 +5373,7 @@ local-zone: "fetishmen.net." always_null
 local-zone: "fetishnetwork.com." always_null
 local-zone: "fetishp.com." always_null
 local-zone: "fetishpapa.com." always_null
+local-zone: "fetishscroller.com." always_null
 local-zone: "fetishshrine.com." always_null
 local-zone: "fetishspace.com." always_null
 local-zone: "fetishz.com." always_null
@@ -8849,6 +8850,7 @@ local-zone: "jepangmantap.com." always_null
 local-zone: "jerk-off-pics.com." always_null
 local-zone: "jerk-porn.com." always_null
 local-zone: "jerk24.com." always_null
+local-zone: "jerkay.com." always_null
 local-zone: "jerkdolls.com." always_null
 local-zone: "jerkdude.com." always_null
 local-zone: "jerkmate.com." always_null
@@ -11528,6 +11530,7 @@ local-zone: "notfans.org." always_null
 local-zone: "nothingtoxic.com." always_null
 local-zone: "notiblog.net." always_null
 local-zone: "notmik.com." always_null
+local-zone: "nouslib.com." always_null
 local-zone: "novamora.nl." always_null
 local-zone: "novelcool.com." always_null
 local-zone: "novelcrow.com." always_null
@@ -12738,6 +12741,7 @@ local-zone: "pornbb.org." always_null
 local-zone: "pornbb.xyz." always_null
 local-zone: "pornbbs.cc." always_null
 local-zone: "pornbbs.net." always_null
+local-zone: "pornbbs.org." always_null
 local-zone: "pornbest.co." always_null
 local-zone: "pornbest.org." always_null
 local-zone: "pornbestiality.club." always_null
@@ -13028,6 +13032,7 @@ local-zone: "pornkinky.com." always_null
 local-zone: "pornkino.cc." always_null
 local-zone: "pornkino.org." always_null
 local-zone: "pornktube.com." always_null
+local-zone: "pornktubes.net." always_null
 local-zone: "pornkub.co." always_null
 local-zone: "pornkut.com." always_null
 local-zone: "pornkx.com." always_null
@@ -19325,6 +19330,7 @@ local-zone: "xsemok.com." always_null
 local-zone: "xsex-tubes.com." always_null
 local-zone: "xsexsati.com." always_null
 local-zone: "xsexteen.com." always_null
+local-zone: "xsexvideos.rodeo." always_null
 local-zone: "xsexybabespics.com." always_null
 local-zone: "xshaker.net." always_null
 local-zone: "xsharings.com." always_null
