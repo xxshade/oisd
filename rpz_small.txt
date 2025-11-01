@@ -1,16 +1,16 @@
-; Version: 202511011021
+; Version: 202511011121
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95934
-; Last modified: 2025-11-01T10:21:02+0000
+; Entries: 95908
+; Last modified: 2025-11-01T11:21:40+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761991921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761995522 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -31974,8 +31974,6 @@ dvbee3zterhof.cloudfront.net CNAME .
 *.dvbee3zterhof.cloudfront.net CNAME .
 dvc8653ec6uyk.cloudfront.net CNAME .
 *.dvc8653ec6uyk.cloudfront.net CNAME .
-dvcwckjyx.com CNAME .
-*.dvcwckjyx.com CNAME .
 dvdgayonline.com CNAME .
 *.dvdgayonline.com CNAME .
 dvdjtxgcokydc.online CNAME .
@@ -34098,8 +34096,6 @@ eqfqekkgkwpya.online CNAME .
 *.eqfqekkgkwpya.online CNAME .
 eqieg6yn5.com CNAME .
 *.eqieg6yn5.com CNAME .
-eqmrfnyrrf.com CNAME .
-*.eqmrfnyrrf.com CNAME .
 eqpmzcorwgnda.store CNAME .
 *.eqpmzcorwgnda.store CNAME .
 equaleddunair.click CNAME .
@@ -43118,8 +43114,6 @@ hnnqbxhvpbgvf.site CNAME .
 *.hnnqbxhvpbgvf.site CNAME .
 hnrgmc.com CNAME .
 *.hnrgmc.com CNAME .
-hnuowkvwklt.com CNAME .
-*.hnuowkvwklt.com CNAME .
 hnwlazmnkzwxj.space CNAME .
 *.hnwlazmnkzwxj.space CNAME .
 hnwqolckynifk.website CNAME .
@@ -44724,8 +44718,6 @@ ihlfikzmbeyob.space CNAME .
 *.ihlfikzmbeyob.space CNAME .
 ihsbmjddrsllpae.com CNAME .
 *.ihsbmjddrsllpae.com CNAME .
-ihsdlgxxcg.com CNAME .
-*.ihsdlgxxcg.com CNAME .
 ihsgawkish.qpon CNAME .
 *.ihsgawkish.qpon CNAME .
 ihuzryhojljka.site CNAME .
@@ -46534,8 +46526,6 @@ iufbmwczokffc.click CNAME .
 *.iufbmwczokffc.click CNAME .
 iufmhnbxvkzcy.store CNAME .
 *.iufmhnbxvkzcy.store CNAME .
-iufxhxrcdrlgw.website CNAME .
-*.iufxhxrcdrlgw.website CNAME .
 iugbhsu.com CNAME .
 *.iugbhsu.com CNAME .
 iugvoo.icu CNAME .
@@ -47274,8 +47264,6 @@ jixdwtlveqhrl.online CNAME .
 *.jixdwtlveqhrl.online CNAME .
 jixurt.icu CNAME .
 *.jixurt.icu CNAME .
-jiybmrwtiilkml.net CNAME .
-*.jiybmrwtiilkml.net CNAME .
 jizzarchives.com CNAME .
 *.jizzarchives.com CNAME .
 jizzensirrah.com CNAME .
@@ -48884,8 +48872,6 @@ kk3fefl2b3.com CNAME .
 *.kk3fefl2b3.com CNAME .
 kkhfsefqdurod.site CNAME .
 *.kkhfsefqdurod.site CNAME .
-kkhwavgirbmmm.com CNAME .
-*.kkhwavgirbmmm.com CNAME .
 kkiazspu.com CNAME .
 *.kkiazspu.com CNAME .
 kkieeoxcjpqah.vip CNAME .
@@ -55380,8 +55366,6 @@ mjtrkygeqmghm.store CNAME .
 *.mjtrkygeqmghm.store CNAME .
 mjufus.icu CNAME .
 *.mjufus.icu CNAME .
-mjvkkfolyddcq.website CNAME .
-*.mjvkkfolyddcq.website CNAME .
 mjwcsqcajfwhi.online CNAME .
 *.mjwcsqcajfwhi.online CNAME .
 mjxads.internet.com CNAME .
@@ -58078,8 +58062,6 @@ nhgpidvhdzm.vip CNAME .
 *.nhgpidvhdzm.vip CNAME .
 nhkstivqaqwvz.store CNAME .
 *.nhkstivqaqwvz.store CNAME .
-nhlrspxvdmuea.site CNAME .
-*.nhlrspxvdmuea.site CNAME .
 nhqkijpqeguuh.store CNAME .
 *.nhqkijpqeguuh.store CNAME .
 nhrnxqiiygdjc.store CNAME .
@@ -67046,8 +67028,6 @@ qfwhko.icu CNAME .
 *.qfwhko.icu CNAME .
 qfwwhelkdjaeu.buzz CNAME .
 *.qfwwhelkdjaeu.buzz CNAME .
-qfyljssc.net CNAME .
-*.qfyljssc.net CNAME .
 qgaxkkv.top CNAME .
 *.qgaxkkv.top CNAME .
 qgdgcbtfuxgra.store CNAME .
@@ -86390,8 +86370,6 @@ untruecompatibletype.com CNAME .
 *.untruecompatibletype.com CNAME .
 untwirlhider.world CNAME .
 *.untwirlhider.world CNAME .
-unuodkswo.com CNAME .
-*.unuodkswo.com CNAME .
 unused-oil.pro CNAME .
 *.unused-oil.pro CNAME .
 unusedframe.com CNAME .
@@ -89960,8 +89938,6 @@ wemtagoowhoohiz.net CNAME .
 *.wemtagoowhoohiz.net CNAME .
 wendelstein-1b.com CNAME .
 *.wendelstein-1b.com CNAME .
-wendxktstjx.net CNAME .
-*.wendxktstjx.net CNAME .
 wenog.com CNAME .
 *.wenog.com CNAME .
 wensonk.com CNAME .
@@ -90296,8 +90272,6 @@ whosealluvia.click CNAME .
 *.whosealluvia.click CNAME .
 whoucheehy.net CNAME .
 *.whoucheehy.net CNAME .
-whoumishatepa.net CNAME .
-*.whoumishatepa.net CNAME .
 whouphesaussums.net CNAME .
 *.whouphesaussums.net CNAME .
 whourgie.com CNAME .
