@@ -1,16 +1,16 @@
-; Version: 202511011824
+; Version: 202511011924
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95774
-; Last modified: 2025-11-01T18:24:18+0000
+; Entries: 95746
+; Last modified: 2025-11-01T19:24:31+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762020721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762024322 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -14500,8 +14500,6 @@ awestatic.com CNAME .
 *.awestatic.com CNAME .
 aweyqalyljbj.top CNAME .
 *.aweyqalyljbj.top CNAME .
-aweyqalylqqr.top CNAME .
-*.aweyqalylqqr.top CNAME .
 awh3vupyf.com CNAME .
 *.awh3vupyf.com CNAME .
 awhauchoa.net CNAME .
@@ -20754,8 +20752,6 @@ celx.xyz CNAME .
 *.celx.xyz CNAME .
 celxkpdir.com CNAME .
 *.celxkpdir.com CNAME .
-cemantical4.com CNAME .
-*.cemantical4.com CNAME .
 cemaolocavmti.website CNAME .
 *.cemaolocavmti.website CNAME .
 cematuran.com CNAME .
@@ -21380,8 +21376,6 @@ choppersnaps.click CNAME .
 *.choppersnaps.click CNAME .
 chordbelievingpossible.com CNAME .
 *.chordbelievingpossible.com CNAME .
-chordeehepcats.shop CNAME .
-*.chordeehepcats.shop CNAME .
 choruscompanion.com CNAME .
 *.choruscompanion.com CNAME .
 choseing.com CNAME .
@@ -31634,8 +31628,6 @@ dsraozxhfuifo.site CNAME .
 *.dsraozxhfuifo.site CNAME .
 dss1bi.com CNAME .
 *.dss1bi.com CNAME .
-dssvqvmfs.com CNAME .
-*.dssvqvmfs.com CNAME .
 dstevermotori.org CNAME .
 *.dstevermotori.org CNAME .
 dstoppedtotalkto.com CNAME .
@@ -31968,8 +31960,6 @@ dvmdwmnyj3u4h.cloudfront.net CNAME .
 *.dvmdwmnyj3u4h.cloudfront.net CNAME .
 dvnhgkrzyxlzd.site CNAME .
 *.dvnhgkrzyxlzd.site CNAME .
-dvnhsiikmpy.com CNAME .
-*.dvnhsiikmpy.com CNAME .
 dvqldhfeowiyh.online CNAME .
 *.dvqldhfeowiyh.online CNAME .
 dvs.china.com CNAME .
@@ -45376,8 +45366,6 @@ indexstats.com CNAME .
 *.indexstats.com CNAME .
 indianharmal.com CNAME .
 *.indianharmal.com CNAME .
-indiasnatchy.rest CNAME .
-*.indiasnatchy.rest CNAME .
 indicatedilate.com CNAME .
 *.indicatedilate.com CNAME .
 indictmentbreatheeastern.com CNAME .
@@ -47054,8 +47042,6 @@ jfiavkaxdm.com CNAME .
 *.jfiavkaxdm.com CNAME .
 jfjle4g5l.com CNAME .
 *.jfjle4g5l.com CNAME .
-jfkumusjflr.com CNAME .
-*.jfkumusjflr.com CNAME .
 jflfgirfvthuj.website CNAME .
 *.jflfgirfvthuj.website CNAME .
 jfqbrpwzypixs.com CNAME .
@@ -51214,8 +51200,6 @@ lltrck.com CNAME .
 *.lltrck.com CNAME .
 llvlzvroqokmj.top CNAME .
 *.llvlzvroqokmj.top CNAME .
-llvlzvroqormy.top CNAME .
-*.llvlzvroqormy.top CNAME .
 llvlzvrwkolmm.top CNAME .
 *.llvlzvrwkolmm.top CNAME .
 llvlzvrwkolwv.top CNAME .
@@ -53986,8 +53970,6 @@ maybejanuarycosmetics.com CNAME .
 *.maybejanuarycosmetics.com CNAME .
 mayhemabjure.com CNAME .
 *.mayhemabjure.com CNAME .
-mayhemphage.shop CNAME .
-*.mayhemphage.shop CNAME .
 mayorcabbagedemolish.com CNAME .
 *.mayorcabbagedemolish.com CNAME .
 mayportfolioshrine.com CNAME .
@@ -60840,8 +60822,6 @@ orientaldumbest.com CNAME .
 *.orientaldumbest.com CNAME .
 orientationphotographicmanslaughter.com CNAME .
 *.orientationphotographicmanslaughter.com CNAME .
-origin1266.fun CNAME .
-*.origin1266.fun CNAME .
 originallyrabbleritual.com CNAME .
 *.originallyrabbleritual.com CNAME .
 originatecrane.com CNAME .
@@ -69898,8 +69878,6 @@ rkjtlnfhsocoz.store CNAME .
 *.rkjtlnfhsocoz.store CNAME .
 rkl.draugas.lt CNAME .
 *.rkl.draugas.lt CNAME .
-rknxcjiqrvbgdp.com CNAME .
-*.rknxcjiqrvbgdp.com CNAME .
 rkomf.com CNAME .
 *.rkomf.com CNAME .
 rkoofgxarguv.com CNAME .
@@ -86574,8 +86552,6 @@ urgedmildly.com CNAME .
 *.urgedmildly.com CNAME .
 urgentlyrightypast.com CNAME .
 *.urgentlyrightypast.com CNAME .
-urgerrebasis.com CNAME .
-*.urgerrebasis.com CNAME .
 urgxnorjluhwl.online CNAME .
 *.urgxnorjluhwl.online CNAME .
 urialnork.shop CNAME .
@@ -87440,8 +87416,6 @@ veepteecejoushe.net CNAME .
 *.veepteecejoushe.net CNAME .
 veepteero.com CNAME .
 *.veepteero.com CNAME .
-veeshaichiw.com CNAME .
-*.veeshaichiw.com CNAME .
 veezljzrkjykw.top CNAME .
 *.veezljzrkjykw.top CNAME .
 vehohx.icu CNAME .
@@ -93806,8 +93780,6 @@ ybrvrws2p9.com CNAME .
 *.ybrvrws2p9.com CNAME .
 ybs2ffs7v.com CNAME .
 *.ybs2ffs7v.com CNAME .
-ybscddfnsf.com CNAME .
-*.ybscddfnsf.com CNAME .
 ybsqqegmkdonc.life CNAME .
 *.ybsqqegmkdonc.life CNAME .
 ybvcxmqpgtdyd.store CNAME .
