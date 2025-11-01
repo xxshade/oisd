@@ -1,16 +1,16 @@
-; Version: 202511012222
+; Version: 202511012322
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95854
-; Last modified: 2025-11-01T22:22:13+0000
+; Entries: 95846
+; Last modified: 2025-11-01T23:22:46+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762035121 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762038722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -60782,8 +60782,6 @@ opximages.webtool.net CNAME .
 *.opximages.webtool.net CNAME .
 opyavarfwqcpf.store CNAME .
 *.opyavarfwqcpf.store CNAME .
-oqdeyopgbwdppta.com CNAME .
-*.oqdeyopgbwdppta.com CNAME .
 oqdottagfm.com CNAME .
 *.oqdottagfm.com CNAME .
 oqezwhyvtyduh.click CNAME .
@@ -69924,8 +69922,6 @@ rjsayvndhakyn.online CNAME .
 *.rjsayvndhakyn.online CNAME .
 rjsdiikketqvt.online CNAME .
 *.rjsdiikketqvt.online CNAME .
-rjsdodsckzl.com CNAME .
-*.rjsdodsckzl.com CNAME .
 rjsq7ljyp.com CNAME .
 *.rjsq7ljyp.com CNAME .
 rjtzqgeltwaep.store CNAME .
@@ -72802,8 +72798,6 @@ sblfdxsencirl.website CNAME .
 *.sblfdxsencirl.website CNAME .
 sblhp.com CNAME .
 *.sblhp.com CNAME .
-sbmhbvlubnwzy.online CNAME .
-*.sbmhbvlubnwzy.online CNAME .
 sbmhqe.xyz CNAME .
 *.sbmhqe.xyz CNAME .
 sbndcrqwcfkvg.store CNAME .
@@ -86654,8 +86648,6 @@ urinegracefulfloating.com CNAME .
 *.urinegracefulfloating.com CNAME .
 urkbgdfhuc.global CNAME .
 *.urkbgdfhuc.global CNAME .
-urklgllhpelh.com CNAME .
-*.urklgllhpelh.com CNAME .
 url.isimsepeti.net CNAME .
 *.url.isimsepeti.net CNAME .
 urlcash.com CNAME .
