@@ -1,16 +1,16 @@
-; Version: 202511010713
+; Version: 202511010821
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95888
-; Last modified: 2025-11-01T07:13:23+0000
+; Entries: 95870
+; Last modified: 2025-11-01T08:21:00+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761977522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761984722 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18574,8 +18574,6 @@ bttrack.com CNAME .
 *.bttrack.com CNAME .
 btvhdscr.com CNAME .
 *.btvhdscr.com CNAME .
-btvuiqgio.xyz CNAME .
-*.btvuiqgio.xyz CNAME .
 btwpgvvevgssm.site CNAME .
 *.btwpgvvevgssm.site CNAME .
 btwqllmeezmjn.online CNAME .
@@ -25482,8 +25480,6 @@ cxvuaexnqejex.site CNAME .
 *.cxvuaexnqejex.site CNAME .
 cxy88.friok.com CNAME .
 *.cxy88.friok.com CNAME .
-cxybjjfupzolx.com CNAME .
-*.cxybjjfupzolx.com CNAME .
 cxyilbdocnfsi.space CNAME .
 *.cxyilbdocnfsi.space CNAME .
 cxzygwseuwnii.website CNAME .
@@ -30394,8 +30390,6 @@ djr4k68f8n55o.cloudfront.net CNAME .
 *.djr4k68f8n55o.cloudfront.net CNAME .
 djrkpoublcswv.store CNAME .
 *.djrkpoublcswv.store CNAME .
-djrrburvg.com CNAME .
-*.djrrburvg.com CNAME .
 djs.baomihua.com CNAME .
 *.djs.baomihua.com CNAME .
 djs.dsuaieuscx.lol CNAME .
@@ -48184,8 +48178,6 @@ jyvkwqjremmly.top CNAME .
 *.jyvkwqjremmly.top CNAME .
 jyvkwqjremqkz.top CNAME .
 *.jyvkwqjremqkz.top CNAME .
-jyvkwqjremwkq.top CNAME .
-*.jyvkwqjremwkq.top CNAME .
 jyxzaikrzaprd.site CNAME .
 *.jyxzaikrzaprd.site CNAME .
 jyzkut.com CNAME .
@@ -65316,8 +65308,6 @@ probableregret.com CNAME .
 *.probableregret.com CNAME .
 probablyusualcontraction.com CNAME .
 *.probablyusualcontraction.com CNAME .
-probedeclipse.cfd CNAME .
-*.probedeclipse.cfd CNAME .
 probedrevolts.cyou CNAME .
 *.probedrevolts.cyou CNAME .
 probersnobles.com CNAME .
@@ -76370,8 +76360,6 @@ spevybdnwkzzd.space CNAME .
 *.spevybdnwkzzd.space CNAME .
 spezialreporte.de CNAME .
 *.spezialreporte.de CNAME .
-spghuvzxdxezl.store CNAME .
-*.spghuvzxdxezl.store CNAME .
 spheredkapas.com CNAME .
 *.spheredkapas.com CNAME .
 spherical-brilliant.com CNAME .
@@ -80632,8 +80620,6 @@ tauvoojo.net CNAME .
 *.tauvoojo.net CNAME .
 tauzo.xyz CNAME .
 *.tauzo.xyz CNAME .
-tawerysuber.shop CNAME .
-*.tawerysuber.shop CNAME .
 taxconceivableseafood.com CNAME .
 *.taxconceivableseafood.com CNAME .
 taxility.com CNAME .
@@ -81542,8 +81528,6 @@ thrustlumpypulse.com CNAME .
 *.thrustlumpypulse.com CNAME .
 thstvv.com CNAME .
 *.thstvv.com CNAME .
-thtpyzahzpppu.website CNAME .
-*.thtpyzahzpppu.website CNAME .
 thubanoa.com CNAME .
 *.thubanoa.com CNAME .
 thugincompatibleme.com CNAME .
@@ -85438,8 +85422,6 @@ ubuyanalytics.ubuy.com CNAME .
 *.ubuyanalytics.ubuy.com CNAME .
 uc.ucweb.com CNAME .
 *.uc.ucweb.com CNAME .
-uc.xddi.ru CNAME .
-*.uc.xddi.ru CNAME .
 uc9.suinidai.com.cn CNAME .
 *.uc9.suinidai.com.cn CNAME .
 uc9.ucweb.com CNAME .
