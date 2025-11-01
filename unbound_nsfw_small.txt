@@ -1,9 +1,9 @@
-# Version: 202511011426
+# Version: 202511011527
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20435
-# Last modified: 2025-11-01T14:26:39+0000
+# Entries: 20440
+# Last modified: 2025-11-01T15:27:28+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -9814,6 +9814,7 @@ local-zone: "loquosex.com." always_null
 local-zone: "loquovip.com." always_null
 local-zone: "lordoftube.com." always_null
 local-zone: "losanalos.com." always_null
+local-zone: "loslujuriosos.com." always_null
 local-zone: "lostetas.cl." always_null
 local-zone: "lostshorts.com." always_null
 local-zone: "losttube.com." always_null
@@ -10863,6 +10864,7 @@ local-zone: "movies2watch.tv." always_null
 local-zone: "moviesonlinefree.site." always_null
 local-zone: "moviessexscenes.com." always_null
 local-zone: "moviesubtitles.org." always_null
+local-zone: "movieweb.com." always_null
 local-zone: "moviexxx.pro." always_null
 local-zone: "movilhentai.com." always_null
 local-zone: "movs18plus.com." always_null
@@ -11433,6 +11435,7 @@ local-zone: "newsexwap.com." always_null
 local-zone: "newsexxxx.com." always_null
 local-zone: "newshemalemodels.com." always_null
 local-zone: "newshemaletube.com." always_null
+local-zone: "newtwinkporn.com." always_null
 local-zone: "newvideossex.com." always_null
 local-zone: "newvideoxxx.com." always_null
 local-zone: "newxxx.pro." always_null
@@ -13499,6 +13502,7 @@ local-zone: "pornosliv.com." always_null
 local-zone: "pornoslon.co." always_null
 local-zone: "pornoslon.me." always_null
 local-zone: "pornoslon.ru." always_null
+local-zone: "pornoslon.su." always_null
 local-zone: "pornososki.com." always_null
 local-zone: "pornososki.name." always_null
 local-zone: "pornosoul.org." always_null
@@ -18271,6 +18275,7 @@ local-zone: "visitvirginiabeach.com." always_null
 local-zone: "viszonykereso.com." always_null
 local-zone: "viszonyom.com." always_null
 local-zone: "vivagals.com." always_null
+local-zone: "vivahentai4u.net." always_null
 local-zone: "vivamaxflix.com." always_null
 local-zone: "vivamaxph.com." always_null
 local-zone: "vivasexe.com." always_null
