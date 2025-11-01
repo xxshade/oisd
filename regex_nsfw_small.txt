@@ -1,9 +1,9 @@
-# Version: 202511011025
+# Version: 202511011126
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 20401
-# Last modified: 2025-11-01T10:25:10+0000
+# Entries: 20410
+# Last modified: 2025-11-01T11:26:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1188,6 +1188,7 @@
 /^(.*\.)?aporn\.pro$/
 /^(.*\.)?apornbase\.com$/
 /^(.*\.)?apornbox\.com$/
+/^(.*\.)?aporncollection\.com$/
 /^(.*\.)?apornfactory\.com$/
 /^(.*\.)?apornhome\.com$/
 /^(.*\.)?apornor\.art$/
@@ -3858,6 +3859,7 @@
 /^(.*\.)?darmowemamuski\.cyou$/
 /^(.*\.)?darthxporn\.com$/
 /^(.*\.)?dashandstars\.com$/
+/^(.*\.)?dasistporno\.com$/
 /^(.*\.)?dasixnxc\.com$/
 /^(.*\.)?dastansexy\.com$/
 /^(.*\.)?data18\.com$/
@@ -6269,6 +6271,7 @@
 /^(.*\.)?gaymaletube\.name$/
 /^(.*\.)?gaymasti\.com$/
 /^(.*\.)?gaymatchmaker\.com\.au$/
+/^(.*\.)?gaymec\.com$/
 /^(.*\.)?gaymeettoronto\.ca$/
 /^(.*\.)?gaymeister\.com$/
 /^(.*\.)?gaymenring\.com$/
@@ -9543,6 +9546,7 @@
 /^(.*\.)?lesbi\.xxx$/
 /^(.*\.)?lesbian\-galleries\.com$/
 /^(.*\.)?lesbian\-hookup\.org$/
+/^(.*\.)?lesbian\-mature\.org$/
 /^(.*\.)?lesbian8\.com$/
 /^(.*\.)?lesbianact\.com$/
 /^(.*\.)?lesbianall\.com$/
@@ -14504,6 +14508,7 @@
 /^(.*\.)?riverasian\.com$/
 /^(.*\.)?riverside\.rocks$/
 /^(.*\.)?rivgo\.com$/
+/^(.*\.)?riyana\.co\.in$/
 /^(.*\.)?riztube\.com$/
 /^(.*\.)?rk\.com$/
 /^(.*\.)?rlc\.tv$/
@@ -16142,6 +16147,7 @@
 /^(.*\.)?sosushka\.me$/
 /^(.*\.)?sosushka\.tv$/
 /^(.*\.)?soulkyn\.com$/
+/^(.*\.)?soundsip\.com$/
 /^(.*\.)?sousedskeflirty\.com$/
 /^(.*\.)?southern\-charms\.com$/
 /^(.*\.)?southern\-charms2\.com$/
@@ -17078,6 +17084,7 @@
 /^(.*\.)?tiktits\.com$/
 /^(.*\.)?tiktok\-pornhub\.com$/
 /^(.*\.)?tiktok18\.porn$/
+/^(.*\.)?tiktokpornstar\.com$/
 /^(.*\.)?tikxxx\.me$/
 /^(.*\.)?timekiller\.com$/
 /^(.*\.)?timtales\.com$/
@@ -17358,6 +17365,7 @@
 /^(.*\.)?trash\.porn$/
 /^(.*\.)?trashreality\.com$/
 /^(.*\.)?travchat\.fr$/
+/^(.*\.)?travesticomlocal\.com\.br$/
 /^(.*\.)?travestispremium\.com$/
 /^(.*\.)?travestisvip\.com\.br$/
 /^(.*\.)?traxvideos\.com$/
@@ -18170,6 +18178,7 @@
 /^(.*\.)?vintage\-erotica\-forum\.com$/
 /^(.*\.)?vintage8mmporn\.com$/
 /^(.*\.)?vintagealert\.com$/
+/^(.*\.)?vintageclassicp\.com$/
 /^(.*\.)?vintageclipsw\.com$/
 /^(.*\.)?vintagecuties\.com$/
 /^(.*\.)?vintagefplace\.com$/

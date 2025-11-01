@@ -1,9 +1,9 @@
-# Version: 202511011025
+# Version: 202511011126
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20401
-# Last modified: 2025-11-01T10:25:10+0000
+# Entries: 20410
+# Last modified: 2025-11-01T11:26:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1189,6 +1189,7 @@ local-zone: "apopularporn.com." always_null
 local-zone: "aporn.pro." always_null
 local-zone: "apornbase.com." always_null
 local-zone: "apornbox.com." always_null
+local-zone: "aporncollection.com." always_null
 local-zone: "apornfactory.com." always_null
 local-zone: "apornhome.com." always_null
 local-zone: "apornor.art." always_null
@@ -3859,6 +3860,7 @@ local-zone: "darmowecipki.com." always_null
 local-zone: "darmowemamuski.cyou." always_null
 local-zone: "darthxporn.com." always_null
 local-zone: "dashandstars.com." always_null
+local-zone: "dasistporno.com." always_null
 local-zone: "dasixnxc.com." always_null
 local-zone: "dastansexy.com." always_null
 local-zone: "data18.com." always_null
@@ -6270,6 +6272,7 @@ local-zone: "gaymaletube.com." always_null
 local-zone: "gaymaletube.name." always_null
 local-zone: "gaymasti.com." always_null
 local-zone: "gaymatchmaker.com.au." always_null
+local-zone: "gaymec.com." always_null
 local-zone: "gaymeettoronto.ca." always_null
 local-zone: "gaymeister.com." always_null
 local-zone: "gaymenring.com." always_null
@@ -9544,6 +9547,7 @@ local-zone: "lesb8.com." always_null
 local-zone: "lesbi.xxx." always_null
 local-zone: "lesbian-galleries.com." always_null
 local-zone: "lesbian-hookup.org." always_null
+local-zone: "lesbian-mature.org." always_null
 local-zone: "lesbian8.com." always_null
 local-zone: "lesbianact.com." always_null
 local-zone: "lesbianall.com." always_null
@@ -14505,6 +14509,7 @@ local-zone: "rivcash.com." always_null
 local-zone: "riverasian.com." always_null
 local-zone: "riverside.rocks." always_null
 local-zone: "rivgo.com." always_null
+local-zone: "riyana.co.in." always_null
 local-zone: "riztube.com." always_null
 local-zone: "rk.com." always_null
 local-zone: "rlc.tv." always_null
@@ -16143,6 +16148,7 @@ local-zone: "sosulki.com." always_null
 local-zone: "sosushka.me." always_null
 local-zone: "sosushka.tv." always_null
 local-zone: "soulkyn.com." always_null
+local-zone: "soundsip.com." always_null
 local-zone: "sousedskeflirty.com." always_null
 local-zone: "southern-charms.com." always_null
 local-zone: "southern-charms2.com." always_null
@@ -17079,6 +17085,7 @@ local-zone: "tiktaks.de." always_null
 local-zone: "tiktits.com." always_null
 local-zone: "tiktok-pornhub.com." always_null
 local-zone: "tiktok18.porn." always_null
+local-zone: "tiktokpornstar.com." always_null
 local-zone: "tikxxx.me." always_null
 local-zone: "timekiller.com." always_null
 local-zone: "timtales.com." always_null
@@ -17359,6 +17366,7 @@ local-zone: "traporn.com." always_null
 local-zone: "trash.porn." always_null
 local-zone: "trashreality.com." always_null
 local-zone: "travchat.fr." always_null
+local-zone: "travesticomlocal.com.br." always_null
 local-zone: "travestispremium.com." always_null
 local-zone: "travestisvip.com.br." always_null
 local-zone: "traxvideos.com." always_null
@@ -18171,6 +18179,7 @@ local-zone: "vinslave.com." always_null
 local-zone: "vintage-erotica-forum.com." always_null
 local-zone: "vintage8mmporn.com." always_null
 local-zone: "vintagealert.com." always_null
+local-zone: "vintageclassicp.com." always_null
 local-zone: "vintageclipsw.com." always_null
 local-zone: "vintagecuties.com." always_null
 local-zone: "vintagefplace.com." always_null
