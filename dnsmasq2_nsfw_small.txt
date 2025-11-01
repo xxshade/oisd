@@ -1,9 +1,9 @@
-# Version: 202511011828
+# Version: 202511012028
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 20441
-# Last modified: 2025-11-01T18:28:52+0000
+# Entries: 20444
+# Last modified: 2025-11-01T20:28:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -581,6 +581,8 @@ local=/adult-tv-channels.click/
 local=/adult-tv-channels.com/
 local=/adult-xxx-girls.com/
 local=/adult-xxx.cc/
+local=/adult66.net/
+local=/adult69.ro/
 local=/adultasianporn.com/
 local=/adultcamlover.com/
 local=/adultcammoney.com/
@@ -16434,6 +16436,7 @@ local=/suloisethetket.com/
 local=/sumire-kawasaki.com/
 local=/summerhamster.com/
 local=/summertimesaga.com/
+local=/summitbucharest.ro/
 local=/sun-porno.com/
 local=/sunnytgp.com/
 local=/sunporn.com/

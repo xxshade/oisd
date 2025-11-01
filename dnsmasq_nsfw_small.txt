@@ -1,9 +1,9 @@
-# Version: 202511011828
+# Version: 202511012028
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 20441
-# Last modified: 2025-11-01T18:28:52+0000
+# Entries: 20444
+# Last modified: 2025-11-01T20:28:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -581,6 +581,8 @@ server=/adult-tv-channels.click/
 server=/adult-tv-channels.com/
 server=/adult-xxx-girls.com/
 server=/adult-xxx.cc/
+server=/adult66.net/
+server=/adult69.ro/
 server=/adultasianporn.com/
 server=/adultcamlover.com/
 server=/adultcammoney.com/
@@ -16434,6 +16436,7 @@ server=/suloisethetket.com/
 server=/sumire-kawasaki.com/
 server=/summerhamster.com/
 server=/summertimesaga.com/
+server=/summitbucharest.ro/
 server=/sun-porno.com/
 server=/sunnytgp.com/
 server=/sunporn.com/

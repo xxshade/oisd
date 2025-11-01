@@ -1,9 +1,9 @@
-# Version: 202511011828
+# Version: 202511012028
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20441
-# Last modified: 2025-11-01T18:28:53+0000
+# Entries: 20444
+# Last modified: 2025-11-01T20:28:05+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -582,6 +582,8 @@ local-zone: "adult-tv-channels.click." always_null
 local-zone: "adult-tv-channels.com." always_null
 local-zone: "adult-xxx-girls.com." always_null
 local-zone: "adult-xxx.cc." always_null
+local-zone: "adult66.net." always_null
+local-zone: "adult69.ro." always_null
 local-zone: "adultasianporn.com." always_null
 local-zone: "adultcamlover.com." always_null
 local-zone: "adultcammoney.com." always_null
@@ -16435,6 +16437,7 @@ local-zone: "suloisethetket.com." always_null
 local-zone: "sumire-kawasaki.com." always_null
 local-zone: "summerhamster.com." always_null
 local-zone: "summertimesaga.com." always_null
+local-zone: "summitbucharest.ro." always_null
 local-zone: "sun-porno.com." always_null
 local-zone: "sunnytgp.com." always_null
 local-zone: "sunporn.com." always_null
