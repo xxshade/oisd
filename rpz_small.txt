@@ -1,16 +1,16 @@
-; Version: 202511011622
+; Version: 202511011723
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95798
-; Last modified: 2025-11-01T16:22:59+0000
+; Entries: 95784
+; Last modified: 2025-11-01T17:23:45+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762013522 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762017122 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -15748,8 +15748,6 @@ bborxjkan.com CNAME .
 *.bborxjkan.com CNAME .
 bboy1.com CNAME .
 *.bboy1.com CNAME .
-bbqtxxkyqk.net CNAME .
-*.bbqtxxkyqk.net CNAME .
 bbrav96ax.com CNAME .
 *.bbrav96ax.com CNAME .
 bbrdbr.com CNAME .
@@ -50186,8 +50184,6 @@ leadzu.com CNAME .
 *.leadzu.com CNAME .
 leadzupc.com CNAME .
 *.leadzupc.com CNAME .
-leafingcoitus.website CNAME .
-*.leafingcoitus.website CNAME .
 leafletstoesimplicity.com CNAME .
 *.leafletstoesimplicity.com CNAME .
 leafy-feel.com CNAME .
@@ -56598,8 +56594,6 @@ multiupload.com CNAME .
 *.multiupload.com CNAME .
 multiwall-ads.shop CNAME .
 *.multiwall-ads.shop CNAME .
-multstorage.com CNAME .
-*.multstorage.com CNAME .
 mum.alibabachengdun.com CNAME .
 *.mum.alibabachengdun.com CNAME .
 mumblesinwheel.cyou CNAME .
@@ -60408,8 +60402,6 @@ onlinneoffers.com CNAME .
 *.onlinneoffers.com CNAME .
 onlyassigncoherence.com CNAME .
 *.onlyassigncoherence.com CNAME .
-onlyneedtoreadnotebook.buzz CNAME .
-*.onlyneedtoreadnotebook.buzz CNAME .
 onlyry.net CNAME .
 *.onlyry.net CNAME .
 onlyticpodvinedeminix.com CNAME .
@@ -61202,8 +61194,6 @@ outcomefriendlysurname.com CNAME .
 *.outcomefriendlysurname.com CNAME .
 outcullhanses.rest CNAME .
 *.outcullhanses.rest CNAME .
-outdrawallie.rest CNAME .
-*.outdrawallie.rest CNAME .
 outelectrodean.com CNAME .
 *.outelectrodean.com CNAME .
 outenoxalite.help CNAME .
@@ -66472,8 +66462,6 @@ pvdbkr.com CNAME .
 *.pvdbkr.com CNAME .
 pvgcedbveetxz.website CNAME .
 *.pvgcedbveetxz.website CNAME .
-pvk2e.icu CNAME .
-*.pvk2e.icu CNAME .
 pvnwap.zol.com.cn CNAME .
 *.pvnwap.zol.com.cn CNAME .
 pvnwfoxrfezes.space CNAME .
@@ -86388,8 +86376,6 @@ updatemobilee.com CNAME .
 *.updatemobilee.com CNAME .
 updaterecomended.info CNAME .
 *.updaterecomended.info CNAME .
-updatetwitch.shop CNAME .
-*.updatetwitch.shop CNAME .
 updeckdagos.help CNAME .
 *.updeckdagos.help CNAME .
 updservice.site CNAME .
