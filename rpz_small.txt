@@ -1,16 +1,16 @@
-; Version: 202511010521
+; Version: 202511010713
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95898
-; Last modified: 2025-11-01T05:21:12+0000
+; Entries: 95888
+; Last modified: 2025-11-01T07:13:23+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761973921 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761977522 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -30050,8 +30050,6 @@ directtrck.com CNAME .
 *.directtrck.com CNAME .
 direeyesightstray.com CNAME .
 *.direeyesightstray.com CNAME .
-dirgushuvat.com CNAME .
-*.dirgushuvat.com CNAME .
 dirlink.net CNAME .
 *.dirlink.net CNAME .
 dirtharvestnickel.com CNAME .
@@ -40952,8 +40950,6 @@ grizzledcourage.pro CNAME .
 *.grizzledcourage.pro CNAME .
 grjqvelblmzmu.website CNAME .
 *.grjqvelblmzmu.website CNAME .
-grmciysmhnyaj.site CNAME .
-*.grmciysmhnyaj.site CNAME .
 grmzwc.icu CNAME .
 *.grmzwc.icu CNAME .
 groagneeckaifoo.com CNAME .
@@ -42970,8 +42966,6 @@ hjdjfl.icu CNAME .
 *.hjdjfl.icu CNAME .
 hjdrlkhcnkesl.site CNAME .
 *.hjdrlkhcnkesl.site CNAME .
-hjgphtjhatpdo.online CNAME .
-*.hjgphtjhatpdo.online CNAME .
 hjj.pw CNAME .
 *.hjj.pw CNAME .
 hjjugtkcrizxg.website CNAME .
@@ -85214,8 +85208,6 @@ tzahvkqybkdrx.store CNAME .
 *.tzahvkqybkdrx.store CNAME .
 tzarurnful.rest CNAME .
 *.tzarurnful.rest CNAME .
-tzeeqofqhqrag.website CNAME .
-*.tzeeqofqhqrag.website CNAME .
 tzegilo.com CNAME .
 *.tzegilo.com CNAME .
 tzepbopyvsdav.site CNAME .
@@ -87850,8 +87842,6 @@ vhsrwd.aip24.pl CNAME .
 *.vhsrwd.aip24.pl CNAME .
 vhxzfz.icu CNAME .
 *.vhxzfz.icu CNAME .
-vhydtocme.com CNAME .
-*.vhydtocme.com CNAME .
 vhzcewosjxcxe.website CNAME .
 *.vhzcewosjxcxe.website CNAME .
 vi.l.qq.com CNAME .
