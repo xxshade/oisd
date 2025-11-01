@@ -1,9 +1,9 @@
-# Version: 202511011226
+# Version: 202511011326
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20420
-# Last modified: 2025-11-01T12:26:41+0000
+# Entries: 20427
+# Last modified: 2025-11-01T13:26:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -3373,6 +3373,7 @@ local-zone: "ciaoamigos.it." always_null
 local-zone: "cicisex.net." always_null
 local-zone: "cigarettesaftersex.com." always_null
 local-zone: "cila-mesta.ru." always_null
+local-zone: "cin.guru." always_null
 local-zone: "cin.mom." always_null
 local-zone: "cin.monster." always_null
 local-zone: "cin.pw." always_null
@@ -3807,6 +3808,7 @@ local-zone: "daftporn.top." always_null
 local-zone: "daftsex.biz." always_null
 local-zone: "daftsex.com." always_null
 local-zone: "daftsex.com.es." always_null
+local-zone: "daftsex.net." always_null
 local-zone: "daftsex.org." always_null
 local-zone: "daftsextube.com." always_null
 local-zone: "daily-camshow-report.com." always_null
@@ -4438,6 +4440,7 @@ local-zone: "dvderotik.com." always_null
 local-zone: "dvdgayonline.com." always_null
 local-zone: "dvdl.net." always_null
 local-zone: "dvdrev.com." always_null
+local-zone: "dvtk-1.ru." always_null
 local-zone: "dww.at." always_null
 local-zone: "dxlive.com." always_null
 local-zone: "dynasty-scans.com." always_null
@@ -4642,6 +4645,7 @@ local-zone: "eporner.name." always_null
 local-zone: "eporner.porn." always_null
 local-zone: "eporner.video." always_null
 local-zone: "epornerpics.com." always_null
+local-zone: "epornerporn.com." always_null
 local-zone: "epornhome.com." always_null
 local-zone: "epornhub.net." always_null
 local-zone: "epornlady.com." always_null
@@ -7260,6 +7264,7 @@ local-zone: "hentaijogos.com." always_null
 local-zone: "hentaijuggs.com." always_null
 local-zone: "hentaikai.com." always_null
 local-zone: "hentaikey.com." always_null
+local-zone: "hentaikoche.com." always_null
 local-zone: "hentaikuindo.me." always_null
 local-zone: "hentaikun.com." always_null
 local-zone: "hentaila.io." always_null
@@ -9832,6 +9837,7 @@ local-zone: "loveherfilms.com." always_null
 local-zone: "lovehkfilm.com." always_null
 local-zone: "lovehomeporn.com." always_null
 local-zone: "lovehoney.ca." always_null
+local-zone: "lovehoney.co.uk." always_null
 local-zone: "lovehoney.com." always_null
 local-zone: "lovehoney.com.au." always_null
 local-zone: "lovehoney.eu." always_null
@@ -19862,6 +19868,7 @@ local-zone: "xxxmom.net." always_null
 local-zone: "xxxmom.pro." always_null
 local-zone: "xxxmom.su." always_null
 local-zone: "xxxmov.bond." always_null
+local-zone: "xxxmov.co." always_null
 local-zone: "xxxmovies.life." always_null
 local-zone: "xxxmovies.su." always_null
 local-zone: "xxxmovies.wiki." always_null

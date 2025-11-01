@@ -1,16 +1,16 @@
-; Version: 202511011226
+; Version: 202511011326
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40840
-; Last modified: 2025-11-01T12:26:41+0000
+; Entries: 40854
+; Last modified: 2025-11-01T13:26:41+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761999122 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762002721 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -6738,6 +6738,8 @@ cigarettesaftersex.com CNAME .
 *.cigarettesaftersex.com CNAME .
 cila-mesta.ru CNAME .
 *.cila-mesta.ru CNAME .
+cin.guru CNAME .
+*.cin.guru CNAME .
 cin.mom CNAME .
 *.cin.mom CNAME .
 cin.monster CNAME .
@@ -7606,6 +7608,8 @@ daftsex.com CNAME .
 *.daftsex.com CNAME .
 daftsex.com.es CNAME .
 *.daftsex.com.es CNAME .
+daftsex.net CNAME .
+*.daftsex.net CNAME .
 daftsex.org CNAME .
 *.daftsex.org CNAME .
 daftsextube.com CNAME .
@@ -8868,6 +8872,8 @@ dvdl.net CNAME .
 *.dvdl.net CNAME .
 dvdrev.com CNAME .
 *.dvdrev.com CNAME .
+dvtk-1.ru CNAME .
+*.dvtk-1.ru CNAME .
 dww.at CNAME .
 *.dww.at CNAME .
 dxlive.com CNAME .
@@ -9276,6 +9282,8 @@ eporner.video CNAME .
 *.eporner.video CNAME .
 epornerpics.com CNAME .
 *.epornerpics.com CNAME .
+epornerporn.com CNAME .
+*.epornerporn.com CNAME .
 epornhome.com CNAME .
 *.epornhome.com CNAME .
 epornhub.net CNAME .
@@ -14512,6 +14520,8 @@ hentaikai.com CNAME .
 *.hentaikai.com CNAME .
 hentaikey.com CNAME .
 *.hentaikey.com CNAME .
+hentaikoche.com CNAME .
+*.hentaikoche.com CNAME .
 hentaikuindo.me CNAME .
 *.hentaikuindo.me CNAME .
 hentaikun.com CNAME .
@@ -19656,6 +19666,8 @@ lovehomeporn.com CNAME .
 *.lovehomeporn.com CNAME .
 lovehoney.ca CNAME .
 *.lovehoney.ca CNAME .
+lovehoney.co.uk CNAME .
+*.lovehoney.co.uk CNAME .
 lovehoney.com CNAME .
 *.lovehoney.com CNAME .
 lovehoney.com.au CNAME .
@@ -39716,6 +39728,8 @@ xxxmom.su CNAME .
 *.xxxmom.su CNAME .
 xxxmov.bond CNAME .
 *.xxxmov.bond CNAME .
+xxxmov.co CNAME .
+*.xxxmov.co CNAME .
 xxxmovies.life CNAME .
 *.xxxmovies.life CNAME .
 xxxmovies.su CNAME .
