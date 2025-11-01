@@ -1,9 +1,9 @@
-# Version: 202511010825
+# Version: 202511010926
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20390
-# Last modified: 2025-11-01T08:25:02+0000
+# Entries: 20395
+# Last modified: 2025-11-01T09:26:02+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2614,6 +2614,7 @@ local-zone: "boundstories.net." always_null
 local-zone: "boutiqueerotica.com.uy." always_null
 local-zone: "bovids.icu." always_null
 local-zone: "bowlatstrike.com." always_null
+local-zone: "boxofp.com." always_null
 local-zone: "boy18tube.com." always_null
 local-zone: "boyfriend.dk." always_null
 local-zone: "boyfriend.show." always_null
@@ -5737,6 +5738,7 @@ local-zone: "freecamsfan.com." always_null
 local-zone: "freecartoons.biz." always_null
 local-zone: "freecatfights.com." always_null
 local-zone: "freechatnow.com." always_null
+local-zone: "freechatnow.onl." always_null
 local-zone: "freecomiconline.me." always_null
 local-zone: "freecomics.xxx." always_null
 local-zone: "freecoolporn.com." always_null
@@ -7944,6 +7946,7 @@ local-zone: "hytto.com." always_null
 local-zone: "hz-hentai.com." always_null
 local-zone: "i-sux.com." always_null
 local-zone: "i-videos.jp." always_null
+local-zone: "i-xxxvideos.xyz." always_null
 local-zone: "i69xx.me." always_null
 local-zone: "i9betsex.com." always_null
 local-zone: "iafd.com." always_null
@@ -9329,6 +9332,7 @@ local-zone: "kosexy.com." always_null
 local-zone: "kostenlosereifefrauen.com." always_null
 local-zone: "kotonescort.com." always_null
 local-zone: "kovkadeshevo.ru." always_null
+local-zone: "kr18plus.com." always_null
 local-zone: "kr3x.com." always_null
 local-zone: "krasavica.info." always_null
 local-zone: "krasnodarwsm.com." always_null
@@ -12106,6 +12110,7 @@ local-zone: "pakistaniporn.tv." always_null
 local-zone: "pakistaniporns.com." always_null
 local-zone: "pakistanipornx.com." always_null
 local-zone: "pakistanipornx.net." always_null
+local-zone: "pakistaniwife.com." always_null
 local-zone: "pakistanixxxtube.mobi." always_null
 local-zone: "pakistanporn.info." always_null
 local-zone: "pakistanporntube.net." always_null
@@ -15205,6 +15210,7 @@ local-zone: "sexfreehd.xxx." always_null
 local-zone: "sexfrisk.com." always_null
 local-zone: "sexfullmovies.net." always_null
 local-zone: "sexfun.nl." always_null
+local-zone: "sexgaigoi.cc." always_null
 local-zone: "sexgaimup.blog." always_null
 local-zone: "sexgames.cc." always_null
 local-zone: "sexgayfilms.com." always_null
@@ -17029,7 +17035,6 @@ local-zone: "thri.xxx." always_null
 local-zone: "thrixxx.com." always_null
 local-zone: "throated.com." always_null
 local-zone: "thrupnies.com." always_null
-local-zone: "thsite.top." always_null
 local-zone: "thudam.tube." always_null
 local-zone: "thuis.nl." always_null
 local-zone: "thumbnailseries.com." always_null
