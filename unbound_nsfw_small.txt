@@ -1,9 +1,9 @@
-# Version: 202511011527
+# Version: 202511011828
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20440
-# Last modified: 2025-11-01T15:27:28+0000
+# Entries: 20441
+# Last modified: 2025-11-01T18:28:53+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -20272,6 +20272,7 @@ local-zone: "z00.rocks." always_null
 local-zone: "z00y.com." always_null
 local-zone: "zabuz.net." always_null
 local-zone: "zacbrownband.com." always_null
+local-zone: "zacknation.net." always_null
 local-zone: "zadasas.com." always_null
 local-zone: "zadultclips.com." always_null
 local-zone: "zadultmovies.com." always_null
