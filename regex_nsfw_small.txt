@@ -1,9 +1,9 @@
-# Version: 202511012127
+# Version: 202511012226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Regex
-# Entries: 20446
-# Last modified: 2025-11-01T21:27:41+0000
+# Entries: 20447
+# Last modified: 2025-11-01T22:26:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14970,6 +14970,7 @@
 /^(.*\.)?senioriflirtti\.com$/
 /^(.*\.)?seniorsexpartner\.com$/
 /^(.*\.)?seniorsizzle\.com$/
+/^(.*\.)?senkys\.com$/
 /^(.*\.)?sensationalcash\.com$/
 /^(.*\.)?sensationalvideo\.com$/
 /^(.*\.)?sensitivecontent\.info$/

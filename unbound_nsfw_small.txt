@@ -1,9 +1,9 @@
-# Version: 202511012127
+# Version: 202511012226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20446
-# Last modified: 2025-11-01T21:27:42+0000
+# Entries: 20447
+# Last modified: 2025-11-01T22:26:35+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -14971,6 +14971,7 @@ local-zone: "seniorfriendfinder.com." always_null
 local-zone: "senioriflirtti.com." always_null
 local-zone: "seniorsexpartner.com." always_null
 local-zone: "seniorsizzle.com." always_null
+local-zone: "senkys.com." always_null
 local-zone: "sensationalcash.com." always_null
 local-zone: "sensationalvideo.com." always_null
 local-zone: "sensitivecontent.info." always_null
