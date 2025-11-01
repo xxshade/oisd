@@ -1,9 +1,9 @@
-# Version: 202511011126
+# Version: 202511011226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20410
-# Last modified: 2025-11-01T11:26:02+0000
+# Entries: 20420
+# Last modified: 2025-11-01T12:26:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -408,6 +408,7 @@ local-zone: "8animal.com." always_null
 local-zone: "8boobs.com." always_null
 local-zone: "8chan.moe." always_null
 local-zone: "8freeporn.com." always_null
+local-zone: "8kcosplay.com." always_null
 local-zone: "8kporner.com." always_null
 local-zone: "8kpornvids.com." always_null
 local-zone: "8kun.top." always_null
@@ -448,6 +449,7 @@ local-zone: "98lotto.net." always_null
 local-zone: "999xyev.com." always_null
 local-zone: "99classic.com." always_null
 local-zone: "99re.com." always_null
+local-zone: "99xing.cc." always_null
 local-zone: "9hentai.so." always_null
 local-zone: "9hentai.uk." always_null
 local-zone: "9sexnhathd.com." always_null
@@ -1622,6 +1624,7 @@ local-zone: "aznudefeet.com." always_null
 local-zone: "aznudelive.com." always_null
 local-zone: "azporncomics.com." always_null
 local-zone: "azporncomics.site." always_null
+local-zone: "azpornhd.com." always_null
 local-zone: "azpornpics.com." always_null
 local-zone: "aztecaporno.com." always_null
 local-zone: "azuki.co." always_null
@@ -4312,6 +4315,7 @@ local-zone: "doodlix.fun." always_null
 local-zone: "doodoo.ru." always_null
 local-zone: "doodwebtv.fun." always_null
 local-zone: "doojavna.com." always_null
+local-zone: "dooporn24.vip." always_null
 local-zone: "doporntube.com." always_null
 local-zone: "dorcel.com." always_null
 local-zone: "dorcelcash.com." always_null
@@ -10183,6 +10187,7 @@ local-zone: "masseurfinder.com." always_null
 local-zone: "massierendeladies.de." always_null
 local-zone: "massivecams.com." always_null
 local-zone: "massivecams.tv." always_null
+local-zone: "masterdesi.com." always_null
 local-zone: "masterfap.net." always_null
 local-zone: "masterpaj.com." always_null
 local-zone: "mastertgp.net." always_null
@@ -11053,6 +11058,7 @@ local-zone: "myladyboycupid.com." always_null
 local-zone: "myladyboydate.com." always_null
 local-zone: "mylatinabride.com." always_null
 local-zone: "mylen-handmade.ru." always_null
+local-zone: "mylesbianfuck.com." always_null
 local-zone: "mylesbianp.com." always_null
 local-zone: "mylesbop.com." always_null
 local-zone: "mylf.com." always_null
@@ -13555,6 +13561,7 @@ local-zone: "pornozak.vip." always_null
 local-zone: "pornozalupa.online." always_null
 local-zone: "pornozavod.cc." always_null
 local-zone: "pornozavod.top." always_null
+local-zone: "pornozavod.vip." always_null
 local-zone: "pornozavr.net." always_null
 local-zone: "pornozdarma.cz." always_null
 local-zone: "pornozebra.com." always_null
@@ -18359,6 +18366,7 @@ local-zone: "vrs1premium.org." always_null
 local-zone: "vrsmash.com." always_null
 local-zone: "vrspy.com." always_null
 local-zone: "vrsumo.com." always_null
+local-zone: "vrtnws.be." always_null
 local-zone: "vrxdb.com." always_null
 local-zone: "vrxxx.com." always_null
 local-zone: "vs3.com." always_null
@@ -20149,6 +20157,7 @@ local-zone: "youjizz.markets." always_null
 local-zone: "youjizz.sex." always_null
 local-zone: "youjizzlive.com." always_null
 local-zone: "youmustfuck.com." always_null
+local-zone: "youmydaddy.com." always_null
 local-zone: "youncensored.com." always_null
 local-zone: "young-amateurs.com." always_null
 local-zone: "young-dreams.com." always_null
@@ -20324,6 +20333,7 @@ local-zone: "zoobeeg.net." always_null
 local-zone: "zoobonus.club." always_null
 local-zone: "zoofiction.com." always_null
 local-zone: "zoofilia.club." always_null
+local-zone: "zoofilia.info." always_null
 local-zone: "zoofilia.site." always_null
 local-zone: "zoofilia.top." always_null
 local-zone: "zoofilia.us." always_null

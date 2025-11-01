@@ -1,9 +1,9 @@
-# Version: 202511011126
+# Version: 202511011226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq below ver 2.86
-# Entries: 20410
-# Last modified: 2025-11-01T11:26:02+0000
+# Entries: 20420
+# Last modified: 2025-11-01T12:26:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -407,6 +407,7 @@ server=/8animal.com/
 server=/8boobs.com/
 server=/8chan.moe/
 server=/8freeporn.com/
+server=/8kcosplay.com/
 server=/8kporner.com/
 server=/8kpornvids.com/
 server=/8kun.top/
@@ -447,6 +448,7 @@ server=/98lotto.net/
 server=/999xyev.com/
 server=/99classic.com/
 server=/99re.com/
+server=/99xing.cc/
 server=/9hentai.so/
 server=/9hentai.uk/
 server=/9sexnhathd.com/
@@ -1621,6 +1623,7 @@ server=/aznudefeet.com/
 server=/aznudelive.com/
 server=/azporncomics.com/
 server=/azporncomics.site/
+server=/azpornhd.com/
 server=/azpornpics.com/
 server=/aztecaporno.com/
 server=/azuki.co/
@@ -4311,6 +4314,7 @@ server=/doodlix.fun/
 server=/doodoo.ru/
 server=/doodwebtv.fun/
 server=/doojavna.com/
+server=/dooporn24.vip/
 server=/doporntube.com/
 server=/dorcel.com/
 server=/dorcelcash.com/
@@ -10182,6 +10186,7 @@ server=/masseurfinder.com/
 server=/massierendeladies.de/
 server=/massivecams.com/
 server=/massivecams.tv/
+server=/masterdesi.com/
 server=/masterfap.net/
 server=/masterpaj.com/
 server=/mastertgp.net/
@@ -11052,6 +11057,7 @@ server=/myladyboycupid.com/
 server=/myladyboydate.com/
 server=/mylatinabride.com/
 server=/mylen-handmade.ru/
+server=/mylesbianfuck.com/
 server=/mylesbianp.com/
 server=/mylesbop.com/
 server=/mylf.com/
@@ -13554,6 +13560,7 @@ server=/pornozak.vip/
 server=/pornozalupa.online/
 server=/pornozavod.cc/
 server=/pornozavod.top/
+server=/pornozavod.vip/
 server=/pornozavr.net/
 server=/pornozdarma.cz/
 server=/pornozebra.com/
@@ -18358,6 +18365,7 @@ server=/vrs1premium.org/
 server=/vrsmash.com/
 server=/vrspy.com/
 server=/vrsumo.com/
+server=/vrtnws.be/
 server=/vrxdb.com/
 server=/vrxxx.com/
 server=/vs3.com/
@@ -20148,6 +20156,7 @@ server=/youjizz.markets/
 server=/youjizz.sex/
 server=/youjizzlive.com/
 server=/youmustfuck.com/
+server=/youmydaddy.com/
 server=/youncensored.com/
 server=/young-amateurs.com/
 server=/young-dreams.com/
@@ -20323,6 +20332,7 @@ server=/zoobeeg.net/
 server=/zoobonus.club/
 server=/zoofiction.com/
 server=/zoofilia.club/
+server=/zoofilia.info/
 server=/zoofilia.site/
 server=/zoofilia.top/
 server=/zoofilia.us/

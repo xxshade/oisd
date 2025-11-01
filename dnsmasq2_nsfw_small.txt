@@ -1,9 +1,9 @@
-# Version: 202511011126
+# Version: 202511011226
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 20410
-# Last modified: 2025-11-01T11:26:02+0000
+# Entries: 20420
+# Last modified: 2025-11-01T12:26:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -407,6 +407,7 @@ local=/8animal.com/
 local=/8boobs.com/
 local=/8chan.moe/
 local=/8freeporn.com/
+local=/8kcosplay.com/
 local=/8kporner.com/
 local=/8kpornvids.com/
 local=/8kun.top/
@@ -447,6 +448,7 @@ local=/98lotto.net/
 local=/999xyev.com/
 local=/99classic.com/
 local=/99re.com/
+local=/99xing.cc/
 local=/9hentai.so/
 local=/9hentai.uk/
 local=/9sexnhathd.com/
@@ -1621,6 +1623,7 @@ local=/aznudefeet.com/
 local=/aznudelive.com/
 local=/azporncomics.com/
 local=/azporncomics.site/
+local=/azpornhd.com/
 local=/azpornpics.com/
 local=/aztecaporno.com/
 local=/azuki.co/
@@ -4311,6 +4314,7 @@ local=/doodlix.fun/
 local=/doodoo.ru/
 local=/doodwebtv.fun/
 local=/doojavna.com/
+local=/dooporn24.vip/
 local=/doporntube.com/
 local=/dorcel.com/
 local=/dorcelcash.com/
@@ -10182,6 +10186,7 @@ local=/masseurfinder.com/
 local=/massierendeladies.de/
 local=/massivecams.com/
 local=/massivecams.tv/
+local=/masterdesi.com/
 local=/masterfap.net/
 local=/masterpaj.com/
 local=/mastertgp.net/
@@ -11052,6 +11057,7 @@ local=/myladyboycupid.com/
 local=/myladyboydate.com/
 local=/mylatinabride.com/
 local=/mylen-handmade.ru/
+local=/mylesbianfuck.com/
 local=/mylesbianp.com/
 local=/mylesbop.com/
 local=/mylf.com/
@@ -13554,6 +13560,7 @@ local=/pornozak.vip/
 local=/pornozalupa.online/
 local=/pornozavod.cc/
 local=/pornozavod.top/
+local=/pornozavod.vip/
 local=/pornozavr.net/
 local=/pornozdarma.cz/
 local=/pornozebra.com/
@@ -18358,6 +18365,7 @@ local=/vrs1premium.org/
 local=/vrsmash.com/
 local=/vrspy.com/
 local=/vrsumo.com/
+local=/vrtnws.be/
 local=/vrxdb.com/
 local=/vrxxx.com/
 local=/vs3.com/
@@ -20148,6 +20156,7 @@ local=/youjizz.markets/
 local=/youjizz.sex/
 local=/youjizzlive.com/
 local=/youmustfuck.com/
+local=/youmydaddy.com/
 local=/youncensored.com/
 local=/young-amateurs.com/
 local=/young-dreams.com/
@@ -20323,6 +20332,7 @@ local=/zoobeeg.net/
 local=/zoobonus.club/
 local=/zoofiction.com/
 local=/zoofilia.club/
+local=/zoofilia.info/
 local=/zoofilia.site/
 local=/zoofilia.top/
 local=/zoofilia.us/
