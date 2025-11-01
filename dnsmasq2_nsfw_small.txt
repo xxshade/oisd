@@ -1,9 +1,9 @@
-# Version: 202511012028
+# Version: 202511012127
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: DNSMasq ver 2.86 and above
-# Entries: 20444
-# Last modified: 2025-11-01T20:28:05+0000
+# Entries: 20446
+# Last modified: 2025-11-01T21:27:41+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8583,6 +8583,7 @@ local=/jav-pics.com/
 local=/jav.autos/
 local=/jav.beauty/
 local=/jav.com.co/
+local=/jav.direct/
 local=/jav.directory/
 local=/jav.earth/
 local=/jav.gallery/
@@ -10591,6 +10592,7 @@ local=/milftoon.org/
 local=/milftoon.xxx/
 local=/milftop.com/
 local=/milftube.today/
+local=/milftube.watch/
 local=/milfvr.com/
 local=/milfxl.com/
 local=/milfxteen.day/

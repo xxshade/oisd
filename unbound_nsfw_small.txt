@@ -1,9 +1,9 @@
-# Version: 202511012028
+# Version: 202511012127
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20444
-# Last modified: 2025-11-01T20:28:05+0000
+# Entries: 20446
+# Last modified: 2025-11-01T21:27:42+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -8584,6 +8584,7 @@ local-zone: "jav-pics.com." always_null
 local-zone: "jav.autos." always_null
 local-zone: "jav.beauty." always_null
 local-zone: "jav.com.co." always_null
+local-zone: "jav.direct." always_null
 local-zone: "jav.directory." always_null
 local-zone: "jav.earth." always_null
 local-zone: "jav.gallery." always_null
@@ -10592,6 +10593,7 @@ local-zone: "milftoon.org." always_null
 local-zone: "milftoon.xxx." always_null
 local-zone: "milftop.com." always_null
 local-zone: "milftube.today." always_null
+local-zone: "milftube.watch." always_null
 local-zone: "milfvr.com." always_null
 local-zone: "milfxl.com." always_null
 local-zone: "milfxteen.day." always_null
