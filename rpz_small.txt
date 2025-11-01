@@ -1,16 +1,16 @@
-; Version: 202511012123
+; Version: 202511012222
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95870
-; Last modified: 2025-11-01T21:23:19+0000
+; Entries: 95854
+; Last modified: 2025-11-01T22:22:13+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762031521 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762035121 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -24442,8 +24442,6 @@ cpro.zol.com.cn CNAME .
 *.cpro.zol.com.cn CNAME .
 cpt.geniee.jp CNAME .
 *.cpt.geniee.jp CNAME .
-cptjftef.com CNAME .
-*.cptjftef.com CNAME .
 cpu.baidu.com CNAME .
 *.cpu.baidu.com CNAME .
 cpuim.com CNAME .
@@ -33542,8 +33540,6 @@ emblemexceptionscorer.com CNAME .
 *.emblemexceptionscorer.com CNAME .
 emblicsabaism.qpon CNAME .
 *.emblicsabaism.qpon CNAME .
-emboitejebat.qpon CNAME .
-*.emboitejebat.qpon CNAME .
 embpsubecawmj.website CNAME .
 *.embpsubecawmj.website CNAME .
 embroiderynaturalistsfighter.com CNAME .
@@ -38432,8 +38428,6 @@ fxlcvd.icu CNAME .
 *.fxlcvd.icu CNAME .
 fxmnba.com CNAME .
 *.fxmnba.com CNAME .
-fxoflkcbrr.com CNAME .
-*.fxoflkcbrr.com CNAME .
 fxoljhfvnvg.com CNAME .
 *.fxoljhfvnvg.com CNAME .
 fxqikdwtgabho.website CNAME .
@@ -43808,8 +43802,6 @@ humpdecompose.com CNAME .
 *.humpdecompose.com CNAME .
 humraaz.com CNAME .
 *.humraaz.com CNAME .
-humro.site CNAME .
-*.humro.site CNAME .
 humsoolt.net CNAME .
 *.humsoolt.net CNAME .
 humwatson.click CNAME .
@@ -44958,8 +44950,6 @@ imap.dpsl.net CNAME .
 *.imap.dpsl.net CNAME .
 imapi-sg.isnssdk.com CNAME .
 *.imapi-sg.isnssdk.com CNAME .
-imarketservices.com CNAME .
-*.imarketservices.com CNAME .
 imbandptoses.world CNAME .
 *.imbandptoses.world CNAME .
 imbet.site CNAME .
@@ -47276,8 +47266,6 @@ jk4lmrf2.de CNAME .
 *.jk4lmrf2.de CNAME .
 jkajyrkjmoeez.top CNAME .
 *.jkajyrkjmoeez.top CNAME .
-jkajyrkjmoljl.top CNAME .
-*.jkajyrkjmoljl.top CNAME .
 jkajyrkjmozeb.top CNAME .
 *.jkajyrkjmozeb.top CNAME .
 jkaztwupdrdvz.store CNAME .
@@ -48234,8 +48222,6 @@ k5zoom.com CNAME .
 *.k5zoom.com CNAME .
 k68tkg.com CNAME .
 *.k68tkg.com CNAME .
-k7u6lrk7ju8qo9nc18u.rest CNAME .
-*.k7u6lrk7ju8qo9nc18u.rest CNAME .
 k8.usefto.com CNAME .
 *.k8.usefto.com CNAME .
 k864.orovillemr.com CNAME .
@@ -88266,8 +88252,6 @@ vitiqbaajtbmd.site CNAME .
 *.vitiqbaajtbmd.site CNAME .
 vitqzd.icu CNAME .
 *.vitqzd.icu CNAME .
-vitricsensete.cyou CNAME .
-*.vitricsensete.cyou CNAME .
 vitrine.lugarcerto.com.br CNAME .
 *.vitrine.lugarcerto.com.br CNAME .
 viva.api.xiaoying.co CNAME .
