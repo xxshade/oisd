@@ -1,16 +1,16 @@
-; Version: 202511010324
+; Version: 202511010424
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40676
-; Last modified: 2025-11-01T03:24:55+0000
+; Entries: 40698
+; Last modified: 2025-11-01T04:24:01+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761966721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761970321 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -1034,6 +1034,8 @@ acoustifit.com CNAME .
 *.acoustifit.com CNAME .
 actieforum.com CNAME .
 *.actieforum.com CNAME .
+actif-soumis.com CNAME .
+*.actif-soumis.com CNAME .
 actionmatures.com CNAME .
 *.actionmatures.com CNAME .
 actionviewphotography.com CNAME .
@@ -1166,6 +1168,8 @@ adultchat.pro CNAME .
 *.adultchat.pro CNAME .
 adultchatdatingsites.com CNAME .
 *.adultchatdatingsites.com CNAME .
+adultchatnow.com CNAME .
+*.adultchatnow.com CNAME .
 adultclub.gr CNAME .
 *.adultclub.gr CNAME .
 adultcomixxx.com CNAME .
@@ -6918,6 +6922,8 @@ cnxx.me CNAME .
 *.cnxx.me CNAME .
 coc2arab.com CNAME .
 *.coc2arab.com CNAME .
+cocadoll.com CNAME .
+*.cocadoll.com CNAME .
 cockdude.com CNAME .
 *.cockdude.com CNAME .
 cockofhorse.com CNAME .
@@ -13180,6 +13186,8 @@ gofucker.net CNAME .
 *.gofucker.net CNAME .
 gofuckporn.com CNAME .
 *.gofuckporn.com CNAME .
+gogaytube.tv CNAME .
+*.gogaytube.tv CNAME .
 gogoasians.com CNAME .
 *.gogoasians.com CNAME .
 gogonu.com CNAME .
@@ -17472,6 +17480,8 @@ javsexxx.com CNAME .
 *.javsexxx.com CNAME .
 javshare.pro CNAME .
 *.javshare.pro CNAME .
+javshujin.com CNAME .
+*.javshujin.com CNAME .
 javsky.tv CNAME .
 *.javsky.tv CNAME .
 javstar.mobi CNAME .
@@ -20448,6 +20458,8 @@ maturepornb.com CNAME .
 *.maturepornb.com CNAME .
 maturepornpics.com CNAME .
 *.maturepornpics.com CNAME .
+maturepornq.com CNAME .
+*.maturepornq.com CNAME .
 matureporntubehd.com CNAME .
 *.matureporntubehd.com CNAME .
 maturepornv.com CNAME .
@@ -21538,6 +21550,8 @@ moreporn.club CNAME .
 *.moreporn.club CNAME .
 moresexvideo.com CNAME .
 *.moresexvideo.com CNAME .
+moresisek.com CNAME .
+*.moresisek.com CNAME .
 moreystudio.com CNAME .
 *.moreystudio.com CNAME .
 morofree.com CNAME .
@@ -28426,6 +28440,8 @@ ratedgross.com CNAME .
 *.ratedgross.com CNAME .
 ratemy.co CNAME .
 *.ratemy.co CNAME .
+ratemywand.com CNAME .
+*.ratemywand.com CNAME .
 ratx.com CNAME .
 *.ratx.com CNAME .
 ravenbayxxx.com CNAME .
@@ -29758,6 +29774,8 @@ senhorconteudo.com CNAME .
 *.senhorconteudo.com CNAME .
 senioras.com CNAME .
 *.senioras.com CNAME .
+seniorclub-rencontre.com CNAME .
+*.seniorclub-rencontre.com CNAME .
 seniorengeluk.nl CNAME .
 *.seniorengeluk.nl CNAME .
 seniorfriendfinder.com CNAME .
@@ -31724,6 +31742,8 @@ sick-r.com CNAME .
 *.sick-r.com CNAME .
 sickjunk.com CNAME .
 *.sickjunk.com CNAME .
+sierrascalientes.com CNAME .
+*.sierrascalientes.com CNAME .
 sieukhung.fan CNAME .
 *.sieukhung.fan CNAME .
 sihteeriopisto.com CNAME .
@@ -33548,6 +33568,8 @@ thaixxxporn.net CNAME .
 *.thaixxxporn.net CNAME .
 thaiyedthai2.com CNAME .
 *.thaiyedthai2.com CNAME .
+thanhlau2.cc CNAME .
+*.thanhlau2.cc CNAME .
 thatpervert.com CNAME .
 *.thatpervert.com CNAME .
 thayksada.com CNAME .
