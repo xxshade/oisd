@@ -1,16 +1,16 @@
-; Version: 202511011924
+; Version: 202511012023
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95746
-; Last modified: 2025-11-01T19:24:31+0000
+; Entries: 95722
+; Last modified: 2025-11-01T20:23:40+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762024322 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762027921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4094,8 +4094,6 @@ aabproxytests.top CNAME .
 *.aabproxytests.top CNAME .
 aabtestsproxydomain.top CNAME .
 *.aabtestsproxydomain.top CNAME .
-aacycjgsifojcw.com CNAME .
-*.aacycjgsifojcw.com CNAME .
 aaddzz.com CNAME .
 *.aaddzz.com CNAME .
 aadultwork.com CNAME .
@@ -14168,8 +14166,6 @@ audraghafamign.com CNAME .
 *.audraghafamign.com CNAME .
 auforau.com CNAME .
 *.auforau.com CNAME .
-auftukoojimsuz.com CNAME .
-*.auftukoojimsuz.com CNAME .
 augailou.com CNAME .
 *.augailou.com CNAME .
 augejoulser.net CNAME .
@@ -17952,8 +17948,6 @@ bowlsalb.click CNAME .
 *.bowlsalb.click CNAME .
 bowseryflora.click CNAME .
 *.bowseryflora.click CNAME .
-bowsingchilkat.click CNAME .
-*.bowsingchilkat.click CNAME .
 box.anchorfree.net CNAME .
 *.box.anchorfree.net CNAME .
 boxcartidalvoicing.com CNAME .
@@ -44594,8 +44588,6 @@ ifwgkkvmwxzgp.store CNAME .
 *.ifwgkkvmwxzgp.store CNAME .
 igbfwa.com CNAME .
 *.igbfwa.com CNAME .
-igcajssy.com CNAME .
-*.igcajssy.com CNAME .
 igcvczotebzhr.space CNAME .
 *.igcvczotebzhr.space CNAME .
 igdkxrljusxvt.space CNAME .
@@ -48568,8 +48560,6 @@ kgmikoqcisnib.site CNAME .
 *.kgmikoqcisnib.site CNAME .
 kgnejmrvvveri.website CNAME .
 *.kgnejmrvvveri.website CNAME .
-kgnphcpemzboc.website CNAME .
-*.kgnphcpemzboc.website CNAME .
 kgoj4nrhe.com CNAME .
 *.kgoj4nrhe.com CNAME .
 kgrjgmurqufiink.com CNAME .
@@ -49012,8 +49002,6 @@ knotbachelor.com CNAME .
 *.knotbachelor.com CNAME .
 knottestae.help CNAME .
 *.knottestae.help CNAME .
-knowbetnow.live CNAME .
-*.knowbetnow.live CNAME .
 knowd.com CNAME .
 *.knowd.com CNAME .
 knowens.com CNAME .
@@ -52396,8 +52384,6 @@ lostinfuture.com CNAME .
 *.lostinfuture.com CNAME .
 lotadversaryvolatile.com CNAME .
 *.lotadversaryvolatile.com CNAME .
-lotongfannell.digital CNAME .
-*.lotongfannell.digital CNAME .
 lotreal.com CNAME .
 *.lotreal.com CNAME .
 lottery.headlines.pw CNAME .
@@ -54612,8 +54598,6 @@ metrefluke.com CNAME .
 *.metrefluke.com CNAME .
 metreoutlet.com CNAME .
 *.metreoutlet.com CNAME .
-metretaunplan.cfd CNAME .
-*.metretaunplan.cfd CNAME .
 metric-api.newrelic.com CNAME .
 *.metric-api.newrelic.com CNAME .
 metric.huya.com CNAME .
@@ -60036,8 +60020,6 @@ ojheaitunlker.online CNAME .
 *.ojheaitunlker.online CNAME .
 ojizau.icu CNAME .
 *.ojizau.icu CNAME .
-ojjtjybigj.com CNAME .
-*.ojjtjybigj.com CNAME .
 ojokavacpkcjv.space CNAME .
 *.ojokavacpkcjv.space CNAME .
 ojonvpuqbtqul.site CNAME .
@@ -88190,8 +88172,6 @@ vjmrjomvjjrel.top CNAME .
 *.vjmrjomvjjrel.top CNAME .
 vjqefkvhrjyor.store CNAME .
 *.vjqefkvhrjyor.store CNAME .
-vjrfganpnqmn.com CNAME .
-*.vjrfganpnqmn.com CNAME .
 vjtbgysqkmngz.website CNAME .
 *.vjtbgysqkmngz.website CNAME .
 vjtpmzsmcwfko.online CNAME .
@@ -89380,8 +89360,6 @@ wdibwgllvzies.love CNAME .
 *.wdibwgllvzies.love CNAME .
 wdig.vo.llnwd.net CNAME .
 *.wdig.vo.llnwd.net CNAME .
-wdkodygkf.com CNAME .
-*.wdkodygkf.com CNAME .
 wdlltvftsokwy.space CNAME .
 *.wdlltvftsokwy.space CNAME .
 wdnqfnniorfbx.store CNAME .
@@ -91014,8 +90992,6 @@ wouvxlie.top CNAME .
 *.wouvxlie.top CNAME .
 wovufaobxkzie.online CNAME .
 *.wovufaobxkzie.online CNAME .
-wow-click.click CNAME .
-*.wow-click.click CNAME .
 wowconversions.com CNAME .
 *.wowconversions.com CNAME .
 wowrapidly.com CNAME .
