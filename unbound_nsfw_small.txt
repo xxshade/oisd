@@ -1,9 +1,9 @@
-# Version: 202511011326
+# Version: 202511011426
 # Title: oisd nsfw_small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 20427
-# Last modified: 2025-11-01T13:26:41+0000
+# Entries: 20435
+# Last modified: 2025-11-01T14:26:39+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1973,6 +1973,7 @@ local-zone: "beeg.works." always_null
 local-zone: "beeg24.org." always_null
 local-zone: "beegdesi.com." always_null
 local-zone: "beegfans.com." always_null
+local-zone: "beeghomosex.icu." always_null
 local-zone: "beeglivesex.com." always_null
 local-zone: "beegnow.net." always_null
 local-zone: "beegporn.video." always_null
@@ -3869,6 +3870,7 @@ local-zone: "dasistporno.com." always_null
 local-zone: "dasixnxc.com." always_null
 local-zone: "dastansexy.com." always_null
 local-zone: "data18.com." always_null
+local-zone: "datalinkek.com." always_null
 local-zone: "datamovs.com." always_null
 local-zone: "dateefy.com." always_null
 local-zone: "datehookup.dating." always_null
@@ -3877,6 +3879,7 @@ local-zone: "dateland.co.il." always_null
 local-zone: "datematchfree.com." always_null
 local-zone: "datemij.com." always_null
 local-zone: "datereviewers.com." always_null
+local-zone: "datesgern.com." always_null
 local-zone: "dateyou.com." always_null
 local-zone: "datezone.com." always_null
 local-zone: "dating-bisexual.com." always_null
@@ -4271,6 +4274,7 @@ local-zone: "dogporntube.site." always_null
 local-zone: "dogsex.club." always_null
 local-zone: "dogsexporn.net." always_null
 local-zone: "dogspics.net." always_null
+local-zone: "dojing.net." always_null
 local-zone: "dojinwatch.com." always_null
 local-zone: "dojki.biz." always_null
 local-zone: "dojki.lol." always_null
@@ -4862,6 +4866,7 @@ local-zone: "erovizor.top." always_null
 local-zone: "erovoice.us." always_null
 local-zone: "erowall.com." always_null
 local-zone: "eroxxxvids.cc." always_null
+local-zone: "erozone.com." always_null
 local-zone: "erozuna.com." always_null
 local-zone: "errio.net." always_null
 local-zone: "errotica-archives.com." always_null
@@ -5852,6 +5857,7 @@ local-zone: "freeroughporn.com." always_null
 local-zone: "freesafeporn.com." always_null
 local-zone: "freescatporntube.com." always_null
 local-zone: "freescountry.com." always_null
+local-zone: "freeservers.com." always_null
 local-zone: "freesex.cz." always_null
 local-zone: "freesex.pro." always_null
 local-zone: "freesexarab.com." always_null
@@ -6117,6 +6123,7 @@ local-zone: "fuqqt.com." always_null
 local-zone: "fuqster.com." always_null
 local-zone: "fuqstick.com." always_null
 local-zone: "furfling.com." always_null
+local-zone: "furious.com." always_null
 local-zone: "furry34.com." always_null
 local-zone: "fuskator.com." always_null
 local-zone: "fuskator.me." always_null
@@ -17428,6 +17435,7 @@ local-zone: "truyenc.com." always_null
 local-zone: "truyencogiaothao.info." always_null
 local-zone: "truyengay.net." always_null
 local-zone: "truyenhentai.win." always_null
+local-zone: "truyenhentai88.com." always_null
 local-zone: "truyenhentaivn.club." always_null
 local-zone: "truyenhentaiz.net." always_null
 local-zone: "truyensex.blog." always_null

@@ -1,16 +1,16 @@
-; Version: 202511011326
+; Version: 202511011426
 ; Title: oisd nsfw_small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 40854
-; Last modified: 2025-11-01T13:26:41+0000
+; Entries: 40870
+; Last modified: 2025-11-01T14:26:39+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762002721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762006321 86400 3600 604800 30
  NS localhost.
 007xf.com CNAME .
 *.007xf.com CNAME .
@@ -3938,6 +3938,8 @@ beegdesi.com CNAME .
 *.beegdesi.com CNAME .
 beegfans.com CNAME .
 *.beegfans.com CNAME .
+beeghomosex.icu CNAME .
+*.beeghomosex.icu CNAME .
 beeglivesex.com CNAME .
 *.beeglivesex.com CNAME .
 beegnow.net CNAME .
@@ -7730,6 +7732,8 @@ dastansexy.com CNAME .
 *.dastansexy.com CNAME .
 data18.com CNAME .
 *.data18.com CNAME .
+datalinkek.com CNAME .
+*.datalinkek.com CNAME .
 datamovs.com CNAME .
 *.datamovs.com CNAME .
 dateefy.com CNAME .
@@ -7746,6 +7750,8 @@ datemij.com CNAME .
 *.datemij.com CNAME .
 datereviewers.com CNAME .
 *.datereviewers.com CNAME .
+datesgern.com CNAME .
+*.datesgern.com CNAME .
 dateyou.com CNAME .
 *.dateyou.com CNAME .
 datezone.com CNAME .
@@ -8534,6 +8540,8 @@ dogsexporn.net CNAME .
 *.dogsexporn.net CNAME .
 dogspics.net CNAME .
 *.dogspics.net CNAME .
+dojing.net CNAME .
+*.dojing.net CNAME .
 dojinwatch.com CNAME .
 *.dojinwatch.com CNAME .
 dojki.biz CNAME .
@@ -9716,6 +9724,8 @@ erowall.com CNAME .
 *.erowall.com CNAME .
 eroxxxvids.cc CNAME .
 *.eroxxxvids.cc CNAME .
+erozone.com CNAME .
+*.erozone.com CNAME .
 erozuna.com CNAME .
 *.erozuna.com CNAME .
 errio.net CNAME .
@@ -11696,6 +11706,8 @@ freescatporntube.com CNAME .
 *.freescatporntube.com CNAME .
 freescountry.com CNAME .
 *.freescountry.com CNAME .
+freeservers.com CNAME .
+*.freeservers.com CNAME .
 freesex.cz CNAME .
 *.freesex.cz CNAME .
 freesex.pro CNAME .
@@ -12226,6 +12238,8 @@ fuqstick.com CNAME .
 *.fuqstick.com CNAME .
 furfling.com CNAME .
 *.furfling.com CNAME .
+furious.com CNAME .
+*.furious.com CNAME .
 furry34.com CNAME .
 *.furry34.com CNAME .
 fuskator.com CNAME .
@@ -34848,6 +34862,8 @@ truyengay.net CNAME .
 *.truyengay.net CNAME .
 truyenhentai.win CNAME .
 *.truyenhentai.win CNAME .
+truyenhentai88.com CNAME .
+*.truyenhentai88.com CNAME .
 truyenhentaivn.club CNAME .
 *.truyenhentaivn.club CNAME .
 truyenhentaiz.net CNAME .
