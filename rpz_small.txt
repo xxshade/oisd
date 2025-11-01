@@ -1,16 +1,16 @@
-; Version: 202511010921
+; Version: 202511011021
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95954
-; Last modified: 2025-11-01T09:21:51+0000
+; Entries: 95934
+; Last modified: 2025-11-01T10:21:02+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761988321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761991921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -13082,8 +13082,6 @@ apycdtdlkjqka.site CNAME .
 *.apycdtdlkjqka.site CNAME .
 apyqmsclrrslv.site CNAME .
 *.apyqmsclrrslv.site CNAME .
-apyqxsmhpwuotj.com CNAME .
-*.apyqxsmhpwuotj.com CNAME .
 apzgcipacpu.com CNAME .
 *.apzgcipacpu.com CNAME .
 aq2e.com CNAME .
@@ -25436,8 +25434,6 @@ cwchjisabnnmx.space CNAME .
 *.cwchjisabnnmx.space CNAME .
 cwchmb.com CNAME .
 *.cwchmb.com CNAME .
-cwelrgidh.com CNAME .
-*.cwelrgidh.com CNAME .
 cwmgdpescuqtc.space CNAME .
 *.cwmgdpescuqtc.space CNAME .
 cwpnnceaolies.global CNAME .
@@ -35032,8 +35028,6 @@ ewounddebi.com CNAME .
 *.ewounddebi.com CNAME .
 ewouwamsubsouvy.net CNAME .
 *.ewouwamsubsouvy.net CNAME .
-ewremaelholqz.online CNAME .
-*.ewremaelholqz.online CNAME .
 ewrerwe.s3m4m.lol CNAME .
 *.ewrerwe.s3m4m.lol CNAME .
 ewrrpuquc1.com CNAME .
@@ -37052,8 +37046,6 @@ fkehg.com CNAME .
 *.fkehg.com CNAME .
 fkesfg.com CNAME .
 *.fkesfg.com CNAME .
-fkhljkfwzekwfr.com CNAME .
-*.fkhljkfwzekwfr.com CNAME .
 fkjcuovnhzaaz.love CNAME .
 *.fkjcuovnhzaaz.love CNAME .
 fkjdiefz.icu CNAME .
@@ -45958,8 +45950,6 @@ interposedflickhip.com CNAME .
 *.interposedflickhip.com CNAME .
 interpretationairlinerdonation.com CNAME .
 *.interpretationairlinerdonation.com CNAME .
-interpretprogrammesmap.com CNAME .
-*.interpretprogrammesmap.com CNAME .
 interreklame.de CNAME .
 *.interreklame.de CNAME .
 interrogateallenboundless.com CNAME .
@@ -59040,8 +59030,6 @@ ntvpwpush.com CNAME .
 *.ntvpwpush.com CNAME .
 ntwrencesprin.org CNAME .
 *.ntwrencesprin.org CNAME .
-ntxviewsinterfu.info CNAME .
-*.ntxviewsinterfu.info CNAME .
 ntyivmvvzscaj.store CNAME .
 *.ntyivmvvzscaj.store CNAME .
 nuamhmoviliol.online CNAME .
@@ -59816,8 +59804,6 @@ oelhofejacqod.website CNAME .
 *.oelhofejacqod.website CNAME .
 oempafnyfiexpe.com CNAME .
 *.oempafnyfiexpe.com CNAME .
-oenlqnoljqljsg.com CNAME .
-*.oenlqnoljqljsg.com CNAME .
 oepahvkqvihnh.space CNAME .
 *.oepahvkqvihnh.space CNAME .
 oepttrroizcak.online CNAME .
@@ -70626,8 +70612,6 @@ rsapanhtopcqf.website CNAME .
 *.rsapanhtopcqf.website CNAME .
 rsationhesaidnda.com CNAME .
 *.rsationhesaidnda.com CNAME .
-rscilnmkkfbl.com CNAME .
-*.rscilnmkkfbl.com CNAME .
 rsd.viagrahtabs.shop CNAME .
 *.rsd.viagrahtabs.shop CNAME .
 rsdemiwujbubj.store CNAME .
@@ -74324,8 +74308,6 @@ shedwriterantler.com CNAME .
 *.shedwriterantler.com CNAME .
 sheecmimty.net CNAME .
 *.sheecmimty.net CNAME .
-sheeheetchonsom.net CNAME .
-*.sheeheetchonsom.net CNAME .
 sheep.littleboat.digital CNAME .
 *.sheep.littleboat.digital CNAME .
 sheep.peterfowler.com CNAME .
@@ -91394,8 +91376,6 @@ wsapi.master.live CNAME .
 *.wsapi.master.live CNAME .
 wsbxfiqahxjhf.top CNAME .
 *.wsbxfiqahxjhf.top CNAME .
-wscplilctlt.com CNAME .
-*.wscplilctlt.com CNAME .
 wsentativesathya.org CNAME .
 *.wsentativesathya.org CNAME .
 wsfhouubbqacd.online CNAME .
