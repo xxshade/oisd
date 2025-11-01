@@ -1,16 +1,16 @@
-; Version: 202511010321
+; Version: 202511010420
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95924
-; Last modified: 2025-11-01T03:21:16+0000
+; Entries: 95908
+; Last modified: 2025-11-01T04:20:16+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761966721 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1761970321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -32746,8 +32746,6 @@ ec18fgdpv3.com CNAME .
 *.ec18fgdpv3.com CNAME .
 ec2-44-233-143-239.us-west-2.compute.amazonaws.com CNAME .
 *.ec2-44-233-143-239.us-west-2.compute.amazonaws.com CNAME .
-ec257deba1.com CNAME .
-*.ec257deba1.com CNAME .
 ec2a251e2d.085454ad87.com CNAME .
 *.ec2a251e2d.085454ad87.com CNAME .
 ec49775bc5.com CNAME .
@@ -36064,8 +36062,6 @@ fedim.site CNAME .
 *.fedim.site CNAME .
 fedirresponsibilityface.com CNAME .
 *.fedirresponsibilityface.com CNAME .
-fedot.site CNAME .
-*.fedot.site CNAME .
 fedvdikxaazlp.space CNAME .
 *.fedvdikxaazlp.space CNAME .
 fedykr.com CNAME .
@@ -53514,8 +53510,6 @@ maintopkurku.qpon CNAME .
 *.maintopkurku.qpon CNAME .
 maio.jp CNAME .
 *.maio.jp CNAME .
-maitaiguph.com CNAME .
-*.maitaiguph.com CNAME .
 maithigloab.net CNAME .
 *.maithigloab.net CNAME .
 maiwbisqgsdzn.website CNAME .
@@ -54894,8 +54888,6 @@ mfbvgcjkqpxup.xyz CNAME .
 *.mfbvgcjkqpxup.xyz CNAME .
 mfdaudubon.com CNAME .
 *.mfdaudubon.com CNAME .
-mfftbblsjilnb.space CNAME .
-*.mfftbblsjilnb.space CNAME .
 mfhxz0hz7.com CNAME .
 *.mfhxz0hz7.com CNAME .
 mfkfkhfhmfkfkhfh.top CNAME .
@@ -59408,8 +59400,6 @@ oabaubsutha.com CNAME .
 *.oabaubsutha.com CNAME .
 oacameawwxibl.website CNAME .
 *.oacameawwxibl.website CNAME .
-oackoaleftoghat.net CNAME .
-*.oackoaleftoghat.net CNAME .
 oadehibut.xyz CNAME .
 *.oadehibut.xyz CNAME .
 oaevgrhpiytej.website CNAME .
@@ -67736,8 +67726,6 @@ qxqsrwtzxbpae.store CNAME .
 *.qxqsrwtzxbpae.store CNAME .
 qxrbu.com CNAME .
 *.qxrbu.com CNAME .
-qxulivdhq.com CNAME .
-*.qxulivdhq.com CNAME .
 qxwls.rocks CNAME .
 *.qxwls.rocks CNAME .
 qxwoiv.com CNAME .
@@ -75904,8 +75892,6 @@ sopr-api.cian.ru CNAME .
 *.sopr-api.cian.ru CNAME .
 soqitntsrxvio.website CNAME .
 *.soqitntsrxvio.website CNAME .
-sorasbyon.rest CNAME .
-*.sorasbyon.rest CNAME .
 sorbetbungler.com CNAME .
 *.sorbetbungler.com CNAME .
 sorbetscarnal.digital CNAME .
@@ -91546,8 +91532,6 @@ www5.oss-cn-hangzhou.aliyuncs.com CNAME .
 *.www5.oss-cn-hangzhou.aliyuncs.com CNAME .
 www6.freeanimesource.com CNAME .
 *.www6.freeanimesource.com CNAME .
-www6.hentai-zone.com CNAME .
-*.www6.hentai-zone.com CNAME .
 www7.erogegames.com CNAME .
 *.www7.erogegames.com CNAME .
 www7.erogewiki.com CNAME .
