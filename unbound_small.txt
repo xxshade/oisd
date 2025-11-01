@@ -1,9 +1,9 @@
-# Version: 202511011422
+# Version: 202511011523
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47928
-# Last modified: 2025-11-01T14:22:23+0000
+# Entries: 47917
+# Last modified: 2025-11-01T15:23:17+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -2186,7 +2186,6 @@ local-zone: "abjpilgpouqhm.website." always_null
 local-zone: "abjvzpgzbrbyn.space." always_null
 local-zone: "abkajbvlykeam.top." always_null
 local-zone: "abkajbvlykemj.top." always_null
-local-zone: "abkajbvlykkkw.top." always_null
 local-zone: "abkajbvlymjor.top." always_null
 local-zone: "abkajbvlymqmb.top." always_null
 local-zone: "abkajbvozmrkv.top." always_null
@@ -15256,7 +15255,6 @@ local-zone: "dlohjhkldludr.space." always_null
 local-zone: "dlooqrhebkjoh.cloudfront.net." always_null
 local-zone: "dlp4luwpus5kr.cloudfront.net." always_null
 local-zone: "dlqbioenjjwsv.store." always_null
-local-zone: "dlqysest.com." always_null
 local-zone: "dlrioxg1637dk.cloudfront.net." always_null
 local-zone: "dls-ddc.dqa.samsung.com." always_null
 local-zone: "dls2s.appsflyer.com." always_null
@@ -20007,7 +20005,6 @@ local-zone: "gmkbgpjflkxvm.space." always_null
 local-zone: "gml-grp.com." always_null
 local-zone: "gmlamcnuydabl.site." always_null
 local-zone: "gmmxpyzumnqaa.store." always_null
-local-zone: "gmokweuga.com." always_null
 local-zone: "gmossp-sp.jp." always_null
 local-zone: "gmpustyzebuow.store." always_null
 local-zone: "gmsizwxqspypi.space." always_null
@@ -21285,7 +21282,6 @@ local-zone: "hfdfyrqj-ws.club." always_null
 local-zone: "hfdrgnarmwzsy.space." always_null
 local-zone: "hfeoeekkncvic.store." always_null
 local-zone: "hffxc.com." always_null
-local-zone: "hfhppxseee.com." always_null
 local-zone: "hfidbfjk.com." always_null
 local-zone: "hfisngksng.com." always_null
 local-zone: "hfkncj-qalcg.top." always_null
@@ -24101,7 +24097,6 @@ local-zone: "jzqbyykbrrbkq.top." always_null
 local-zone: "jzqbyykbrrklw.top." always_null
 local-zone: "jzqscvqlgasxh.buzz." always_null
 local-zone: "jzrmxnvcniwmj.online." always_null
-local-zone: "jzrvtgzcssxig.online." always_null
 local-zone: "jztwidpixa.icu." always_null
 local-zone: "jzvwawvqawrrb.top." always_null
 local-zone: "jzxouwszeyhrq.online." always_null
@@ -25262,7 +25257,6 @@ local-zone: "lfstmedia.com." always_null
 local-zone: "lftcph.icu." always_null
 local-zone: "lfwieehqopggy.website." always_null
 local-zone: "lfxgbzxkfqhiy.space." always_null
-local-zone: "lfyetkise.com." always_null
 local-zone: "lfzibowrxoftr.online." always_null
 local-zone: "lg.lotus.vn." always_null
 local-zone: "lg0lh2qfj4.com." always_null
@@ -27556,7 +27550,6 @@ local-zone: "mimicdivineconstable.com." always_null
 local-zone: "mimicromax.com." always_null
 local-zone: "mimilcnf.pro." always_null
 local-zone: "miminereffed.help." always_null
-local-zone: "mimmestbrince.digital." always_null
 local-zone: "mincxhboupoee.space." always_null
 local-zone: "mindedenhance.com." always_null
 local-zone: "mindedonly.com." always_null
@@ -32361,7 +32354,6 @@ local-zone: "pouffematzot.cyou." always_null
 local-zone: "pouhwpuqcutlc.online." always_null
 local-zone: "poumaugovoboa.net." always_null
 local-zone: "pouncetusk.com." always_null
-local-zone: "poundswhammo.rest." always_null
 local-zone: "pourbaiser.com." always_null
 local-zone: "poureddecree.com." always_null
 local-zone: "pouredtrunk.com." always_null
@@ -37156,7 +37148,6 @@ local-zone: "shhh.lol." always_null
 local-zone: "shield.knowt.com." always_null
 local-zone: "shieldsherders.click." always_null
 local-zone: "shigao.icu." always_null
-local-zone: "shimeebsopheept.net." always_null
 local-zone: "shimmering-concept.pro." always_null
 local-zone: "shimmering-spot.com." always_null
 local-zone: "shimmeringconcert.com." always_null
@@ -41301,7 +41292,6 @@ local-zone: "tpmedia.online." always_null
 local-zone: "tpn134.com." always_null
 local-zone: "tpnads.com." always_null
 local-zone: "tpoqbkqesgoig.one." always_null
-local-zone: "tpplfjgidxpzc.store." always_null
 local-zone: "tps.trovaprezzi.it." always_null
 local-zone: "tpstelemetry.tencent.com." always_null
 local-zone: "tpubwzwrhdcst.store." always_null
@@ -45004,7 +44994,6 @@ local-zone: "wgdmxncvikpcc.fun." always_null
 local-zone: "wgexsktozbmrx.online." always_null
 local-zone: "wghaqpnupaxmj.space." always_null
 local-zone: "wgmenxpvnxnbs.space." always_null
-local-zone: "wgmnhecxa.com." always_null
 local-zone: "wgoto.xyz." always_null
 local-zone: "wgvmzdmasfoyu.store." always_null
 local-zone: "wgvqa.club." always_null

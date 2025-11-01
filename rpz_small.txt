@@ -1,16 +1,16 @@
-; Version: 202511011422
+; Version: 202511011523
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95856
-; Last modified: 2025-11-01T14:22:23+0000
+; Entries: 95834
+; Last modified: 2025-11-01T15:23:17+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762006321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762009921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -4364,8 +4364,6 @@ abkajbvlykeam.top CNAME .
 *.abkajbvlykeam.top CNAME .
 abkajbvlykemj.top CNAME .
 *.abkajbvlykemj.top CNAME .
-abkajbvlykkkw.top CNAME .
-*.abkajbvlykkkw.top CNAME .
 abkajbvlymjor.top CNAME .
 *.abkajbvlymjor.top CNAME .
 abkajbvlymqmb.top CNAME .
@@ -30504,8 +30502,6 @@ dlp4luwpus5kr.cloudfront.net CNAME .
 *.dlp4luwpus5kr.cloudfront.net CNAME .
 dlqbioenjjwsv.store CNAME .
 *.dlqbioenjjwsv.store CNAME .
-dlqysest.com CNAME .
-*.dlqysest.com CNAME .
 dlrioxg1637dk.cloudfront.net CNAME .
 *.dlrioxg1637dk.cloudfront.net CNAME .
 dls-ddc.dqa.samsung.com CNAME .
@@ -40006,8 +40002,6 @@ gmlamcnuydabl.site CNAME .
 *.gmlamcnuydabl.site CNAME .
 gmmxpyzumnqaa.store CNAME .
 *.gmmxpyzumnqaa.store CNAME .
-gmokweuga.com CNAME .
-*.gmokweuga.com CNAME .
 gmossp-sp.jp CNAME .
 *.gmossp-sp.jp CNAME .
 gmpustyzebuow.store CNAME .
@@ -42562,8 +42556,6 @@ hfeoeekkncvic.store CNAME .
 *.hfeoeekkncvic.store CNAME .
 hffxc.com CNAME .
 *.hffxc.com CNAME .
-hfhppxseee.com CNAME .
-*.hfhppxseee.com CNAME .
 hfidbfjk.com CNAME .
 *.hfidbfjk.com CNAME .
 hfisngksng.com CNAME .
@@ -48194,8 +48186,6 @@ jzqscvqlgasxh.buzz CNAME .
 *.jzqscvqlgasxh.buzz CNAME .
 jzrmxnvcniwmj.online CNAME .
 *.jzrmxnvcniwmj.online CNAME .
-jzrvtgzcssxig.online CNAME .
-*.jzrvtgzcssxig.online CNAME .
 jztwidpixa.icu CNAME .
 *.jztwidpixa.icu CNAME .
 jzvwawvqawrrb.top CNAME .
@@ -50516,8 +50506,6 @@ lfwieehqopggy.website CNAME .
 *.lfwieehqopggy.website CNAME .
 lfxgbzxkfqhiy.space CNAME .
 *.lfxgbzxkfqhiy.space CNAME .
-lfyetkise.com CNAME .
-*.lfyetkise.com CNAME .
 lfzibowrxoftr.online CNAME .
 *.lfzibowrxoftr.online CNAME .
 lg.lotus.vn CNAME .
@@ -55104,8 +55092,6 @@ mimilcnf.pro CNAME .
 *.mimilcnf.pro CNAME .
 miminereffed.help CNAME .
 *.miminereffed.help CNAME .
-mimmestbrince.digital CNAME .
-*.mimmestbrince.digital CNAME .
 mincxhboupoee.space CNAME .
 *.mincxhboupoee.space CNAME .
 mindedenhance.com CNAME .
@@ -64714,8 +64700,6 @@ poumaugovoboa.net CNAME .
 *.poumaugovoboa.net CNAME .
 pouncetusk.com CNAME .
 *.pouncetusk.com CNAME .
-poundswhammo.rest CNAME .
-*.poundswhammo.rest CNAME .
 pourbaiser.com CNAME .
 *.pourbaiser.com CNAME .
 poureddecree.com CNAME .
@@ -74304,8 +74288,6 @@ shieldsherders.click CNAME .
 *.shieldsherders.click CNAME .
 shigao.icu CNAME .
 *.shigao.icu CNAME .
-shimeebsopheept.net CNAME .
-*.shimeebsopheept.net CNAME .
 shimmering-concept.pro CNAME .
 *.shimmering-concept.pro CNAME .
 shimmering-spot.com CNAME .
@@ -82594,8 +82576,6 @@ tpnads.com CNAME .
 *.tpnads.com CNAME .
 tpoqbkqesgoig.one CNAME .
 *.tpoqbkqesgoig.one CNAME .
-tpplfjgidxpzc.store CNAME .
-*.tpplfjgidxpzc.store CNAME .
 tps.trovaprezzi.it CNAME .
 *.tps.trovaprezzi.it CNAME .
 tpstelemetry.tencent.com CNAME .
@@ -90000,8 +89980,6 @@ wghaqpnupaxmj.space CNAME .
 *.wghaqpnupaxmj.space CNAME .
 wgmenxpvnxnbs.space CNAME .
 *.wgmenxpvnxnbs.space CNAME .
-wgmnhecxa.com CNAME .
-*.wgmnhecxa.com CNAME .
 wgoto.xyz CNAME .
 *.wgoto.xyz CNAME .
 wgvmzdmasfoyu.store CNAME .
