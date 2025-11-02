@@ -1,16 +1,16 @@
-; Version: 202511020018
+; Version: 202511020121
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95832
-; Last modified: 2025-11-02T00:18:27+0000
+; Entries: 95816
+; Last modified: 2025-11-02T01:21:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762042321 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762045921 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -3614,8 +3614,6 @@ a.brilmaver.com CNAME .
 *.a.brilmaver.com CNAME .
 a.cant3am.com CNAME .
 *.a.cant3am.com CNAME .
-a.cemir.site CNAME .
-*.a.cemir.site CNAME .
 a.centrum.cz CNAME .
 *.a.centrum.cz CNAME .
 a.clickintact.com CNAME .
@@ -44290,8 +44288,6 @@ ibidemkorari.com CNAME .
 *.ibidemkorari.com CNAME .
 ibikini.cyou CNAME .
 *.ibikini.cyou CNAME .
-ibilaocimline.click CNAME .
-*.ibilaocimline.click CNAME .
 ibmwqchwzvlmd.online CNAME .
 *.ibmwqchwzvlmd.online CNAME .
 ibnxviddjsqgq.store CNAME .
@@ -47510,8 +47506,6 @@ jovqyymemwrob.top CNAME .
 *.jovqyymemwrob.top CNAME .
 jovqyyqvvmwzj.top CNAME .
 *.jovqyyqvvmwzj.top CNAME .
-jowfefzzbovee.online CNAME .
-*.jowfefzzbovee.online CNAME .
 jowkkzx.icu CNAME .
 *.jowkkzx.icu CNAME .
 jowlishdiviner.com CNAME .
@@ -51342,6 +51336,8 @@ loader.netzwelt.de CNAME .
 *.loader.netzwelt.de CNAME .
 loader.nyitvatartas24.hu CNAME .
 *.loader.nyitvatartas24.hu CNAME .
+loader.oraridiapertura24.it CNAME .
+*.loader.oraridiapertura24.it CNAME .
 loader.the-crossword-solver.com CNAME .
 *.loader.the-crossword-solver.com CNAME .
 loader.word-grabber.com CNAME .
@@ -56626,8 +56622,6 @@ mundanesilly.com CNAME .
 *.mundanesilly.com CNAME .
 munilf.com CNAME .
 *.munilf.com CNAME .
-munnionlungful.qpon CNAME .
-*.munnionlungful.qpon CNAME .
 munqb.xyz CNAME .
 *.munqb.xyz CNAME .
 munvouch.cyou CNAME .
@@ -64694,8 +64688,6 @@ pouffematzot.cyou CNAME .
 *.pouffematzot.cyou CNAME .
 pouhwpuqcutlc.online CNAME .
 *.pouhwpuqcutlc.online CNAME .
-poumaugovoboa.net CNAME .
-*.poumaugovoboa.net CNAME .
 pouncetusk.com CNAME .
 *.pouncetusk.com CNAME .
 pourbaiser.com CNAME .
@@ -67870,8 +67862,6 @@ rabc1.iteye.com CNAME .
 *.rabc1.iteye.com CNAME .
 rabidlypeppin.rest CNAME .
 *.rabidlypeppin.rest CNAME .
-rabnysxbjbdlri.com CNAME .
-*.rabnysxbjbdlri.com CNAME .
 rac.ruutu.fi CNAME .
 *.rac.ruutu.fi CNAME .
 raccoon.jaronheard.com CNAME .
@@ -69554,8 +69544,6 @@ revlt.be CNAME .
 *.revlt.be CNAME .
 revoke1266.fun CNAME .
 *.revoke1266.fun CNAME .
-revokejav128.fun CNAME .
-*.revokejav128.fun CNAME .
 revolutionary2.fun CNAME .
 *.revolutionary2.fun CNAME .
 revolvetrampot.cyou CNAME .
@@ -84698,8 +84686,6 @@ ttwmed.com CNAME .
 *.ttwmed.com CNAME .
 ttxjnt.icu CNAME .
 *.ttxjnt.icu CNAME .
-ttybii2j4yigrpwro9ug.rest CNAME .
-*.ttybii2j4yigrpwro9ug.rest CNAME .
 ttyqsbjkbuxyp.online CNAME .
 *.ttyqsbjkbuxyp.online CNAME .
 ttzmedia.com CNAME .
@@ -95810,8 +95796,6 @@ zyns.com CNAME .
 *.zyns.com CNAME .
 zypenetwork.com CNAME .
 *.zypenetwork.com CNAME .
-zyrelolbbqalb.top CNAME .
-*.zyrelolbbqalb.top CNAME .
 zyusywfejzbya.fun CNAME .
 *.zyusywfejzbya.fun CNAME .
 zyvlvbtnyixyx.online CNAME .

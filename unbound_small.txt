@@ -1,9 +1,9 @@
-# Version: 202511020018
+# Version: 202511020121
 # Title: oisd small
 # Description: Block. Don't break.
 # Syntax: Unbound
-# Entries: 47916
-# Last modified: 2025-11-02T00:18:27+0000
+# Entries: 47908
+# Last modified: 2025-11-02T01:21:27+0000
 # Expires: 1 hours
 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 # Maintainer: Stephan van Ruth
@@ -1811,7 +1811,6 @@ local-zone: "a.boyjackpot.com." always_null
 local-zone: "a.brack.ch." always_null
 local-zone: "a.brilmaver.com." always_null
 local-zone: "a.cant3am.com." always_null
-local-zone: "a.cemir.site." always_null
 local-zone: "a.centrum.cz." always_null
 local-zone: "a.clickintact.com." always_null
 local-zone: "a.coinhub.wiki." always_null
@@ -22149,7 +22148,6 @@ local-zone: "iberismnuntius.com." always_null
 local-zone: "ibgyfspqfazkw.website." always_null
 local-zone: "ibidemkorari.com." always_null
 local-zone: "ibikini.cyou." always_null
-local-zone: "ibilaocimline.click." always_null
 local-zone: "ibmwqchwzvlmd.online." always_null
 local-zone: "ibnxviddjsqgq.store." always_null
 local-zone: "ibqemk.icu." always_null
@@ -23759,7 +23757,6 @@ local-zone: "jouwaikekaivep.net." always_null
 local-zone: "jovial-training.pro." always_null
 local-zone: "jovqyymemwrob.top." always_null
 local-zone: "jovqyyqvvmwzj.top." always_null
-local-zone: "jowfefzzbovee.online." always_null
 local-zone: "jowkkzx.icu." always_null
 local-zone: "jowlishdiviner.com." always_null
 local-zone: "jowqcaxfctoob.online." always_null
@@ -25675,6 +25672,7 @@ local-zone: "loader.crosswordsolver.com." always_null
 local-zone: "loader.motor-talk.de." always_null
 local-zone: "loader.netzwelt.de." always_null
 local-zone: "loader.nyitvatartas24.hu." always_null
+local-zone: "loader.oraridiapertura24.it." always_null
 local-zone: "loader.the-crossword-solver.com." always_null
 local-zone: "loader.word-grabber.com." always_null
 local-zone: "loader.worldhistory.org." always_null
@@ -28317,7 +28315,6 @@ local-zone: "munchkin.marketo.net." always_null
 local-zone: "munchoicks.shop." always_null
 local-zone: "mundanesilly.com." always_null
 local-zone: "munilf.com." always_null
-local-zone: "munnionlungful.qpon." always_null
 local-zone: "munqb.xyz." always_null
 local-zone: "munvouch.cyou." always_null
 local-zone: "mupicuxmrmpvh.online." always_null
@@ -32351,7 +32348,6 @@ local-zone: "potwm.com." always_null
 local-zone: "poudrinnamaste.com." always_null
 local-zone: "pouffematzot.cyou." always_null
 local-zone: "pouhwpuqcutlc.online." always_null
-local-zone: "poumaugovoboa.net." always_null
 local-zone: "pouncetusk.com." always_null
 local-zone: "pourbaiser.com." always_null
 local-zone: "poureddecree.com." always_null
@@ -33939,7 +33935,6 @@ local-zone: "rabbit.radicalxchange.org." always_null
 local-zone: "rabbit.upwardhomes.net." always_null
 local-zone: "rabc1.iteye.com." always_null
 local-zone: "rabidlypeppin.rest." always_null
-local-zone: "rabnysxbjbdlri.com." always_null
 local-zone: "rac.ruutu.fi." always_null
 local-zone: "raccoon.jaronheard.com." always_null
 local-zone: "racedinvict.com." always_null
@@ -34781,7 +34776,6 @@ local-zone: "revive.ahk.de." always_null
 local-zone: "revive.worldscreen.com." always_null
 local-zone: "revlt.be." always_null
 local-zone: "revoke1266.fun." always_null
-local-zone: "revokejav128.fun." always_null
 local-zone: "revolutionary2.fun." always_null
 local-zone: "revolvetrampot.cyou." always_null
 local-zone: "revolvingemergency.com." always_null
@@ -42353,7 +42347,6 @@ local-zone: "ttus.tructiepbongda.me." always_null
 local-zone: "ttusrifbdjqay.online." always_null
 local-zone: "ttwmed.com." always_null
 local-zone: "ttxjnt.icu." always_null
-local-zone: "ttybii2j4yigrpwro9ug.rest." always_null
 local-zone: "ttyqsbjkbuxyp.online." always_null
 local-zone: "ttzmedia.com." always_null
 local-zone: "tuaos.xyz." always_null
@@ -47909,7 +47902,6 @@ local-zone: "zynewaylxyxex.buzz." always_null
 local-zone: "zynnrgeptfjhg.online." always_null
 local-zone: "zyns.com." always_null
 local-zone: "zypenetwork.com." always_null
-local-zone: "zyrelolbbqalb.top." always_null
 local-zone: "zyusywfejzbya.fun." always_null
 local-zone: "zyvlvbtnyixyx.online." always_null
 local-zone: "zyxbltkkgkmon.site." always_null
