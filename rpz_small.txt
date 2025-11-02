@@ -1,16 +1,16 @@
-; Version: 202511012322
+; Version: 202511020018
 ; Title: oisd small
 ; Description: Block. Don't break.
 ; Syntax: Response Policy Zone
-; Entries: 95846
-; Last modified: 2025-11-01T23:22:46+0000
+; Entries: 95832
+; Last modified: 2025-11-02T00:18:27+0000
 ; Expires: 1 hours
 ; License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ; Maintainer: Stephan van Ruth
 ; Homepage: https://oisd.nl
 
 $TTL 30
-@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762038722 86400 3600 604800 30
+@ IN SOA rpz.oisd.nl. hostmaster.rpz.oisd.nl. 1762042321 86400 3600 604800 30
  NS localhost.
 0-02.net CNAME .
 *.0-02.net CNAME .
@@ -18422,8 +18422,6 @@ bruiseentrustcarbonate.com CNAME .
 *.bruiseentrustcarbonate.com CNAME .
 brumousrocolo.com CNAME .
 *.brumousrocolo.com CNAME .
-brunchcreatesenses.com CNAME .
-*.brunchcreatesenses.com CNAME .
 brunetteeffaceduring.com CNAME .
 *.brunetteeffaceduring.com CNAME .
 brunettemattersrefused.com CNAME .
@@ -28234,8 +28232,6 @@ dafgdmabrnjnk.store CNAME .
 *.dafgdmabrnjnk.store CNAME .
 dagabaapolar.qpon CNAME .
 *.dagabaapolar.qpon CNAME .
-dagassapereion.com CNAME .
-*.dagassapereion.com CNAME .
 dagd0kz7sipfl.cloudfront.net CNAME .
 *.dagd0kz7sipfl.cloudfront.net CNAME .
 daggleesprove.click CNAME .
@@ -31432,8 +31428,6 @@ dreyeli.info CNAME .
 *.dreyeli.info CNAME .
 drf8e429z5jzt.cloudfront.net CNAME .
 *.drf8e429z5jzt.cloudfront.net CNAME .
-drhtaevoalgbx.website CNAME .
-*.drhtaevoalgbx.website CNAME .
 dribbleads.com CNAME .
 *.dribbleads.com CNAME .
 drient.xyz CNAME .
@@ -46050,8 +46044,6 @@ iokyzmpkwtepa.space CNAME .
 *.iokyzmpkwtepa.space CNAME .
 iomlsfqgvugaf.space CNAME .
 *.iomlsfqgvugaf.space CNAME .
-iomnqhzj.com CNAME .
-*.iomnqhzj.com CNAME .
 ionakasulba.org CNAME .
 *.ionakasulba.org CNAME .
 ionigravida.com CNAME .
@@ -52580,8 +52572,6 @@ lqbvjmkoomerm.top CNAME .
 *.lqbvjmkoomerm.top CNAME .
 lqbvjmkoozmry.top CNAME .
 *.lqbvjmkoozmry.top CNAME .
-lqbvjmkwemolq.top CNAME .
-*.lqbvjmkwemolq.top CNAME .
 lqbvjmkwemrlr.top CNAME .
 *.lqbvjmkwemrlr.top CNAME .
 lqbzvayejmkk.top CNAME .
@@ -69608,8 +69598,6 @@ rexsrv.com CNAME .
 *.rexsrv.com CNAME .
 reymvmqvkavyy.top CNAME .
 *.reymvmqvkavyy.top CNAME .
-reypelis.tv CNAME .
-*.reypelis.tv CNAME .
 rezrboabevzmj.top CNAME .
 *.rezrboabevzmj.top CNAME .
 rezrboarmmqmv.top CNAME .
@@ -87606,8 +87594,6 @@ venueexpanded.com CNAME .
 *.venueexpanded.com CNAME .
 venueitemmagic.com CNAME .
 *.venueitemmagic.com CNAME .
-venulaeriggite.com CNAME .
-*.venulaeriggite.com CNAME .
 venusfritter.com CNAME .
 *.venusfritter.com CNAME .
 veodccuvtympn.space CNAME .
